@@ -7,6 +7,8 @@ time.is#官方优选
 icook.hk#官方优选
 icook.tw#官方优选
 cdnjs.com#cdnjs
+geizhals.at#geizhals
+www.fossil.com#fossil
 104.16.146.76
 104.16.33.5
 104.16.24.88
