@@ -1,100 +1,38 @@
-47.242.171.138:37021#HongKongHongKong
-8.218.245.116:41528#HongKongHongKong
-47.57.13.107:443#HongKongHongKong
-47.76.218.163:443#HongKongHongKong
-124.244.92.109:25203#HongKongKowloonCity
-192.243.127.224:443#JapanOsaka
-43.132.244.52:21415#HongKongHong-kong
-43.133.10.236:33405#JapanTokyo
-132.145.126.40:32498#JapanTokyo
-168.138.184.172:443#SingaporeSingapore
-45.32.100.46:13802#SingaporeSingapore
-103.232.213.117:8080#JapanTokyo
-213.35.100.31:47112#SingaporeSingapore
-131.186.63.89:11655#JapanTokyo
-45.77.25.6:48828#JapanHeiwajima
-45.76.198.248:443#JapanMinamishinagawa
-141.147.178.249:37043#JapanTokyo
-210.61.97.241:81#TaiwanPingzhen
-219.117.2.190:48401#JapanShimorenjaku
-188.253.6.53:25884#TaiwanTaipei
-158.101.152.6:2919#JapanTokyo
-140.238.62.82:1443#JapanTokyo
-150.230.204.21:10243#JapanTokyo
-156.154.245.83:443#UnitedStatesHerndon
-146.235.18.248:45137#SingaporeSingapore
-175.208.202.41:20583#SouthKoreaSongpa-gu
-27.100.189.152:50000#SouthKoreaJejuCity
-8.219.59.132:48130#SingaporeSingapore
-38.180.28.163:8443#JapanShibuyaCity
-192.252.182.52:7602#HongKongHongKong
-219.117.2.190:57517#JapanShimorenjaku
-138.3.222.124:46209#JapanTokyo
-147.45.197.119:443#GermanyFrankfurtamMain
-13.250.131.37:443#SingaporeSingapore
-198.13.42.58:32954#JapanMinamishinagawa
-38.60.193.247:13300#MalaysiaKualaLumpur
-38.180.28.163:2053#JapanShibuyaCity
-218.154.22.99:50000#SouthKoreaGuro-gu
-194.58.33.218:443#GermanyFrankfurtamMain
-103.106.228.126:2053#JapanTokyo
-125.130.15.106:27879#SouthKoreaSuwon
-115.40.244.240:12696#SouthKoreaGoseong-gun
-37.1.207.228:443#TheNetherlandsAmsterdam
-185.92.74.88:443#UnitedKingdomLondon
-211.227.43.208:30058#SouthKoreaGoyang-si
-124.216.60.169:11804#SouthKoreaJung-gu
-222.106.126.224:50000#SouthKoreaGangdong-gu
-194.28.225.2:443#GermanyFrankfurtamMain
-43.154.124.136:26666#HongKongHong-kong
-138.2.10.217:27446#JapanTokyo
-185.18.222.208:2053#JapanTokyo
-8.222.220.81:25435#SingaporeSingapore
-38.180.85.203:443#SwitzerlandBern
-125.130.15.106:20280#SouthKoreaSuwon
-89.42.142.95:8443#TheNetherlandsMeppel
-45.76.183.217:49292#SingaporeSingapore
-91.103.253.193:443#TheNetherlandsAmsterdam
-195.226.194.222:2053#TheNetherlandsAmsterdam
-147.45.69.24:443#TheNetherlandsAmsterdam
-188.116.26.216:443#TheNetherlandsAmsterdam
-181.41.194.176:15565#TheNetherlandsAmsterdam
-168.138.198.7:27560#JapanTokyo
-2.59.183.219:443#TheNetherlandsMeppel
-5.255.120.214:8443#TheNetherlandsDronten
-185.126.225.58:443#TheNetherlandsAmsterdam
-185.247.184.186:2053#ItalyMilan
-103.90.75.141:2053#TheNetherlandsAmsterdam
-213.183.59.144:8443#TheNetherlandsAmsterdam
-5.45.95.134:8443#TheNetherlandsAmsterdam
-121.167.15.173:50000#SouthKoreaGangnam-gu
-124.216.60.169:10325#SouthKoreaJung-gu
-77.91.77.167:443#GermanyFrankfurtamMain
-86.107.197.239:443#TheNetherlandsDronten
-38.180.57.214:2053#TheNetherlandsAmsterdam
-94.177.8.26:443#AustriaWien
-179.43.190.20:2053#SwitzerlandR%C3%BCmlang
-185.120.59.207:2053#FranceParis
-140.238.37.103:14782#JapanTokyo
-115.40.244.240:11211#SouthKoreaGoseong-gun
-27.100.229.147:50000#SouthKoreaJejuCity
-79.137.205.127:443#TheNetherlandsAmsterdam
-81.22.132.243:443#TheNetherlandsMeppel
-5.61.59.90:433#TheNetherlandsDronten
-38.180.99.178:8443#TheNetherlandsAmsterdam
-81.22.132.162:8443#TheNetherlandsMeppel
-37.1.218.117:443#TheNetherlandsMeppel
-195.54.175.79:8443#TheNetherlandsAmsterdam
-213.183.51.75:2053#TheNetherlandsAmsterdam
-194.58.33.103:443#GermanyFrankfurtamMain
-38.180.70.107:443#TheNetherlandsAmsterdam
-2.59.183.210:443#TheNetherlandsMeppel
-14.35.29.177:15211#SouthKoreaSiheung-si
-195.226.194.222:8443#TheNetherlandsAmsterdam
-89.169.13.242:443#TheNetherlandsAmsterdam
-185.130.225.218:14006#TheNetherlandsAmsterdam
-2.59.183.56:443#TheNetherlandsMeppel
-176.222.53.140:8000#TheNetherlandsAmsterdam
-217.30.10.46:2053#PolandWarsaw
-217.30.10.46:8443#PolandWarsaw
-147.45.43.232:443#TheNetherlandsAmsterdam
+47.76.218.163:443#HongKongHongKong: 44.73 ms
+47.242.171.138:37021#HongKongHongKong: 46.35 ms
+124.244.92.109:25203#HongKongKowloonCity: 47.76 ms
+150.230.204.21:10243#JapanTokyo: 70.39 ms
+175.208.202.41:20583#SouthKoreaSongpa-gu: 71.48 ms
+150.230.214.172:16957#JapanTokyo: 71.65 ms
+45.76.192.129:24434#JapanMinamishinagawa: 71.88 ms
+168.138.198.7:27560#JapanTokyo: 74.70 ms
+222.106.126.224:50000#SouthKoreaGangdong-gu: 75.39 ms
+18.183.158.211:443#JapanTokyo: 76.69 ms
+138.2.10.149:45638#JapanTokyo: 76.95 ms
+140.238.62.82:1443#JapanTokyo: 77.00 ms
+168.138.192.16:54584#JapanTokyo: 77.10 ms
+138.2.10.217:27446#JapanTokyo: 77.85 ms
+211.51.176.6:30059#SouthKoreaYeongcheon-si: 78.78 ms
+138.2.18.82:8880#JapanTokyo: 78.78 ms
+27.100.189.152:50000#SouthKoreaJejuCity: 78.80 ms
+45.77.25.6:27854#JapanHeiwajima: 79.29 ms
+138.3.222.124:46209#JapanTokyo: 79.29 ms
+140.238.37.103:14782#JapanTokyo: 79.52 ms
+82.163.16.69:8080#JapanTokyo: 80.56 ms
+27.100.229.147:50000#SouthKoreaJejuCity: 80.60 ms
+45.76.198.248:443#JapanMinamishinagawa: 81.40 ms
+45.77.25.6:48828#JapanHeiwajima: 82.63 ms
+13.250.131.37:443#SingaporeSingapore: 82.65 ms
+211.105.35.130:30012#SouthKoreaSeongnam-si: 85.16 ms
+144.24.87.69:50001#SouthKoreaChuncheon: 88.17 ms
+125.130.15.106:20280#SouthKoreaSuwon: 89.74 ms
+141.147.183.49:29876#JapanTokyo: 94.29 ms
+43.218.77.16:1443#IndonesiaJakarta: 96.07 ms
+106.244.201.248:50000#SouthKoreaSeoul: 98.82 ms
+125.130.15.106:27879#SouthKoreaSuwon: 99.30 ms
+152.69.229.175:22558#SouthKoreaChuncheon: 100.90 ms
+121.167.15.173:50000#SouthKoreaGangnam-gu: 101.33 ms
+147.45.147.212:8443#RussiaNovosibirsk: 101.60 ms
+129.154.48.176:36355#SouthKoreaChuncheon: 103.53 ms
+152.67.211.114:58337#SouthKoreaChuncheon: 105.32 ms
+146.56.112.139:19276#SouthKoreaChuncheon: 106.68 ms
