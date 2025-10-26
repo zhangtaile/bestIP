@@ -1,0 +1,2868 @@
+124.244.92.109:25203#HongKongKowloonCity: 41.56 ms
+43.133.10.236:33405#JapanTokyo: 48.31 ms
+138.2.10.149:45638#JapanTokyo: 66.34 ms
+141.147.178.249:37043#JapanTokyo: 66.59 ms
+211.105.35.130:30012#SouthKoreaSeongnam-si: 67.54 ms
+47.74.254.191:8900#SingaporeSingapore: 77.84 ms
+106.244.201.248:50000#SouthKoreaSeoul: 79.35 ms
+222.106.126.224:50000#SouthKoreaGangdong-gu: 80.30 ms
+43.218.77.16:1443#IndonesiaJakarta: 91.05 ms
+18.183.158.211:443#JapanTokyo: 96.42 ms
+147.45.147.212:2053#RussiaNovosibirsk: 97.27 ms
+147.45.147.212:8443#RussiaNovosibirsk: 97.71 ms
+125.130.15.106:27879#SouthKoreaSuwon: 113.39 ms
+125.130.15.106:20280#SouthKoreaSuwon: 118.75 ms
+195.234.62.215:443#GermanyEschborn: 131.25 ms
+2.59.134.242:2002#GermanyFrankfurtamMain: 131.88 ms
+194.87.199.135:443#GermanyFrankfurtamMain: 132.11 ms
+213.183.51.71:443#TheNetherlandsAmsterdam: 133.22 ms
+194.87.199.49:2053#GermanyFrankfurtamMain: 134.29 ms
+83.142.30.129:2096#MalaysiaKualaLumpur: 136.27 ms
+185.254.97.252:2013#GermanyFrankfurtamMain: 136.57 ms
+45.76.82.192:443#GermanyFrankfurtamMain: 136.76 ms
+80.66.85.115:2053#GermanyFrankfurtAmMain: 139.42 ms
+81.163.28.53:8443#RussiaMoscow: 139.58 ms
+195.123.219.254:1445#TheNetherlandsAmsterdam: 139.59 ms
+37.1.206.30:443#TheNetherlandsAmsterdam: 139.86 ms
+38.180.133.83:443#TheNetherlandsAmsterdam: 139.86 ms
+94.177.8.51:443#AustriaWien: 140.04 ms
+185.238.169.177:443#TheNetherlandsMeppel: 140.06 ms
+185.246.155.73:443#TheNetherlandsAmsterdam: 140.21 ms
+37.1.203.192:443#TheNetherlandsAmsterdam: 140.69 ms
+86.107.197.161:443#TheNetherlandsDronten: 140.92 ms
+38.60.193.247:13300#MalaysiaKualaLumpur: 141.10 ms
+213.183.44.184:443#GermanyFrankfurtamMain: 142.04 ms
+45.137.212.111:46742#TheNetherlandsAmsterdam: 142.06 ms
+37.1.207.228:443#TheNetherlandsAmsterdam: 142.68 ms
+94.177.8.11:443#AustriaWien: 142.89 ms
+213.183.59.144:8443#TheNetherlandsAmsterdam: 142.97 ms
+45.135.135.131:4433#RussiaMoscow: 143.01 ms
+81.22.132.162:8443#TheNetherlandsMeppel: 143.30 ms
+2.59.183.210:443#TheNetherlandsMeppel: 143.36 ms
+81.22.132.215:53951#TheNetherlandsMeppel: 143.53 ms
+213.183.61.191:443#TheNetherlandsAmsterdam: 143.65 ms
+179.43.190.20:2053#SwitzerlandRümlang: 143.88 ms
+2.59.183.197:443#TheNetherlandsMeppel: 144.12 ms
+46.8.224.219:2053#FranceParis: 144.22 ms
+94.177.8.23:443#AustriaWien: 144.26 ms
+95.179.164.162:8443#GermanyFrankfurtamMain: 144.47 ms
+94.177.8.4:443#AustriaWien: 144.52 ms
+5.45.71.98:443#TheNetherlandsAmsterdam: 144.72 ms
+195.133.39.185:443#TheNetherlandsAmsterdam: 144.96 ms
+212.192.31.162:443#GermanyFrankfurtamMain: 145.15 ms
+81.22.132.215:44085#TheNetherlandsMeppel: 145.16 ms
+91.90.194.87:443#TheNetherlandsDronten: 145.90 ms
+46.183.186.57:443#HungaryBudapest: 146.34 ms
+5.182.86.55:443#TheNetherlandsAmsterdam: 146.38 ms
+104.168.102.163:443#UnitedStatesSantaClara: 146.45 ms
+217.30.10.46:8443#PolandWarsaw: 146.88 ms
+5.45.66.11:443#TheNetherlandsAmsterdam: 147.10 ms
+87.251.87.111:443#GermanyFrankfurtamMain: 147.14 ms
+185.229.65.253:443#NetherlandsAmsterdam: 147.29 ms
+156.230.12.71:443#HongKongHongKong: 147.38 ms
+185.254.97.252:1013#GermanyFrankfurtamMain: 147.45 ms
+46.17.43.237:54596#RussiaMoscow: 147.52 ms
+83.173.198.77:8443#SwitzerlandZug: 147.53 ms
+146.0.73.202:443#TheNetherlandsAmsterdam: 148.49 ms
+107.173.87.79:8443#UnitedStatesSantaClara: 148.89 ms
+185.18.222.208:2053#JapanTokyo: 148.98 ms
+38.180.99.253:8443#TheNetherlandsAmsterdam: 149.07 ms
+66.151.42.104:443#TheNetherlandsAmsterdam: 149.11 ms
+23.94.208.154:53485#UnitedStatesSantaClara: 149.33 ms
+37.1.221.155:443#TheNetherlandsMeppel: 149.33 ms
+89.169.13.242:443#TheNetherlandsAmsterdam: 149.48 ms
+185.130.225.218:14006#TheNetherlandsAmsterdam: 149.53 ms
+195.133.64.185:443#GermanyFrankfurtamMain: 149.57 ms
+194.35.119.135:2053#GermanyFrankfurtamMain: 149.67 ms
+95.181.151.172:443#GermanyFrankfurtamMain: 150.21 ms
+87.120.237.36:81#ItalyMilan: 150.66 ms
+188.116.26.216:443#TheNetherlandsAmsterdam: 150.69 ms
+81.22.132.215:41858#TheNetherlandsMeppel: 151.39 ms
+107.172.97.143:50150#UnitedStatesSantaClara: 151.49 ms
+195.54.175.79:2053#TheNetherlandsAmsterdam: 151.49 ms
+2.59.183.25:443#TheNetherlandsMeppel: 151.54 ms
+185.92.74.88:443#UnitedKingdomLondon: 151.76 ms
+85.193.92.242:8443#GermanyFrankfurtamMain: 151.77 ms
+5.45.67.208:443#TheNetherlandsAmsterdam: 151.80 ms
+45.95.203.214:2053#RussiaMoscow: 151.81 ms
+147.45.50.181:8080#TheNetherlandsAmsterdam: 151.83 ms
+147.45.41.209:443#AustriaVienna: 151.87 ms
+2.59.183.233:444#TheNetherlandsMeppel: 151.90 ms
+5.45.92.247:57023#TheNetherlandsAmsterdam: 151.94 ms
+81.22.132.183:443#TheNetherlandsMeppel: 152.10 ms
+195.54.175.79:8443#TheNetherlandsAmsterdam: 152.26 ms
+185.126.225.58:443#TheNetherlandsAmsterdam: 152.27 ms
+5.2.75.70:443#TheNetherlandsAmsterdam: 152.54 ms
+194.87.252.135:8443#RussiaMoscow: 152.65 ms
+23.94.122.243:29500#UnitedStatesSantaClara: 152.84 ms
+89.42.142.95:8443#TheNetherlandsMeppel: 152.97 ms
+5.2.67.113:443#TheNetherlandsDronten: 152.99 ms
+2.59.183.174:443#TheNetherlandsMeppel: 153.03 ms
+185.254.190.70:8443#RussiaMoscow: 153.13 ms
+66.151.42.127:2053#TheNetherlandsAmsterdam: 153.15 ms
+94.177.8.3:443#AustriaWien: 153.22 ms
+107.172.100.43:26001#UnitedStatesSantaClara: 153.63 ms
+94.142.139.93:443#RussiaMoscow: 153.83 ms
+146.103.33.57:443#TheNetherlandsMeppel: 153.85 ms
+81.22.132.215:18770#TheNetherlandsMeppel: 154.21 ms
+45.90.219.244:443#RussiaMoscow: 154.21 ms
+94.177.8.54:443#AustriaWien: 154.27 ms
+5.252.118.203:443#TheNetherlandsAmsterdam: 154.33 ms
+213.156.138.192:40778#FranceParis: 154.49 ms
+38.180.15.45:443#SwitzerlandBern: 154.52 ms
+94.177.8.6:443#AustriaWien: 154.56 ms
+94.177.8.9:443#AustriaWien: 154.64 ms
+94.177.8.26:443#AustriaWien: 154.69 ms
+146.103.33.38:443#TheNetherlandsMeppel: 154.70 ms
+185.105.117.222:443#RussiaMoscow: 154.72 ms
+94.177.8.8:443#AustriaWien: 155.14 ms
+195.133.17.189:443#TheNetherlandsAmsterdam: 155.35 ms
+94.241.174.229:443#TheNetherlandsAmsterdam: 155.42 ms
+79.137.205.127:443#TheNetherlandsAmsterdam: 155.45 ms
+3.75.170.179:443#GermanyFrankfurtamMain: 155.54 ms
+81.22.132.136:443#TheNetherlandsMeppel: 156.05 ms
+85.193.91.193:8443#RussiaStPetersburg: 156.39 ms
+185.84.162.186:2053#RussiaStPetersburg: 156.70 ms
+85.234.107.140:2053#TheNetherlandsAmsterdam: 156.95 ms
+66.151.42.239:443#TheNetherlandsAmsterdam: 157.01 ms
+66.151.42.127:8443#TheNetherlandsAmsterdam: 157.10 ms
+89.42.142.79:443#TheNetherlandsMeppel: 157.15 ms
+34.253.234.62:443#IrelandDublin: 157.30 ms
+176.222.52.253:2053#TheNetherlandsAmsterdam: 157.37 ms
+77.221.157.32:443#GermanyFrankfurtamMain: 157.51 ms
+94.177.8.60:443#AustriaWien: 157.52 ms
+38.180.85.203:443#SwitzerlandBern: 157.55 ms
+179.43.190.20:8443#SwitzerlandRümlang: 157.58 ms
+185.130.225.218:443#TheNetherlandsAmsterdam: 157.68 ms
+90.156.211.232:8443#RussiaStPetersburg: 157.72 ms
+185.211.170.101:2053#RussiaStPetersburg: 157.83 ms
+2.59.183.219:443#TheNetherlandsMeppel: 157.93 ms
+103.170.72.129:25122#UnitedStatesLosAngeles: 158.17 ms
+174.137.52.235:50971#UnitedStatesFremont: 158.26 ms
+89.150.35.129:443#TheNetherlandsAmsterdam: 158.29 ms
+45.139.184.183:8443#RussiaMoscow: 158.39 ms
+217.30.10.46:2053#PolandWarsaw: 158.53 ms
+38.180.84.46:443#SwitzerlandBern: 158.54 ms
+85.159.228.11:443#LatviaRiga: 158.68 ms
+185.211.170.101:8443#RussiaStPetersburg: 158.90 ms
+179.43.176.163:443#SwitzerlandRümlang: 159.32 ms
+156.154.245.83:443#UnitedStatesHerndon: 159.46 ms
+179.43.144.10:8000#SwitzerlandRümlang: 159.56 ms
+213.226.68.24:443#GermanyFrankfurtamMain: 160.01 ms
+206.223.84.247:443#UnitedStatesLosAngeles: 160.04 ms
+179.43.166.2:443#SwitzerlandRümlang: 160.04 ms
+45.139.184.183:2053#RussiaMoscow: 160.09 ms
+103.170.72.129:25950#UnitedStatesLosAngeles: 160.14 ms
+47.251.70.15:28648#UnitedStatesMinkler: 160.69 ms
+89.208.107.154:2053#TheNetherlandsAmsterdam: 160.70 ms
+37.252.13.98:2053#TheNetherlandsAmsterdam: 160.85 ms
+181.41.194.176:15565#TheNetherlandsAmsterdam: 161.03 ms
+82.97.249.34:2053#RussiaMoscow: 161.09 ms
+103.170.72.129:27054#UnitedStatesLosAngeles: 161.17 ms
+185.246.155.198:443#TheNetherlandsAmsterdam: 161.60 ms
+46.17.103.147:8443#TheNetherlandsAmsterdam: 161.66 ms
+184.169.181.217:443#UnitedStatesSanJose: 162.19 ms
+195.226.194.222:2053#TheNetherlandsAmsterdam: 162.36 ms
+193.109.69.48:443#TheNetherlandsAmsterdam: 162.50 ms
+217.30.10.31:2053#PolandWarsaw: 162.82 ms
+194.0.194.222:443#TheNetherlandsAmsterdam: 163.23 ms
+45.147.228.249:443#GermanyFrankfurtamMain: 163.31 ms
+89.111.172.106:2053#RussiaMoscow: 163.50 ms
+38.180.99.178:8443#TheNetherlandsAmsterdam: 163.54 ms
+185.128.106.14:51820#RussiaMoscow: 163.72 ms
+185.135.86.89:8443#LatviaRiga: 163.76 ms
+188.116.23.181:2053#TheNetherlandsAmsterdam: 163.86 ms
+46.17.102.249:2053#TheNetherlandsAmsterdam: 164.03 ms
+195.226.194.166:443#TheNetherlandsAmsterdam: 164.05 ms
+217.151.229.156:2053#GermanyFrankfurtamMain: 164.16 ms
+176.222.55.163:443#TheNetherlandsAmsterdam: 164.18 ms
+45.90.219.244:8443#RussiaMoscow: 164.33 ms
+54.229.164.147:2053#IrelandDublin: 164.51 ms
+176.222.53.140:8000#TheNetherlandsAmsterdam: 164.62 ms
+147.45.196.240:8443#GermanyFrankfurtamMain: 164.99 ms
+45.95.203.214:8443#RussiaMoscow: 165.32 ms
+146.56.140.79:20309#SouthKoreaSeoul: 165.40 ms
+95.163.240.24:8443#RussiaMoscow: 165.43 ms
+147.45.173.149:443#TheNetherlandsAmsterdam: 165.49 ms
+140.238.5.75:13644#SouthKoreaSeoul: 165.67 ms
+146.56.140.79:22561#SouthKoreaSeoul: 165.77 ms
+37.1.223.234:443#TheNetherlandsMeppel: 166.91 ms
+195.238.126.52:443#LithuaniaVilnius: 167.10 ms
+46.229.212.218:8443#RussiaStPetersburg: 167.17 ms
+63.32.194.15:8443#IrelandDublin: 167.68 ms
+213.183.51.75:2053#TheNetherlandsAmsterdam: 167.72 ms
+94.177.8.40:443#AustriaWien: 167.86 ms
+147.45.170.176:2053#TheNetherlandsAmsterdam: 167.91 ms
+194.67.204.158:2053#RussiaMoscow: 168.03 ms
+129.152.2.127:1488#ItalySiziano: 168.05 ms
+38.180.15.197:2053#SwitzerlandBern: 168.09 ms
+94.177.8.10:443#AustriaWien: 168.42 ms
+89.19.216.153:443#TheNetherlandsAmsterdam: 168.91 ms
+85.193.91.193:2053#RussiaStPetersburg: 168.99 ms
+213.183.51.8:443#TheNetherlandsAmsterdam: 169.05 ms
+194.58.33.218:443#GermanyFrankfurtamMain: 169.12 ms
+173.249.209.140:32037#UnitedStatesSanJose: 169.16 ms
+194.58.33.103:443#GermanyFrankfurtamMain: 169.21 ms
+146.56.140.79:44699#SouthKoreaSeoul: 169.38 ms
+46.229.212.218:2053#RussiaStPetersburg: 169.45 ms
+37.120.186.205:2087#GermanyNuremberg: 169.52 ms
+147.45.135.207:443#TheNetherlandsAmsterdam: 169.75 ms
+193.233.232.82:8443#AustriaVienna: 169.77 ms
+65.20.82.22:443#IndiaMumbai: 169.83 ms
+44.227.209.152:443#UnitedStatesPortland: 169.90 ms
+147.45.167.197:443#TheNetherlandsAmsterdam: 170.00 ms
+185.82.218.224:443#BulgariaSofia: 170.08 ms
+173.249.209.140:42207#UnitedStatesSanJose: 170.67 ms
+185.78.76.253:443#GermanyFrankfurtamMain: 170.73 ms
+213.226.126.183:2053#RussiaStPetersburg: 171.25 ms
+92.51.36.219:8443#GermanyFrankfurtamMain: 171.39 ms
+163.172.89.158:81#FranceParis: 171.42 ms
+206.166.251.92:443#TheNetherlandsAmsterdam: 171.48 ms
+173.249.210.53:17750#UnitedStatesSanJose: 171.66 ms
+94.103.183.229:2053#RussiaMoscow: 171.71 ms
+141.105.70.114:443#RussiaMoscow: 171.76 ms
+54.189.161.131:48850#UnitedStatesPortland: 171.77 ms
+176.57.211.166:8443#RussiaStPetersburg: 171.92 ms
+95.85.89.70:81#SpainMadrid: 172.04 ms
+194.35.119.49:8443#GermanyFrankfurtamMain: 172.11 ms
+66.151.43.150:2053#GermanyFrankfurtamMain: 172.19 ms
+185.106.96.203:11338#UnitedStatesSanJose: 172.47 ms
+173.249.201.109:54443#UnitedStatesSanJose: 172.82 ms
+5.44.47.67:8443#GermanyFrankfurtamMain: 172.86 ms
+5.230.44.117:16771#GermanyBadSodenamTaunus: 172.87 ms
+147.45.197.119:443#GermanyFrankfurtamMain: 173.24 ms
+185.106.93.179:443#GermanyFrankfurtAmMain: 173.44 ms
+46.226.167.205:2053#FranceParis: 173.49 ms
+94.156.35.144:18836#BulgariaSofia: 173.51 ms
+212.113.106.40:8443#AustriaVienna: 173.65 ms
+168.100.9.81:443#TheNetherlandsAmsterdam: 173.78 ms
+87.228.25.176:2053#RussiaStPetersburg: 173.85 ms
+46.17.102.93:443#TheNetherlandsAmsterdam: 173.89 ms
+92.246.139.197:2053#GermanyFrankfurtamMain: 173.96 ms
+77.221.148.189:443#TheNetherlandsAmsterdam: 174.14 ms
+185.246.152.79:443#TheNetherlandsAmsterdam: 174.30 ms
+89.169.55.40:2053#GermanyFrankfurtAmMain: 174.35 ms
+107.173.87.103:443#UnitedStatesSantaClara: 174.43 ms
+92.119.90.51:443#GermanyFrankfurtamMain: 174.45 ms
+89.58.43.143:2053#GermanyNuremberg: 174.56 ms
+185.135.86.252:443#LatviaRiga: 174.63 ms
+213.226.68.142:443#GermanyFrankfurtamMain: 174.91 ms
+185.244.49.38:443#TheNetherlandsAmsterdam: 175.01 ms
+147.45.245.15:443#RussiaMoscow: 175.23 ms
+35.83.185.225:443#UnitedStatesPortland: 175.35 ms
+95.179.166.107:443#GermanyFrankfurtamMain: 175.40 ms
+142.171.166.116:8443#UnitedStatesLosAngeles: 175.45 ms
+87.251.87.36:443#GermanyFrankfurtamMain: 175.64 ms
+217.30.10.31:8443#PolandWarsaw: 175.72 ms
+194.28.225.2:443#GermanyFrankfurtamMain: 175.77 ms
+103.97.88.187:443#TheNetherlandsAmsterdam: 175.89 ms
+5.255.120.214:8443#TheNetherlandsDronten: 175.91 ms
+94.159.98.23:2053#GermanyFrankfurtamMain: 176.10 ms
+5.45.95.134:8443#TheNetherlandsAmsterdam: 176.14 ms
+172.82.16.38:25956#UnitedStatesSantaClara: 176.34 ms
+185.78.76.63:2053#GermanyFrankfurtamMain: 176.39 ms
+172.82.16.38:25950#UnitedStatesSantaClara: 176.45 ms
+80.66.85.115:8443#GermanyFrankfurtAmMain: 176.52 ms
+172.82.16.38:27050#UnitedStatesSantaClara: 176.60 ms
+89.208.104.144:443#TheNetherlandsAmsterdam: 176.75 ms
+194.0.194.145:443#TheNetherlandsAmsterdam: 176.89 ms
+185.135.86.120:2053#LatviaRiga: 177.10 ms
+109.120.150.189:443#TheNetherlandsAmsterdam: 177.25 ms
+89.42.142.147:443#TheNetherlandsMeppel: 177.33 ms
+2.59.183.42:443#TheNetherlandsMeppel: 177.45 ms
+94.228.169.108:443#AustriaVienna: 177.67 ms
+77.91.77.116:443#GermanyFrankfurtamMain: 177.68 ms
+45.32.153.123:8443#GermanyFrankfurtamMain: 177.70 ms
+2.59.183.77:443#TheNetherlandsMeppel: 177.76 ms
+62.133.60.14:8443#GermanyFrankfurtamMain: 177.78 ms
+172.82.16.38:27053#UnitedStatesSantaClara: 177.92 ms
+142.171.156.182:15801#UnitedStatesLosAngeles: 178.04 ms
+89.169.54.138:443#GermanyFrankfurtAmMain: 178.13 ms
+51.250.15.177:8443#RussiaMoscow: 178.25 ms
+107.174.253.75:443#UnitedStatesSantaClara: 178.27 ms
+94.177.8.5:443#AustriaWien: 178.38 ms
+18.184.55.249:443#GermanyFrankfurtamMain: 178.43 ms
+172.82.16.38:30387#UnitedStatesSantaClara: 178.55 ms
+172.82.16.38:27033#UnitedStatesSantaClara: 178.58 ms
+81.22.132.113:443#TheNetherlandsMeppel: 178.59 ms
+89.248.207.37:443#RussiaStPetersburg: 178.59 ms
+2.59.183.181:443#TheNetherlandsMeppel: 178.61 ms
+104.168.87.41:16443#UnitedStatesSantaClara: 178.71 ms
+64.64.227.230:7788#UnitedStatesLosAngeles: 178.72 ms
+172.82.16.38:31005#UnitedStatesSantaClara: 178.78 ms
+65.49.192.225:58564#UnitedStatesLosAngeles: 178.82 ms
+77.105.146.76:2053#GermanyFrankfurtamMain: 178.88 ms
+163.5.207.31:443#TheNetherlandsMeppel: 179.18 ms
+94.177.8.21:443#AustriaWien: 179.44 ms
+74.48.46.35:443#UnitedStatesLosAngeles: 179.54 ms
+91.149.239.70:443#UnitedStatesLosAngeles: 179.57 ms
+91.149.239.198:443#UnitedStatesLosAngeles: 179.57 ms
+142.171.75.222:17628#UnitedStatesLosAngeles: 179.68 ms
+89.42.142.12:443#TheNetherlandsMeppel: 179.80 ms
+64.69.34.244:41091#UnitedStatesLosAngeles: 179.82 ms
+91.103.253.97:2053#TheNetherlandsAmsterdam: 180.08 ms
+179.43.176.163:10443#SwitzerlandRümlang: 180.17 ms
+107.172.218.244:47452#UnitedStatesSantaClara: 180.31 ms
+194.180.188.253:2053#GermanyFrankfurtamMain: 180.37 ms
+5.255.105.253:443#TheNetherlandsDronten: 180.43 ms
+107.182.179.27:2443#UnitedStatesLosAngeles: 180.45 ms
+79.137.194.255:443#TheNetherlandsAmsterdam: 180.65 ms
+91.103.252.80:443#TheNetherlandsAmsterdam: 180.69 ms
+66.112.215.227:18819#UnitedStatesLosAngeles: 180.71 ms
+79.137.194.186:443#TheNetherlandsAmsterdam: 180.72 ms
+74.48.86.121:12222#UnitedStatesLosAngeles: 180.89 ms
+213.183.63.71:53811#BulgariaSofia: 180.91 ms
+79.137.199.166:443#TheNetherlandsAmsterdam: 180.91 ms
+192.9.145.87:13611#UnitedStatesSanJose: 180.94 ms
+51.15.210.1:443#FranceParis: 180.95 ms
+192.9.137.193:8443#UnitedStatesSanJose: 181.02 ms
+109.120.179.49:2053#FranceParis: 181.03 ms
+91.215.153.85:443#BulgariaSofia: 181.09 ms
+142.171.156.141:21182#UnitedStatesLosAngeles: 181.09 ms
+167.234.216.84:65501#UnitedStatesSanJose: 181.18 ms
+81.22.132.245:443#TheNetherlandsMeppel: 181.22 ms
+152.70.113.150:52125#UnitedStatesSanJose: 181.22 ms
+70.34.244.250:27000#PolandWarsaw: 181.27 ms
+148.135.59.174:54824#UnitedStatesLosAngeles: 181.29 ms
+85.192.40.6:443#TheNetherlandsAmsterdam: 181.34 ms
+74.48.145.83:31556#UnitedStatesLosAngeles: 181.47 ms
+74.48.77.104:35273#UnitedStatesLosAngeles: 181.52 ms
+89.169.13.214:443#TheNetherlandsAmsterdam: 181.54 ms
+97.64.26.142:30840#UnitedStatesLosAngeles: 181.70 ms
+213.183.51.219:443#TheNetherlandsAmsterdam: 181.71 ms
+74.48.221.141:26255#UnitedStatesLosAngeles: 181.73 ms
+89.169.13.12:443#TheNetherlandsAmsterdam: 181.99 ms
+152.67.248.2:53300#UnitedStatesSanJose: 182.03 ms
+172.96.194.124:34555#UnitedStatesLosAngeles: 182.04 ms
+148.135.5.55:34215#UnitedStatesLosAngeles: 182.11 ms
+152.70.125.165:32174#UnitedStatesSanJose: 182.25 ms
+148.135.107.122:2096#UnitedStatesLosAngeles: 182.28 ms
+86.107.197.239:443#TheNetherlandsDronten: 182.38 ms
+95.163.203.38:2053#UnitedStatesLosAngeles: 182.61 ms
+5.182.86.130:443#TheNetherlandsAmsterdam: 182.78 ms
+23.95.18.12:18443#UnitedStatesSeattle: 182.90 ms
+192.9.135.182:7800#UnitedStatesSanJose: 182.96 ms
+43.130.35.177:6161#UnitedStatesSantaClara: 183.03 ms
+89.23.107.42:8443#TheNetherlandsAmsterdam: 183.13 ms
+194.0.194.237:14181#TheNetherlandsAmsterdam: 183.28 ms
+192.9.138.69:21009#UnitedStatesSanJose: 183.30 ms
+213.183.61.100:8443#TheNetherlandsAmsterdam: 183.38 ms
+5.188.181.226:2053#SpainMadrid: 183.48 ms
+142.171.202.202:33538#UnitedStatesLosAngeles: 183.56 ms
+155.248.214.92:52580#UnitedStatesSanJose: 183.63 ms
+103.102.228.113:443#TheNetherlandsAssen: 183.66 ms
+162.219.120.218:443#UnitedStatesLosAngeles: 183.71 ms
+81.22.132.215:38995#TheNetherlandsMeppel: 183.88 ms
+195.226.194.222:8443#TheNetherlandsAmsterdam: 183.96 ms
+45.144.154.64:443#TheNetherlandsAssen: 183.97 ms
+185.198.166.182:443#TheNetherlandsDronten: 184.00 ms
+3.67.25.193:443#GermanyFrankfurtamMain: 184.19 ms
+95.214.9.72:443#FinlandHelsinki: 184.22 ms
+37.1.218.117:443#TheNetherlandsMeppel: 184.36 ms
+94.177.8.34:443#AustriaWien: 184.50 ms
+150.230.33.247:19131#UnitedStatesSanJose: 184.58 ms
+141.11.95.10:18443#UnitedStatesLosAngeles: 184.68 ms
+37.1.202.160:443#TheNetherlandsAmsterdam: 184.73 ms
+5.61.57.62:443#TheNetherlandsDronten: 184.76 ms
+155.248.198.56:34488#UnitedStatesSanJose: 184.81 ms
+94.177.8.50:443#AustriaWien: 184.84 ms
+192.9.228.70:14123#UnitedStatesSanJose: 185.18 ms
+46.226.167.205:8443#FranceParis: 185.28 ms
+89.42.142.220:443#TheNetherlandsMeppel: 185.45 ms
+77.73.69.96:2053#RussiaStPetersburg: 185.45 ms
+38.180.99.103:443#TheNetherlandsAmsterdam: 185.54 ms
+2.59.183.198:443#TheNetherlandsMeppel: 185.55 ms
+81.22.132.3:443#TheNetherlandsMeppel: 185.71 ms
+77.91.70.242:2053#FinlandHelsinki: 186.03 ms
+146.0.73.211:443#TheNetherlandsAmsterdam: 186.14 ms
+45.136.50.5:2053#TheNetherlandsAmsterdam: 186.21 ms
+195.54.174.216:2053#TheNetherlandsAmsterdam: 186.48 ms
+77.223.96.232:443#RussiaMoscow: 186.53 ms
+89.185.85.10:443#GermanyFrankfurtamMain: 186.63 ms
+95.140.157.183:8443#GermanyFrankfurtamMain: 186.64 ms
+45.154.214.116:443#UnitedStatesSeattle: 186.66 ms
+94.177.8.31:443#AustriaWien: 186.70 ms
+38.180.57.214:2053#TheNetherlandsAmsterdam: 186.75 ms
+185.94.29.46:2015#GermanyFrankfurtamMain: 186.83 ms
+155.248.193.100:33189#UnitedStatesSanJose: 186.86 ms
+130.185.249.22:8080#UnitedKingdomIslington: 186.96 ms
+94.177.8.19:443#AustriaWien: 187.00 ms
+66.151.42.224:443#TheNetherlandsAmsterdam: 187.13 ms
+81.22.132.243:443#TheNetherlandsMeppel: 187.13 ms
+193.233.115.226:2053#SwedenStockholm: 187.31 ms
+212.83.138.31:443#FranceParis: 187.32 ms
+5.61.59.90:433#TheNetherlandsDronten: 187.35 ms
+185.106.94.108:8443#AustriaVienna: 187.47 ms
+45.150.164.179:10369#UnitedStatesSeattle: 187.57 ms
+81.22.132.44:443#TheNetherlandsMeppel: 187.58 ms
+38.180.161.11:443#SwitzerlandZurich: 188.00 ms
+95.182.96.30:8443#FranceParis: 188.25 ms
+109.120.150.175:443#TheNetherlandsAmsterdam: 188.28 ms
+195.245.239.128:2053#GermanyFrankfurtamMain: 188.29 ms
+104.168.167.197:27213#UnitedStatesSeattle: 188.39 ms
+91.218.212.223:443#UkraineKyiv: 188.68 ms
+147.45.114.116:443#TheNetherlandsDronten: 188.73 ms
+194.9.6.32:48484#GermanyFrankfurtamMain: 188.91 ms
+185.140.12.239:443#GermanyFrankfurtamMain: 189.05 ms
+138.2.232.156:28163#UnitedStatesSanJose: 189.35 ms
+94.177.8.48:443#AustriaWien: 189.38 ms
+90.156.228.74:2053#GermanyFrankfurtamMain: 189.78 ms
+45.76.232.169:22711#UnitedStatesDallas: 189.89 ms
+23.94.56.111:20338#UnitedStatesSeattle: 189.92 ms
+45.95.173.22:443#FranceStrasbourg: 189.92 ms
+82.97.254.184:2053#RussiaStPetersburg: 189.99 ms
+185.186.246.210:443#TheNetherlandsAmsterdam: 189.99 ms
+185.224.248.120:443#GermanyFrankfurtamMain: 190.03 ms
+147.45.43.232:443#TheNetherlandsAmsterdam: 190.03 ms
+82.148.30.224:443#RussiaMoscow: 190.11 ms
+91.103.252.157:2053#TheNetherlandsAmsterdam: 190.31 ms
+179.43.156.113:13338#SwitzerlandRümlang: 190.57 ms
+51.20.99.157:443#SwedenStockholm: 190.57 ms
+31.207.47.231:443#TheNetherlandsAmsterdam: 190.65 ms
+77.223.96.158:443#RussiaMoscow: 190.75 ms
+2.59.38.46:443#TheNetherlandsNieuwegein: 190.84 ms
+70.34.252.171:8443#PolandWarsaw: 191.05 ms
+77.73.131.188:443#AustriaVienna: 191.06 ms
+45.145.75.43:10712#UnitedStatesSeattle: 191.11 ms
+77.221.143.3:2053#SwedenStockholm: 191.29 ms
+213.183.59.144:2053#TheNetherlandsAmsterdam: 191.46 ms
+94.131.123.74:443#TürkiyeIstanbul: 191.49 ms
+18.197.218.69:443#GermanyFrankfurtamMain: 191.53 ms
+94.177.199.119:8443#ItalyArezzo: 191.54 ms
+79.137.248.247:8443#FinlandHelsinki: 191.62 ms
+103.90.75.41:2053#TheNetherlandsAmsterdam: 192.12 ms
+87.239.250.229:2053#TheNetherlandsAmsterdam: 192.22 ms
+51.159.6.227:2053#FranceParis: 192.28 ms
+31.25.29.199:443#RussiaMoscow: 192.34 ms
+132.226.21.116:6056#SouthKoreaSeoul: 192.37 ms
+94.177.8.62:443#AustriaWien: 192.49 ms
+91.103.252.162:443#TheNetherlandsAmsterdam: 192.65 ms
+89.169.55.40:8443#GermanyFrankfurtAmMain: 192.68 ms
+147.45.175.165:8443#RussiaMoscow: 192.80 ms
+194.67.78.233:999#RussiaMoscow: 192.85 ms
+62.146.172.119:443#UnitedStatesSeattle: 192.85 ms
+89.111.172.106:8443#RussiaMoscow: 192.87 ms
+147.45.196.240:2053#GermanyFrankfurtamMain: 193.03 ms
+77.73.69.96:8443#RussiaStPetersburg: 193.03 ms
+23.94.211.148:443#UnitedStatesSeattle: 193.16 ms
+217.30.10.221:8443#PolandWarsaw: 193.40 ms
+103.90.75.41:8443#TheNetherlandsAmsterdam: 193.47 ms
+95.140.157.183:2053#GermanyFrankfurtamMain: 193.49 ms
+95.140.154.101:8443#GermanyFrankfurtamMain: 193.57 ms
+70.34.244.250:53062#PolandWarsaw: 193.63 ms
+213.183.63.71:57743#BulgariaSofia: 193.64 ms
+95.163.242.122:8443#RussiaMoscow: 193.67 ms
+45.136.70.204:443#DenmarkAsperup: 193.79 ms
+46.17.102.9:443#TheNetherlandsAmsterdam: 193.84 ms
+91.149.239.62:443#UnitedStatesLosAngeles: 193.88 ms
+185.72.86.16:2053#LatviaKoknese: 193.89 ms
+89.208.105.126:443#TheNetherlandsAmsterdam: 193.97 ms
+185.188.181.49:443#FinlandHelsinki: 194.07 ms
+146.0.79.50:443#TheNetherlandsAmsterdam: 194.14 ms
+2.59.183.140:443#TheNetherlandsMeppel: 194.33 ms
+194.35.119.49:2053#GermanyFrankfurtamMain: 194.51 ms
+91.149.239.206:443#UnitedStatesLosAngeles: 194.70 ms
+95.183.51.10:2053#SwitzerlandWeinfelden: 194.87 ms
+95.163.242.122:2053#RussiaMoscow: 194.91 ms
+81.163.28.53:2053#RussiaMoscow: 194.97 ms
+185.195.69.119:8443#SwitzerlandBern: 194.97 ms
+81.200.158.206:8443#RussiaMoscow: 195.10 ms
+185.105.89.125:16092#RussiaMoscow: 195.18 ms
+94.139.245.154:8443#RussiaAsbest: 195.27 ms
+109.120.132.113:2053#SwedenStockholm: 195.28 ms
+94.131.119.50:2053#RomaniaBucharest: 195.37 ms
+194.113.153.237:443#TheNetherlandsAmsterdam: 195.82 ms
+34.208.221.169:443#UnitedStatesPortland: 195.87 ms
+192.210.143.111:28425#UnitedStatesSeattle: 195.95 ms
+5.255.118.176:443#TheNetherlandsDronten: 195.96 ms
+129.146.6.2:929#UnitedStatesPhoenix: 195.97 ms
+107.174.242.151:34561#UnitedStatesSeattle: 196.12 ms
+77.81.234.27:2053#ItalyArezzo: 196.37 ms
+166.0.244.206:8443#IndiaMumbai: 196.43 ms
+212.237.30.220:443#ItalyArezzo: 196.45 ms
+212.113.101.250:8443#SwedenStockholm: 196.73 ms
+185.188.181.218:2053#FinlandHelsinki: 196.73 ms
+45.144.48.161:2053#PolandWarsaw: 196.87 ms
+185.245.83.41:31687#UnitedKingdomPoplar: 196.92 ms
+45.146.82.107:35292#UnitedStatesSeattle: 197.00 ms
+2.59.183.26:443#TheNetherlandsMeppel: 197.02 ms
+194.26.232.203:443#TheNetherlandsOudeMeer: 197.07 ms
+2.59.183.56:443#TheNetherlandsMeppel: 197.11 ms
+45.67.34.89:8443#RomaniaBucharest: 197.20 ms
+79.137.248.111:443#FinlandHelsinki: 197.34 ms
+89.23.107.42:2053#TheNetherlandsAmsterdam: 197.55 ms
+163.5.207.124:443#TheNetherlandsMeppel: 197.62 ms
+194.67.204.158:8443#RussiaMoscow: 197.72 ms
+38.180.70.107:443#TheNetherlandsAmsterdam: 197.78 ms
+176.222.55.17:443#TheNetherlandsAmsterdam: 197.79 ms
+46.226.161.98:8443#SwedenStockholm: 197.86 ms
+147.45.136.240:443#TheNetherlandsAmsterdam: 197.90 ms
+185.230.143.121:443#SwedenStockholm: 198.30 ms
+147.45.75.11:2053#SwedenStockholm: 198.48 ms
+91.184.241.179:2053#SwedenStockholm: 198.55 ms
+185.17.2.103:2053#FinlandHelsinki: 198.58 ms
+5.188.181.226:8443#SpainMadrid: 198.62 ms
+31.133.0.122:8443#PolandPoznan: 198.64 ms
+194.53.54.84:8443#FinlandHelsinki: 198.68 ms
+172.93.32.131:23077#CanadaVancouver: 198.75 ms
+94.177.8.43:443#AustriaWien: 198.81 ms
+85.193.92.242:2053#GermanyFrankfurtamMain: 198.81 ms
+94.177.8.2:443#AustriaWien: 198.92 ms
+87.239.251.30:8443#TheNetherlandsAmsterdam: 198.96 ms
+185.94.167.181:2053#FinlandHelsinki: 198.98 ms
+178.253.23.199:8443#TheNetherlandsAmsterdam: 199.09 ms
+95.182.97.147:2053#FranceParis: 199.14 ms
+46.226.160.150:443#SwedenStockholm: 199.26 ms
+81.22.132.215:18247#TheNetherlandsMeppel: 199.30 ms
+85.193.95.220:8443#GermanyFrankfurtamMain: 199.39 ms
+185.188.181.187:443#FinlandHelsinki: 199.40 ms
+89.58.43.143:8888#GermanyNuremberg: 199.44 ms
+89.169.35.39:443#SwedenStockholm: 199.47 ms
+46.17.97.207:2053#TheNetherlandsAmsterdam: 199.51 ms
+109.120.189.103:1488#RussiaKrasnoyarsk: 199.52 ms
+89.19.211.109:8443#GermanyFrankfurtamMain: 199.53 ms
+213.159.76.202:8443#ArmeniaYerevan: 199.67 ms
+185.84.162.186:8443#RussiaStPetersburg: 199.80 ms
+5.44.47.67:2053#GermanyFrankfurtamMain: 199.86 ms
+45.9.72.101:443#FinlandHelsinki: 199.87 ms
+90.156.228.74:8443#GermanyFrankfurtamMain: 199.98 ms
+45.151.133.125:16478#UnitedStatesSeattle: 200.00 ms
+77.221.136.148:443#SwedenStockholm: 200.08 ms
+212.113.106.40:2053#AustriaVienna: 200.09 ms
+213.183.63.185:443#BulgariaSofia: 200.13 ms
+95.183.51.10:8443#SwitzerlandWeinfelden: 200.32 ms
+185.8.60.108:443#LatviaRiga: 200.39 ms
+2.59.183.114:443#TheNetherlandsMeppel: 200.46 ms
+79.124.7.236:444#BulgariaSofia: 200.53 ms
+31.133.0.135:2053#PolandPoznan: 200.59 ms
+193.164.155.8:8443#FinlandHelsinki: 200.61 ms
+148.135.22.233:48625#UnitedStatesLosAngeles: 200.61 ms
+176.57.211.166:2053#RussiaStPetersburg: 200.64 ms
+70.34.252.171:2053#PolandWarsaw: 200.71 ms
+46.226.161.142:8443#SwedenStockholm: 200.74 ms
+193.84.2.58:8443#FinlandHelsinki: 200.79 ms
+217.151.229.156:8443#GermanyFrankfurtamMain: 200.79 ms
+45.151.133.125:41389#UnitedStatesSeattle: 200.84 ms
+37.120.186.205:2083#GermanyNuremberg: 200.94 ms
+72.18.83.132:16232#UnitedStatesLosAngeles: 201.04 ms
+188.130.154.234:8443#FinlandHelsinki: 201.06 ms
+213.226.126.183:8443#RussiaStPetersburg: 201.06 ms
+195.123.241.122:50008#UnitedStatesLosAngeles: 201.09 ms
+5.39.219.35:443#TheNetherlandsAmsterdam: 201.10 ms
+185.82.218.224:9443#BulgariaSofia: 201.13 ms
+167.179.27.92:443#IndiaBengaluru: 201.17 ms
+85.193.95.23:8443#GermanyFrankfurtamMain: 201.28 ms
+82.97.249.34:8443#RussiaMoscow: 201.41 ms
+89.19.217.104:2053#TheNetherlandsAmsterdam: 201.44 ms
+104.207.159.165:8088#UnitedStatesKent: 201.48 ms
+94.228.164.233:8443#SwedenStockholm: 201.60 ms
+178.236.244.8:2053#FinlandHelsinki: 201.63 ms
+95.140.154.101:2053#GermanyFrankfurtamMain: 201.71 ms
+85.193.95.220:2053#GermanyFrankfurtamMain: 201.83 ms
+109.120.135.224:2053#SwedenStockholm: 201.83 ms
+217.144.188.147:8443#FinlandHelsinki: 201.86 ms
+194.87.26.250:443#TheNetherlandsAmsterdam: 201.92 ms
+194.87.252.135:2053#RussiaMoscow: 201.96 ms
+13.48.175.183:2053#SwedenStockholm: 201.96 ms
+58.176.95.46:443#HongKongMeiFoo: 202.03 ms
+92.51.36.219:2053#GermanyFrankfurtamMain: 202.25 ms
+194.35.119.135:8443#GermanyFrankfurtamMain: 202.27 ms
+185.188.181.15:443#FinlandHelsinki: 202.40 ms
+78.128.127.89:443#BulgariaSofia: 202.48 ms
+89.22.224.54:8443#SwedenStockholm: 202.53 ms
+188.225.34.155:443#RussiaStPetersburg: 202.54 ms
+185.82.218.224:8443#BulgariaSofia: 202.69 ms
+185.102.136.39:443#FinlandHelsinki: 202.75 ms
+87.239.251.30:2053#TheNetherlandsAmsterdam: 202.86 ms
+77.221.140.128:443#SwedenStockholm: 202.86 ms
+91.201.67.6:443#ItalyPalermo: 202.98 ms
+74.48.140.177:443#UnitedStatesLosAngeles: 203.01 ms
+172.232.157.252:2053#SwedenStockholm: 203.05 ms
+89.22.232.86:443#SwedenStockholm: 203.20 ms
+65.49.195.163:14828#UnitedStatesLosAngeles: 203.27 ms
+204.13.153.239:59060#UnitedStatesSantaClarita: 203.32 ms
+185.104.250.207:8443#FinlandHelsinki: 203.37 ms
+194.53.54.84:2053#FinlandHelsinki: 203.42 ms
+77.83.246.79:2053#PolandWarsaw: 203.47 ms
+212.113.116.93:443#GermanyFrankfurtAmMain: 203.48 ms
+85.193.95.23:2053#GermanyFrankfurtamMain: 203.65 ms
+159.255.33.66:2053#FinlandHelsinki: 203.94 ms
+80.211.231.169:443#ItalyArezzo: 203.95 ms
+64.21.191.164:443#CanadaSquamish: 204.04 ms
+148.135.52.250:48993#UnitedStatesLosAngeles: 204.16 ms
+213.170.157.1:443#NewZealandAuckland: 204.24 ms
+212.113.101.250:2053#SwedenStockholm: 204.31 ms
+18.184.27.249:443#GermanyFrankfurtamMain: 204.54 ms
+141.11.92.161:7555#UnitedStatesLosAngeles: 204.55 ms
+77.232.143.39:2053#RussiaMoscow: 204.58 ms
+77.221.139.142:8443#SwedenStockholm: 204.60 ms
+147.45.76.247:443#SwedenStockholm: 204.61 ms
+31.207.45.106:58221#TheNetherlandsAmsterdam: 204.64 ms
+89.22.234.213:443#SwedenStockholm: 204.71 ms
+109.120.151.180:2053#FinlandHelsinki: 204.79 ms
+31.133.0.55:8443#PolandPoznan: 204.80 ms
+79.137.194.243:443#TheNetherlandsAmsterdam: 204.80 ms
+88.218.76.250:2053#FranceStrasbourg: 204.86 ms
+94.142.138.123:2053#FinlandHelsinki: 204.89 ms
+185.188.181.218:8443#FinlandHelsinki: 204.90 ms
+89.22.227.239:443#SwedenStockholm: 204.90 ms
+27.100.189.152:50000#SouthKoreaJejuCity: 205.06 ms
+185.197.74.146:2053#SwedenStockholm: 205.19 ms
+74.48.4.29:37731#UnitedStatesLosAngeles: 205.26 ms
+70.34.245.176:8443#PolandWarsaw: 205.38 ms
+78.153.139.87:2053#FinlandHelsinki: 205.39 ms
+109.120.185.139:443#FinlandHelsinki: 205.60 ms
+72.18.81.113:15320#UnitedStatesLosAngeles: 205.69 ms
+176.124.220.175:443#FinlandHelsinki: 205.92 ms
+45.144.48.42:8443#PolandWarsaw: 206.04 ms
+5.252.118.210:2053#TheNetherlandsAmsterdam: 206.38 ms
+45.144.48.158:8443#PolandWarsaw: 206.52 ms
+217.25.91.145:8443#GermanyFrankfurtamMain: 206.64 ms
+138.124.182.204:443#LatviaRiga: 206.71 ms
+80.85.241.99:443#FinlandHelsinki: 206.78 ms
+94.131.119.136:81#RomaniaBucharest: 206.80 ms
+176.124.220.237:2053#FinlandHelsinki: 206.85 ms
+176.109.106.61:8443#RussiaMoscow: 206.87 ms
+89.35.131.5:443#TheNetherlandsAmsterdam: 206.93 ms
+85.192.61.198:443#FinlandHelsinki: 207.00 ms
+2.56.221.72:81#SpainMadrid: 207.04 ms
+45.144.48.33:8443#PolandWarsaw: 207.09 ms
+45.144.48.55:2053#PolandWarsaw: 207.13 ms
+77.221.143.56:8443#SwedenStockholm: 207.32 ms
+89.22.226.242:2053#SwedenStockholm: 207.35 ms
+185.188.147.79:443#PolandWarsaw: 207.35 ms
+193.84.2.206:443#FinlandHelsinki: 207.40 ms
+109.120.185.29:443#FinlandHelsinki: 207.41 ms
+51.250.15.177:2053#RussiaMoscow: 207.43 ms
+147.45.72.36:8443#SwedenStockholm: 207.57 ms
+142.171.192.140:10001#UnitedStatesLosAngeles: 207.58 ms
+88.218.76.250:8443#FranceStrasbourg: 207.72 ms
+193.164.155.27:8443#FinlandHelsinki: 207.75 ms
+185.104.250.207:2053#FinlandHelsinki: 207.81 ms
+45.9.72.114:10783#FinlandHelsinki: 207.90 ms
+185.17.2.103:8443#FinlandHelsinki: 208.00 ms
+185.17.2.108:2053#FinlandHelsinki: 208.15 ms
+212.227.144.37:8443#SpainMadrid: 208.16 ms
+46.226.165.244:443#SwedenStockholm: 208.30 ms
+66.85.139.204:443#UnitedStatesPhoenix: 208.43 ms
+141.147.106.18:10086#UnitedKingdomLondon: 208.53 ms
+63.205.203.251:443#UnitedStatesSantaClara: 208.60 ms
+188.130.206.93:2053#FinlandHelsinki: 208.71 ms
+46.8.232.217:443#FinlandHelsinki: 208.88 ms
+185.17.2.108:8443#FinlandHelsinki: 209.02 ms
+94.131.2.187:2053#KazakhstanAlmaty: 209.09 ms
+109.120.135.91:2053#SwedenStockholm: 209.22 ms
+185.125.228.214:443#FinlandHelsinki: 209.28 ms
+46.253.4.186:2053#SwedenTällberg: 209.46 ms
+193.124.190.40:8443#RussiaMoscow: 209.52 ms
+185.233.200.93:443#RussiaMoscow: 209.58 ms
+154.91.34.39:8443#UnitedStatesLosAngeles: 209.62 ms
+74.121.150.129:8443#UnitedStatesEdison: 209.62 ms
+194.53.54.67:8000#FinlandHelsinki: 209.69 ms
+47.90.140.40:15624#UnitedStatesRichmond: 209.71 ms
+193.233.115.223:2053#SwedenStockholm: 209.72 ms
+85.192.61.212:443#FinlandHelsinki: 209.75 ms
+36.50.90.241:47790#HongKongWanChai: 209.77 ms
+194.67.200.70:2053#FinlandHelsinki: 209.78 ms
+45.138.73.182:443#FinlandHelsinki: 209.78 ms
+89.22.226.100:2053#SwedenStockholm: 209.79 ms
+172.234.96.64:8443#SwedenStockholm: 209.86 ms
+158.178.206.197:8443#FranceParis: 209.89 ms
+89.22.239.161:2053#SwedenStockholm: 209.94 ms
+91.200.151.172:443#KazakhstanAlmaty: 209.97 ms
+46.8.237.3:443#FinlandHelsinki: 210.03 ms
+45.67.229.128:81#MoldovaChisinau: 210.09 ms
+193.233.207.35:443#UnitedStatesDallas: 210.10 ms
+194.53.54.30:443#FinlandHelsinki: 210.12 ms
+139.28.221.213:48004#FinlandHelsinki: 210.13 ms
+45.82.255.214:8443#PolandWarsaw: 210.38 ms
+193.84.2.14:8443#FinlandHelsinki: 210.43 ms
+45.156.22.52:2053#FinlandHelsinki: 210.46 ms
+193.124.180.241:443#FinlandHelsinki: 210.48 ms
+195.238.126.94:443#LithuaniaVilnius: 210.54 ms
+185.230.143.122:443#SwedenStockholm: 210.54 ms
+212.113.101.35:443#SwedenStockholm: 210.57 ms
+185.94.164.160:443#TheNetherlandsAmsterdam: 210.78 ms
+216.128.140.253:26376#UnitedStatesDallas: 210.88 ms
+173.249.203.187:48934#UnitedStatesPhoenix: 210.89 ms
+47.89.136.31:36301#UnitedStatesRichmond: 211.08 ms
+95.182.99.23:8443#FinlandHelsinki: 211.10 ms
+92.246.137.72:443#SwedenStockholm: 211.17 ms
+165.1.71.204:46597#UnitedStatesSanJose: 211.19 ms
+173.44.141.156:8443#UnitedStatesDelrayBeach: 211.34 ms
+77.91.86.3:2053#SwedenStockholm: 211.44 ms
+104.234.240.179:8443#CanadaToronto: 211.44 ms
+79.137.205.248:443#TheNetherlandsAmsterdam: 211.59 ms
+88.218.78.162:8443#FranceStrasbourg: 211.59 ms
+185.188.181.14:443#FinlandHelsinki: 211.61 ms
+89.169.32.114:2053#SwedenStockholm: 211.63 ms
+173.249.203.187:13071#UnitedStatesPhoenix: 211.68 ms
+193.233.114.58:8443#SwedenStockholm: 211.76 ms
+89.22.227.14:443#SwedenStockholm: 211.84 ms
+95.182.99.170:8443#FinlandHelsinki: 211.84 ms
+89.169.35.112:443#SwedenStockholm: 212.01 ms
+77.91.78.15:8443#FinlandHelsinki: 212.06 ms
+185.230.143.122:2053#SwedenStockholm: 212.07 ms
+194.164.35.86:443#TheNetherlandsAmsterdam: 212.07 ms
+77.221.141.255:8443#SwedenStockholm: 212.09 ms
+89.110.118.149:443#TheNetherlandsAmsterdam: 212.16 ms
+89.22.234.0:2053#SwedenStockholm: 212.24 ms
+77.221.139.142:2053#SwedenStockholm: 212.26 ms
+217.144.188.246:2053#FinlandHelsinki: 212.40 ms
+109.120.132.113:8443#SwedenStockholm: 212.52 ms
+46.8.238.49:2053#FinlandHelsinki: 212.54 ms
+147.45.73.233:2053#SwedenStockholm: 212.58 ms
+217.144.188.181:2053#FinlandHelsinki: 212.58 ms
+158.101.24.17:443#UnitedStatesPhoenix: 212.78 ms
+185.229.225.229:443#NetherlandsAmsterdam: 212.80 ms
+167.99.140.246:2053#GermanyFrankfurtamMain: 212.84 ms
+194.146.123.241:443#UnitedKingdomLondon: 212.85 ms
+85.30.217.230:25146#RussiaPodolsk: 212.99 ms
+185.252.144.185:2053#FinlandHelsinki: 213.01 ms
+77.238.247.183:2053#TheNetherlandsAmsterdam: 213.02 ms
+89.110.113.74:443#TheNetherlandsAmsterdam: 213.12 ms
+78.40.116.136:2053#SwedenTällberg: 213.25 ms
+31.129.48.139:443#RussiaMoscow: 213.45 ms
+89.110.121.61:443#TheNetherlandsAmsterdam: 213.81 ms
+91.184.243.25:8443#FinlandHelsinki: 213.87 ms
+77.91.78.18:2053#FinlandHelsinki: 213.92 ms
+89.22.227.167:443#SwedenStockholm: 213.98 ms
+77.221.143.56:2053#SwedenStockholm: 214.13 ms
+45.88.67.65:443#NetherlandsDronten: 214.15 ms
+45.144.48.29:8443#PolandWarsaw: 214.23 ms
+31.172.74.123:443#TheNetherlandsRotterdam: 214.34 ms
+94.177.199.119:2053#ItalyArezzo: 214.37 ms
+193.84.2.64:443#FinlandHelsinki: 214.41 ms
+166.0.244.206:2053#IndiaMumbai: 214.42 ms
+89.169.34.172:443#SwedenStockholm: 214.45 ms
+95.182.99.23:2053#FinlandHelsinki: 214.46 ms
+89.23.113.215:8443#RussiaMoscow: 214.58 ms
+46.226.165.169:443#SwedenStockholm: 214.70 ms
+77.91.86.3:8443#SwedenStockholm: 214.82 ms
+91.184.240.243:443#SwedenStockholm: 214.83 ms
+45.140.146.80:2053#MoldovaChisinau: 215.01 ms
+91.108.241.161:8443#FinlandHelsinki: 215.01 ms
+217.25.91.145:2053#GermanyFrankfurtamMain: 215.04 ms
+91.149.202.142:443#UnitedKingdomLondon: 215.14 ms
+89.22.224.125:443#SwedenStockholm: 215.17 ms
+87.239.250.229:8443#TheNetherlandsAmsterdam: 215.60 ms
+176.10.125.114:443#SwitzerlandHünenberg: 215.65 ms
+43.130.105.166:65001#UnitedStatesAshburn: 215.78 ms
+185.247.118.7:443#GermanyFrankfurt: 216.17 ms
+198.46.218.63:27149#UnitedStatesElkGroveVillage: 216.27 ms
+45.67.34.74:2053#RomaniaBucharest: 216.38 ms
+103.106.3.238:443#KazakhstanAlmaty: 216.54 ms
+193.188.21.181:443#SwedenStockholm: 216.65 ms
+95.181.167.206:443#FinlandHelsinki: 216.81 ms
+194.180.188.253:8443#GermanyFrankfurtamMain: 217.04 ms
+193.37.68.164:443#TheNetherlandsAssen: 217.18 ms
+93.113.171.95:443#TheNetherlandsAmsterdam: 217.22 ms
+45.144.49.149:2053#PolandWarsaw: 218.13 ms
+91.192.102.170:2053#SwitzerlandZurich: 218.44 ms
+77.221.144.41:8443#FinlandHelsinki: 218.68 ms
+213.159.76.175:443#ArmeniaYerevan: 219.05 ms
+46.8.238.49:8443#FinlandHelsinki: 219.07 ms
+43.130.105.166:65002#UnitedStatesAshburn: 219.09 ms
+185.195.69.200:8443#SwitzerlandBern: 219.23 ms
+89.169.35.188:443#SwedenStockholm: 219.48 ms
+70.34.245.176:2053#PolandWarsaw: 219.56 ms
+193.24.209.103:8443#GermanyGelnhausen: 219.71 ms
+89.168.43.31:2053#FranceParis: 219.72 ms
+217.144.186.102:8443#FinlandHelsinki: 219.83 ms
+95.164.37.32:8443#UnitedKingdomCoventry: 219.89 ms
+3.73.6.186:2053#GermanyFrankfurtamMain: 219.95 ms
+147.45.77.214:443#SwedenStockholm: 220.16 ms
+89.22.231.170:8443#SwedenStockholm: 220.41 ms
+31.133.0.133:2053#PolandPoznan: 220.42 ms
+95.164.37.32:2053#UnitedKingdomCoventry: 220.75 ms
+37.233.102.53:443#PolandWarsaw: 220.88 ms
+192.252.182.52:7602#HongKongHongKong: 220.98 ms
+91.108.241.5:2053#FinlandHelsinki: 220.99 ms
+24.144.79.45:443#TheNetherlandsAmsterdam: 221.03 ms
+95.164.37.32:2096#UnitedKingdomCoventry: 221.07 ms
+185.188.181.214:443#FinlandHelsinki: 221.24 ms
+88.218.78.34:443#FranceStrasbourg: 221.24 ms
+45.82.255.214:2053#PolandWarsaw: 221.25 ms
+47.252.4.59:15023#UnitedStatesRichmond: 221.47 ms
+46.8.229.48:443#TheNetherlandsAmsterdam: 221.55 ms
+45.144.48.52:2053#PolandWarsaw: 221.69 ms
+45.138.73.83:443#FinlandHelsinki: 221.71 ms
+146.185.153.221:8443#TheNetherlandsAmsterdam: 221.78 ms
+77.91.70.171:2053#FinlandHelsinki: 221.92 ms
+139.28.220.16:2053#FinlandHelsinki: 221.92 ms
+89.22.226.242:8443#SwedenStockholm: 222.56 ms
+45.156.22.150:587#FinlandHelsinki: 222.59 ms
+212.193.1.208:443#TheNetherlandsAmsterdam: 223.01 ms
+78.40.117.186:2053#SwedenTällberg: 223.14 ms
+89.23.113.215:2053#RussiaMoscow: 223.26 ms
+88.218.76.170:443#FranceStrasbourg: 223.28 ms
+78.40.117.49:2053#SwedenTällberg: 223.34 ms
+146.190.236.144:443#TheNetherlandsAmsterdam: 223.44 ms
+212.34.153.65:443#TheNetherlandsAmsterdam: 223.48 ms
+46.8.231.125:443#TheNetherlandsAmsterdam: 223.51 ms
+188.213.168.52:443#ItalyArezzo: 223.59 ms
+139.59.152.149:8443#GermanyFrankfurtamMain: 223.59 ms
+89.110.106.199:2053#TheNetherlandsAmsterdam: 223.75 ms
+104.168.56.93:12138#UnitedStatesBuffalo: 223.88 ms
+91.108.241.44:8443#FinlandHelsinki: 223.91 ms
+45.140.146.80:8443#MoldovaChisinau: 224.09 ms
+91.90.193.24:443#SwitzerlandGeneva: 224.22 ms
+185.94.164.72:443#TheNetherlandsAmsterdam: 224.26 ms
+193.188.20.197:2053#SwedenStockholm: 224.45 ms
+45.82.14.221:443#KazakhstanAlmaty: 224.71 ms
+188.130.154.234:2053#FinlandHelsinki: 224.71 ms
+95.182.99.170:2053#FinlandHelsinki: 224.81 ms
+185.70.185.138:8443#TheNetherlandsAmsterdam: 224.97 ms
+194.156.67.85:8443#MoldovaChisinau: 225.07 ms
+23.254.226.110:443#UnitedStatesSeattle: 225.37 ms
+91.108.241.188:443#FinlandHelsinki: 225.50 ms
+5.180.30.249:2053#UnitedStatesMiami: 225.50 ms
+77.91.77.167:443#GermanyFrankfurtamMain: 225.51 ms
+217.144.186.102:2053#FinlandHelsinki: 225.61 ms
+89.208.97.163:443#FranceParis: 225.61 ms
+45.61.138.147:443#UnitedKingdomLondon: 225.65 ms
+212.113.100.65:443#SwedenStockholm: 225.73 ms
+194.28.224.99:443#GermanyFrankfurtamMain: 225.90 ms
+46.8.228.185:443#FinlandHelsinki: 226.01 ms
+213.255.209.189:443#CanadaToronto: 226.03 ms
+151.115.61.151:2053#PolandWarsaw: 226.07 ms
+188.212.124.32:443#TheNetherlandsDronten: 226.10 ms
+5.180.30.249:443#UnitedStatesMiami: 226.15 ms
+103.13.208.242:443#UnitedKingdomLondon: 226.23 ms
+77.238.248.80:443#TheNetherlandsAmsterdam: 226.34 ms
+45.95.232.18:2053#SwitzerlandZurich: 226.40 ms
+217.144.186.237:2053#FinlandHelsinki: 226.48 ms
+91.108.241.161:2053#FinlandHelsinki: 226.63 ms
+193.84.2.14:2053#FinlandHelsinki: 226.83 ms
+185.120.59.207:2053#FranceParis: 226.99 ms
+35.247.124.181:443#UnitedStatesTheDalles: 227.37 ms
+176.124.202.53:2053#SwedenStockholm: 227.38 ms
+91.192.102.170:8443#SwitzerlandZurich: 227.45 ms
+194.156.103.31:8443#ArmeniaGavarMunicipality: 227.47 ms
+178.250.159.120:2053#RussiaNovoivanovskoye: 227.63 ms
+31.44.2.57:443#TheNetherlandsAmsterdam: 227.69 ms
+188.116.21.18:8443#TheNetherlandsAmsterdam: 227.70 ms
+45.85.93.96:443#SwitzerlandGeneva: 227.74 ms
+185.225.17.233:2053#RomaniaIași: 227.76 ms
+104.249.40.171:2053#TheNetherlandsDronten: 227.76 ms
+77.232.143.3:2053#RussiaMoscow: 227.93 ms
+185.245.105.88:8443#TheNetherlandsAmsterdam: 227.95 ms
+31.133.0.159:2053#PolandPoznan: 228.11 ms
+194.246.82.213:443#TheNetherlandsAmsterdam: 228.19 ms
+80.76.34.13:443#TheNetherlandsAmsterdam: 228.22 ms
+45.138.73.136:8443#FinlandHelsinki: 228.28 ms
+213.255.209.207:443#CanadaToronto: 228.42 ms
+5.101.180.145:443#EstoniaJõhvi: 228.42 ms
+89.22.236.161:2053#SwedenStockholm: 228.55 ms
+172.82.16.38:25953#UnitedStatesSantaClara: 228.71 ms
+217.144.188.147:2053#FinlandHelsinki: 228.74 ms
+192.162.101.119:8443#RussiaNizhniyNovgorod: 228.75 ms
+31.172.70.222:443#GermanyFrankfurtamMain: 228.86 ms
+89.110.112.106:443#TheNetherlandsAmsterdam: 228.94 ms
+45.88.76.184:443#TheNetherlandsOudeMeer: 228.96 ms
+172.232.157.252:8443#SwedenStockholm: 228.97 ms
+192.236.249.89:443#TheNetherlandsAmsterdam: 229.00 ms
+193.3.168.163:443#TheNetherlandsOudeMeer: 229.10 ms
+45.144.51.81:443#PolandWarsaw: 229.24 ms
+194.24.161.146:4090#FranceParis: 229.26 ms
+193.188.21.248:2053#SwedenStockholm: 229.54 ms
+212.86.115.27:443#TheNetherlandsOudeMeer: 229.54 ms
+89.110.83.5:8443#TheNetherlandsAmsterdam: 229.65 ms
+77.83.246.117:2083#PolandWarsaw: 229.93 ms
+178.159.38.148:443#TheNetherlandsMeppel: 229.95 ms
+89.22.225.252:2053#SwedenStockholm: 229.96 ms
+77.238.233.141:443#TheNetherlandsAmsterdam: 229.98 ms
+45.159.251.8:81#PortugalLisbon: 230.01 ms
+95.164.37.32:443#UnitedKingdomCoventry: 230.01 ms
+23.94.5.177:443#UnitedStatesBuffalo: 230.23 ms
+174.138.8.21:443#TheNetherlandsAmsterdam: 230.33 ms
+89.110.107.69:443#TheNetherlandsAmsterdam: 230.35 ms
+89.28.236.243:443#DenmarkNørreÅby: 230.39 ms
+141.148.164.136:34532#UnitedStatesPhoenix: 230.45 ms
+85.215.66.95:19841#GermanyBerlin: 230.49 ms
+88.218.77.42:8443#FranceStrasbourg: 230.59 ms
+185.103.252.54:2053#GermanyFrankfurtamMain: 230.72 ms
+51.195.100.92:8443#GermanyLimburganderLahn: 230.87 ms
+142.93.229.101:443#TheNetherlandsAmsterdam: 230.88 ms
+185.94.164.107:443#TheNetherlandsAmsterdam: 230.97 ms
+194.156.103.58:41210#ArmeniaGavarMunicipality: 231.13 ms
+91.184.242.129:8443#TheNetherlandsAmsterdam: 231.14 ms
+80.85.246.195:2053#TheNetherlandsAmsterdam: 231.22 ms
+46.8.228.182:2053#FinlandHelsinki: 231.36 ms
+164.92.219.230:2053#TheNetherlandsAmsterdam: 231.36 ms
+103.137.249.117:443#TheNetherlandsAmsterdam: 231.76 ms
+89.110.103.15:2053#TheNetherlandsAmsterdam: 231.80 ms
+35.185.54.229:27251#UnitedStatesNorthCharleston: 231.84 ms
+193.164.155.8:2053#FinlandHelsinki: 231.89 ms
+207.174.30.58:443#TheNetherlandsAmsterdam: 231.90 ms
+162.19.242.215:2053#GermanyLimburganderLahn: 231.90 ms
+162.19.254.49:2053#GermanyLimburganderLahn: 231.98 ms
+89.168.43.31:8443#FranceParis: 231.99 ms
+45.147.199.13:443#TheNetherlandsDronten: 232.00 ms
+5.180.30.249:8443#UnitedStatesMiami: 232.02 ms
+85.192.29.136:443#TheNetherlandsAmsterdam: 232.08 ms
+45.90.58.58:81#SwitzerlandGeneva: 232.08 ms
+109.120.133.132:2053#SwedenStockholm: 232.24 ms
+45.82.176.46:443#TheNetherlandsAmsterdam: 232.28 ms
+45.91.200.130:8443#TheNetherlandsOudeMeer: 232.46 ms
+135.125.191.180:2053#GermanyLimburganderLahn: 232.58 ms
+85.192.60.129:443#TheNetherlandsAmsterdam: 232.67 ms
+195.133.75.188:443#NetherlandsDronten: 232.74 ms
+89.110.68.158:443#TheNetherlandsAmsterdam: 232.83 ms
+194.58.68.145:443#TheNetherlandsAmsterdam: 232.92 ms
+51.195.116.16:2053#GermanyLimburganderLahn: 232.97 ms
+176.124.220.179:443#FinlandHelsinki: 232.98 ms
+51.75.74.138:2053#GermanyLimburganderLahn: 233.03 ms
+77.81.234.27:8443#ItalyArezzo: 233.15 ms
+192.162.101.119:2053#RussiaNizhniyNovgorod: 233.19 ms
+77.221.143.81:2053#SwedenStockholm: 233.19 ms
+89.110.115.110:8443#TheNetherlandsAmsterdam: 233.22 ms
+212.34.152.224:443#TheNetherlandsAmsterdam: 233.28 ms
+89.110.75.200:2053#TheNetherlandsAmsterdam: 233.47 ms
+91.184.242.138:443#TheNetherlandsAmsterdam: 233.56 ms
+51.195.119.78:2053#GermanyLimburganderLahn: 233.57 ms
+129.159.84.71:443#UnitedStatesAshburn: 233.65 ms
+192.3.166.78:41095#UnitedStatesMarietta: 233.67 ms
+193.33.153.126:443#NetherlandsAmsterdam: 233.68 ms
+93.183.88.193:443#TheNetherlandsAmsterdam: 233.78 ms
+51.75.70.31:2053#GermanyLimburganderLahn: 233.80 ms
+51.195.116.16:8443#GermanyLimburganderLahn: 233.81 ms
+185.195.69.119:2053#SwitzerlandBern: 233.82 ms
+77.91.78.15:2053#FinlandHelsinki: 233.85 ms
+207.174.30.74:443#TheNetherlandsAmsterdam: 234.06 ms
+212.22.74.89:443#NetherlandsDronten: 234.07 ms
+89.110.78.173:443#TheNetherlandsAmsterdam: 234.11 ms
+192.236.249.88:443#TheNetherlandsAmsterdam: 234.14 ms
+77.81.138.93:2053#GermanyLimburganderLahn: 234.28 ms
+162.19.243.52:2053#GermanyLimburganderLahn: 234.34 ms
+109.107.185.15:443#TheNetherlandsAmsterdam: 234.36 ms
+80.76.35.73:443#TheNetherlandsAmsterdam: 234.50 ms
+192.3.30.175:2053#UnitedStatesBuffalo: 234.57 ms
+192.236.249.103:443#TheNetherlandsAmsterdam: 234.69 ms
+51.195.119.65:8443#GermanyLimburganderLahn: 234.70 ms
+185.233.203.106:443#TheNetherlandsAmsterdam: 234.71 ms
+89.110.118.121:8443#TheNetherlandsAmsterdam: 234.71 ms
+45.43.90.169:443#TheNetherlandsAmsterdam: 234.72 ms
+80.76.34.190:443#TheNetherlandsAmsterdam: 234.77 ms
+195.133.75.35:443#NetherlandsDronten: 234.78 ms
+193.176.153.198:443#FranceParis: 234.81 ms
+77.238.226.230:443#TheNetherlandsAmsterdam: 234.88 ms
+185.94.165.93:443#TheNetherlandsAmsterdam: 234.90 ms
+194.87.62.139:443#NetherlandsDronten: 234.96 ms
+109.120.138.154:2053#GermanyFrankfurtamMain: 234.97 ms
+69.30.212.2:6643#UnitedStatesKansasCity: 234.99 ms
+185.103.255.196:443#TheNetherlandsAmsterdam: 235.02 ms
+185.213.211.29:443#TheNetherlandsMeppel: 235.13 ms
+5.35.69.209:443#TheNetherlandsAmsterdam: 235.29 ms
+37.252.5.75:443#EstoniaTallinn: 235.31 ms
+193.33.153.240:443#NetherlandsAmsterdam: 235.32 ms
+93.114.133.159:443#UnitedKingdomMaidenhead: 235.34 ms
+194.67.200.82:443#FinlandHelsinki: 235.48 ms
+34.105.49.234:443#UnitedStatesTheDalles: 235.49 ms
+89.110.67.172:443#TheNetherlandsAmsterdam: 235.57 ms
+185.47.172.172:8443#ItalyMilano: 235.60 ms
+77.238.231.241:443#TheNetherlandsAmsterdam: 235.66 ms
+5.35.71.48:443#TheNetherlandsAmsterdam: 235.72 ms
+194.164.34.104:433#TheNetherlandsAmsterdam: 235.73 ms
+54.38.159.25:443#GermanyLimburganderLahn: 235.74 ms
+93.127.223.41:443#GermanyFrankfurtamMain: 235.76 ms
+135.125.234.160:8443#GermanyFrankfurtamMain: 235.88 ms
+109.107.184.216:443#TheNetherlandsAmsterdam: 235.90 ms
+89.110.120.29:443#TheNetherlandsAmsterdam: 235.98 ms
+77.238.233.156:9443#TheNetherlandsAmsterdam: 235.99 ms
+188.130.207.158:2053#FranceParis: 236.01 ms
+89.110.120.197:443#TheNetherlandsAmsterdam: 236.06 ms
+5.35.70.155:443#TheNetherlandsAmsterdam: 236.15 ms
+89.117.152.173:443#GermanyFrankfurtamMain: 236.20 ms
+89.110.66.154:443#TheNetherlandsAmsterdam: 236.24 ms
+103.45.245.208:8443#SpainMadrid: 236.26 ms
+35.185.54.229:27207#UnitedStatesNorthCharleston: 236.39 ms
+77.91.101.141:443#UnitedKingdomCoventry: 236.40 ms
+45.144.28.167:443#TheNetherlandsMeppel: 236.43 ms
+185.102.136.128:443#FinlandHelsinki: 236.51 ms
+91.228.154.170:8443#GermanyFrankfurtamMain: 236.53 ms
+93.183.126.123:8443#TheNetherlandsAmsterdam: 236.57 ms
+193.32.178.24:443#NetherlandsDronten: 236.58 ms
+109.107.166.23:443#TheNetherlandsAmsterdam: 236.68 ms
+162.19.243.46:2053#GermanyLimburganderLahn: 236.72 ms
+141.94.207.7:8443#FranceGravelines: 236.72 ms
+89.110.116.141:443#TheNetherlandsAmsterdam: 236.75 ms
+194.55.235.11:2053#RussiaMoscow: 236.76 ms
+94.103.95.115:443#TheNetherlandsAmsterdam: 236.77 ms
+212.34.148.31:443#TheNetherlandsAmsterdam: 236.91 ms
+46.8.224.219:8443#FranceParis: 236.92 ms
+195.200.26.225:443#TheNetherlandsAmsterdam: 236.99 ms
+45.144.48.28:2053#PolandWarsaw: 237.05 ms
+51.178.80.31:8668#FranceStrasbourg: 237.12 ms
+94.247.42.207:443#SwitzerlandHünenberg: 237.15 ms
+54.38.219.132:12055#GermanyLimburganderLahn: 237.22 ms
+195.206.242.143:2053#GermanyFrankfurtamMain: 237.23 ms
+89.110.122.3:443#TheNetherlandsAmsterdam: 237.27 ms
+89.110.107.122:443#TheNetherlandsAmsterdam: 237.31 ms
+188.130.207.158:8443#FranceParis: 237.37 ms
+89.110.109.64:443#TheNetherlandsAmsterdam: 237.40 ms
+77.238.226.178:443#TheNetherlandsAmsterdam: 237.41 ms
+94.131.122.72:443#UnitedKingdomBramshall: 237.44 ms
+158.178.206.197:2053#FranceParis: 237.45 ms
+166.1.201.179:443#TheNetherlandsAmsterdam: 237.45 ms
+80.76.32.12:443#GermanyFrankfurtamMain: 237.47 ms
+31.172.71.51:444#GermanyFrankfurtamMain: 237.48 ms
+51.178.83.50:8443#FranceStrasbourg: 237.65 ms
+31.172.78.69:443#TheNetherlandsRotterdam: 237.69 ms
+93.183.69.31:443#TheNetherlandsAmsterdam: 237.70 ms
+78.40.117.65:8443#SwedenTällberg: 237.75 ms
+35.185.54.229:27271#UnitedStatesNorthCharleston: 237.81 ms
+93.183.124.129:443#TheNetherlandsAmsterdam: 237.81 ms
+23.94.94.192:42539#UnitedStatesMarietta: 237.83 ms
+45.85.93.121:443#SwitzerlandGeneva: 237.85 ms
+51.159.28.94:6221#FranceParis: 237.86 ms
+213.159.208.88:2053#RussiaMoscow: 237.89 ms
+89.110.113.56:2053#TheNetherlandsAmsterdam: 237.89 ms
+104.234.240.114:8443#CanadaToronto: 237.91 ms
+89.110.116.163:443#TheNetherlandsAmsterdam: 237.97 ms
+93.93.119.91:443#SpainMadrid: 238.02 ms
+147.75.236.96:443#UnitedKingdomLondon: 238.08 ms
+45.85.93.83:443#SwitzerlandGeneva: 238.12 ms
+77.238.247.93:443#TheNetherlandsAmsterdam: 238.19 ms
+40.113.60.248:8443#IrelandDublin: 238.38 ms
+51.195.102.134:2053#GermanyLimburganderLahn: 238.44 ms
+40.113.60.248:2053#IrelandDublin: 238.49 ms
+54.37.73.185:2053#GermanySaarbrücken: 238.58 ms
+35.185.54.229:27205#UnitedStatesNorthCharleston: 238.59 ms
+5.180.30.249:2096#UnitedStatesMiami: 238.81 ms
+64.227.114.71:443#GermanyFrankfurtamMain: 238.87 ms
+162.19.252.123:8443#GermanyLimburganderLahn: 238.91 ms
+47.90.220.146:59170#UnitedStatesRichmond: 239.09 ms
+162.19.243.46:8443#GermanyLimburganderLahn: 239.19 ms
+162.19.226.175:8443#GermanyLimburganderLahn: 239.48 ms
+146.59.153.77:8443#FranceGravelines: 239.54 ms
+51.195.102.49:2053#GermanyLimburganderLahn: 239.54 ms
+87.239.250.252:443#TheNetherlandsAmsterdam: 239.54 ms
+66.151.34.227:8443#FinlandHelsinki: 239.56 ms
+45.144.48.49:2053#PolandWarsaw: 239.70 ms
+91.192.102.55:443#SwitzerlandZurich: 239.74 ms
+159.65.162.90:4431#UnitedStatesClifton: 239.77 ms
+80.76.32.165:443#GermanyFrankfurtamMain: 239.82 ms
+35.197.23.75:443#UnitedStatesTheDalles: 239.84 ms
+93.113.171.31:443#TheNetherlandsAmsterdam: 240.12 ms
+31.133.0.124:2053#PolandPoznan: 240.18 ms
+47.90.140.40:44203#UnitedStatesRichmond: 240.27 ms
+51.254.6.14:443#FranceRoubaix: 240.31 ms
+194.26.232.141:443#TheNetherlandsOudeMeer: 240.37 ms
+51.195.119.65:2053#GermanyLimburganderLahn: 240.47 ms
+47.253.87.21:52315#UnitedStatesRichmond: 240.67 ms
+51.38.48.18:8443#FranceRoubaix: 240.68 ms
+162.19.254.52:8443#GermanyLimburganderLahn: 240.70 ms
+62.84.98.178:443#TheNetherlandsAmsterdam: 240.74 ms
+37.48.90.120:443#TheNetherlandsAmsterdam: 240.76 ms
+31.133.1.8:2053#PolandPoznan: 240.77 ms
+51.178.37.179:8443#FranceRoubaix: 241.23 ms
+194.58.44.69:443#TheNetherlandsAmsterdam: 241.27 ms
+193.70.0.150:2053#FranceStrasbourg: 241.33 ms
+80.90.183.75:2053#KazakhstanAlmaty: 241.46 ms
+185.195.69.200:2053#SwitzerlandBern: 241.57 ms
+45.142.215.217:2053#LatviaRiga: 241.59 ms
+51.195.43.174:8443#GermanyFrankfurtamMain: 241.76 ms
+162.19.246.187:8443#GermanyLimburganderLahn: 241.78 ms
+185.94.165.183:443#TheNetherlandsAmsterdam: 241.78 ms
+141.94.70.243:8443#FranceGravelines: 241.79 ms
+66.151.34.227:2053#FinlandHelsinki: 241.79 ms
+151.80.57.36:8443#FranceRoubaix: 241.81 ms
+77.220.214.135:443#TheNetherlandsAmsterdam: 241.87 ms
+206.189.107.82:443#TheNetherlandsAmsterdam: 241.87 ms
+141.95.161.241:2053#FranceGravelines: 241.87 ms
+77.83.175.59:443#TheNetherlandsOudeMeer: 241.97 ms
+194.54.157.81:443#TheNetherlandsMeppel: 241.98 ms
+188.165.2.84:2053#IrelandDublin: 241.98 ms
+47.89.150.45:28626#UnitedStatesRichmond: 242.01 ms
+178.32.42.230:8443#BelgiumZaventem: 242.16 ms
+85.198.11.18:8899#IranTehran: 242.17 ms
+141.94.205.129:8443#FranceGravelines: 242.23 ms
+5.161.176.159:50121#UnitedStatesAshburn: 242.25 ms
+132.226.119.111:24361#UnitedStatesPhoenix: 242.27 ms
+5.161.176.159:50001#UnitedStatesAshburn: 242.28 ms
+141.95.159.211:8443#FranceRoubaix: 242.28 ms
+141.94.221.230:2053#FranceGravelines: 242.33 ms
+51.210.150.130:8443#FranceGravelines: 242.45 ms
+91.184.242.63:443#TheNetherlandsAmsterdam: 242.45 ms
+47.89.150.45:21575#UnitedStatesRichmond: 242.45 ms
+94.142.137.72:443#TheNetherlandsAmsterdam: 242.49 ms
+178.32.137.165:2053#FranceStrasbourg: 242.49 ms
+141.94.204.144:8443#FranceGravelines: 242.51 ms
+212.111.89.16:443#TheNetherlandsAmsterdam: 242.56 ms
+77.91.74.150:8443#IsraelPetahTikva: 242.70 ms
+45.144.29.77:443#TheNetherlandsMeppel: 242.76 ms
+46.8.228.182:8443#FinlandHelsinki: 242.76 ms
+51.159.6.227:8443#FranceParis: 242.77 ms
+188.165.137.201:2053#FinlandHelsinki: 242.86 ms
+51.210.150.130:2053#FranceGravelines: 242.89 ms
+185.66.164.51:443#UnitedKingdomLoudwater: 242.94 ms
+34.82.76.253:443#UnitedStatesTheDalles: 242.95 ms
+140.238.158.238:8080#CanadaToronto: 243.00 ms
+207.211.176.65:13425#UnitedStatesChicago: 243.01 ms
+194.147.33.13:443#NetherlandsDronten: 243.02 ms
+23.108.217.103:443#TheNetherlandsAmsterdam: 243.05 ms
+5.161.176.159:50000#UnitedStatesAshburn: 243.14 ms
+77.232.143.3:443#RussiaMoscow: 243.19 ms
+217.160.216.30:443#GermanyFrankfurtamMain: 243.29 ms
+129.213.136.180:443#UnitedStatesAshburn: 243.37 ms
+57.129.47.3:2053#GermanyFrankfurtamMain: 243.39 ms
+77.238.249.50:2053#TheNetherlandsAmsterdam: 243.41 ms
+103.231.73.153:443#LatviaRiga: 243.48 ms
+193.33.153.92:443#NetherlandsAmsterdam: 243.54 ms
+103.82.101.179:443#FranceParis: 243.57 ms
+89.110.117.195:443#TheNetherlandsAmsterdam: 243.65 ms
+45.85.93.59:443#SwitzerlandGeneva: 243.65 ms
+192.236.249.107:443#TheNetherlandsAmsterdam: 243.66 ms
+195.133.79.154:443#TheNetherlandsAmsterdam: 243.66 ms
+141.94.63.242:2053#RussiaMoscow: 243.73 ms
+193.109.84.39:443#FinlandHelsinki: 243.81 ms
+51.210.96.119:2053#FranceGravelines: 243.84 ms
+185.252.144.185:8443#FinlandHelsinki: 243.85 ms
+140.238.158.238:443#CanadaToronto: 243.85 ms
+141.94.221.26:2053#FranceGravelines: 243.88 ms
+212.34.149.185:443#TheNetherlandsAmsterdam: 243.90 ms
+31.133.0.143:2053#PolandPoznan: 243.93 ms
+45.144.48.182:8443#PolandWarsaw: 243.96 ms
+91.192.102.92:443#SwitzerlandZurich: 243.98 ms
+195.58.50.233:443#NetherlandsDronten: 244.00 ms
+94.23.164.46:8443#GermanyLimburganderLahn: 244.05 ms
+51.38.227.72:8443#FranceGravelines: 244.09 ms
+206.189.99.40:433#TheNetherlandsAmsterdam: 244.11 ms
+51.83.40.171:2053#FranceAnor: 244.12 ms
+176.105.253.98:443#PolandWarsaw: 244.19 ms
+51.178.83.212:8443#FranceStrasbourg: 244.23 ms
+185.94.165.167:443#TheNetherlandsAmsterdam: 244.32 ms
+178.32.42.230:2053#BelgiumZaventem: 244.33 ms
+47.252.4.59:38181#UnitedStatesRichmond: 244.35 ms
+92.222.22.40:8443#FranceParis: 244.41 ms
+163.5.187.221:443#GermanyLimburganderLahn: 244.44 ms
+103.90.73.117:443#TheNetherlandsAmsterdam: 244.44 ms
+77.221.136.95:443#SwedenStockholm: 244.48 ms
+5.161.176.159:50120#UnitedStatesAshburn: 244.49 ms
+194.246.81.230:443#TheNetherlandsAmsterdam: 244.51 ms
+91.149.242.110:443#SpainMadrid: 244.52 ms
+51.91.100.173:2053#FranceStrasbourg: 244.59 ms
+138.197.9.141:6000#UnitedStatesClifton: 244.62 ms
+38.180.93.241:443#FranceParis: 244.63 ms
+167.71.243.238:21857#UnitedStatesClifton: 244.64 ms
+141.94.63.242:8443#RussiaMoscow: 244.65 ms
+89.110.123.23:443#TheNetherlandsAmsterdam: 244.65 ms
+63.209.32.91:4433#UnitedStatesPiscataway: 244.71 ms
+158.101.39.0:42979#UnitedStatesPhoenix: 244.73 ms
+77.238.250.71:8443#TheNetherlandsAmsterdam: 244.76 ms
+89.110.125.45:443#TheNetherlandsAmsterdam: 244.80 ms
+89.110.112.54:443#TheNetherlandsAmsterdam: 244.83 ms
+109.61.95.21:8080#UnitedKingdomLondon: 244.94 ms
+141.95.149.52:2053#FranceGravelines: 244.97 ms
+103.45.245.208:2053#SpainMadrid: 245.00 ms
+54.37.64.126:2053#FranceStrasbourg: 245.06 ms
+5.35.70.49:443#TheNetherlandsAmsterdam: 245.07 ms
+188.165.26.180:2053#FranceParis: 245.18 ms
+141.94.223.93:2053#FranceGravelines: 245.18 ms
+194.76.173.98:2053#GermanyLimburganderLahn: 245.19 ms
+51.195.40.4:2053#GermanyLimburganderLahn: 245.31 ms
+172.245.129.72:27486#UnitedStatesChicago: 245.35 ms
+67.207.73.198:443#GermanyFrankfurtamMain: 245.38 ms
+162.19.242.215:8443#GermanyLimburganderLahn: 245.48 ms
+89.185.84.131:8443#UnitedKingdomLondon: 245.51 ms
+193.70.0.150:8443#FranceStrasbourg: 245.55 ms
+45.112.195.46:2053#FranceParis: 245.66 ms
+162.19.226.175:2053#GermanyLimburganderLahn: 245.83 ms
+194.164.32.32:443#TheNetherlandsAmsterdam: 245.84 ms
+188.165.137.201:8443#FinlandHelsinki: 245.85 ms
+141.94.206.26:8443#FranceLille: 245.88 ms
+51.178.83.65:2053#FranceStrasbourg: 245.94 ms
+51.38.227.155:2053#FranceGravelines: 245.95 ms
+193.233.115.79:8443#SwedenStockholm: 245.97 ms
+212.192.215.163:443#TheNetherlandsAmsterdam: 246.01 ms
+207.154.235.176:2053#GermanyFrankfurtamMain: 246.07 ms
+162.19.246.187:2053#GermanyLimburganderLahn: 246.20 ms
+89.110.127.203:443#TheNetherlandsAmsterdam: 246.26 ms
+162.19.243.52:8443#GermanyLimburganderLahn: 246.46 ms
+54.37.64.148:8443#FranceStrasbourg: 246.48 ms
+46.226.161.71:443#SwedenStockholm: 246.57 ms
+147.45.74.190:443#SwedenStockholm: 246.58 ms
+185.94.167.181:8443#FinlandHelsinki: 246.67 ms
+51.195.100.247:2053#GermanyLimburganderLahn: 246.67 ms
+57.129.5.70:2053#GermanyFrankfurtamMain: 246.76 ms
+51.178.80.153:2053#FranceStrasbourg: 246.78 ms
+45.144.48.186:8443#PolandWarsaw: 246.80 ms
+141.94.221.230:8443#FranceGravelines: 246.81 ms
+77.238.236.106:443#TheNetherlandsAmsterdam: 246.82 ms
+212.193.1.100:443#TheNetherlandsAmsterdam: 246.87 ms
+77.238.242.88:443#TheNetherlandsAmsterdam: 246.90 ms
+31.133.0.122:2053#PolandPoznan: 246.93 ms
+77.238.247.131:443#TheNetherlandsAmsterdam: 246.98 ms
+109.169.76.23:443#UnitedKingdomMaidenhead: 246.99 ms
+91.132.196.229:443#TheNetherlandsDronten: 247.04 ms
+45.144.48.46:2053#PolandWarsaw: 247.12 ms
+46.101.221.88:8443#GermanyFrankfurtamMain: 247.20 ms
+109.120.185.100:2053#FinlandHelsinki: 247.29 ms
+87.98.237.23:8443#PolandWroclaw: 247.30 ms
+51.178.81.163:8443#FranceStrasbourg: 247.41 ms
+77.221.143.39:443#SwedenStockholm: 247.42 ms
+57.129.5.105:8443#GermanyFrankfurtamMain: 247.45 ms
+188.165.1.138:2053#FranceParis: 247.57 ms
+89.110.68.127:443#TheNetherlandsAmsterdam: 247.60 ms
+45.153.187.209:2053#SwedenStockholm: 247.77 ms
+54.37.64.97:8443#FranceStrasbourg: 247.77 ms
+185.225.17.233:8443#RomaniaIași: 247.81 ms
+217.144.189.127:443#TheNetherlandsAmsterdam: 247.89 ms
+89.251.9.4:15466#CanadaToronto: 247.92 ms
+162.19.242.212:2053#GermanyLimburganderLahn: 248.07 ms
+146.59.225.232:2053#FranceGravelines: 248.08 ms
+77.238.246.45:443#TheNetherlandsAmsterdam: 248.09 ms
+194.87.18.92:443#SwitzerlandGeneva: 248.14 ms
+192.210.161.147:443#UnitedStatesBuffalo: 248.15 ms
+212.34.152.234:8443#TheNetherlandsAmsterdam: 248.17 ms
+95.164.23.71:443#HungaryBudapest: 248.21 ms
+94.131.122.145:2053#UnitedKingdomCoventry: 248.32 ms
+51.38.51.190:2053#FranceRoubaix: 248.39 ms
+194.147.115.132:443#TheNetherlandsDronten: 248.45 ms
+89.110.108.189:8443#TheNetherlandsAmsterdam: 248.51 ms
+51.178.83.50:2053#FranceStrasbourg: 248.67 ms
+147.45.73.218:443#SwedenStockholm: 248.73 ms
+141.94.206.218:8443#FranceLille: 248.74 ms
+77.238.242.168:443#TheNetherlandsAmsterdam: 248.76 ms
+89.110.100.110:443#TheNetherlandsAmsterdam: 248.80 ms
+51.195.44.192:2053#GermanyLimburganderLahn: 248.88 ms
+91.149.240.37:443#TheNetherlandsAmsterdam: 248.90 ms
+31.214.175.108:8443#IranTehran: 248.92 ms
+70.34.244.250:12531#PolandWarsaw: 248.92 ms
+195.206.242.143:8443#GermanyFrankfurtamMain: 248.92 ms
+50.228.203.26:443#UnitedStatesPompanoBeach: 248.94 ms
+141.94.220.168:8443#FranceRoubaix: 249.26 ms
+37.187.225.21:8443#FranceRoubaix: 249.26 ms
+93.183.91.227:443#TheNetherlandsAmsterdam: 249.28 ms
+109.107.164.231:443#TheNetherlandsAmsterdam: 249.38 ms
+77.221.139.63:2053#SwedenStockholm: 249.53 ms
+193.124.41.165:8443#PolandWarsaw: 249.58 ms
+146.59.19.208:8443#PolandWarsaw: 249.64 ms
+193.124.190.40:2053#RussiaMoscow: 249.70 ms
+51.75.75.132:8443#GermanyLimburganderLahn: 249.79 ms
+89.110.108.46:443#TheNetherlandsAmsterdam: 249.80 ms
+91.121.54.50:700#FranceRoubaix: 249.83 ms
+147.45.114.98:443#TheNetherlandsDronten: 249.89 ms
+89.110.66.68:443#TheNetherlandsAmsterdam: 250.01 ms
+80.90.183.75:8443#KazakhstanAlmaty: 250.10 ms
+94.23.164.46:2053#GermanyLimburganderLahn: 250.18 ms
+92.222.24.127:8443#FranceParis: 250.32 ms
+45.144.232.74:587#NetherlandsDronten: 250.35 ms
+45.80.208.126:8081#KazakhstanAlmaty: 250.46 ms
+45.143.167.213:443#NetherlandsAmsterdam: 250.64 ms
+51.178.83.65:8443#FranceStrasbourg: 250.69 ms
+46.226.161.37:443#SwedenStockholm: 250.72 ms
+194.58.68.74:443#TheNetherlandsAmsterdam: 250.76 ms
+141.94.207.218:8443#FranceGravelines: 250.87 ms
+141.94.223.220:2053#FranceGravelines: 250.97 ms
+193.188.21.207:2053#SwedenStockholm: 251.07 ms
+107.172.159.182:443#UnitedStatesMarietta: 251.10 ms
+109.107.165.225:443#TheNetherlandsAmsterdam: 251.14 ms
+185.104.181.228:443#RomaniaBucharest: 251.15 ms
+192.3.7.50:27894#UnitedStatesBuffalo: 251.17 ms
+103.45.245.201:29016#SpainMadrid: 251.24 ms
+94.131.105.101:2053#TheNetherlandsMeppel: 251.28 ms
+195.133.38.227:443#TheNetherlandsAmsterdam: 251.30 ms
+77.91.78.18:8443#FinlandHelsinki: 251.33 ms
+198.46.143.134:443#UnitedStatesBuffalo: 251.34 ms
+103.45.245.201:59889#SpainMadrid: 251.58 ms
+89.22.232.227:443#SwedenStockholm: 251.69 ms
+85.192.29.4:443#TheNetherlandsAmsterdam: 251.72 ms
+38.180.22.20:1001#ItalyMilan: 251.77 ms
+92.118.169.4:56149#NetherlandsDronten: 251.86 ms
+83.217.211.239:443#NetherlandsDronten: 251.86 ms
+91.149.253.249:443#PolandWarsaw: 251.99 ms
+188.116.20.93:443#KazakhstanAlmaty: 252.05 ms
+95.182.96.30:2053#FranceParis: 252.07 ms
+91.239.148.133:443#PolandGdansk: 252.08 ms
+94.23.72.40:2053#ItalyMilan: 252.14 ms
+18.216.55.100:443#UnitedStatesDublin: 252.19 ms
+141.94.221.240:2053#FranceGravelines: 252.44 ms
+5.253.40.143:8443#RomaniaBucharest: 252.45 ms
+185.103.253.35:443#GermanyFrankfurtamMain: 252.69 ms
+51.178.39.34:2053#FranceRoubaix: 252.71 ms
+89.168.68.57:8443#GermanyFrankfurtamMain: 252.81 ms
+141.95.159.211:2053#FranceRoubaix: 252.86 ms
+31.133.0.167:2053#PolandPoznan: 252.88 ms
+144.24.195.115:23010#FranceMarseille: 253.02 ms
+87.98.235.174:8443#PolandWroclaw: 253.09 ms
+51.38.48.27:2053#FranceRoubaix: 253.13 ms
+193.17.183.157:8443#SpainMadrid: 253.17 ms
+141.94.205.248:8443#FranceGravelines: 253.18 ms
+185.114.73.166:8443#SpainMadrid: 253.22 ms
+31.133.0.150:2053#PolandPoznan: 253.25 ms
+188.165.26.178:2053#FranceParis: 253.29 ms
+45.138.73.136:2053#FinlandHelsinki: 253.34 ms
+185.94.165.218:443#TheNetherlandsAmsterdam: 253.37 ms
+162.19.24.169:2053#FranceGravelines: 253.47 ms
+141.94.222.33:2053#FranceGravelines: 253.47 ms
+91.103.140.175:2053#FinlandHelsinki: 253.62 ms
+78.40.117.65:2053#SwedenTällberg: 253.74 ms
+212.227.90.142:443#SpainMadrid: 253.76 ms
+193.164.155.27:2053#FinlandHelsinki: 253.77 ms
+178.62.17.85:443#UnitedKingdomSlough: 253.77 ms
+194.146.24.199:8443#UnitedKingdomLondon: 253.86 ms
+146.59.153.77:2053#FranceGravelines: 253.96 ms
+185.94.165.207:443#TheNetherlandsAmsterdam: 253.96 ms
+77.221.137.133:443#SwedenStockholm: 254.22 ms
+178.33.161.196:2053#SpainMadrid: 254.24 ms
+85.209.195.61:8443#UnitedStatesLosAngeles: 254.34 ms
+129.213.22.27:11650#UnitedStatesAshburn: 254.50 ms
+125.7.24.251:443#AustraliaSydney: 254.54 ms
+188.215.229.74:8443#TheNetherlandsAmsterdam: 254.55 ms
+93.183.124.199:443#TheNetherlandsAmsterdam: 254.56 ms
+141.94.221.241:2053#FranceGravelines: 254.58 ms
+162.19.64.105:2053#FranceGravelines: 254.58 ms
+45.159.249.160:2053#FinlandHelsinki: 254.75 ms
+185.112.82.28:443#FinlandHelsinki: 254.79 ms
+87.98.235.90:8443#PolandWroclaw: 254.93 ms
+212.111.82.92:443#TheNetherlandsAmsterdam: 254.95 ms
+178.33.161.196:8443#SpainMadrid: 254.97 ms
+80.233.248.56:2053#LatviaDobele: 255.05 ms
+146.59.153.201:2053#FranceGravelines: 255.13 ms
+89.22.232.119:443#SwedenStockholm: 255.16 ms
+89.110.103.212:443#TheNetherlandsAmsterdam: 255.26 ms
+188.165.1.138:8443#FranceParis: 255.35 ms
+162.19.65.172:2053#FranceGravelines: 255.36 ms
+188.165.54.172:2053#FranceRoubaix: 255.40 ms
+45.159.249.160:8443#FinlandHelsinki: 255.48 ms
+54.36.103.135:8443#FranceGravelines: 255.48 ms
+141.94.221.79:2053#FranceGravelines: 255.50 ms
+89.110.79.248:443#TheNetherlandsAmsterdam: 255.60 ms
+141.94.205.202:2053#FranceGravelines: 255.68 ms
+194.164.32.50:443#TheNetherlandsAmsterdam: 255.72 ms
+147.45.72.32:8443#SwedenStockholm: 255.72 ms
+146.59.19.208:2053#PolandWarsaw: 255.77 ms
+57.129.5.108:8443#GermanyFrankfurtamMain: 255.83 ms
+193.233.115.79:2053#SwedenStockholm: 255.86 ms
+141.94.222.105:2053#FranceGravelines: 255.86 ms
+146.70.88.123:2053#FranceSaint-Denis: 255.87 ms
+94.23.144.99:8443#FranceRoubaix: 255.91 ms
+45.144.51.79:8443#PolandWarsaw: 255.94 ms
+185.103.255.142:443#TheNetherlandsAmsterdam: 255.98 ms
+107.172.132.165:43333#UnitedStatesBuffalo: 256.02 ms
+89.22.232.43:443#SwedenStockholm: 256.02 ms
+94.23.169.3:2053#FranceParis: 256.02 ms
+31.133.0.55:2053#PolandPoznan: 256.08 ms
+45.144.48.29:2053#PolandWarsaw: 256.10 ms
+162.19.66.30:8443#FranceGravelines: 256.13 ms
+193.233.115.226:8443#SwedenStockholm: 256.17 ms
+103.106.1.2:443#TheNetherlandsMeppel: 256.21 ms
+194.146.24.199:2053#UnitedKingdomLondon: 256.29 ms
+5.35.70.38:443#TheNetherlandsAmsterdam: 256.35 ms
+206.189.50.155:1443#GermanyFrankfurtamMain: 256.40 ms
+135.125.191.180:8443#GermanyLimburganderLahn: 256.45 ms
+77.91.85.46:8443#SwedenStockholm: 256.48 ms
+109.120.135.91:8443#SwedenStockholm: 256.53 ms
+51.38.227.155:8443#FranceGravelines: 256.59 ms
+45.159.249.141:8443#FinlandHelsinki: 256.64 ms
+2.56.206.64:443#ArmeniaArinj: 256.67 ms
+217.142.230.253:587#JapanOsaka: 256.68 ms
+54.37.73.185:8443#GermanySaarbrücken: 256.76 ms
+141.94.207.218:2053#FranceGravelines: 256.76 ms
+51.38.50.52:2053#FranceRoubaix: 256.76 ms
+77.221.141.255:2053#SwedenStockholm: 256.91 ms
+2.56.205.182:2053#ArmeniaArinj: 256.91 ms
+91.149.223.242:443#GermanyFrankfurtamMain: 256.91 ms
+45.138.25.67:2053#TheNetherlandsAmsterdam: 256.92 ms
+194.164.33.236:443#TheNetherlandsAmsterdam: 256.95 ms
+162.19.24.253:2053#FranceGravelines: 256.98 ms
+95.179.140.212:443#TheNetherlandsAmsterdam: 257.05 ms
+167.99.137.56:443#GermanyFrankfurtamMain: 257.09 ms
+103.15.90.134:49678#VietnamCầuDiễn: 257.12 ms
+80.85.246.245:443#TheNetherlandsAmsterdam: 257.14 ms
+109.107.187.20:443#TheNetherlandsAmsterdam: 257.26 ms
+195.200.16.44:443#TheNetherlandsAmsterdam: 257.39 ms
+178.32.137.165:8443#FranceStrasbourg: 257.40 ms
+195.58.50.134:443#NetherlandsDronten: 257.41 ms
+194.58.68.145:433#TheNetherlandsAmsterdam: 257.45 ms
+45.112.195.55:2053#FranceParis: 257.50 ms
+45.82.80.96:443#SwedenStockholm: 257.51 ms
+141.98.169.24:8443#FinlandHelsinki: 257.52 ms
+159.100.9.253:8443#GermanyFrankfurtamMain: 257.77 ms
+51.38.48.228:2053#FranceRoubaix: 257.79 ms
+199.59.229.178:443#GermanyFrankfurtamMain: 257.79 ms
+172.98.207.58:443#CanadaHampton: 257.82 ms
+141.94.206.222:2053#FranceLille: 257.84 ms
+141.95.193.15:2053#FranceGravelines: 257.86 ms
+159.100.199.200:443#TheNetherlandsAmsterdam: 257.95 ms
+54.37.64.120:2053#FranceStrasbourg: 257.95 ms
+37.187.98.185:443#FranceRoubaix: 257.99 ms
+88.210.9.239:443#TheNetherlandsAmsterdam: 258.02 ms
+164.92.132.226:8443#GermanyFrankfurtamMain: 258.06 ms
+195.200.26.238:433#TheNetherlandsAmsterdam: 258.07 ms
+141.94.220.168:2053#FranceRoubaix: 258.15 ms
+31.220.42.149:2053#TheNetherlandsAmsterdam: 258.20 ms
+193.32.178.156:50025#NetherlandsDronten: 258.24 ms
+188.130.207.126:28869#FranceParis: 258.27 ms
+188.165.2.84:8443#IrelandDublin: 258.30 ms
+68.183.10.184:8443#TheNetherlandsAmsterdam: 258.33 ms
+193.32.177.79:443#UnitedStatesSecaucus: 258.33 ms
+5.187.7.200:21821#GermanyFrankfurtamMain: 258.37 ms
+77.221.137.105:8443#SwedenStockholm: 258.46 ms
+212.34.146.6:8443#TheNetherlandsAmsterdam: 258.51 ms
+213.218.238.68:2053#PolandWarsaw: 258.55 ms
+51.195.45.137:2053#GermanyLimburganderLahn: 258.65 ms
+194.68.44.27:81#RomaniaBucharest: 258.67 ms
+51.75.73.20:2053#GermanyLimburganderLahn: 258.86 ms
+159.223.236.56:443#TheNetherlandsAmsterdam: 258.92 ms
+158.101.199.249:8443#NetherlandsAmsterdam: 259.03 ms
+45.95.232.115:2053#SwitzerlandZurich: 259.07 ms
+141.148.1.34:38589#UnitedStatesAshburn: 259.14 ms
+37.221.125.147:2053#UnitedKingdomLondon: 259.20 ms
+185.114.72.31:8443#SpainMadrid: 259.21 ms
+23.95.113.61:443#UnitedStatesAshburn: 259.35 ms
+46.101.243.68:443#GermanyFrankfurtamMain: 259.35 ms
+91.184.242.155:443#TheNetherlandsAmsterdam: 259.36 ms
+51.195.41.72:2053#GermanyLimburganderLahn: 259.37 ms
+185.114.72.119:24780#SpainMadrid: 259.44 ms
+54.37.64.148:2053#FranceStrasbourg: 259.58 ms
+107.175.158.215:443#UnitedStatesBuffalo: 259.71 ms
+31.220.42.149:8443#TheNetherlandsAmsterdam: 259.80 ms
+139.59.152.149:2053#GermanyFrankfurtamMain: 259.83 ms
+5.180.182.128:443#NetherlandsAmsterdam: 259.84 ms
+89.168.83.143:8443#GermanyFrankfurtamMain: 259.85 ms
+194.113.211.115:2053#UnitedStatesNewYork: 260.02 ms
+172.235.49.135:17973#UnitedStatesLosAngeles: 260.23 ms
+139.60.162.153:443#UnitedStatesNewYork: 260.48 ms
+138.197.152.31:2053#CanadaToronto: 260.52 ms
+157.245.27.205:443#GermanyFrankfurtamMain: 260.66 ms
+64.225.68.226:443#TheNetherlandsAmsterdam: 260.84 ms
+188.227.86.12:30718#TheNetherlandsAmsterdam: 260.87 ms
+193.33.153.90:2053#NetherlandsAmsterdam: 260.89 ms
+107.172.43.162:443#UnitedStatesBuffalo: 261.07 ms
+158.180.49.11:2053#GermanyFrankfurtamMain: 261.10 ms
+31.128.36.148:2053#RussiaStPetersburg: 261.11 ms
+194.113.211.115:8443#UnitedStatesNewYork: 261.33 ms
+158.180.49.11:8443#GermanyFrankfurtamMain: 261.65 ms
+194.156.67.85:2053#MoldovaChisinau: 262.11 ms
+212.80.205.244:2053#IsraelTelAviv: 262.34 ms
+171.103.232.58:20475#ThailandBangkok: 262.62 ms
+45.133.216.186:443#LatviaRiga: 262.67 ms
+91.149.254.138:443#FinlandHelsinki: 262.74 ms
+213.183.48.227:443#RussiaMoscow: 262.83 ms
+104.248.17.101:443#GermanyFrankfurtamMain: 263.05 ms
+77.246.108.130:443#TheNetherlandsAmsterdam: 263.21 ms
+141.147.10.210:8881#GermanyFrankfurtamMain: 263.22 ms
+193.178.172.225:2053#TheNetherlandsAmsterdam: 263.47 ms
+46.17.107.183:443#UnitedStatesNewYork: 263.57 ms
+45.9.72.114:54505#FinlandHelsinki: 263.57 ms
+88.210.11.164:22284#TheNetherlandsAmsterdam: 264.13 ms
+82.118.22.141:2053#PolandGdansk: 264.44 ms
+164.90.194.71:2053#TheNetherlandsAmsterdam: 264.70 ms
+34.22.190.30:443#BelgiumBrussels: 264.90 ms
+51.178.81.223:2053#FranceStrasbourg: 264.90 ms
+88.210.11.164:22285#TheNetherlandsAmsterdam: 264.91 ms
+45.129.199.232:443#EstoniaTallinn: 264.97 ms
+194.87.45.19:8443#SpainMadrid: 265.03 ms
+89.168.68.57:2053#GermanyFrankfurtamMain: 265.12 ms
+172.245.226.156:443#UnitedStatesDallas: 265.13 ms
+77.223.215.167:443#GermanyFrankfurtamMain: 265.16 ms
+2.56.204.183:443#ArmeniaArinj: 265.23 ms
+51.68.162.33:443#GermanyLimburganderLahn: 265.42 ms
+213.218.238.223:8443#PolandWarsaw: 265.48 ms
+57.129.5.128:2053#GermanyFrankfurtamMain: 265.81 ms
+162.19.247.245:443#GermanyLimburganderLahn: 266.05 ms
+45.85.93.49:443#SwitzerlandGeneva: 266.23 ms
+193.124.41.165:2053#PolandWarsaw: 266.25 ms
+145.239.88.255:2053#PolandWroclaw: 266.33 ms
+185.114.72.31:2053#SpainMadrid: 266.38 ms
+217.12.206.160:81#PolandGdansk: 266.56 ms
+69.30.212.5:6643#UnitedStatesKansasCity: 266.65 ms
+5.35.85.201:2053#RussiaStPetersburg: 266.96 ms
+185.23.238.76:443#TheNetherlandsDronten: 267.05 ms
+192.3.155.217:443#UnitedStatesBuffalo: 267.25 ms
+31.128.37.116:8443#RussiaStPetersburg: 267.25 ms
+141.94.221.240:8443#FranceGravelines: 267.40 ms
+34.83.245.149:443#UnitedStatesTheDalles: 267.40 ms
+77.83.246.133:24443#PolandWarsaw: 267.51 ms
+91.208.162.68:443#TheNetherlandsAmsterdam: 267.52 ms
+45.154.207.101:443#GermanyFrankfurtamMain: 267.61 ms
+172.235.40.214:36768#UnitedStatesLosAngeles: 267.81 ms
+141.148.164.46:57239#UnitedStatesPhoenix: 267.83 ms
+94.131.12.56:443#SwitzerlandBern: 267.85 ms
+45.95.232.18:8443#SwitzerlandZurich: 267.87 ms
+152.70.143.175:29187#UnitedStatesPhoenix: 268.14 ms
+141.95.149.52:8443#FranceGravelines: 268.27 ms
+95.182.96.14:8443#FranceParis: 268.48 ms
+5.8.63.23:443#UnitedStatesAshburn: 268.48 ms
+185.114.72.148:443#SpainMadrid: 268.71 ms
+162.19.253.192:8443#GermanyLimburganderLahn: 268.96 ms
+94.23.147.223:8443#PolandWarsaw: 269.06 ms
+57.129.15.103:2053#GermanyFrankfurtamMain: 269.14 ms
+107.174.93.186:52995#UnitedStatesDallas: 269.33 ms
+94.23.171.114:2053#CzechiaPrague: 269.54 ms
+141.95.127.112:8443#GermanyLimburganderLahn: 269.57 ms
+34.168.95.100:12388#UnitedStatesTheDalles: 269.62 ms
+57.129.14.105:2053#GermanyFrankfurtamMain: 269.67 ms
+107.173.30.154:27149#UnitedStatesBuffalo: 269.89 ms
+79.132.139.52:443#TheNetherlandsRotterdam: 269.90 ms
+2.56.205.182:8443#ArmeniaArinj: 269.93 ms
+35.230.79.26:443#UnitedStatesTheDalles: 270.19 ms
+141.95.127.227:8443#GermanyLimburganderLahn: 270.28 ms
+51.75.75.109:2053#GermanyLimburganderLahn: 270.36 ms
+46.32.184.137:2053#LatviaRiga: 270.37 ms
+94.23.167.32:8443#GermanySaarbrücken: 270.37 ms
+57.129.16.33:8443#GermanyFrankfurtamMain: 270.55 ms
+158.101.11.204:15805#UnitedStatesPhoenix: 270.74 ms
+37.187.54.16:2053#FranceRoubaix: 270.74 ms
+195.206.242.141:2053#GermanyFrankfurtamMain: 270.86 ms
+107.148.20.127:29500#UnitedStatesLosAngeles: 270.87 ms
+37.128.204.4:8443#LatviaRiga: 270.96 ms
+91.184.242.46:443#TheNetherlandsAmsterdam: 270.97 ms
+152.70.59.90:8443#NetherlandsAmsterdam: 271.25 ms
+193.124.22.168:2053#LatviaRiga: 271.68 ms
+77.238.228.3:443#TheNetherlandsAmsterdam: 271.68 ms
+216.173.71.171:443#LatviaRiga: 271.74 ms
+109.120.158.198:443#TheNetherlandsDronten: 271.79 ms
+45.89.52.247:443#TürkiyeIzmir: 271.80 ms
+23.94.213.132:27149#UnitedStatesLosAngeles: 271.92 ms
+217.144.189.96:443#TheNetherlandsAmsterdam: 272.00 ms
+185.234.66.91:443#TurkeyIzmir: 272.23 ms
+188.132.129.84:2053#TurkeyOsmangazi: 272.36 ms
+54.36.103.135:2053#FranceGravelines: 272.87 ms
+94.131.100.136:2053#FinlandHelsinki: 273.13 ms
+85.209.195.61:2053#UnitedStatesLosAngeles: 273.19 ms
+172.105.26.112:2443#CanadaToronto: 273.65 ms
+51.195.102.180:8443#GermanyLimburganderLahn: 273.74 ms
+130.61.107.238:8443#GermanyFrankfurtamMain: 273.80 ms
+5.181.20.165:81#FinlandHelsinki: 273.81 ms
+150.230.20.156:8443#NetherlandsAmsterdam: 273.84 ms
+62.133.63.86:8443#TürkiyeIstanbul: 273.90 ms
+23.164.240.143:2053#FinlandHelsinki: 273.94 ms
+176.97.76.48:2053#EgyptCairo: 274.18 ms
+45.86.86.53:443#MoldovaChisinau: 274.34 ms
+5.196.13.49:8443#FranceRoubaix: 274.46 ms
+150.230.20.156:2053#NetherlandsAmsterdam: 274.49 ms
+141.98.169.24:2053#FinlandHelsinki: 274.66 ms
+141.94.70.24:2053#FranceGravelines: 274.73 ms
+185.125.230.155:443#NetherlandsAmsterdam: 274.88 ms
+5.34.211.94:443#LatviaRiga: 275.06 ms
+185.233.203.134:443#TheNetherlandsAmsterdam: 275.19 ms
+51.195.119.76:8443#GermanyLimburganderLahn: 275.26 ms
+51.195.40.4:8443#GermanyLimburganderLahn: 275.34 ms
+51.195.102.180:2053#GermanyLimburganderLahn: 275.53 ms
+51.178.81.223:8443#FranceStrasbourg: 275.65 ms
+194.164.59.222:443#GermanyBerlin: 275.66 ms
+51.75.75.109:8443#GermanyLimburganderLahn: 275.75 ms
+57.129.5.70:8443#GermanyFrankfurtamMain: 275.79 ms
+89.208.97.224:8443#FranceParis: 275.98 ms
+5.34.209.18:2053#LatviaRiga: 276.09 ms
+51.195.44.192:8443#GermanyLimburganderLahn: 276.10 ms
+162.19.254.98:2053#GermanyLimburganderLahn: 276.20 ms
+94.23.147.223:2053#PolandWarsaw: 276.27 ms
+51.75.70.204:2053#GermanyLimburganderLahn: 276.29 ms
+51.195.119.77:2053#GermanyLimburganderLahn: 276.45 ms
+51.75.70.204:8443#GermanyLimburganderLahn: 276.46 ms
+162.19.253.47:2053#GermanyLimburganderLahn: 276.51 ms
+5.34.209.231:2053#LatviaRiga: 276.51 ms
+188.132.129.199:8443#TurkeyOsmangazi: 276.51 ms
+51.195.43.174:2053#GermanyFrankfurtamMain: 276.57 ms
+91.201.112.15:443#TheNetherlandsAmsterdam: 276.58 ms
+51.195.119.175:2053#GermanyLimburganderLahn: 276.60 ms
+51.75.74.138:8443#GermanyLimburganderLahn: 276.63 ms
+51.195.119.195:8443#GermanyLimburganderLahn: 276.63 ms
+212.34.148.227:443#TheNetherlandsAmsterdam: 276.72 ms
+51.38.98.202:443#GermanyLimburganderLahn: 276.79 ms
+142.132.140.130:453#GermanyFalkenstein: 276.84 ms
+212.111.88.212:443#TheNetherlandsAmsterdam: 276.85 ms
+162.19.253.192:2053#GermanyLimburganderLahn: 276.92 ms
+172.245.111.20:443#UnitedStatesBuffalo: 276.97 ms
+162.19.254.49:8443#GermanyLimburganderLahn: 277.11 ms
+195.200.19.246:2053#TheNetherlandsAmsterdam: 277.36 ms
+57.129.16.168:8443#GermanyFrankfurtamMain: 277.40 ms
+51.195.119.195:2053#GermanyLimburganderLahn: 277.43 ms
+31.172.72.83:443#GermanyFrankfurtamMain: 277.44 ms
+45.43.89.159:443#TheNetherlandsAmsterdam: 277.45 ms
+95.164.89.124:2053#GermanyFrankfurtamMain: 277.47 ms
+94.131.114.50:81#IsraelPetahTikva: 277.57 ms
+192.236.249.99:443#TheNetherlandsAmsterdam: 277.69 ms
+195.135.252.36:2053#LatviaRiga: 277.70 ms
+43.153.61.80:40874#UnitedStatesSantaClara: 277.82 ms
+151.80.57.36:2053#FranceRoubaix: 277.93 ms
+51.195.42.9:2053#GermanyLimburganderLahn: 277.95 ms
+193.70.0.78:8443#FranceStrasbourg: 278.02 ms
+185.125.102.167:8443#GermanyFrankfurtAmMain: 278.08 ms
+51.75.70.31:8443#GermanyLimburganderLahn: 278.19 ms
+172.105.62.71:2443#IndiaMumbai: 278.22 ms
+51.178.81.163:2053#FranceStrasbourg: 278.35 ms
+51.195.47.42:2053#GermanyLimburganderLahn: 278.39 ms
+129.159.118.130:18513#UnitedStatesAshburn: 278.40 ms
+51.38.48.18:2053#FranceRoubaix: 278.43 ms
+89.110.126.196:443#TheNetherlandsAmsterdam: 278.49 ms
+162.19.253.47:8443#GermanyLimburganderLahn: 278.51 ms
+92.222.22.40:2053#FranceParis: 278.54 ms
+195.200.19.132:2053#TheNetherlandsAmsterdam: 278.56 ms
+57.129.5.105:2053#GermanyFrankfurtamMain: 278.62 ms
+185.39.204.55:2053#TürkiyeIstanbul: 278.64 ms
+162.19.252.222:2053#GermanyLimburganderLahn: 278.75 ms
+77.238.241.143:443#TheNetherlandsAmsterdam: 278.78 ms
+141.94.220.57:2053#FranceRoubaix: 278.80 ms
+195.200.17.63:443#TheNetherlandsAmsterdam: 278.83 ms
+141.94.204.212:2053#FranceGravelines: 278.84 ms
+89.110.110.157:443#TheNetherlandsAmsterdam: 278.85 ms
+62.112.221.177:6633#UnitedKingdomHarlesden: 278.87 ms
+194.58.39.80:443#GermanyFrankfurtamMain: 278.91 ms
+5.35.85.201:8443#RussiaStPetersburg: 278.96 ms
+109.237.98.57:443#TheNetherlandsAmsterdam: 279.03 ms
+89.110.80.121:443#TheNetherlandsAmsterdam: 279.04 ms
+162.19.66.26:2053#FranceGravelines: 279.09 ms
+141.94.221.119:8443#FranceGravelines: 279.09 ms
+159.100.9.253:2053#GermanyFrankfurtamMain: 279.18 ms
+93.183.88.35:443#TheNetherlandsAmsterdam: 279.19 ms
+162.19.252.123:2053#GermanyLimburganderLahn: 279.19 ms
+94.23.74.37:2053#PortugalLisbon: 279.21 ms
+51.195.44.3:2053#GermanyLimburganderLahn: 279.36 ms
+159.100.29.39:8081#GermanyFrankfurtamMain: 279.44 ms
+89.169.8.105:443#TheNetherlandsAmsterdam: 279.53 ms
+45.133.117.185:443#NetherlandsAmsterdam: 279.54 ms
+5.180.55.184:2053#SlovakiaBratislava: 279.55 ms
+54.37.64.126:8443#FranceStrasbourg: 279.81 ms
+77.81.138.100:2053#GermanyLimburganderLahn: 280.08 ms
+51.210.96.182:2053#FranceGravelines: 280.10 ms
+80.211.250.20:8443#PolandWarsaw: 280.19 ms
+141.94.207.7:2053#FranceGravelines: 280.22 ms
+212.80.205.244:8443#IsraelTelAviv: 280.33 ms
+192.236.249.94:443#TheNetherlandsAmsterdam: 280.42 ms
+51.38.227.72:2053#FranceGravelines: 280.55 ms
+141.94.206.218:2053#FranceLille: 280.60 ms
+141.94.204.144:2053#FranceGravelines: 280.64 ms
+92.222.24.127:2053#FranceParis: 280.82 ms
+212.192.215.7:443#TheNetherlandsAmsterdam: 280.82 ms
+141.94.204.212:8443#FranceGravelines: 280.85 ms
+107.173.241.242:44250#UnitedStatesBuffalo: 280.89 ms
+5.34.211.194:2053#LatviaRiga: 280.89 ms
+185.233.80.60:2053#GermanyFrankfurtamMain: 280.94 ms
+89.110.64.180:2053#TheNetherlandsAmsterdam: 281.04 ms
+206.201.196.122:443#AustraliaSydney: 281.09 ms
+62.3.12.76:443#FranceStrasbourg: 281.15 ms
+141.94.68.162:2053#FranceGravelines: 281.16 ms
+77.238.242.162:8443#TheNetherlandsAmsterdam: 281.19 ms
+185.103.255.245:443#TheNetherlandsAmsterdam: 281.26 ms
+192.3.45.148:443#UnitedStatesBuffalo: 281.28 ms
+45.120.178.143:8443#TheNetherlandsMeppel: 281.45 ms
+185.114.72.92:8443#SpainMadrid: 281.71 ms
+77.91.122.34:2053#TheNetherlandsMeppel: 281.72 ms
+51.38.226.4:2053#FranceGravelines: 281.87 ms
+188.132.129.84:8443#TurkeyOsmangazi: 281.91 ms
+80.211.249.68:2053#PolandWarsaw: 282.00 ms
+146.70.88.123:8443#FranceSaint-Denis: 282.04 ms
+152.67.101.72:23010#AustraliaSydney: 282.24 ms
+188.132.129.2:8443#TurkeyOsmangazi: 282.27 ms
+192.236.249.98:443#TheNetherlandsAmsterdam: 282.34 ms
+5.9.192.27:443#GermanyFalkenstein: 282.36 ms
+192.9.183.128:45673#AustraliaSydney: 282.43 ms
+77.91.74.150:2053#IsraelPetahTikva: 282.56 ms
+46.32.184.75:443#LatviaRiga: 282.56 ms
+192.236.249.101:443#TheNetherlandsAmsterdam: 282.60 ms
+5.196.13.217:2053#FranceRoubaix: 282.69 ms
+150.230.146.170:2053#GermanyFrankfurtamMain: 282.78 ms
+138.124.30.8:443#NetherlandsDronten: 283.06 ms
+94.158.219.211:8000#LatviaRiga: 283.39 ms
+135.125.123.246:5432#FranceRoubaix: 283.40 ms
+192.236.249.92:443#TheNetherlandsAmsterdam: 283.41 ms
+94.131.100.225:2053#FinlandHelsinki: 283.46 ms
+57.129.16.33:2053#GermanyFrankfurtamMain: 283.47 ms
+45.142.215.217:8443#LatviaRiga: 283.71 ms
+62.3.12.185:443#GermanyFrankfurtamMain: 283.84 ms
+51.83.40.171:8443#FranceAnor: 283.85 ms
+141.94.70.24:8443#FranceGravelines: 283.94 ms
+51.195.42.173:2053#GermanyLimburganderLahn: 283.96 ms
+141.94.204.167:8443#FranceGravelines: 284.15 ms
+212.118.40.20:8443#TheNetherlandsAmsterdam: 284.22 ms
+91.107.145.203:37607#GermanyFrankfurtAmMain: 284.33 ms
+194.147.33.188:443#NetherlandsDronten: 284.43 ms
+141.148.181.105:38945#UnitedStatesPhoenix: 284.70 ms
+80.211.250.20:2053#PolandWarsaw: 284.75 ms
+91.223.208.217:443#CyprusGermasogeia: 284.83 ms
+195.135.252.27:2053#LatviaRiga: 284.90 ms
+185.40.7.224:443#FinlandHelsinki: 284.99 ms
+140.84.178.238:23010#MexicoLaCañada: 285.03 ms
+5.34.208.44:2053#LatviaRiga: 285.08 ms
+192.236.249.106:443#TheNetherlandsAmsterdam: 285.10 ms
+80.211.249.79:2053#PolandWarsaw: 285.16 ms
+51.38.51.236:8443#FranceRoubaix: 285.32 ms
+80.211.249.68:8443#PolandWarsaw: 285.38 ms
+37.128.204.140:443#LatviaRiga: 285.50 ms
+94.158.219.198:443#LatviaRiga: 285.54 ms
+185.242.106.215:443#LatviaRiga: 285.56 ms
+38.180.51.120:443#PolandGdansk: 285.60 ms
+51.38.51.73:2053#FranceRoubaix: 285.76 ms
+195.135.253.47:8443#LatviaRiga: 285.79 ms
+139.162.191.98:2096#GermanyFrankfurtamMain: 285.80 ms
+141.94.220.57:8443#FranceRoubaix: 285.81 ms
+87.98.235.174:2053#PolandWroclaw: 285.98 ms
+88.99.252.146:443#GermanyFalkenstein: 286.03 ms
+5.39.249.146:443#GermanyFrankfurtAmMain: 286.15 ms
+51.38.51.190:8443#FranceRoubaix: 286.26 ms
+195.135.252.27:8443#LatviaRiga: 286.34 ms
+141.94.220.64:2053#FranceRoubaix: 286.46 ms
+51.38.225.63:2053#FranceGravelines: 286.50 ms
+141.94.206.26:2053#FranceLille: 286.63 ms
+51.178.37.179:2053#FranceRoubaix: 286.65 ms
+94.23.169.3:8443#FranceParis: 286.67 ms
+141.94.222.3:2053#FranceGravelines: 286.71 ms
+162.19.66.26:8443#FranceGravelines: 286.77 ms
+141.94.204.167:2053#FranceGravelines: 286.77 ms
+94.23.168.201:8443#FranceStrasbourg: 286.77 ms
+54.36.100.7:8443#FranceGravelines: 286.82 ms
+135.125.234.160:2053#GermanyFrankfurtamMain: 286.85 ms
+45.112.195.250:8443#FranceParis: 286.90 ms
+195.135.253.29:443#LatviaRiga: 286.93 ms
+172.82.16.38:27061#UnitedStatesSantaClara: 286.93 ms
+141.94.223.93:8443#FranceGravelines: 287.13 ms
+141.95.193.15:8443#FranceGravelines: 287.25 ms
+80.211.249.240:2053#PolandWarsaw: 287.38 ms
+94.23.167.32:2053#GermanySaarbrücken: 287.44 ms
+38.180.62.4:38392#FranceParis: 287.47 ms
+141.94.68.157:8443#FranceGravelines: 287.49 ms
+141.94.205.248:2053#FranceGravelines: 287.49 ms
+37.128.206.80:8443#LatviaRiga: 287.50 ms
+94.23.72.40:8443#ItalyMilan: 287.51 ms
+141.148.153.223:36818#UnitedStatesPhoenix: 287.53 ms
+157.90.119.128:2096#GermanyNuremberg: 287.53 ms
+138.197.152.31:8443#CanadaToronto: 287.61 ms
+141.94.222.188:8443#FranceGravelines: 287.62 ms
+141.94.222.105:8443#FranceGravelines: 287.71 ms
+146.59.225.232:8443#FranceGravelines: 287.72 ms
+192.3.44.158:38613#UnitedStatesBuffalo: 287.79 ms
+94.23.147.217:8443#PolandWarsaw: 287.80 ms
+135.181.197.230:8443#FinlandHelsinki: 287.88 ms
+162.19.65.172:8443#FranceGravelines: 287.92 ms
+88.198.18.246:8443#GermanyFalkenstein: 288.03 ms
+178.33.161.186:2053#SpainMadrid: 288.07 ms
+192.236.249.104:443#TheNetherlandsAmsterdam: 288.10 ms
+91.107.177.114:14444#GermanyFrankfurtAmMain: 288.21 ms
+91.208.206.103:443#TheNetherlandsAmsterdam: 288.21 ms
+62.133.63.149:2083#TürkiyeIstanbul: 288.32 ms
+141.94.205.129:2053#FranceGravelines: 288.43 ms
+194.76.173.71:2053#GermanyLimburganderLahn: 288.46 ms
+91.239.148.100:443#PolandGdansk: 288.47 ms
+178.33.161.186:8443#SpainMadrid: 288.52 ms
+51.75.65.24:8443#GermanyLimburganderLahn: 288.65 ms
+138.201.155.233:2053#GermanyFalkenstein: 288.76 ms
+95.182.96.14:2053#FranceParis: 288.84 ms
+94.23.144.99:2053#FranceRoubaix: 288.85 ms
+141.94.220.157:2053#FranceRoubaix: 288.90 ms
+141.95.161.241:8443#FranceGravelines: 288.91 ms
+192.236.249.109:443#TheNetherlandsAmsterdam: 288.96 ms
+141.94.206.222:8443#FranceLille: 289.01 ms
+54.37.64.120:8443#FranceStrasbourg: 289.07 ms
+51.38.50.211:8443#FranceRoubaix: 289.07 ms
+194.76.173.245:2053#GermanyLimburganderLahn: 289.09 ms
+89.207.12.80:8443#TürkiyeÇekmeköy: 289.23 ms
+141.94.221.119:2053#FranceGravelines: 289.35 ms
+69.30.212.6:6643#UnitedStatesKansasCity: 289.55 ms
+207.154.235.176:8443#GermanyFrankfurtamMain: 289.56 ms
+91.107.157.253:33894#GermanyFrankfurtAmMain: 289.85 ms
+37.187.225.21:2053#FranceRoubaix: 290.21 ms
+37.128.207.179:443#LatviaRiga: 290.25 ms
+185.233.203.134:43735#TheNetherlandsAmsterdam: 290.32 ms
+107.175.35.49:443#UnitedStatesBuffalo: 290.33 ms
+51.75.75.132:2053#GermanyLimburganderLahn: 290.38 ms
+91.107.140.10:8080#GermanyFrankfurtAmMain: 290.42 ms
+80.211.249.240:8443#PolandWarsaw: 290.57 ms
+165.227.134.63:443#GermanyFrankfurtamMain: 290.57 ms
+88.198.13.253:443#GermanyFalkenstein: 290.62 ms
+31.128.37.116:2053#RussiaStPetersburg: 290.66 ms
+198.46.143.134:8443#UnitedStatesBuffalo: 290.79 ms
+91.107.241.90:56879#GermanyFrankfurtAmMain: 290.80 ms
+51.195.117.115:2053#GermanyLimburganderLahn: 291.14 ms
+195.201.231.143:443#GermanyNuremberg: 291.19 ms
+141.95.127.227:2053#GermanyLimburganderLahn: 291.35 ms
+91.107.249.210:2083#GermanyFrankfurtAmMain: 291.49 ms
+170.205.38.77:443#UnitedStatesLosAngeles: 291.52 ms
+159.69.92.30:443#GermanyNuremberg: 291.61 ms
+193.124.22.168:8443#LatviaRiga: 291.76 ms
+96.126.112.12:38298#UnitedStatesRichardson: 291.94 ms
+51.195.45.34:2053#GermanyLimburganderLahn: 291.94 ms
+107.174.63.237:443#UnitedStatesBuffalo: 292.13 ms
+45.85.146.60:443#FranceLauterbourg: 292.13 ms
+51.15.47.222:3443#TheNetherlandsHaarlem: 292.18 ms
+89.117.57.4:2053#FranceLauterbourg: 292.25 ms
+142.132.140.130:449#GermanyFalkenstein: 292.41 ms
+104.168.58.31:443#UnitedStatesBuffalo: 292.41 ms
+51.195.45.34:8443#GermanyLimburganderLahn: 292.56 ms
+216.173.71.106:2053#LatviaRiga: 292.63 ms
+65.109.184.193:2082#FinlandHelsinki: 292.88 ms
+185.114.72.92:2053#SpainMadrid: 293.44 ms
+51.178.80.31:40051#FranceStrasbourg: 293.44 ms
+91.149.253.213:8443#PolandWarsaw: 293.46 ms
+188.116.40.37:443#PolandGdansk: 293.49 ms
+93.183.94.78:6379#RussiaMoscow: 293.54 ms
+91.107.157.253:43801#GermanyFrankfurtAmMain: 293.66 ms
+129.153.127.204:20756#UnitedStatesPhoenix: 293.82 ms
+141.94.68.162:8443#FranceGravelines: 293.83 ms
+94.142.255.97:443#PolandGdansk: 293.94 ms
+91.149.253.213:2053#PolandWarsaw: 293.94 ms
+148.251.30.237:20717#GermanyFalkenstein: 294.16 ms
+37.252.10.91:443#PolandGdansk: 294.19 ms
+95.217.195.186:2053#FinlandHelsinki: 294.20 ms
+38.180.100.80:443#SerbiaBelgrade: 294.35 ms
+51.83.45.59:8443#FranceAnor: 294.41 ms
+148.113.43.228:8443#IndiaMumbai: 294.41 ms
+139.162.145.35:8443#GermanyFrankfurtamMain: 294.75 ms
+194.87.45.19:2053#SpainMadrid: 294.86 ms
+159.100.194.42:443#JapanTokyo: 295.02 ms
+193.17.183.157:2053#SpainMadrid: 295.05 ms
+77.91.74.6:443#IsraelPetahTikva: 295.11 ms
+5.34.211.29:8443#LatviaRiga: 295.39 ms
+141.94.205.22:8443#FranceGravelines: 295.42 ms
+91.197.3.168:8443#LatviaRiga: 295.43 ms
+51.38.51.236:2053#FranceRoubaix: 295.79 ms
+91.107.134.254:36521#GermanyFrankfurtAmMain: 295.89 ms
+46.32.187.228:443#LatviaRiga: 296.01 ms
+194.180.189.36:443#FinlandHelsinki: 296.07 ms
+87.98.237.23:2053#PolandWroclaw: 296.16 ms
+37.128.207.235:443#LatviaRiga: 296.16 ms
+212.6.44.92:443#LatviaRiga: 296.17 ms
+91.107.157.253:20531#GermanyFrankfurtAmMain: 296.21 ms
+193.33.153.151:443#NetherlandsAmsterdam: 296.55 ms
+213.218.238.63:2053#PolandWarsaw: 296.57 ms
+37.27.17.144:22222#FinlandHelsinki: 296.63 ms
+141.94.222.188:2053#FranceGravelines: 296.79 ms
+82.118.22.141:8443#PolandGdansk: 296.86 ms
+145.239.88.255:8443#PolandWroclaw: 296.88 ms
+193.239.160.24:443#BulgariaSofia: 296.99 ms
+49.12.210.182:443#GermanyFalkenstein: 297.06 ms
+216.173.68.7:433#LatviaRiga: 297.24 ms
+195.135.252.244:443#LatviaRiga: 297.32 ms
+87.98.235.90:2053#PolandWroclaw: 297.34 ms
+45.86.229.28:443#SpainMadrid: 297.37 ms
+91.107.142.138:8080#GermanyFrankfurtAmMain: 297.41 ms
+141.94.223.220:443#FranceGravelines: 297.43 ms
+195.135.253.47:2053#LatviaRiga: 297.45 ms
+5.34.215.32:8443#LatviaRiga: 297.45 ms
+213.218.238.157:2053#PolandWarsaw: 297.76 ms
+107.173.251.119:443#UnitedStatesBuffalo: 297.95 ms
+91.197.0.117:8443#LatviaRiga: 298.00 ms
+188.253.18.111:443#LatviaRiga: 298.05 ms
+116.203.99.143:40000#GermanyNuremberg: 298.34 ms
+142.132.140.130:446#GermanyFalkenstein: 298.54 ms
+51.38.50.211:2053#FranceRoubaix: 298.66 ms
+37.128.204.4:2053#LatviaRiga: 298.80 ms
+46.32.185.253:8443#LatviaRiga: 298.82 ms
+91.107.131.10:14362#GermanyFrankfurtAmMain: 298.89 ms
+141.94.205.202:8443#FranceGravelines: 298.92 ms
+92.42.102.22:443#FinlandHelsinki: 298.92 ms
+195.135.252.148:2053#LatviaRiga: 298.92 ms
+94.23.171.114:8443#CzechiaPrague: 299.06 ms
+142.132.140.130:452#GermanyFalkenstein: 299.07 ms
+141.94.221.241:8443#FranceGravelines: 299.26 ms
+185.114.73.166:2053#SpainMadrid: 299.41 ms
+185.242.106.50:443#LatviaRiga: 299.61 ms
+141.94.205.22:2053#FranceGravelines: 299.66 ms
+159.69.180.122:2053#GermanyFalkenstein: 299.68 ms
+185.242.107.80:443#LatviaRiga: 299.76 ms
+176.123.8.150:443#MoldovaChisinau: 299.78 ms
+65.109.206.116:1981#FinlandHelsinki: 299.93 ms
+51.210.96.182:8443#FranceGravelines: 300.18 ms
+141.94.222.3:8443#FranceGravelines: 300.24 ms
+5.196.13.49:2053#FranceRoubaix: 300.38 ms
+94.23.74.37:8443#PortugalLisbon: 300.50 ms
+5.34.212.179:8443#LatviaRiga: 300.57 ms
+135.181.41.26:443#FinlandHelsinki: 300.70 ms
+162.19.65.2:2053#FranceGravelines: 300.78 ms
+107.172.90.21:443#UnitedStatesBuffalo: 300.86 ms
+91.197.3.157:443#LatviaRiga: 300.90 ms
+65.109.202.208:2053#FinlandHelsinki: 300.93 ms
+142.132.140.130:456#GermanyFalkenstein: 301.01 ms
+162.19.24.169:8443#FranceGravelines: 301.14 ms
+94.158.218.180:433#LatviaRiga: 301.36 ms
+38.180.48.228:443#CzechiaPrague: 301.74 ms
+185.242.107.130:57630#LatviaRiga: 302.30 ms
+139.162.145.35:2053#GermanyFrankfurtamMain: 302.76 ms
+216.173.71.220:8443#LatviaRiga: 303.01 ms
+46.32.184.115:443#LatviaRiga: 303.12 ms
+95.164.113.130:443#FinlandHelsinki: 303.19 ms
+91.197.1.93:8443#LatviaRiga: 303.61 ms
+91.197.0.63:443#LatviaRiga: 303.63 ms
+65.109.206.21:8443#FinlandHelsinki: 303.66 ms
+192.236.249.108:443#TheNetherlandsAmsterdam: 303.78 ms
+188.132.192.195:2053#TurkeyGürpınar: 303.82 ms
+46.32.184.64:443#LatviaRiga: 303.82 ms
+192.236.249.111:443#TheNetherlandsAmsterdam: 303.83 ms
+188.132.129.199:2053#TurkeyOsmangazi: 303.90 ms
+5.196.13.217:8443#FranceRoubaix: 303.94 ms
+34.175.202.195:443#SpainMadrid: 304.04 ms
+91.107.134.254:45603#GermanyFrankfurtAmMain: 304.37 ms
+193.239.160.25:443#BulgariaSofia: 304.39 ms
+135.181.198.101:8443#FinlandHelsinki: 304.42 ms
+95.217.186.94:2053#FinlandHelsinki: 304.45 ms
+216.173.70.80:443#LatviaRiga: 304.73 ms
+95.216.148.189:2053#FinlandHelsinki: 304.86 ms
+148.251.30.237:56577#GermanyFalkenstein: 305.04 ms
+37.27.85.102:443#FinlandHelsinki: 305.25 ms
+37.128.207.111:443#LatviaRiga: 305.52 ms
+91.107.157.253:26484#GermanyFrankfurtAmMain: 305.70 ms
+195.135.255.199:443#LatviaRiga: 305.71 ms
+46.32.185.253:2053#LatviaRiga: 305.71 ms
+216.173.70.192:443#LatviaRiga: 305.78 ms
+116.203.58.165:443#GermanyNuremberg: 305.97 ms
+198.200.41.16:12520#UnitedStatesSanJose: 305.99 ms
+82.64.152.55:20304#FranceParis: 306.26 ms
+192.236.249.96:443#TheNetherlandsAmsterdam: 306.35 ms
+91.107.166.26:8888#GermanyFrankfurtAmMain: 306.55 ms
+65.109.202.208:8443#FinlandHelsinki: 306.60 ms
+45.153.187.209:8443#SwedenStockholm: 306.68 ms
+142.132.140.130:444#GermanyFalkenstein: 306.74 ms
+192.236.249.93:443#TheNetherlandsAmsterdam: 307.27 ms
+62.84.102.169:8443#TheNetherlandsAmsterdam: 307.42 ms
+167.235.242.114:443#GermanyFalkenstein: 307.55 ms
+178.20.46.46:443#RussiaMoscow: 307.59 ms
+129.151.128.105:16731#UnitedArabEmiratesMasdarCity: 307.75 ms
+109.107.174.65:8443#TheNetherlandsAmsterdam: 307.80 ms
+129.151.128.114:34834#UnitedArabEmiratesMasdarCity: 308.36 ms
+192.144.39.33:443#LatviaLiepāja: 308.92 ms
+95.217.186.94:9443#FinlandHelsinki: 309.00 ms
+192.236.249.97:443#TheNetherlandsAmsterdam: 309.06 ms
+142.132.165.86:2053#GermanyNuremberg: 309.08 ms
+175.208.202.41:20583#SouthKoreaSongpa-gu: 309.09 ms
+91.107.142.237:8080#GermanyFrankfurtAmMain: 309.17 ms
+65.109.210.191:8443#FinlandHelsinki: 309.57 ms
+188.253.16.238:2053#LatviaRiga: 309.76 ms
+91.107.166.111:2053#GermanyFrankfurtAmMain: 309.77 ms
+152.32.181.246:44070#UnitedArabEmiratesDubai: 310.02 ms
+142.132.140.130:447#GermanyFalkenstein: 310.12 ms
+23.88.112.241:8443#GermanyFalkenstein: 310.15 ms
+65.109.15.37:8443#FinlandHelsinki: 310.23 ms
+77.91.69.51:2053#IsraelTelAviv: 310.37 ms
+65.21.243.37:50001#FinlandHelsinki: 310.39 ms
+95.216.215.126:8443#FinlandHelsinki: 310.44 ms
+192.236.249.105:443#TheNetherlandsAmsterdam: 310.45 ms
+65.109.211.85:3030#FinlandHelsinki: 310.46 ms
+79.142.51.162:65000#KazakhstanAlmaty: 310.99 ms
+142.132.178.99:443#GermanyFalkenstein: 311.09 ms
+91.197.3.168:2053#LatviaRiga: 311.36 ms
+37.27.38.42:443#FinlandHelsinki: 311.43 ms
+188.132.192.194:8443#TurkeyGürpınar: 311.54 ms
+95.216.17.80:443#FinlandHelsinki: 311.57 ms
+65.109.201.6:2053#FinlandHelsinki: 311.65 ms
+135.181.30.234:2053#FinlandHelsinki: 312.10 ms
+193.93.153.82:8443#TheNetherlandsAmsterdam: 312.39 ms
+65.108.242.203:2053#FinlandHelsinki: 312.42 ms
+65.109.15.37:2053#FinlandHelsinki: 312.78 ms
+65.109.211.85:2053#FinlandHelsinki: 312.81 ms
+193.93.153.82:443#TheNetherlandsAmsterdam: 312.83 ms
+192.236.249.110:443#TheNetherlandsAmsterdam: 313.08 ms
+65.108.242.203:8443#FinlandHelsinki: 313.29 ms
+65.109.181.177:38450#FinlandHelsinki: 313.49 ms
+94.131.114.54:2053#IsraelPetahTikva: 313.56 ms
+77.91.69.238:2053#IsraelTelAviv: 314.02 ms
+65.109.201.6:8443#FinlandHelsinki: 314.12 ms
+152.32.255.24:587#VietnamHoChiMinhCity: 314.19 ms
+5.34.211.194:8443#LatviaRiga: 314.25 ms
+192.236.193.108:443#UnitedKingdomLondon: 314.56 ms
+82.115.5.199:443#NetherlandsAmsterdam: 314.57 ms
+65.109.184.193:2086#FinlandHelsinki: 314.81 ms
+185.18.54.61:1080#TheNetherlandsRotterdam: 314.95 ms
+91.107.145.203:37561#GermanyFrankfurtAmMain: 315.01 ms
+91.227.40.125:8443#GermanyFrankfurtamMain: 315.21 ms
+130.162.193.183:15401#AustraliaMelbourne: 315.73 ms
+195.135.252.139:443#LatviaRiga: 315.74 ms
+91.107.233.151:8443#GermanyFrankfurtAmMain: 316.05 ms
+135.181.250.100:2053#FinlandHelsinki: 316.05 ms
+77.91.69.146:443#IsraelTelAviv: 316.24 ms
+5.34.209.231:8443#LatviaRiga: 316.82 ms
+213.148.10.177:443#KazakhstanAlmaty: 319.58 ms
+185.8.129.187:2096#TürkiyeIzmir: 319.78 ms
+192.236.249.95:443#TheNetherlandsAmsterdam: 319.91 ms
+77.91.69.141:2053#IsraelTelAviv: 320.07 ms
+104.234.50.12:2053#UnitedStatesWarrenton: 320.11 ms
+5.34.209.139:2053#LatviaRiga: 320.54 ms
+178.208.77.253:443#TheNetherlandsAmsterdam: 320.96 ms
+104.234.50.19:2053#UnitedStatesWarrenton: 321.00 ms
+135.181.197.230:2053#FinlandHelsinki: 321.01 ms
+51.195.100.92:2053#GermanyLimburganderLahn: 321.13 ms
+135.181.250.100:8443#FinlandHelsinki: 321.50 ms
+51.75.65.24:2053#GermanyLimburganderLahn: 321.59 ms
+51.195.119.76:2053#GermanyLimburganderLahn: 322.52 ms
+65.109.192.28:57286#FinlandHelsinki: 322.77 ms
+51.178.80.153:8443#FranceStrasbourg: 322.87 ms
+192.236.249.102:443#TheNetherlandsAmsterdam: 322.90 ms
+212.237.219.99:443#FinlandHelsinki: 323.23 ms
+5.34.209.18:8443#LatviaRiga: 323.26 ms
+77.91.69.51:8443#IsraelTelAviv: 323.79 ms
+188.253.16.238:8443#LatviaRiga: 323.79 ms
+178.208.79.242:1443#TheNetherlandsAmsterdam: 323.92 ms
+95.216.148.189:8443#FinlandHelsinki: 324.16 ms
+192.9.190.80:23862#AustraliaSydney: 324.90 ms
+152.70.75.80:15805#IndiaHyderabad: 325.04 ms
+5.34.209.203:2053#LatviaRiga: 325.44 ms
+135.181.195.12:443#FinlandHelsinki: 325.58 ms
+77.91.69.238:8443#IsraelTelAviv: 325.63 ms
+82.115.6.111:443#NetherlandsAmsterdam: 325.71 ms
+95.216.215.126:2053#FinlandHelsinki: 326.02 ms
+213.148.1.150:2053#KazakhstanAlmaty: 326.10 ms
+152.69.174.99:25248#AustraliaSydney: 326.21 ms
+37.27.91.126:443#FinlandHelsinki: 326.41 ms
+77.73.71.196:443#LatviaRiga: 326.91 ms
+37.27.4.238:443#FinlandHelsinki: 327.07 ms
+77.91.69.141:8443#IsraelTelAviv: 327.09 ms
+65.21.243.37:50000#FinlandHelsinki: 327.09 ms
+192.9.180.162:443#AustraliaSydney: 327.17 ms
+192.236.249.90:443#TheNetherlandsAmsterdam: 327.26 ms
+65.108.149.250:2053#FinlandHelsinki: 327.33 ms
+65.109.189.187:3030#FinlandHelsinki: 327.41 ms
+83.147.3.165:8080#HongKongHongKong: 327.54 ms
+5.61.39.183:443#GermanyFrankfurtamMain: 327.55 ms
+38.180.79.9:443#BrazilSãoPaulo: 327.63 ms
+178.20.44.2:2053#RussiaMoscow: 327.78 ms
+46.32.184.247:443#LatviaRiga: 328.40 ms
+221.125.10.8:57537#HongKongTseungKwanO: 328.51 ms
+142.132.140.130:454#GermanyFalkenstein: 328.54 ms
+91.239.148.53:42053#PolandGdansk: 328.89 ms
+141.94.222.33:8443#FranceGravelines: 329.54 ms
+54.36.98.241:2053#FranceRoubaix: 330.01 ms
+82.115.7.15:6000#NetherlandsAmsterdam: 330.03 ms
+195.135.252.36:8443#LatviaRiga: 330.11 ms
+94.23.168.201:2053#FranceStrasbourg: 330.12 ms
+188.165.54.172:8443#FranceRoubaix: 330.24 ms
+141.11.218.249:8080#HongKongHongKong: 330.40 ms
+188.165.26.180:8443#FranceParis: 330.91 ms
+148.113.204.36:8443#CanadaBeauharnois: 330.92 ms
+162.19.66.30:2053#FranceGravelines: 331.34 ms
+112.156.154.95:30067#SouthKoreaYuseong-gu: 331.43 ms
+141.94.220.64:8443#FranceRoubaix: 331.59 ms
+141.94.70.243:2053#FranceGravelines: 331.89 ms
+141.11.91.67:8080#HongKongHongKong: 332.58 ms
+37.27.15.83:8443#FinlandHelsinki: 332.72 ms
+172.82.16.38:25122#UnitedStatesSantaClara: 333.44 ms
+94.103.84.206:2053#RussiaMoscow: 333.60 ms
+135.181.249.212:2053#FinlandHelsinki: 333.82 ms
+135.181.249.212:8443#FinlandHelsinki: 334.25 ms
+104.234.50.97:2053#UnitedStatesWarrenton: 334.71 ms
+176.97.67.38:443#UnitedArabEmiratesDubai: 335.08 ms
+194.135.22.181:443#SwitzerlandZurich: 335.15 ms
+185.223.93.86:443#TheNetherlandsAmsterdam: 335.34 ms
+176.97.66.175:443#UnitedArabEmiratesDubai: 335.59 ms
+91.107.166.111:8888#GermanyFrankfurtAmMain: 335.73 ms
+192.131.142.161:46639#HongKongTsuenWan: 336.35 ms
+91.245.225.79:8443#SwitzerlandBern: 336.49 ms
+192.236.249.91:443#TheNetherlandsAmsterdam: 336.50 ms
+172.232.112.240:587#IndiaChennai: 337.07 ms
+192.236.249.100:443#TheNetherlandsAmsterdam: 337.22 ms
+185.8.129.187:443#TürkiyeIzmir: 337.45 ms
+142.132.140.130:443#GermanyFalkenstein: 338.58 ms
+91.107.134.254:49222#GermanyFrankfurtAmMain: 338.77 ms
+159.69.180.122:8443#GermanyFalkenstein: 339.33 ms
+45.135.165.245:443#GermanyFrankfurtamMain: 339.47 ms
+185.8.129.187:2053#TürkiyeIzmir: 340.49 ms
+91.245.225.79:2053#SwitzerlandBern: 340.69 ms
+62.192.174.170:2053#LatviaRiga: 340.82 ms
+134.195.137.107:22473#IndiaHyderabad: 341.00 ms
+141.11.175.133:8080#HongKongHongKong: 341.42 ms
+185.237.218.134:2053#LatviaRiga: 341.52 ms
+195.123.212.222:8443#LatviaRiga: 343.24 ms
+65.108.245.196:443#FinlandHelsinki: 343.65 ms
+118.141.64.192:36619#HongKongTsingYi: 343.79 ms
+88.218.248.195:443#TheNetherlandsAmsterdam: 343.83 ms
+104.234.50.12:8443#UnitedStatesWarrenton: 344.00 ms
+135.181.151.136:2053#FinlandHelsinki: 344.06 ms
+38.180.11.201:443#UnitedArabEmiratesDubai: 344.11 ms
+31.128.33.253:443#LatviaRiga: 344.83 ms
+85.198.109.79:8443#RussiaMoscow: 345.03 ms
+91.107.145.203:20400#GermanyFrankfurtAmMain: 345.36 ms
+85.198.109.79:2053#RussiaMoscow: 345.56 ms
+193.168.143.152:443#RomaniaBucharest: 345.65 ms
+195.123.212.222:2053#LatviaRiga: 346.40 ms
+178.248.75.36:8443#LatviaRiga: 346.60 ms
+95.142.41.132:443#TheNetherlandsAmsterdam: 346.77 ms
+37.1.194.138:443#GermanyFrankfurtamMain: 346.89 ms
+147.45.116.61:8443#BrazilSãoPaulo: 347.61 ms
+147.45.116.50:24443#BrazilSãoPaulo: 347.99 ms
+45.149.186.112:8080#HongKongHongKong: 348.22 ms
+193.124.92.170:443#GermanyFrankfurtamMain: 349.30 ms
+185.209.49.17:8443#UnitedArabEmiratesDubai: 349.72 ms
+62.192.174.175:2053#LatviaRiga: 350.12 ms
+191.101.132.54:8080#HongKongHongKong: 350.58 ms
+213.35.107.73:443#SingaporeSingapore: 351.39 ms
+176.97.77.241:2053#SwedenStockholm: 351.56 ms
+45.138.72.141:443#GermanyFrankfurtamMain: 352.78 ms
+86.104.73.185:443#KazakhstanAlmaty: 352.79 ms
+135.181.34.150:443#FinlandHelsinki: 353.57 ms
+65.21.243.37:50120#FinlandHelsinki: 353.57 ms
+35.217.24.30:8443#FinlandLappeenranta: 353.60 ms
+38.180.72.162:2053#DenmarkCopenhagen: 353.77 ms
+185.237.219.169:443#LatviaRiga: 355.16 ms
+65.109.191.244:2053#FinlandHelsinki: 355.31 ms
+37.1.198.51:443#GermanyFrankfurtamMain: 355.32 ms
+132.226.163.224:8443#BrazilSãoPaulo: 355.54 ms
+144.22.204.102:50317#BrazilSãoPaulo: 356.03 ms
+195.123.212.250:443#LatviaRiga: 356.36 ms
+178.248.75.36:2053#LatviaRiga: 356.45 ms
+38.180.78.255:443#BrazilSãoPaulo: 357.26 ms
+65.109.206.21:42414#FinlandHelsinki: 357.84 ms
+195.54.33.164:443#GermanyFrankfurtamMain: 358.19 ms
+213.148.10.221:443#KazakhstanAlmaty: 358.44 ms
+65.109.227.138:2053#FinlandHelsinki: 358.71 ms
+185.94.166.203:2053#GermanyFrankfurtamMain: 359.24 ms
+195.123.211.204:81#LatviaRiga: 359.36 ms
+168.138.141.235:2053#BrazilSãoPaulo: 360.56 ms
+138.2.81.243:45319#SingaporeSingapore: 361.58 ms
+15.204.205.208:449#UnitedStatesReston: 361.67 ms
+195.123.212.237:8443#LatviaRiga: 362.99 ms
+144.22.144.168:4242#BrazilSãoPaulo: 363.07 ms
+185.8.129.187:2083#TürkiyeIzmir: 363.41 ms
+168.75.92.141:28053#BrazilSãoPaulo: 363.58 ms
+185.231.204.186:443#SpainMadrid: 363.87 ms
+37.1.194.237:2053#GermanyFrankfurtamMain: 364.15 ms
+95.164.114.50:8443#KazakhstanAlmaty: 366.75 ms
+92.42.102.73:8443#FinlandHelsinki: 367.14 ms
+209.200.246.130:443#CanadaToronto: 367.39 ms
+38.180.105.201:443#TürkiyeIstanbul: 367.39 ms
+31.128.34.61:2053#LatviaRiga: 367.88 ms
+195.123.212.237:2053#LatviaRiga: 369.62 ms
+146.235.59.153:2053#BrazilSãoPaulo: 370.34 ms
+62.192.174.170:8443#LatviaRiga: 370.73 ms
+95.142.45.147:443#RussiaMoscow: 371.57 ms
+89.110.89.229:8443#RussiaMoscow: 372.95 ms
+185.231.204.173:81#SpainMadrid: 373.43 ms
+213.1.145.50:443#UnitedKingdomLondon: 373.50 ms
+195.26.230.99:8443#FinlandHelsinki: 377.22 ms
+188.132.192.190:2053#TurkeyGürpınar: 377.38 ms
+195.26.230.99:2053#FinlandHelsinki: 377.77 ms
+146.235.59.153:8443#BrazilSãoPaulo: 377.79 ms
+103.113.69.46:443#LithuaniaVilnius: 381.51 ms
+185.209.161.104:443#TheNetherlandsAmsterdam: 381.54 ms
+185.237.218.134:8443#LatviaRiga: 381.70 ms
+91.245.225.69:443#SwitzerlandBern: 383.31 ms
+31.128.34.61:8443#LatviaRiga: 384.01 ms
+15.204.57.47:7267#UnitedStatesHillsboro: 384.75 ms
+91.218.142.38:2053#LatviaRiga: 385.19 ms
+62.192.174.228:2053#LatviaRiga: 386.50 ms
+188.132.192.194:2053#TurkeyGürpınar: 388.55 ms
+15.204.10.80:36683#UnitedStatesHillsboro: 389.50 ms
+143.42.66.91:443#SingaporeSingapore: 389.54 ms
+15.204.67.30:2083#UnitedStatesHillsboro: 390.08 ms
+132.226.163.224:2053#BrazilSãoPaulo: 390.95 ms
+5.61.32.232:433#GermanyFrankfurtamMain: 390.99 ms
+217.195.200.138:443#UnitedArabEmiratesDubai: 394.21 ms
+199.59.231.120:443#UnitedStatesFosterCity: 394.80 ms
+185.114.78.230:443#SingaporeSingapore: 395.81 ms
+51.81.209.21:8443#UnitedStatesHillsboro: 397.62 ms
+15.204.10.80:49404#UnitedStatesHillsboro: 402.33 ms
+35.217.24.30:2053#FinlandLappeenranta: 408.72 ms
+51.81.209.21:2053#UnitedStatesHillsboro: 411.60 ms
+15.204.10.80:53089#UnitedStatesHillsboro: 415.39 ms
+147.75.225.105:443#SouthKoreaSeoul: 420.09 ms
+89.110.89.229:2053#RussiaMoscow: 421.79 ms
+176.97.78.80:2053#UnitedArabEmiratesDubai: 428.20 ms
+31.192.238.71:2053#SingaporeSingapore: 439.01 ms
+159.100.198.106:443#UnitedArabEmiratesDubai: 446.11 ms
+146.56.48.138:23010#IndiaMumbai: 459.08 ms
+31.192.238.71:8443#SingaporeSingapore: 461.75 ms
+193.123.90.82:12648#UnitedArabEmiratesDubai: 467.29 ms
+15.204.10.80:24906#UnitedStatesHillsboro: 474.66 ms
+193.123.81.105:443#UnitedArabEmiratesDubai: 490.34 ms
+45.156.22.237:2053#FinlandHelsinki: 493.12 ms
+84.235.245.18:34501#UnitedArabEmiratesDubai: 496.97 ms
+152.70.76.104:46000#IndiaHyderabad: 517.89 ms
+203.243.63.166:27249#SouthKoreaWŏnju: 578.48 ms
+147.75.230.33:443#IndiaBengaluru: 583.76 ms
+147.75.230.160:443#IndiaBengaluru: 603.96 ms
+46.8.228.208:8443#FinlandHelsinki: 604.38 ms
+121.165.101.69:19413#SouthKoreaSeongnam-si: 755.68 ms
+45.156.22.237:8443#FinlandHelsinki: 1050.38 ms
+47.76.218.163:443#HongKongHongKong: 1059.56 ms
+115.40.244.240:12696#SouthKoreaGoseong-gun: 1144.03 ms
+115.40.244.240:11211#SouthKoreaGoseong-gun: 1171.96 ms
+74.48.89.211:443#UnitedStatesLosAngeles: 1174.92 ms
+27.100.229.147:50000#SouthKoreaJejuCity: 1177.75 ms
+172.82.16.38:27043#UnitedStatesSantaClara: 1182.17 ms
+170.64.152.77:7443#AustraliaSydney: 1183.55 ms
+5.230.44.233:443#GermanyBadSodenamTaunus: 1232.31 ms
+137.74.198.216:8443#FranceStrasbourg: 1239.53 ms
+91.194.11.78:81#CanadaToronto: 1240.56 ms
+51.178.82.214:8443#FranceStrasbourg: 1244.13 ms
+193.122.195.166:52557#UnitedStatesAshburn: 1244.80 ms
+162.19.254.52:2053#GermanyLimburganderLahn: 1246.07 ms
+193.70.0.78:2053#FranceStrasbourg: 1247.22 ms
+217.182.61.115:80#FranceParis: 1248.96 ms
+23.164.240.143:8443#FinlandHelsinki: 1250.27 ms
+37.252.6.119:443#PolandGdansk: 1251.44 ms
+94.23.147.217:2053#PolandWarsaw: 1251.64 ms
+54.36.100.7:2053#FranceGravelines: 1252.71 ms
+141.94.222.46:8443#FranceGravelines: 1252.75 ms
+94.23.167.24:2053#GermanySaarbrücken: 1256.07 ms
+91.239.148.53:443#PolandGdansk: 1256.33 ms
+51.195.46.211:2053#GermanyLimburganderLahn: 1256.44 ms
+51.38.48.27:8443#FranceRoubaix: 1258.09 ms
+141.94.68.157:2053#FranceGravelines: 1259.11 ms
+141.94.222.46:2053#FranceGravelines: 1259.78 ms
+148.113.43.228:2053#IndiaMumbai: 1261.79 ms
+188.165.26.178:8443#FranceParis: 1263.04 ms
+150.230.168.70:50479#UnitedStatesAshburn: 1264.05 ms
+162.19.25.13:2053#FranceGravelines: 1266.09 ms
+51.178.39.34:8443#FranceRoubaix: 1266.38 ms
+152.228.191.232:443#FrancePoitiers: 1268.12 ms
+51.210.96.119:8443#FranceGravelines: 1268.62 ms
+45.85.93.21:443#SwitzerlandGeneva: 1269.23 ms
+141.94.221.78:8443#FranceGravelines: 1273.02 ms
+38.180.62.4:443#FranceParis: 1276.35 ms
+49.13.155.5:8081#GermanyNuremberg: 1278.24 ms
+194.76.173.55:2053#GermanyLimburganderLahn: 1278.32 ms
+65.109.181.192:4475#FinlandHelsinki: 1279.33 ms
+51.38.50.52:8443#FranceRoubaix: 1279.37 ms
+141.94.221.79:8443#FranceGravelines: 1279.77 ms
+51.195.118.15:2053#GermanyLimburganderLahn: 1283.42 ms
+51.83.45.59:2053#FranceAnor: 1288.52 ms
+45.112.195.176:2053#FranceParis: 1288.65 ms
+141.94.221.25:2053#FranceGravelines: 1289.24 ms
+51.75.77.148:8443#GermanyLimburganderLahn: 1289.97 ms
+91.107.178.91:22074#GermanyFrankfurtAmMain: 1291.43 ms
+65.109.186.249:2053#FinlandHelsinki: 1292.13 ms
+57.129.16.72:2053#GermanyFrankfurtamMain: 1293.88 ms
+65.109.209.85:2053#FinlandHelsinki: 1294.15 ms
+65.21.243.37:50121#FinlandHelsinki: 1297.49 ms
+162.19.65.2:8443#FranceGravelines: 1297.79 ms
+65.109.206.116:2021#FinlandHelsinki: 1298.71 ms
+193.160.96.232:443#TheNetherlandsAmsterdam: 1299.62 ms
+57.129.16.72:8443#GermanyFrankfurtamMain: 1299.71 ms
+135.181.151.136:9443#FinlandHelsinki: 1306.56 ms
+95.217.195.186:8443#FinlandHelsinki: 1307.49 ms
+142.132.140.130:448#GermanyFalkenstein: 1310.94 ms
+65.109.210.122:32795#FinlandHelsinki: 1311.30 ms
+88.99.213.146:9443#GermanyFalkenstein: 1314.23 ms
+65.109.210.191:2053#FinlandHelsinki: 1314.68 ms
+95.217.151.107:443#FinlandHelsinki: 1314.86 ms
+95.216.190.1:443#FinlandHelsinki: 1316.18 ms
+162.19.24.253:8443#FranceGravelines: 1317.24 ms
+95.216.140.177:443#FinlandHelsinki: 1322.83 ms
+65.108.209.46:443#FinlandHelsinki: 1325.95 ms
+193.160.96.234:443#TheNetherlandsAmsterdam: 1326.19 ms
+210.61.97.241:81#TaiwanPingzhen: 1329.44 ms
+37.27.184.127:2053#FinlandHelsinki: 1333.77 ms
+194.87.97.6:8443#SwitzerlandZurich: 1336.10 ms
+192.99.252.243:2053#CanadaBeauharnois: 1336.62 ms
+148.113.204.36:2053#CanadaBeauharnois: 1341.87 ms
+194.87.97.6:2053#SwitzerlandZurich: 1342.53 ms
+31.128.34.77:2053#LatviaRiga: 1345.37 ms
+65.108.149.250:8443#FinlandHelsinki: 1345.57 ms
+65.109.192.28:12216#FinlandHelsinki: 1348.39 ms
+65.109.209.55:2053#FinlandHelsinki: 1350.42 ms
+178.208.76.68:443#TheNetherlandsAmsterdam: 1355.74 ms
+195.20.208.151:2053#LatviaRiga: 1356.37 ms
+62.192.174.175:8443#LatviaRiga: 1356.69 ms
+77.221.133.147:443#TheNetherlandsAmsterdam: 1358.92 ms
+94.131.117.4:2053#SpainMadrid: 1375.29 ms
+109.120.154.233:9995#TheNetherlandsAmsterdam: 1378.74 ms
+37.1.195.124:443#GermanyFrankfurtamMain: 1389.41 ms
+139.185.50.5:14594#UnitedArabEmiratesDubai: 1425.05 ms
+139.185.39.237:48008#UnitedArabEmiratesDubai: 1472.91 ms
+205.252.117.138:8090#UnitedStatesNewYork: 1648.43 ms
+61.245.11.69:2053#PhilippinesManila: 1739.84 ms
+216.10.243.159:443#IndiaMumbai: 1851.64 ms
+37.187.54.16:8443#FranceRoubaix: 2237.50 ms
+36.50.90.241:35951#HongKongWanChai: 2245.93 ms
+64.49.14.41:2053#SingaporeSingapore: 2249.71 ms
+141.94.221.25:8443#FranceGravelines: 2273.35 ms
+162.19.247.5:2053#GermanyLimburganderLahn: 2275.96 ms
+51.195.41.72:8443#GermanyLimburganderLahn: 2302.27 ms
+194.76.173.6:2053#GermanyLimburganderLahn: 2320.82 ms
+51.195.42.9:8443#GermanyLimburganderLahn: 3302.95 ms
+64.49.14.41:8443#SingaporeSingapore: 3420.62 ms
+54.37.64.97:2053#FranceStrasbourg: 4329.66 ms
+57.129.5.108:2053#GermanyFrankfurtamMain: 4348.19 ms
+103.167.234.131:8443#PolandWarsaw: Failed
+103.167.234.131:2053#PolandWarsaw: Failed
+77.73.131.77:2053#AustriaVienna: Failed
+77.73.131.16:2053#AustriaVienna: Failed
+192.9.184.12:1010#AustraliaSydney: Failed
+192.9.184.12:1013#AustraliaSydney: Failed
+95.164.62.196:443#UnitedStatesHackensack: Failed
+192.18.150.121:27620#CanadaToronto: Failed
+104.234.36.27:33388#UnitedStatesLosAngeles: Failed
+64.15.75.112:2053#CanadaLaval: Failed
+179.43.156.21:8443#SwitzerlandRümlang: Failed
+185.195.69.209:2053#SwitzerlandBern: Failed
+45.95.232.243:2053#SwitzerlandZurich: Failed
+45.95.232.232:8443#SwitzerlandZurich: Failed
+45.95.232.243:8443#SwitzerlandZurich: Failed
+45.95.232.236:2053#SwitzerlandZurich: Failed
+192.3.113.4:19318#UnitedStatesElkGroveVillage: Failed
+148.251.157.127:443#GermanyFalkenstein: Failed
+128.140.11.25:25690#GermanyNuremberg: Failed
+192.248.177.3:443#GermanyFrankfurtamMain: Failed
+172.104.249.206:3000#GermanyFrankfurtamMain: Failed
+116.202.195.240:2079#GermanyFalkenstein: Failed
+142.132.140.130:445#GermanyFalkenstein: Failed
+162.55.168.133:2086#GermanyFalkenstein: Failed
+78.46.234.136:2087#GermanyNuremberg: Failed
+78.46.234.136:2053#GermanyNuremberg: Failed
+146.70.101.111:443#GermanyFrankfurtamMain: Failed
+185.66.165.51:443#GermanyFrankfurtamMain: Failed
+165.232.123.155:443#GermanyFrankfurtamMain: Failed
+157.230.127.100:2053#GermanyFrankfurtamMain: Failed
+157.230.127.100:8443#GermanyFrankfurtamMain: Failed
+194.87.148.148:8443#GermanyFrankfurtamMain: Failed
+194.87.148.148:2053#GermanyFrankfurtamMain: Failed
+77.91.73.211:2053#GermanyFrankfurtamMain: Failed
+77.91.73.211:8443#GermanyFrankfurtamMain: Failed
+128.140.8.129:50000#GermanyNuremberg: Failed
+128.140.8.129:50001#GermanyNuremberg: Failed
+128.140.8.129:50121#GermanyNuremberg: Failed
+138.68.71.73:2053#GermanyFrankfurtamMain: Failed
+167.235.57.61:443#GermanyNuremberg: Failed
+185.106.93.153:8443#GermanyFrankfurtAmMain: Failed
+193.37.70.98:2053#GermanyFrankfurtamMain: Failed
+193.37.70.98:8443#GermanyFrankfurtamMain: Failed
+194.76.173.113:2053#GermanyLimburganderLahn: Failed
+194.76.173.224:2053#GermanyLimburganderLahn: Failed
+195.206.242.70:2053#GermanyFrankfurtamMain: Failed
+49.13.230.198:8080#GermanyNuremberg: Failed
+88.198.156.62:2053#GermanyNuremberg: Failed
+88.198.156.62:8443#GermanyNuremberg: Failed
+87.251.88.104:2053#GermanyFrankfurtamMain: Failed
+89.19.44.237:2053#GermanyFrankfurtamMain: Failed
+46.29.235.67:8443#DenmarkRødding: Failed
+46.29.235.67:2053#DenmarkRødding: Failed
+38.180.52.83:443#SpainMadrid: Failed
+176.97.72.18:443#SpainMadrid: Failed
+208.76.222.64:443#SpainMadrid: Failed
+91.108.241.54:2053#FinlandHelsinki: Failed
+91.108.241.56:2053#FinlandHelsinki: Failed
+91.108.241.54:8443#FinlandHelsinki: Failed
+91.108.241.56:8443#FinlandHelsinki: Failed
+65.109.190.54:2021#FinlandHelsinki: Failed
+95.217.25.18:2095#FinlandHelsinki: Failed
+65.109.209.200:2095#FinlandHelsinki: Failed
+77.221.144.210:443#FinlandHelsinki: Failed
+135.181.21.43:443#FinlandHelsinki: Failed
+185.105.118.135:8443#FinlandHelsinki: Failed
+185.105.118.135:2053#FinlandHelsinki: Failed
+185.58.207.205:2053#FinlandHelsinki: Failed
+185.58.207.205:8443#FinlandHelsinki: Failed
+193.233.112.252:8443#FinlandHelsinki: Failed
+194.53.54.131:2053#FinlandHelsinki: Failed
+194.53.54.131:8443#FinlandHelsinki: Failed
+37.27.6.95:2053#FinlandHelsinki: Failed
+37.27.6.95:8443#FinlandHelsinki: Failed
+95.182.99.128:8443#FinlandHelsinki: Failed
+95.182.99.128:2053#FinlandHelsinki: Failed
+95.216.20.142:12431#FinlandHelsinki: Failed
+95.217.184.234:8443#FinlandHelsinki: Failed
+95.217.184.234:2053#FinlandHelsinki: Failed
+217.144.186.136:8443#FinlandHelsinki: Failed
+77.91.78.97:2053#FinlandHelsinki: Failed
+176.124.206.79:2053#FinlandHelsinki: Failed
+176.124.206.60:8443#FinlandHelsinki: Failed
+176.124.206.60:2053#FinlandHelsinki: Failed
+79.137.248.200:8443#FinlandHelsinki: Failed
+79.137.248.200:2053#FinlandHelsinki: Failed
+79.137.206.57:2053#FinlandHelsinki: Failed
+91.184.243.57:2053#FinlandHelsinki: Failed
+109.120.178.197:443#FranceParis: Failed
+109.120.178.197:8443#FranceParis: Failed
+135.125.232.253:2053#GermanyLimburganderLahn: Failed
+135.125.232.253:8443#GermanyLimburganderLahn: Failed
+51.195.119.47:2053#GermanyLimburganderLahn: Failed
+94.23.163.46:443#GermanySaarbrücken: Failed
+193.176.153.197:443#FranceParis: Failed
+51.178.80.31:20304#FranceStrasbourg: Failed
+178.32.106.119:2053#FranceRoubaix: Failed
+141.94.205.201:8443#FranceGravelines: Failed
+141.94.205.201:2053#FranceGravelines: Failed
+141.94.68.216:8443#FranceGravelines: Failed
+51.178.82.214:2053#FranceStrasbourg: Failed
+141.94.68.216:2053#FranceGravelines: Failed
+141.94.204.68:2053#FranceGravelines: Failed
+141.94.223.237:2053#FranceGravelines: Failed
+141.94.204.68:8443#FranceGravelines: Failed
+141.94.223.237:8443#FranceGravelines: Failed
+141.94.220.21:8443#FranceRoubaix: Failed
+141.94.220.21:2053#FranceRoubaix: Failed
+158.178.193.78:82#FranceParis: Failed
+94.23.153.168:8443#UnitedKingdomLondon: Failed
+94.23.153.168:2053#UnitedKingdomLondon: Failed
+129.151.225.228:8443#FranceMarseille: Failed
+185.231.205.144:2053#FranceParis: Failed
+136.244.119.80:8443#FranceAubervilliers: Failed
+141.94.221.163:8443#FranceGravelines: Failed
+141.94.221.163:2053#FranceGravelines: Failed
+141.94.222.73:2053#FranceGravelines: Failed
+141.94.222.73:8443#FranceGravelines: Failed
+135.125.4.40:443#FranceStrasbourg: Failed
+141.94.204.206:8443#FranceGravelines: Failed
+141.94.204.206:2053#FranceGravelines: Failed
+141.94.206.137:8443#FranceLille: Failed
+141.145.216.142:2087#FranceParis: Failed
+141.94.205.63:8443#FranceGravelines: Failed
+141.94.205.63:2053#FranceGravelines: Failed
+141.94.206.137:2053#FranceLille: Failed
+141.94.221.2:8443#FranceGravelines: Failed
+141.94.221.2:2053#FranceGravelines: Failed
+141.94.223.24:8443#FranceGravelines: Failed
+141.94.223.24:2053#FranceGravelines: Failed
+51.38.224.25:8443#FranceGravelines: Failed
+51.38.226.4:8443#FranceGravelines: Failed
+51.38.224.25:2053#FranceGravelines: Failed
+51.38.48.190:8443#FranceRoubaix: Failed
+51.38.49.187:8443#FranceRoubaix: Failed
+51.38.49.187:2053#FranceRoubaix: Failed
+51.38.48.190:2053#FranceRoubaix: Failed
+51.38.48.91:2053#FranceRoubaix: Failed
+51.38.48.91:8443#FranceRoubaix: Failed
+51.38.44.17:443#FranceRoubaix: Failed
+51.38.49.23:8443#FranceRoubaix: Failed
+51.38.51.14:8443#FranceRoubaix: Failed
+51.38.51.14:2053#FranceRoubaix: Failed
+51.38.49.23:2053#FranceRoubaix: Failed
+94.23.153.167:2053#UnitedKingdomLondon: Failed
+94.23.153.167:8443#UnitedKingdomLondon: Failed
+141.11.136.193:53300#UnitedStatesLosAngeles: Failed
+213.165.88.177:443#UnitedKingdomEatonBray: Failed
+178.32.58.147:443#FranceParis: Failed
+51.89.128.93:44004#UnitedKingdomLondon: Failed
+51.89.128.93:12122#UnitedKingdomLondon: Failed
+95.179.236.51:443#UnitedKingdomPoplar: Failed
+104.128.190.65:443#UnitedKingdomCoventry: Failed
+198.244.169.93:12122#UnitedKingdomLondon: Failed
+198.244.169.93:44004#UnitedKingdomLondon: Failed
+159.65.94.176:8080#UnitedKingdomSlough: Failed
+185.44.67.58:443#UnitedKingdomLondon: Failed
+104.128.190.209:443#UnitedKingdomCoventry: Failed
+134.209.177.68:80#UnitedKingdomSlough: Failed
+138.68.141.220:2053#UnitedKingdomSlough: Failed
+132.145.65.20:9931#UnitedKingdomLondon: Failed
+142.93.37.152:2086#UnitedKingdomSlough: Failed
+138.68.141.220:8443#UnitedKingdomSlough: Failed
+141.147.85.167:8443#UnitedKingdomLondon: Failed
+150.107.201.226:42515#UnitedKingdomLondon: Failed
+142.93.37.152:8880#UnitedKingdomSlough: Failed
+172.236.30.225:443#UnitedKingdomLondon: Failed
+18.170.77.148:443#UnitedKingdomLondon: Failed
+178.62.76.86:80#UnitedKingdomSlough: Failed
+198.244.235.173:179#UnitedKingdomLondon: Failed
+5.144.182.84:2053#UnitedKingdomLondon: Failed
+51.89.148.203:44004#UnitedKingdomLondon: Failed
+51.89.148.203:12122#UnitedKingdomLondon: Failed
+91.149.238.88:443#UnitedKingdomLondon: Failed
+91.199.32.173:2053#UnitedKingdomLondon: Failed
+91.199.32.191:2053#UnitedKingdomLondon: Failed
+91.199.32.39:2053#UnitedKingdomLondon: Failed
+91.199.32.56:2053#UnitedKingdomLondon: Failed
+43.132.244.52:21415#HongKongHong-kong: Failed
+141.11.77.248:8080#HongKongHongKong: Failed
+141.11.148.60:8080#HongKongHongKong: Failed
+154.16.10.34:8080#HongKongHongKong: Failed
+156.255.90.175:8443#HongKongHaKwaiChung: Failed
+156.255.90.175:2053#HongKongHaKwaiChung: Failed
+194.156.99.186:443#HongKongChaiWan: Failed
+2.56.91.89:2053#HongKongHongKong: Failed
+2.56.91.89:8443#HongKongHongKong: Failed
+43.154.196.20:65121#HongKongHong-kong: Failed
+38.6.219.16:8080#UnitedStatesSanJose: Failed
+43.154.124.136:26666#HongKongHong-kong: Failed
+46.232.122.240:8000#HongKongHongKong: Failed
+47.242.171.138:37021#HongKongHongKong: Failed
+62.192.175.43:12009#HongKongHongKong: Failed
+8.218.245.116:42805#HongKongHongKong: Failed
+8.218.245.116:49701#HongKongHongKong: Failed
+85.208.104.34:8080#HongKongHongKong: Failed
+8.218.245.116:41528#HongKongHongKong: Failed
+47.57.13.107:443#HongKongHongKong: Failed
+65.20.76.125:8443#IndiaMumbai: Failed
+158.180.233.125:55137#ItalySiziano: Failed
+185.247.184.186:2053#ItalyMilan: Failed
+185.247.184.186:8443#ItalyMilan: Failed
+198.13.42.58:32954#JapanMinamishinagawa: Failed
+64.176.39.147:16387#JapanOsaka: Failed
+138.2.10.217:27446#JapanTokyo: Failed
+212.52.0.61:1846#JapanTokyo: Failed
+118.27.12.40:38443#JapanChiyodaCity: Failed
+138.2.32.76:15821#JapanOsaka: Failed
+140.83.57.114:25965#JapanOsaka: Failed
+158.101.152.6:2919#JapanTokyo: Failed
+45.76.198.248:443#JapanMinamishinagawa: Failed
+140.238.62.82:1443#JapanTokyo: Failed
+150.230.5.34:45681#JapanOsaka: Failed
+141.147.144.15:13357#JapanOsaka: Failed
+141.147.183.49:29876#JapanTokyo: Failed
+219.117.2.190:57517#JapanShimorenjaku: Failed
+219.117.2.190:48401#JapanShimorenjaku: Failed
+138.2.12.103:14453#JapanTokyo: Failed
+139.162.102.152:7002#JapanTokyo: Failed
+152.69.199.70:8443#JapanOsaka: Failed
+150.230.214.172:16957#JapanTokyo: Failed
+149.28.21.106:443#JapanMinamishinagawa: Failed
+140.83.57.20:13118#JapanOsaka: Failed
+138.2.59.96:10129#JapanOsaka: Failed
+152.70.82.101:18650#JapanOsaka: Failed
+64.110.101.90:55007#JapanOsaka: Failed
+138.2.49.197:587#JapanOsaka: Failed
+141.98.197.101:11665#JapanTokyo: Failed
+150.230.204.21:10243#JapanTokyo: Failed
+168.138.213.1:50003#JapanTokyo: Failed
+217.142.250.195:587#JapanOsaka: Failed
+3.112.21.102:443#JapanTokyo: Failed
+158.101.154.245:47001#JapanTokyo: Failed
+138.2.48.109:26412#JapanOsaka: Failed
+168.138.197.147:12345#JapanTokyo: Failed
+45.77.25.6:27854#JapanHeiwajima: Failed
+45.77.25.6:48828#JapanHeiwajima: Failed
+8.209.220.50:21273#JapanTokyo: Failed
+45.11.1.118:44004#JapanTokyo: Failed
+103.232.213.117:8080#JapanTokyo: Failed
+103.75.118.144:2053#JapanTokyo: Failed
+103.106.228.126:2053#JapanTokyo: Failed
+108.160.139.154:8443#JapanMinamishinagawa: Failed
+131.186.63.89:11655#JapanTokyo: Failed
+132.145.126.40:32498#JapanTokyo: Failed
+138.2.18.82:8880#JapanTokyo: Failed
+139.162.84.132:18836#JapanTokyo: Failed
+140.83.56.110:56417#JapanOsaka: Failed
+141.147.152.229:23333#JapanOsaka: Failed
+140.83.59.158:15805#JapanOsaka: Failed
+140.83.57.183:22735#JapanOsaka: Failed
+140.238.37.103:14782#JapanTokyo: Failed
+138.3.222.124:46209#JapanTokyo: Failed
+141.147.147.180:443#JapanOsaka: Failed
+141.147.161.249:51037#JapanTokyo: Failed
+152.69.192.40:57005#JapanOsaka: Failed
+168.138.192.16:54584#JapanTokyo: Failed
+168.138.198.7:27560#JapanTokyo: Failed
+158.101.146.3:54516#JapanTokyo: Failed
+176.97.70.51:2053#JapanChiyodaCity: Failed
+168.138.46.115:43138#JapanOsaka: Failed
+168.138.46.67:443#JapanOsaka: Failed
+192.243.127.224:443#JapanOsaka: Failed
+38.180.28.163:2053#JapanShibuyaCity: Failed
+38.180.28.163:8443#JapanShibuyaCity: Failed
+217.142.236.93:443#JapanOsaka: Failed
+45.76.192.129:24434#JapanMinamishinagawa: Failed
+82.163.16.69:8080#JapanTokyo: Failed
+64.110.104.30:443#JapanOsaka: Failed
+211.51.176.6:30059#SouthKoreaYeongcheon-si: Failed
+129.154.54.67:19567#SouthKoreaChuncheon: Failed
+64.110.70.205:23022#SouthKoreaSeoul: Failed
+158.247.250.157:81#SouthKoreaSeoul: Failed
+144.24.87.69:50001#SouthKoreaChuncheon: Failed
+158.180.85.127:20721#SouthKoreaChuncheon: Failed
+121.158.194.32:11611#SouthKoreaGimhae: Failed
+152.70.245.66:12693#SouthKoreaSeoul: Failed
+121.158.194.32:11413#SouthKoreaGimhae: Failed
+183.96.245.165:50001#SouthKoreaYongsan-gu: Failed
+217.142.138.61:37914#SouthKoreaSeoul: Failed
+152.67.197.197:19120#SouthKoreaChuncheon: Failed
+211.227.43.208:30058#SouthKoreaGoyang-si: Failed
+150.230.255.146:6443#SouthKoreaChuncheon: Failed
+146.56.99.255:56789#SouthKoreaChuncheon: Failed
+146.56.182.217:54266#SouthKoreaSeoul: Failed
+129.154.48.176:36355#SouthKoreaChuncheon: Failed
+193.122.126.64:53777#SouthKoreaSeoul: Failed
+146.56.112.139:19276#SouthKoreaChuncheon: Failed
+152.69.229.175:22558#SouthKoreaChuncheon: Failed
+138.2.122.197:39863#SouthKoreaChuncheon: Failed
+152.67.211.114:58337#SouthKoreaChuncheon: Failed
+140.238.10.44:23253#SouthKoreaSeoul: Failed
+144.24.84.212:49888#SouthKoreaChuncheon: Failed
+152.67.201.16:11002#SouthKoreaChuncheon: Failed
+131.186.24.124:587#SouthKoreaSeoul: Failed
+132.145.88.82:38066#SouthKoreaSeoul: Failed
+132.145.84.148:39567#SouthKoreaSeoul: Failed
+129.154.223.89:15800#SouthKoreaSeoul: Failed
+123.143.9.5:14041#SouthKoreaSongpa-gu: Failed
+131.186.18.212:28887#SouthKoreaSeoul: Failed
+131.186.20.178:27194#SouthKoreaSeoul: Failed
+146.56.162.25:443#SouthKoreaSeoul: Failed
+152.70.89.135:587#SouthKoreaSeoul: Failed
+131.186.20.178:24960#SouthKoreaSeoul: Failed
+121.167.15.173:50000#SouthKoreaGangnam-gu: Failed
+124.216.60.169:10325#SouthKoreaJung-gu: Failed
+124.216.60.169:11804#SouthKoreaJung-gu: Failed
+124.216.60.169:29850#SouthKoreaJung-gu: Failed
+14.35.29.177:15903#SouthKoreaSiheung-si: Failed
+14.35.29.177:15211#SouthKoreaSiheung-si: Failed
+218.154.22.99:50000#SouthKoreaGuro-gu: Failed
+61.73.36.4:20364#SouthKoreaMapo-gu: Failed
+61.73.36.4:36863#SouthKoreaMapo-gu: Failed
+61.73.36.4:25388#SouthKoreaMapo-gu: Failed
+61.73.36.4:25700#SouthKoreaMapo-gu: Failed
+94.247.135.18:8443#KazakhstanAlmaty: Failed
+104.244.78.95:2083#LuxembourgRoost: Failed
+185.242.107.130:39506#LatviaRiga: Failed
+185.8.60.113:443#LatviaRiga: Failed
+31.128.35.216:8443#LatviaRiga: Failed
+31.128.35.216:2053#LatviaRiga: Failed
+46.32.186.234:8443#LatviaRiga: Failed
+5.34.209.105:2053#LatviaRiga: Failed
+5.34.209.105:8443#LatviaRiga: Failed
+5.34.210.151:2053#LatviaRiga: Failed
+5.34.209.219:2053#LatviaRiga: Failed
+5.34.209.219:8443#LatviaRiga: Failed
+5.34.211.87:2053#LatviaRiga: Failed
+77.73.71.180:8443#LatviaRiga: Failed
+77.73.71.180:2053#LatviaRiga: Failed
+91.197.0.206:8443#LatviaRiga: Failed
+91.197.1.113:2053#LatviaRiga: Failed
+91.197.1.113:8443#LatviaRiga: Failed
+91.197.0.206:2053#LatviaRiga: Failed
+94.232.244.198:8443#TheNetherlandsMeppel: Failed
+201.149.15.14:21585#MexicoMexicoCity: Failed
+91.103.253.193:443#TheNetherlandsAmsterdam: Failed
+109.120.150.30:2053#TheNetherlandsAmsterdam: Failed
+109.237.98.214:443#TheNetherlandsAmsterdam: Failed
+147.45.43.0:2053#TheNetherlandsAmsterdam: Failed
+147.45.43.0:8443#TheNetherlandsAmsterdam: Failed
+147.45.69.24:443#TheNetherlandsAmsterdam: Failed
+147.45.69.72:443#TheNetherlandsAmsterdam: Failed
+185.229.65.159:2053#NetherlandsAmsterdam: Failed
+185.229.65.159:8443#NetherlandsAmsterdam: Failed
+217.144.187.40:443#GermanyFrankfurtamMain: Failed
+217.144.189.66:2053#TheNetherlandsAmsterdam: Failed
+77.221.155.136:443#TheNetherlandsAmsterdam: Failed
+77.221.154.100:2053#TheNetherlandsAmsterdam: Failed
+77.221.155.230:8443#TheNetherlandsAmsterdam: Failed
+79.137.195.157:443#TheNetherlandsAmsterdam: Failed
+91.103.252.99:8443#TheNetherlandsAmsterdam: Failed
+77.238.231.179:443#TheNetherlandsAmsterdam: Failed
+136.244.99.185:36950#TheNetherlandsAmsterdam: Failed
+46.17.97.246:433#TheNetherlandsAmsterdam: Failed
+77.238.237.179:443#TheNetherlandsAmsterdam: Failed
+103.45.247.67:443#NetherlandsAmsterdam: Failed
+45.159.188.249:443#TheNetherlandsAmsterdam: Failed
+185.53.129.93:8443#TheNetherlandsAmsterdam: Failed
+91.201.113.193:443#TheNetherlandsAmsterdam: Failed
+109.107.167.104:443#TheNetherlandsAmsterdam: Failed
+38.180.96.139:443#TheNetherlandsAmsterdam: Failed
+213.166.71.40:443#TheNetherlandsDronten: Failed
+185.220.204.87:443#NetherlandsAmsterdam: Failed
+147.45.145.101:443#TheNetherlandsAmsterdam: Failed
+5.35.37.253:8080#TheNetherlandsAmsterdam: Failed
+89.110.69.27:443#TheNetherlandsAmsterdam: Failed
+188.119.113.222:443#TheNetherlandsAmsterdam: Failed
+89.110.65.201:443#TheNetherlandsAmsterdam: Failed
+77.238.234.75:443#TheNetherlandsAmsterdam: Failed
+89.110.69.173:443#TheNetherlandsAmsterdam: Failed
+45.8.145.223:443#TheNetherlandsMeppel: Failed
+195.133.39.89:443#TheNetherlandsAmsterdam: Failed
+13.95.69.133:8443#NetherlandsAmsterdam: Failed
+13.95.69.133:2053#NetherlandsAmsterdam: Failed
+103.90.75.141:2053#TheNetherlandsAmsterdam: Failed
+109.107.174.7:8443#TheNetherlandsAmsterdam: Failed
+109.107.185.44:2053#TheNetherlandsAmsterdam: Failed
+146.0.79.28:8443#TheNetherlandsAmsterdam: Failed
+147.45.111.106:8443#TheNetherlandsAmsterdam: Failed
+195.200.17.21:8443#TheNetherlandsAmsterdam: Failed
+212.34.150.65:8443#TheNetherlandsAmsterdam: Failed
+45.133.118.153:443#NetherlandsAmsterdam: Failed
+45.67.231.117:2053#TheNetherlandsMeppel: Failed
+46.151.26.63:8443#TheNetherlandsAmsterdam: Failed
+77.91.123.143:2053#TheNetherlandsMeppel: Failed
+81.22.132.254:443#TheNetherlandsMeppel: Failed
+89.110.104.252:8443#TheNetherlandsAmsterdam: Failed
+89.110.120.140:2053#TheNetherlandsAmsterdam: Failed
+89.110.104.252:2053#TheNetherlandsAmsterdam: Failed
+46.226.164.47:443#SwedenStockholm: Failed
+185.229.66.180:8443#RussiaMoscow: Failed
+77.221.151.57:8443#RussiaMoscow: Failed
+77.83.246.79:8443#PolandWarsaw: Failed
+45.144.48.42:2053#PolandWarsaw: Failed
+45.144.48.158:2053#PolandWarsaw: Failed
+81.200.154.2:2053#GermanyFrankfurtamMain: Failed
+91.239.148.34:443#PolandGdansk: Failed
+145.239.85.117:8443#PolandWroclaw: Failed
+77.83.246.153:8443#PolandWarsaw: Failed
+45.144.51.79:2053#PolandWarsaw: Failed
+37.252.7.161:8443#PolandGdansk: Failed
+37.252.7.161:2053#PolandGdansk: Failed
+45.144.48.33:2053#PolandWarsaw: Failed
+81.200.154.2:8443#GermanyFrankfurtamMain: Failed
+185.39.30.67:2053#RomaniaBucharest: Failed
+38.180.101.177:443#SerbiaBelgrade: Failed
+147.45.164.133:8443#RussiaMoscow: Failed
+147.45.164.133:2053#RussiaMoscow: Failed
+185.125.219.207:2053#RussiaMoscow: Failed
+185.125.219.207:8443#RussiaMoscow: Failed
+185.229.66.213:2053#RussiaMoscow: Failed
+185.229.66.180:2053#RussiaMoscow: Failed
+193.3.23.128:37424#RussiaMoscow: Failed
+193.160.209.226:2053#RussiaStPetersburg: Failed
+217.144.184.182:8443#RussiaMoscow: Failed
+31.129.42.100:2053#RussiaMoscow: Failed
+31.129.49.103:443#RussiaMoscow: Failed
+31.129.48.222:8443#RussiaMoscow: Failed
+45.142.122.152:2053#RussiaMoscow: Failed
+31.129.48.222:2053#RussiaMoscow: Failed
+45.142.122.152:8443#RussiaMoscow: Failed
+77.221.151.57:2053#RussiaMoscow: Failed
+80.90.187.190:8443#RussiaStPetersburg: Failed
+80.90.187.190:2053#RussiaStPetersburg: Failed
+92.38.152.30:2053#RussiaMoscow: Failed
+92.38.152.30:8443#RussiaMoscow: Failed
+94.242.53.158:8443#RussiaStPetersburg: Failed
+94.242.53.158:2053#RussiaStPetersburg: Failed
+193.233.115.208:2053#SwedenStockholm: Failed
+193.233.115.208:8443#SwedenStockholm: Failed
+77.91.85.4:443#SwedenStockholm: Failed
+77.221.141.207:443#SwedenStockholm: Failed
+109.120.133.1:2053#SwedenStockholm: Failed
+109.120.132.35:2053#SwedenStockholm: Failed
+109.120.133.159:2053#SwedenStockholm: Failed
+109.120.134.133:443#SwedenStockholm: Failed
+109.120.134.170:2053#SwedenStockholm: Failed
+109.120.134.170:8443#SwedenStockholm: Failed
+129.151.198.3:2053#SwedenStockholm: Failed
+185.230.143.63:2053#SwedenStockholm: Failed
+185.197.74.229:2053#SwedenStockholm: Failed
+193.188.21.83:2053#SwedenStockholm: Failed
+212.113.100.146:2053#SwedenStockholm: Failed
+212.113.103.211:2053#SwedenStockholm: Failed
+212.113.103.211:8443#SwedenStockholm: Failed
+46.226.160.3:2053#SwedenStockholm: Failed
+46.226.161.172:2053#SwedenStockholm: Failed
+46.226.161.129:2053#SwedenStockholm: Failed
+46.226.164.115:445#SwedenStockholm: Failed
+46.226.161.129:8443#SwedenStockholm: Failed
+46.226.164.236:2053#SwedenStockholm: Failed
+77.221.142.186:2053#SwedenStockholm: Failed
+77.221.143.62:2053#SwedenStockholm: Failed
+77.221.143.62:8443#SwedenStockholm: Failed
+89.169.35.36:2053#SwedenStockholm: Failed
+89.169.33.140:2053#SwedenStockholm: Failed
+89.22.224.54:2053#SwedenStockholm: Failed
+89.22.226.215:2053#SwedenStockholm: Failed
+89.22.225.144:443#SwedenStockholm: Failed
+89.22.230.21:2053#SwedenStockholm: Failed
+89.22.230.169:2053#SwedenStockholm: Failed
+89.22.236.149:8443#SwedenStockholm: Failed
+89.22.238.202:2053#SwedenStockholm: Failed
+91.184.240.238:2053#SwedenStockholm: Failed
+91.184.241.92:2053#SwedenStockholm: Failed
+94.228.164.33:2053#SwedenStockholm: Failed
+77.91.87.63:8443#SwedenStockholm: Failed
+77.91.87.63:2053#SwedenStockholm: Failed
+146.235.18.248:45137#SingaporeSingapore: Failed
+138.2.89.238:43254#SingaporeSingapore: Failed
+213.35.108.135:12596#SingaporeSingapore: Failed
+178.128.80.43:443#SingaporeSingapore: Failed
+47.245.95.160:1443#SingaporeSingapore: Failed
+194.127.193.240:50791#SingaporeSingapore: Failed
+129.150.58.86:57621#SingaporeSingapore: Failed
+129.150.49.58:18650#SingaporeSingapore: Failed
+194.127.193.124:24467#SingaporeSingapore: Failed
+47.236.119.190:51342#SingaporeSingapore: Failed
+129.150.36.188:53435#SingaporeSingapore: Failed
+138.2.95.61:1111#SingaporeSingapore: Failed
+168.138.170.211:53702#SingaporeSingapore: Failed
+45.32.100.46:13802#SingaporeSingapore: Failed
+45.76.183.217:49292#SingaporeSingapore: Failed
+168.138.184.172:443#SingaporeSingapore: Failed
+8.222.220.81:25435#SingaporeSingapore: Failed
+51.79.158.58:8443#SingaporeSingapore: Failed
+8.219.58.164:57373#SingaporeSingapore: Failed
+168.138.181.188:61731#SingaporeSingapore: Failed
+158.178.243.152:61731#SingaporeSingapore: Failed
+8.219.59.132:48130#SingaporeSingapore: Failed
+91.192.81.154:2053#SingaporeSingapore: Failed
+143.198.196.196:8443#SingaporeSingapore: Failed
+158.178.236.14:61731#SingaporeSingapore: Failed
+8.219.59.132:48964#SingaporeSingapore: Failed
+104.248.145.216:443#SingaporeSingapore: Failed
+138.2.89.64:32962#SingaporeSingapore: Failed
+143.198.196.196:2053#SingaporeSingapore: Failed
+138.2.69.236:23334#SingaporeSingapore: Failed
+146.235.19.79:28983#SingaporeSingapore: Failed
+158.178.246.142:61731#SingaporeSingapore: Failed
+168.138.171.70:23280#SingaporeSingapore: Failed
+168.138.165.174:443#SingaporeSingapore: Failed
+185.81.28.95:30503#SingaporeSingapore: Failed
+194.36.179.5:2053#SingaporeSingapore: Failed
+194.36.179.17:2053#SingaporeSingapore: Failed
+194.36.179.17:8443#SingaporeSingapore: Failed
+213.35.100.31:47112#SingaporeSingapore: Failed
+5.34.176.119:81#SingaporeSingapore: Failed
+51.79.158.58:2053#SingaporeSingapore: Failed
+83.142.30.4:2096#SingaporeSingapore: Failed
+91.192.81.154:8443#SingaporeSingapore: Failed
+13.250.131.37:443#SingaporeSingapore: Failed
+45.144.167.46:19816#ThailandNonthaburi: Failed
+171.103.164.62:30921#ThailandBangkok: Failed
+195.16.74.240:81#TürkiyeIzmir: Failed
+188.253.6.53:25884#TaiwanTaipei: Failed
+60.249.114.181:26398#TaiwanTaichung: Failed
+60.249.114.181:21574#TaiwanTaichung: Failed
+60.249.114.181:32003#TaiwanTaichung: Failed
+194.38.20.78:443#UkraineDnipro: Failed
+147.75.230.207:443#IndiaBengaluru: Failed
+172.96.209.184:53849#UnitedStatesLosAngeles: Failed
+172.245.118.118:10177#UnitedStatesBuffalo: Failed
+129.153.91.86:3701#UnitedStatesPhoenix: Failed
+154.17.29.80:50235#UnitedStatesLosAngeles: Failed
+129.146.114.239:44039#UnitedStatesPhoenix: Failed
+91.149.239.122:443#UnitedStatesLosAngeles: Failed
+107.173.147.41:36082#UnitedStatesSantaClara: Failed
+192.3.150.56:8000#UnitedStatesSeattle: Failed
+107.172.102.212:20700#UnitedStatesSantaClara: Failed
+107.173.250.62:444#UnitedStatesBuffalo: Failed
+104.168.59.6:18914#UnitedStatesBuffalo: Failed
+23.94.43.51:443#UnitedStatesSeattle: Failed
+107.172.167.194:443#UnitedStatesAshburn: Failed
+107.175.254.239:39128#UnitedStatesSantaClara: Failed
+192.210.196.158:36414#UnitedStatesSantaClara: Failed
+172.96.193.137:20408#UnitedStatesLosAngeles: Failed
+104.194.86.106:9443#UnitedStatesLosAngeles: Failed
+67.209.179.237:30419#UnitedStatesLosAngeles: Failed
+144.168.56.119:40864#UnitedStatesLosAngeles: Failed
+23.105.199.91:21626#UnitedStatesLosAngeles: Failed
+172.96.192.109:22503#UnitedStatesLosAngeles: Failed
+65.49.216.153:2443#UnitedStatesLosAngeles: Failed
+64.64.229.221:22801#UnitedStatesLosAngeles: Failed
+89.208.250.204:28268#UnitedStatesLosAngeles: Failed
+66.98.127.46:2053#UnitedStatesLosAngeles: Failed
+172.93.43.15:8443#UnitedStatesLosAngeles: Failed
+74.48.50.18:54696#UnitedStatesLosAngeles: Failed
+142.171.52.104:9933#UnitedStatesLosAngeles: Failed
+74.48.85.50:443#UnitedStatesLosAngeles: Failed
+74.48.179.37:36460#UnitedStatesLosAngeles: Failed
+148.135.110.150:48503#UnitedStatesLosAngeles: Failed
+74.48.179.37:32380#UnitedStatesLosAngeles: Failed
+74.48.179.37:10725#UnitedStatesLosAngeles: Failed
+74.48.179.37:36358#UnitedStatesLosAngeles: Failed
+74.48.179.37:58184#UnitedStatesLosAngeles: Failed
+107.175.245.68:50242#UnitedStatesAshburn: Failed
+152.70.155.147:443#UnitedStatesPhoenix: Failed
+172.83.159.4:16478#UnitedStatesSeattle: Failed
+172.83.159.4:41389#UnitedStatesSeattle: Failed
+172.96.209.184:13733#UnitedStatesLosAngeles: Failed
+172.83.159.4:27398#UnitedStatesSeattle: Failed
+104.168.176.241:24264#UnitedStatesSeattle: Failed
+107.173.147.41:35398#UnitedStatesSantaClara: Failed
+107.173.147.41:27170#UnitedStatesSantaClara: Failed
+132.145.217.215:11002#UnitedStatesAshburn: Failed
+45.151.133.125:27398#UnitedStatesSeattle: Failed
+132.145.217.215:11001#UnitedStatesAshburn: Failed
+45.142.159.9:9991#UnitedStatesSeattle: Failed
+34.68.95.24:5000#UnitedStatesCouncilBluffs: Failed
+38.105.26.109:36875#UnitedStatesLosAngeles: Failed
+34.68.95.24:5001#UnitedStatesCouncilBluffs: Failed
+138.2.235.230:22731#UnitedStatesSanJose: Failed
+103.170.72.129:27053#UnitedStatesLosAngeles: Failed
+129.146.198.253:28443#UnitedStatesPhoenix: Failed
+129.153.112.108:3966#UnitedStatesPhoenix: Failed
+107.175.183.62:443#UnitedStatesMarietta: Failed
+129.146.22.121:41913#UnitedStatesPhoenix: Failed
+129.146.46.164:443#UnitedStatesPhoenix: Failed
+129.159.37.19:30488#UnitedStatesSanJose: Failed
+138.2.231.58:45638#UnitedStatesSanJose: Failed
+141.148.187.195:443#UnitedStatesPhoenix: Failed
+142.171.140.152:443#UnitedStatesLosAngeles: Failed
+142.171.94.100:9960#UnitedStatesLosAngeles: Failed
+142.171.85.230:28034#UnitedStatesLosAngeles: Failed
+146.235.209.40:58869#UnitedStatesSanJose: Failed
+148.135.15.148:443#UnitedStatesLosAngeles: Failed
+149.248.21.85:11146#UnitedStatesLosAngeles: Failed
+149.248.7.208:443#UnitedStatesLosAngeles: Failed
+199.115.231.188:12586#UnitedStatesLosAngeles: Failed
+23.95.61.179:15160#UnitedStatesSantaClara: Failed
+38.58.63.150:51646#UnitedStatesLosAngeles: Failed
+45.151.132.228:19034#UnitedStatesSeattle: Failed
+45.32.131.28:31001#UnitedStatesSantaClara: Failed
+47.88.15.127:443#UnitedStatesMinkler: Failed
+54.202.98.246:47346#UnitedStatesPortland: Failed
+66.103.216.214:37357#UnitedStatesLosAngeles: Failed
+74.48.82.247:22166#UnitedStatesLosAngeles: Failed
+80.251.219.120:14105#UnitedStatesLosAngeles: Failed
+91.149.239.64:443#UnitedStatesLosAngeles: Failed
