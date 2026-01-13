@@ -28,8 +28,8 @@ def main():
     """
     Reads IPs from CFproxy.txt, gets their geo address, and writes to geoIP.txt.
     """
-    input_file = '/home/taile/iptest/CFproxy.txt'
-    output_file = '/home/taile/iptest/geoIP.txt'
+    input_file = './CFproxy.txt'
+    output_file = './geoIP.txt'
 
     with open(input_file, 'r') as f_in, open(output_file, 'w') as f_out:
         for line in f_in:
