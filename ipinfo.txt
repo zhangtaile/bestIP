@@ -5,3 +5,14 @@
 86.107.197.239:443#TheNetherlandsDronten: 152.34 ms
 152.67.248.2:53300#UnitedStatesSanJose: 178.57 ms
 8.219.1.169:443#SingaporeSingapore: 104.89 ms
+94.242.53.158:8443#RussiaStPetersburg: 155.51 ms
+94.242.53.158:2053#RussiaStPetersburg: 227.03 ms
+95.179.164.162:8443#GermanyFrankfurtamMain: 176.87 ms
+43.218.77.16:1443#IndonesiaJakarta: 95.39 ms
+210.61.97.241:81#TaiwanPingzhen: 110.04 ms
+45.76.82.192:443#GermanyFrankfurtamMain: 180.72 ms
+18.183.158.211:443#JapanTokyo: 65.05 ms
+192.243.127.224:443#JapanOsaka: 147.26 ms
+185.78.76.253:443#GermanyFrankfurtamMain: 200.86 ms
+
+
