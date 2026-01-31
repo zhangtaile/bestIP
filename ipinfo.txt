@@ -1,6 +1,100 @@
-5.2.67.113:443#TheNetherlandsDronten: 187.12 ms
-43.218.77.16:1443#IndonesiaJakarta: 92.66 ms
-43.218.77.16:443#IndonesiaJakarta: 96.14 ms
-80.66.85.115:2053#GermanyFrankfurtAmMain: 250.37 ms
-86.107.197.239:443#TheNetherlandsDronten: 152.34 ms
-152.67.248.2:53300#UnitedStatesSanJose: 178.57 ms
+43.132.244.52:21415#HK 6 COLLYER QUAY 43.40 ms
+8.218.245.116:41528#HK Alibaba Cloud (Singapore) Private Limited 43.94 ms
+43.154.124.136:26666#HK 6 COLLYER QUAY 44.84 ms
+43.252.41.204:2443#HK CommuniLink Internet Ltd. 46.39 ms
+192.252.182.52:7602#HK Integen  Inc 47.79 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 49.62 ms
+8.218.245.116:49701#HK Alibaba Cloud (Singapore) Private Limited 50.53 ms
+59.3.83.3:30012#KR KT 66.37 ms
+141.147.183.49:29876#JP Oracle Corporation 66.88 ms
+156.154.245.83:443#US Vercara  LLC 66.90 ms
+138.2.18.82:8880#JP Oracle Corporation 67.36 ms
+140.238.37.103:14782#JP Oracle Public Cloud 67.88 ms
+158.101.154.245:47001#JP Oracle Public Cloud 68.65 ms
+141.147.161.249:51037#JP Oracle Corporation 68.68 ms
+158.101.146.3:54516#JP Oracle Public Cloud 69.49 ms
+168.138.197.147:12345#JP Oracle Public Cloud 75.61 ms
+123.143.9.5:14041#KR LG Uplus 75.90 ms
+152.69.229.175:22558#KR Oracle Corporation 93.25 ms
+146.56.99.255:56789#KR Oracle Corporation   Global software solutions   California   USA 93.25 ms
+129.154.48.176:36355#KR Oracle Corporation 93.73 ms
+152.67.211.114:58337#KR Oracle Public Cloud 93.85 ms
+144.24.87.69:50001#KR Oracle Corporation 94.68 ms
+147.45.147.212:2053#RU JSC TIMEWEB 100.88 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 102.92 ms
+103.238.129.215:42734#JP ByteVirt LLC 103.26 ms
+147.45.147.212:8443#RU JSC TIMEWEB 104.41 ms
+8.222.220.81:25435#SG Alibaba Cloud (Singapore) Private Limited 106.94 ms
+8.219.58.164:57373#SG Alibaba Cloud (Singapore) Private Limited 108.06 ms
+150.230.214.172:16957#JP Oracle Corporation 124.06 ms
+156.230.12.71:443#HK 263 Shanghai Communications Ltd. 130.88 ms
+37.120.186.205:2083#DE netcup GmbH 135.21 ms
+94.159.98.23:2053#DE H2.NEXUS Frankfurt Network 135.74 ms
+185.120.59.207:8443#FR Baykov Ilya Sergeevich 144.46 ms
+193.178.172.225:2053#NL SERVERS TECH FZCO 147.72 ms
+103.90.75.41:8443#NL CLODO CLOUD SERVICE CO. L.L.C 148.88 ms
+38.60.193.247:13300#MY Kaopu Cloud HK Limited 149.47 ms
+77.223.96.232:443#RU Selectel Network 150.74 ms
+46.17.102.249:2053#NL HOSTKEY B.V. 151.45 ms
+38.180.99.178:8443#NL 3NT SOLUTIONS LLP 152.42 ms
+43.218.77.16:1443#ID Amazon.com  Inc. 153.21 ms
+46.151.26.63:8443#NL Amsterdam  Netherlands 153.82 ms
+88.210.11.164:22285#NL Amsterdam  Netherlands 154.03 ms
+185.254.190.70:8443#RU LLC Vpsville 154.23 ms
+5.255.118.176:443#NL The Infrastructure Group B.V. 155.24 ms
+88.210.9.239:443#NL Amsterdam  Netherlands 157.01 ms
+173.242.123.189:51042#US Cluster Logic Inc 158.04 ms
+163.5.207.31:443#NL SERVA ONE LTD 158.35 ms
+89.150.35.129:443#NL CLODO CLOUD SERVICE CO. L.L.C 158.35 ms
+37.221.125.147:2053#DE WorkTitans B.V. 158.87 ms
+94.142.139.93:443#RU PSERVERS Enterprise Network 158.97 ms
+43.218.77.16:443#ID Amazon.com  Inc. 159.02 ms
+194.87.252.135:2053#RU Baykov Ilya Sergeevich 159.23 ms
+176.109.106.61:8443#RU Cloud Technologies LLC trading as Cloud.ru 160.29 ms
+3.69.0.8:443#DE Amazon Data Services Ireland Ltd 160.78 ms
+13.250.131.37:443#SG Amazon Data Services Singapore 161.58 ms
+176.222.55.17:443#NL HOSTKEY B.V. 162.24 ms
+181.41.194.176:15565#NL RACK400.com - Netherlands Infrastructure 162.79 ms
+45.139.184.183:2053#RU LLC Vpsville 165.38 ms
+192.131.142.161:46639#HK 365 Group LLC 165.57 ms
+45.67.229.128:81#MD WorkTitans B.V. 169.43 ms
+38.180.99.253:8443#NL 3NT SOLUTIONS LLP 170.44 ms
+95.169.26.188:38557#US Cluster Logic Inc 171.48 ms
+46.17.102.93:443#NL HOSTKEY B.V. 171.89 ms
+20.235.105.146:443#IN Microsoft Corporation 172.03 ms
+167.234.216.84:65501#US Oracle Corporation 172.35 ms
+45.140.146.80:8443#MD WorkTitans B.V. 172.77 ms
+194.67.204.158:8443#RU PSERVERS Enterprise Network 173.94 ms
+67.226.221.104:443#US Securly  Inc 174.59 ms
+163.5.207.235:443#NL SERVA ONE LTD 175.21 ms
+23.94.56.111:20338#US RackNerd LLC 177.15 ms
+172.82.16.38:31005#US OLink Cloud LLC 178.14 ms
+51.250.15.177:2053#RU Yandex.Cloud LLC 179.75 ms
+172.82.16.38:25122#US OLink Cloud LLC 179.89 ms
+172.82.16.38:27033#US OLink Cloud LLC 179.91 ms
+192.9.135.182:7800#US Oracle Corporation 180.59 ms
+194.180.188.253:2053#DE HOSTKEY B.V. 180.59 ms
+172.82.16.38:27043#US OLink Cloud LLC 180.73 ms
+172.82.16.38:25956#US OLink Cloud LLC 180.94 ms
+172.82.16.38:30387#US OLink Cloud LLC 180.99 ms
+185.106.96.203:11338#US Sriyaan technology 181.09 ms
+184.169.181.217:443#US Amazon.com  Inc. 181.91 ms
+172.82.16.38:25953#US OLink Cloud LLC 181.94 ms
+213.183.59.144:2053#NL Melbicom infrastructure 182.23 ms
+172.82.16.38:25950#US OLink Cloud LLC 182.44 ms
+172.82.16.38:27053#US OLink Cloud LLC 182.52 ms
+188.116.23.181:2053#NL IROKO Networks Corporation 182.79 ms
+173.249.201.109:54443#US tzulo  inc. 183.54 ms
+92.241.18.106:443#RU JSC Svyazinform 183.63 ms
+92.38.152.30:8443#RU EdgeCenter LLC 183.68 ms
+18.144.44.213:80#US Amazon.com  Inc. 183.86 ms
+18.197.218.69:443#DE A100 ROW GmbH 183.97 ms
+67.226.221.104:80#US Securly  Inc 184.02 ms
+144.168.56.119:40864#US IT7 Networks Inc 184.97 ms
+3.67.25.193:443#DE A100 ROW GmbH 185.04 ms
+3.68.62.122:443#DE Amazon Data Services Ireland Ltd 185.20 ms
+185.246.155.198:443#NL Melbikomas UAB 185.76 ms
+67.226.221.102:80#US Securly  Inc 186.17 ms
+95.164.89.124:2053#DE WorkTitans B.V. 186.25 ms
+172.82.16.38:27061#US OLink Cloud LLC 186.25 ms
+3.67.232.136:443#DE A100 ROW GmbH 186.37 ms

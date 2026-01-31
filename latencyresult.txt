@@ -1,1721 +1,1886 @@
-43.132.244.52:21415#HongKongHongKong: 43.12 ms
-8.218.245.116:41528#HongKongHongKong: 43.47 ms
-8.218.245.116:49701#HongKongHongKong: 44.76 ms
-43.154.124.136:26666#HongKongHongKong: 45.30 ms
-47.76.218.163:443#HongKongHongKong: 45.74 ms
-43.252.41.204:2443#HongKongSanPoKong: 46.04 ms
-168.138.197.147:12345#JapanTokyo: 64.89 ms
-121.139.174.91:50003#SouthKoreaAnsan-si: 64.89 ms
-141.147.178.249:37043#JapanTokyo: 64.93 ms
-158.101.154.245:47001#JapanTokyo: 65.08 ms
-168.138.198.7:27560#JapanTokyo: 65.40 ms
-138.2.18.82:8880#JapanTokyo: 65.68 ms
-141.147.183.49:29876#JapanTokyo: 65.89 ms
-141.147.161.249:51037#JapanTokyo: 66.10 ms
-158.101.146.3:54516#JapanTokyo: 66.19 ms
-150.230.214.172:16957#JapanTokyo: 67.55 ms
-220.93.178.129:50003#SouthKoreaSeo-gu: 71.07 ms
-18.183.158.211:443#JapanTokyo: 75.97 ms
-8.222.220.81:25435#SingaporeSingapore: 84.74 ms
-47.74.254.191:8900#SingaporeSingapore: 85.72 ms
-8.219.58.164:57373#SingaporeSingapore: 85.74 ms
-152.67.211.114:58337#SouthKoreaChuncheon: 91.64 ms
-147.45.147.212:2053#RussiaNovosibirsk: 99.18 ms
-147.45.147.212:8443#RussiaNovosibirsk: 99.67 ms
-103.247.28.240:37211#HongKongHongKong: 122.61 ms
-45.144.167.46:19816#ThailandNonthaburi: 127.89 ms
-2.59.183.198:443#TheNetherlandsMeppel: 135.75 ms
-38.180.99.178:8443#TheNetherlandsAmsterdam: 138.91 ms
-168.100.9.81:443#TheNetherlandsAmsterdam: 139.05 ms
-85.209.195.61:2053#UnitedStatesLosAngeles: 140.58 ms
-188.116.21.18:8443#TheNetherlandsAmsterdam: 141.05 ms
-86.107.197.161:443#TheNetherlandsDronten: 141.77 ms
-38.60.193.247:13300#MalaysiaKualaLumpur: 142.12 ms
-38.180.85.203:443#SwitzerlandBern: 146.13 ms
-185.130.225.218:443#TheNetherlandsAmsterdam: 146.17 ms
-188.215.229.74:8443#TheNetherlandsAmsterdam: 148.02 ms
-2.59.183.197:443#TheNetherlandsMeppel: 152.67 ms
-185.120.59.207:2053#FranceParis: 154.02 ms
-81.22.132.183:443#TheNetherlandsMeppel: 154.29 ms
-184.169.181.217:443#UnitedStatesSanJose: 154.67 ms
-103.102.228.113:443#TheNetherlandsAssen: 155.36 ms
-176.222.55.163:443#TheNetherlandsAmsterdam: 156.86 ms
-46.8.158.69:2053#RussiaMoscow: 158.34 ms
-185.130.225.218:14006#TheNetherlandsAmsterdam: 159.06 ms
-5.181.20.165:81#FinlandHelsinki: 159.35 ms
-188.225.34.155:443#RussiaStPetersburg: 160.92 ms
-138.124.182.204:443#LatviaRiga: 162.34 ms
-95.169.26.188:38557#UnitedStatesLosAngeles: 163.66 ms
-2.59.183.233:444#TheNetherlandsMeppel: 163.73 ms
-45.95.203.214:8443#RussiaMoscow: 165.04 ms
-2.59.183.181:443#TheNetherlandsMeppel: 165.17 ms
-92.38.152.30:8443#RussiaMoscow: 165.36 ms
-89.111.172.106:2053#RussiaMoscow: 166.35 ms
-82.97.254.184:2053#RussiaStPetersburg: 166.46 ms
-194.87.252.135:8443#RussiaMoscow: 168.49 ms
-185.84.162.186:2053#RussiaStPetersburg: 169.43 ms
-45.159.251.8:81#PortugalLisbon: 170.19 ms
-95.182.96.30:2053#FranceParis: 170.80 ms
-23.94.56.111:20338#UnitedStatesSeattle: 171.61 ms
-107.173.147.41:36082#UnitedStatesSantaClara: 172.06 ms
-94.159.98.23:2053#GermanyFrankfurtamMain: 172.86 ms
-45.67.34.74:2053#RomaniaBucharest: 173.11 ms
-92.241.18.106:443#RussiaMoscow: 174.47 ms
-37.221.125.147:2053#UnitedKingdomLondon: 175.17 ms
-107.173.87.103:443#UnitedStatesSantaClara: 175.75 ms
-18.184.27.249:443#GermanyFrankfurtamMain: 176.10 ms
-181.41.194.176:15565#TheNetherlandsAmsterdam: 177.72 ms
-107.173.147.41:35398#UnitedStatesSantaClara: 178.04 ms
-138.2.232.156:28163#UnitedStatesSanJose: 178.26 ms
-142.171.233.183:443#UnitedStatesLosAngeles: 178.67 ms
-45.85.146.60:443#FranceLauterbourg: 178.90 ms
-95.163.203.38:2052#UnitedStatesLosAngeles: 181.15 ms
-213.183.51.219:443#TheNetherlandsAmsterdam: 182.37 ms
-142.171.166.116:8443#UnitedStatesLosAngeles: 183.25 ms
-195.245.239.128:2053#GermanyFrankfurtamMain: 183.40 ms
-3.67.25.193:443#GermanyFrankfurtamMain: 183.50 ms
-185.246.152.79:443#TheNetherlandsAmsterdam: 183.53 ms
-142.171.140.152:443#UnitedStatesLosAngeles: 183.85 ms
-194.39.204.118:65535#GermanyMunich: 184.25 ms
-195.54.174.216:2053#TheNetherlandsAmsterdam: 184.55 ms
-188.116.23.181:2053#TheNetherlandsAmsterdam: 184.64 ms
-23.95.18.12:18443#UnitedStatesSeattle: 184.69 ms
-213.183.61.100:8443#TheNetherlandsAmsterdam: 184.69 ms
-192.9.145.87:13611#UnitedStatesSanJose: 185.49 ms
-213.183.59.144:2053#TheNetherlandsAmsterdam: 186.08 ms
-37.120.186.205:2083#GermanyNuremberg: 186.35 ms
-185.198.166.182:443#TheNetherlandsDronten: 186.60 ms
-185.211.170.101:8443#RussiaStPetersburg: 187.07 ms
-95.182.96.30:8443#FranceParis: 187.17 ms
-152.67.235.3:88#UnitedStatesSanJose: 187.61 ms
-45.32.131.28:31001#UnitedStatesSantaClara: 188.51 ms
-82.148.30.224:443#RussiaMoscow: 189.68 ms
-51.250.15.177:8443#RussiaMoscow: 189.84 ms
-85.209.195.61:8443#UnitedStatesLosAngeles: 190.01 ms
-5.255.118.176:443#TheNetherlandsDronten: 190.89 ms
-95.179.140.212:443#TheNetherlandsAmsterdam: 191.42 ms
-74.48.77.104:35273#UnitedStatesLosAngeles: 192.07 ms
-51.250.15.177:2053#RussiaMoscow: 192.18 ms
-94.142.139.93:443#RussiaMoscow: 192.60 ms
-89.150.35.129:443#TheNetherlandsAmsterdam: 192.88 ms
-89.111.172.106:8443#RussiaMoscow: 192.97 ms
-213.183.51.71:443#TheNetherlandsAmsterdam: 193.04 ms
-64.181.240.173:443#UnitedStatesSanJose: 193.19 ms
-147.45.245.15:443#RussiaMoscow: 193.46 ms
-82.97.249.34:8443#RussiaMoscow: 193.50 ms
-82.97.249.34:2053#RussiaMoscow: 193.65 ms
-146.103.33.57:443#TheNetherlandsMeppel: 193.66 ms
-129.153.127.204:20756#UnitedStatesPhoenix: 194.01 ms
-81.22.132.136:443#TheNetherlandsMeppel: 194.55 ms
-185.195.69.200:8443#SwitzerlandBern: 194.91 ms
-95.182.97.147:2053#FranceParis: 195.20 ms
-146.0.73.202:443#TheNetherlandsAmsterdam: 196.26 ms
-129.153.112.108:3966#UnitedStatesPhoenix: 196.47 ms
-89.248.207.37:443#RussiaStPetersburg: 196.61 ms
-31.133.0.143:2053#PolandPoznan: 196.74 ms
-144.168.56.119:40864#UnitedStatesLosAngeles: 196.76 ms
-213.156.138.192:40778#FranceParis: 196.92 ms
-38.180.99.253:8443#TheNetherlandsAmsterdam: 197.16 ms
-31.133.0.159:2053#PolandPoznan: 197.17 ms
-213.226.126.183:2053#RussiaStPetersburg: 197.28 ms
-86.107.197.239:443#TheNetherlandsDronten: 197.66 ms
-18.197.218.69:443#GermanyFrankfurtamMain: 197.71 ms
-104.168.167.197:27213#UnitedStatesSeattle: 197.93 ms
-5.255.120.214:8443#TheNetherlandsDronten: 198.03 ms
-176.222.55.17:443#TheNetherlandsAmsterdam: 198.80 ms
-158.178.206.197:8443#FranceParis: 198.93 ms
-77.223.96.232:443#RussiaMoscow: 199.21 ms
-94.131.119.50:2053#RomaniaBucharest: 199.23 ms
-5.45.66.11:443#TheNetherlandsAmsterdam: 199.34 ms
-81.22.132.44:443#TheNetherlandsMeppel: 199.53 ms
-146.0.73.211:443#TheNetherlandsAmsterdam: 199.76 ms
-185.211.170.101:2053#RussiaStPetersburg: 199.96 ms
-216.128.140.253:26376#UnitedStatesDallas: 199.98 ms
-66.151.42.239:443#TheNetherlandsAmsterdam: 200.19 ms
-163.5.207.31:443#TheNetherlandsMeppel: 200.28 ms
-185.120.59.207:8443#FranceParis: 200.52 ms
-146.103.33.38:443#TheNetherlandsMeppel: 200.81 ms
-194.67.204.158:2053#RussiaMoscow: 201.06 ms
-185.106.96.203:11338#UnitedStatesSanJose: 201.20 ms
-194.87.252.135:2053#RussiaMoscow: 201.46 ms
-141.148.153.223:36818#UnitedStatesPhoenix: 201.88 ms
-2.59.183.114:443#TheNetherlandsMeppel: 201.95 ms
-155.248.198.56:34488#UnitedStatesSanJose: 202.09 ms
-46.8.224.219:2053#FranceParis: 202.16 ms
-185.128.106.14:51820#RussiaMoscow: 202.23 ms
-31.133.0.150:2053#PolandPoznan: 202.24 ms
-89.169.8.105:443#TheNetherlandsAmsterdam: 202.27 ms
-45.139.184.183:2053#RussiaMoscow: 202.33 ms
-206.166.251.92:443#TheNetherlandsAmsterdam: 202.44 ms
-193.42.62.215:8443#FranceStrasbourg: 202.67 ms
-2.59.183.26:443#TheNetherlandsMeppel: 202.70 ms
-94.131.12.56:443#SwitzerlandBern: 202.72 ms
-188.130.207.158:8443#FranceParis: 202.76 ms
-129.146.46.164:443#UnitedStatesPhoenix: 202.82 ms
-36.50.90.241:47790#HongKongWanChai: 202.87 ms
-46.229.212.218:8443#RussiaStPetersburg: 203.20 ms
-213.165.88.177:443#UnitedKingdomLondon: 203.40 ms
-103.90.75.41:2053#TheNetherlandsAmsterdam: 203.63 ms
-46.17.102.93:443#TheNetherlandsAmsterdam: 204.13 ms
-167.234.216.84:65501#UnitedStatesSanJose: 204.13 ms
-213.226.126.183:8443#RussiaStPetersburg: 204.15 ms
-154.29.150.2:8080#UnitedStatesLosAngeles: 204.59 ms
-138.2.235.230:22731#UnitedStatesSanJose: 204.59 ms
-77.83.246.153:2053#PolandWarsaw: 204.64 ms
-2.59.183.140:443#TheNetherlandsMeppel: 204.81 ms
-94.103.183.229:2053#RussiaMoscow: 204.94 ms
-129.146.114.239:44039#UnitedStatesPhoenix: 205.53 ms
-77.83.246.153:8443#PolandWarsaw: 205.72 ms
-31.129.48.139:443#RussiaMoscow: 205.88 ms
-195.226.194.222:8443#TheNetherlandsAmsterdam: 206.13 ms
-213.170.157.1:443#UnitedStatesPrineville: 206.15 ms
-94.177.199.119:8443#ItalyArezzo: 206.31 ms
-46.229.212.218:2053#RussiaStPetersburg: 206.50 ms
-163.5.207.124:443#TheNetherlandsMeppel: 206.64 ms
-46.17.102.249:2053#TheNetherlandsAmsterdam: 206.68 ms
-80.211.231.169:443#ItalyArezzo: 206.72 ms
-31.207.47.231:443#TheNetherlandsAmsterdam: 206.89 ms
-62.112.221.177:6633#UnitedKingdomHarlesden: 206.92 ms
-103.90.75.41:8443#TheNetherlandsAmsterdam: 207.03 ms
-163.5.207.235:443#TheNetherlandsMeppel: 207.04 ms
-176.222.52.253:2053#TheNetherlandsAmsterdam: 207.28 ms
-46.17.102.9:443#TheNetherlandsAmsterdam: 207.42 ms
-92.38.152.30:2053#RussiaMoscow: 207.86 ms
-31.207.45.106:58221#TheNetherlandsAmsterdam: 208.42 ms
-185.8.60.113:443#LatviaRiga: 208.62 ms
-5.2.67.113:443#TheNetherlandsDronten: 208.79 ms
-87.120.237.36:81#ItalyMilan: 208.81 ms
-142.171.202.202:33538#UnitedStatesLosAngeles: 208.87 ms
-173.44.141.156:8443#UnitedStatesDelrayBeach: 209.20 ms
-104.168.176.241:24264#UnitedStatesSeattle: 209.63 ms
-158.101.39.0:42979#UnitedStatesPhoenix: 210.00 ms
-103.137.249.117:443#TheNetherlandsAmsterdam: 210.26 ms
-194.54.157.81:443#TheNetherlandsMeppel: 210.47 ms
-51.15.47.222:3443#TheNetherlandsHaarlem: 210.53 ms
-63.205.203.251:443#UnitedStatesBerkeley: 210.91 ms
-90.156.211.232:8443#RussiaStPetersburg: 211.16 ms
-194.180.189.36:443#FinlandHelsinki: 211.34 ms
-2.56.221.72:81#SpainMadrid: 212.66 ms
-94.131.105.101:2053#TheNetherlandsMeppel: 213.30 ms
-94.131.100.136:2053#FinlandHelsinki: 213.53 ms
-185.84.162.186:8443#RussiaStPetersburg: 213.61 ms
-85.193.91.193:8443#RussiaStPetersburg: 213.67 ms
-5.230.44.117:16771#GermanyFrankfurtamMain: 213.82 ms
-45.95.203.214:2053#RussiaMoscow: 214.22 ms
-45.147.199.13:443#TheNetherlandsDronten: 215.00 ms
-185.105.117.222:443#RussiaMoscow: 215.02 ms
-150.230.33.247:19131#UnitedStatesSanJose: 215.07 ms
-45.67.229.128:81#MoldovaChisinau: 215.11 ms
-95.182.97.147:8443#FranceParis: 215.27 ms
-64.44.86.201:44759#UnitedStatesDenver: 215.28 ms
-94.177.199.119:2053#ItalyArezzo: 215.33 ms
-173.249.201.109:54443#UnitedStatesSanJose: 215.47 ms
-64.110.104.30:443#JapanOsaka: 215.94 ms
-185.254.190.70:8443#RussiaMoscow: 215.95 ms
-47.89.150.45:21575#UnitedStatesCharlottesville: 216.16 ms
-152.67.248.2:53300#UnitedStatesSanJose: 216.38 ms
-85.193.91.193:2053#RussiaStPetersburg: 216.59 ms
-47.89.136.31:36301#UnitedStatesCharlottesville: 216.98 ms
-172.245.129.72:27486#UnitedStatesChicago: 217.11 ms
-192.210.143.111:28425#UnitedStatesSeattle: 217.12 ms
-45.153.187.209:2053#SwedenStockholm: 217.18 ms
-5.181.158.96:443#MoldovaChisinau: 217.82 ms
-93.183.91.227:443#TheNetherlandsAmsterdam: 218.37 ms
-85.30.217.230:25146#RussiaPodolsk: 219.23 ms
-45.159.249.141:8443#FinlandHelsinki: 219.61 ms
-185.246.155.198:443#TheNetherlandsAmsterdam: 219.64 ms
-89.42.142.79:443#TheNetherlandsMeppel: 219.65 ms
-151.115.61.151:2053#PolandWarsaw: 219.88 ms
-172.82.16.38:25953#UnitedStatesSantaClara: 219.90 ms
-45.139.184.183:8443#RussiaMoscow: 219.98 ms
-194.67.204.158:8443#RussiaMoscow: 220.47 ms
-217.144.189.127:443#TheNetherlandsAmsterdam: 221.02 ms
-185.8.60.108:443#LatviaRiga: 221.75 ms
-176.10.125.114:443#SwitzerlandHünenberg: 222.01 ms
-140.238.158.238:443#CanadaToronto: 222.27 ms
-31.133.0.167:2053#PolandPoznan: 223.32 ms
-18.216.55.100:443#UnitedStatesDublin: 223.56 ms
-45.151.132.228:19034#UnitedStatesSeattle: 224.82 ms
-213.148.10.177:443#KazakhstanAlmaty: 224.91 ms
-70.34.244.250:12531#PolandWarsaw: 224.92 ms
-45.85.93.83:443#SwitzerlandGeneva: 224.95 ms
-91.200.151.172:443#KazakhstanAlmaty: 225.00 ms
-2.56.206.114:2053#ArmeniaArinj: 225.10 ms
-95.164.89.124:2053#GermanyFrankfurtamMain: 225.23 ms
-74.48.145.83:31556#UnitedStatesLosAngeles: 225.41 ms
-185.17.2.103:2053#FinlandHelsinki: 225.50 ms
-45.88.76.184:443#TheNetherlandsOudeMeer: 225.64 ms
-45.153.187.209:8443#SwedenStockholm: 225.80 ms
-45.146.82.107:35292#UnitedStatesSeattle: 225.87 ms
-77.83.246.133:24443#PolandWarsaw: 226.68 ms
-158.180.49.11:8443#GermanyFrankfurtamMain: 226.87 ms
-195.58.50.233:443#NetherlandsDronten: 227.06 ms
-38.180.133.83:443#TheNetherlandsAmsterdam: 227.26 ms
-212.237.219.99:443#FinlandHelsinki: 227.83 ms
-2.56.206.114:8443#ArmeniaArinj: 227.98 ms
-109.107.164.231:443#TheNetherlandsAmsterdam: 228.04 ms
-193.37.68.164:443#TheNetherlandsAssen: 228.07 ms
-91.107.145.203:37607#GermanyFrankfurtAmMain: 228.16 ms
-51.159.6.227:2053#FranceParis: 228.31 ms
-51.195.45.137:2053#GermanyLimburganderLahn: 228.61 ms
-194.164.33.236:443#TheNetherlandsAmsterdam: 228.83 ms
-77.238.241.143:443#TheNetherlandsAmsterdam: 228.98 ms
-89.168.68.57:2053#GermanyFrankfurtamMain: 229.30 ms
-193.84.2.58:8443#FinlandHelsinki: 229.67 ms
-35.197.23.75:443#UnitedStatesTheDalles: 229.70 ms
-193.124.190.40:2053#RussiaMoscow: 229.80 ms
-194.164.35.86:443#TheNetherlandsAmsterdam: 229.92 ms
-158.180.49.11:2053#GermanyFrankfurtamMain: 230.04 ms
-77.238.237.179:443#TheNetherlandsAmsterdam: 230.14 ms
-51.75.75.109:8443#GermanyLimburganderLahn: 230.20 ms
-31.133.0.133:2053#PolandPoznan: 230.45 ms
-104.168.87.41:16443#UnitedStatesSantaClara: 230.51 ms
-94.156.35.144:18836#BulgariaSofia: 230.53 ms
-141.147.10.210:8881#GermanyFrankfurtamMain: 230.87 ms
-194.53.54.84:2053#FinlandHelsinki: 231.25 ms
-103.106.1.2:443#TheNetherlandsMeppel: 231.25 ms
-192.236.249.102:443#TheNetherlandsAmsterdam: 231.67 ms
-46.8.224.219:8443#FranceParis: 231.78 ms
-37.120.186.205:2087#GermanyNuremberg: 231.94 ms
-193.24.209.103:8443#GermanyGelnhausen: 232.11 ms
-217.144.188.147:8443#FinlandHelsinki: 232.17 ms
-51.195.119.76:8443#GermanyLimburganderLahn: 232.34 ms
-158.101.11.204:15805#UnitedStatesPhoenix: 232.46 ms
-162.19.226.175:8443#GermanyLimburganderLahn: 232.61 ms
-2.56.204.183:443#ArmeniaArinj: 232.63 ms
-34.105.49.234:443#UnitedStatesTheDalles: 232.65 ms
-139.28.220.16:2053#FinlandHelsinki: 232.82 ms
-168.138.46.67:443#JapanOsaka: 233.20 ms
-57.129.16.72:2053#GermanyFrankfurtamMain: 233.25 ms
-213.183.59.144:8443#TheNetherlandsAmsterdam: 233.38 ms
-54.37.64.97:8443#FranceStrasbourg: 233.45 ms
-159.65.94.176:8080#UnitedKingdomSlough: 233.58 ms
-141.147.152.229:23333#JapanOsaka: 233.77 ms
-185.213.211.29:443#TheNetherlandsMeppel: 233.88 ms
-31.133.0.122:2053#PolandPoznan: 234.07 ms
-51.195.44.192:8443#GermanyLimburganderLahn: 234.09 ms
-185.245.83.41:31687#UnitedKingdomPoplar: 234.11 ms
-51.75.75.132:8443#GermanyLimburganderLahn: 234.23 ms
-34.82.76.253:443#UnitedStatesTheDalles: 234.39 ms
-185.225.17.233:2053#RomaniaIași: 234.44 ms
-185.195.69.119:8443#SwitzerlandBern: 234.78 ms
-54.37.64.120:2053#FranceStrasbourg: 234.88 ms
-176.105.253.102:2053#PolandWarsaw: 235.05 ms
-103.90.73.117:443#TheNetherlandsAmsterdam: 235.19 ms
-46.8.229.48:443#TheNetherlandsAmsterdam: 235.21 ms
-185.105.118.126:2053#FinlandHelsinki: 235.66 ms
-107.175.245.68:50242#UnitedStatesAshburn: 235.90 ms
-94.23.72.40:8443#ItalyMilan: 236.34 ms
-130.61.107.238:8443#GermanyFrankfurtamMain: 236.48 ms
-207.211.176.65:13425#UnitedStatesChicago: 236.54 ms
-178.250.159.120:2053#RussiaNovoivanovskoye: 236.57 ms
-45.140.146.80:8443#MoldovaChisinau: 236.61 ms
-148.113.43.228:8443#IndiaMumbai: 236.62 ms
-77.238.242.168:443#TheNetherlandsAmsterdam: 236.65 ms
-172.232.157.252:2053#SwedenStockholm: 236.76 ms
-79.132.139.52:443#TheNetherlandsRotterdam: 236.78 ms
-89.168.68.57:8443#GermanyFrankfurtamMain: 236.99 ms
-35.185.54.229:27207#UnitedStatesNorthCharleston: 237.05 ms
-193.124.180.241:443#FinlandHelsinki: 237.11 ms
-109.107.165.225:443#TheNetherlandsAmsterdam: 237.15 ms
-194.53.54.84:8443#FinlandHelsinki: 237.19 ms
-185.23.238.76:443#TheNetherlandsDronten: 237.49 ms
-37.252.5.75:443#EstoniaTallinn: 237.54 ms
-91.107.166.26:2053#GermanyFrankfurtAmMain: 237.85 ms
-70.34.244.250:53062#PolandWarsaw: 238.10 ms
-45.138.25.67:2053#TheNetherlandsAmsterdam: 238.13 ms
-45.84.196.33:65513#GermanyFrankfurt: 238.23 ms
-87.98.237.23:8443#PolandWroclaw: 238.24 ms
-193.42.62.215:2053#FranceStrasbourg: 238.32 ms
-138.68.141.220:8443#UnitedKingdomSlough: 238.49 ms
-91.194.11.78:81#TheNetherlandsWaalwijk: 238.50 ms
-88.218.76.170:443#FranceStrasbourg: 238.56 ms
-167.99.140.246:2053#GermanyFrankfurtamMain: 238.64 ms
-162.19.24.169:2053#FranceGravelines: 238.75 ms
-89.117.57.4:2053#FranceLauterbourg: 239.06 ms
-150.230.146.170:2053#GermanyFrankfurtamMain: 239.35 ms
-188.165.1.138:2053#IrelandDublin: 239.54 ms
-172.232.157.252:8443#SwedenStockholm: 239.73 ms
-89.168.43.31:8443#FranceParis: 239.86 ms
-193.109.84.39:443#FinlandHelsinki: 239.89 ms
-51.38.44.17:443#FranceRoubaix: 240.27 ms
-193.124.190.40:8443#RussiaMoscow: 240.35 ms
-141.94.221.26:2053#FranceGravelines: 240.44 ms
-162.19.247.245:443#GermanyLimburganderLahn: 240.93 ms
-18.184.55.249:443#GermanyFrankfurtamMain: 241.01 ms
-141.95.159.211:2053#FranceGravelines: 241.19 ms
-51.38.51.73:2053#FranceRoubaix: 241.24 ms
-141.94.223.24:2053#FranceGravelines: 241.67 ms
-51.38.48.27:2053#FranceRoubaix: 241.70 ms
-141.94.220.157:8443#FranceGravelines: 241.75 ms
-141.94.222.3:2053#FranceGravelines: 241.75 ms
-57.129.5.108:8443#GermanyFrankfurtamMain: 241.88 ms
-194.246.82.213:443#TheNetherlandsAmsterdam: 242.00 ms
-45.76.192.129:24434#JapanMinamishinagawa: 242.04 ms
-192.236.249.96:443#TheNetherlandsAmsterdam: 242.17 ms
-46.17.97.207:2053#TheNetherlandsAmsterdam: 242.28 ms
-93.183.88.193:443#TheNetherlandsAmsterdam: 242.29 ms
-141.94.223.237:2053#FranceGravelines: 242.40 ms
-141.95.127.227:2053#GermanyLimburganderLahn: 242.42 ms
-31.133.1.8:2053#PolandPoznan: 242.44 ms
-130.185.249.22:8080#UnitedKingdomIslington: 242.57 ms
-146.59.153.201:2053#FranceGravelines: 242.76 ms
-141.94.205.22:8443#FranceGravelines: 242.88 ms
-31.133.0.124:2053#PolandPoznan: 242.88 ms
-162.19.254.49:8443#GermanyLimburganderLahn: 243.07 ms
-141.94.204.206:8443#FranceGravelines: 243.14 ms
-77.238.253.245:443#TheNetherlandsAmsterdam: 243.39 ms
-129.152.2.127:1488#ItalySiziano: 243.40 ms
-194.76.173.6:2053#GermanyLimburganderLahn: 243.43 ms
-94.131.119.136:81#RomaniaBucharest: 243.68 ms
-195.226.194.222:2053#TheNetherlandsAmsterdam: 243.69 ms
-51.195.44.3:2053#GermanyLimburganderLahn: 243.72 ms
-141.94.221.25:2053#FranceGravelines: 243.74 ms
-192.236.249.99:443#TheNetherlandsAmsterdam: 243.83 ms
-141.147.85.167:8443#UnitedKingdomLondon: 243.84 ms
-141.94.205.129:8443#FranceGravelines: 243.85 ms
-140.238.158.238:8080#CanadaToronto: 243.91 ms
-89.168.43.31:2053#FranceParis: 243.96 ms
-141.94.206.26:8443#FranceGravelines: 243.98 ms
-45.82.176.46:443#TheNetherlandsAmsterdam: 244.05 ms
-45.76.198.248:443#JapanMinamishinagawa: 244.14 ms
-212.22.74.89:443#NetherlandsDronten: 244.18 ms
-158.178.206.197:2053#FranceParis: 244.29 ms
-77.91.78.15:2053#FinlandHelsinki: 244.57 ms
-89.22.234.0:2053#SwedenStockholm: 244.60 ms
-195.133.39.185:443#TheNetherlandsAmsterdam: 244.63 ms
-78.40.117.65:2053#SwedenTällberg: 244.68 ms
-194.24.161.146:4090#FranceParis: 244.75 ms
-46.183.186.57:443#HungaryBudapest: 244.91 ms
-167.71.243.238:21857#UnitedStatesClifton: 244.91 ms
-51.195.100.247:2053#GermanyLimburganderLahn: 244.98 ms
-141.94.221.230:2053#FranceGravelines: 244.99 ms
-213.183.51.75:2053#TheNetherlandsAmsterdam: 245.03 ms
-172.235.40.214:36768#UnitedStatesLosAngeles: 245.06 ms
-92.246.139.197:2053#GermanyFrankfurtamMain: 245.26 ms
-70.34.244.250:27000#PolandWarsaw: 245.27 ms
-51.75.70.204:2053#GermanyLimburganderLahn: 245.59 ms
-139.59.152.149:8443#GermanyFrankfurtamMain: 245.60 ms
-92.222.24.127:2053#FranceParis: 245.89 ms
-192.3.155.217:443#UnitedStatesBuffalo: 246.06 ms
-51.178.82.214:8443#FranceStrasbourg: 246.23 ms
-94.23.72.40:2053#ItalyMilan: 246.49 ms
-51.38.225.63:2053#FranceGravelines: 246.50 ms
-188.130.207.158:2053#FranceParis: 246.54 ms
-93.183.88.35:443#TheNetherlandsAmsterdam: 246.66 ms
-141.94.222.46:2053#FranceGravelines: 246.76 ms
-91.107.166.26:8888#GermanyFrankfurtAmMain: 247.13 ms
-138.197.9.141:6000#UnitedStatesClifton: 247.15 ms
-141.94.221.119:2053#FranceGravelines: 247.25 ms
-47.253.87.21:52315#UnitedStatesCharlottesville: 247.31 ms
-51.38.50.211:8443#FranceRoubaix: 247.40 ms
-194.147.33.13:443#NetherlandsDronten: 247.46 ms
-91.107.142.138:8080#GermanyFrankfurtAmMain: 247.50 ms
-178.32.42.230:8443#BelgiumZaventem: 247.81 ms
-89.110.67.172:443#TheNetherlandsAmsterdam: 247.81 ms
-141.94.220.64:2053#FranceGravelines: 247.82 ms
-135.125.123.246:5432#FranceRoubaix: 248.30 ms
-185.252.144.185:2053#FinlandHelsinki: 248.35 ms
-77.238.233.156:9443#TheNetherlandsAmsterdam: 248.35 ms
-92.118.169.4:56149#NetherlandsDronten: 248.63 ms
-128.140.11.25:25690#GermanyNuremberg: 248.74 ms
-2.59.183.77:443#TheNetherlandsMeppel: 248.86 ms
-212.34.152.224:443#TheNetherlandsAmsterdam: 248.98 ms
-47.90.220.146:59170#UnitedStatesCharlottesville: 249.03 ms
-91.199.32.191:2053#UnitedKingdomLondon: 249.28 ms
-45.155.249.66:443#TheNetherlandsRotterdam: 249.34 ms
-94.23.171.114:2053#CzechiaPrague: 249.35 ms
-172.98.207.58:443#CanadaScarborough: 249.50 ms
-87.239.251.30:2053#TheNetherlandsAmsterdam: 249.51 ms
-217.142.230.253:587#JapanOsaka: 249.61 ms
-185.17.2.103:8443#FinlandHelsinki: 249.71 ms
-2.59.38.46:443#TheNetherlandsNieuwegein: 249.76 ms
-91.107.177.114:14444#GermanyFrankfurtAmMain: 249.78 ms
-89.19.211.109:8443#GermanyFrankfurtamMain: 249.79 ms
-109.107.174.65:8443#TheNetherlandsAmsterdam: 249.84 ms
-198.46.218.63:27149#UnitedStatesElkGroveVillage: 249.90 ms
-31.133.0.55:8443#PolandPoznan: 249.94 ms
-95.164.62.196:443#UnitedStatesHackensack: 250.06 ms
-103.231.73.153:443#LatviaRiga: 250.13 ms
-47.89.150.45:28626#UnitedStatesCharlottesville: 250.24 ms
-147.45.111.106:8443#TheNetherlandsAmsterdam: 250.67 ms
-206.189.99.40:433#TheNetherlandsAmsterdam: 250.81 ms
-47.90.140.40:15624#UnitedStatesCharlottesville: 251.15 ms
-148.113.43.228:2053#IndiaMumbai: 251.19 ms
-138.2.32.76:15821#JapanOsaka: 251.24 ms
-51.38.50.52:2053#FranceRoubaix: 251.49 ms
-162.19.242.212:2053#GermanyLimburganderLahn: 251.56 ms
-141.94.207.218:2053#FranceGravelines: 251.64 ms
-94.23.74.37:8443#PortugalLisbon: 251.76 ms
-66.151.42.104:443#TheNetherlandsAmsterdam: 251.89 ms
-162.19.25.13:2053#FranceGravelines: 251.93 ms
-23.95.61.179:15160#UnitedStatesSantaClara: 251.93 ms
-65.109.209.85:2053#FinlandHelsinki: 252.02 ms
-94.23.168.201:8443#FranceStrasbourg: 252.18 ms
-93.183.126.123:8443#TheNetherlandsAmsterdam: 252.26 ms
-152.69.199.70:8443#JapanOsaka: 252.27 ms
-188.165.26.180:8443#PolandWarsaw: 252.28 ms
-129.151.198.3:2053#SwedenStockholm: 252.30 ms
-45.144.48.186:8443#PolandWarsaw: 252.43 ms
-37.187.98.185:443#FranceRoubaix: 252.79 ms
-91.228.154.170:8443#GermanyFrankfurtamMain: 252.80 ms
-194.35.119.135:2053#GermanyFrankfurtamMain: 252.89 ms
-51.159.6.227:8443#FranceParis: 252.94 ms
-185.105.118.126:8443#FinlandHelsinki: 253.30 ms
-45.86.86.53:443#MoldovaChisinau: 253.31 ms
-141.94.221.241:8443#FranceGravelines: 253.33 ms
-217.12.206.160:81#PolandGdansk: 253.65 ms
-185.82.218.224:8443#BulgariaSofia: 253.83 ms
-193.178.172.225:2053#TheNetherlandsAmsterdam: 253.94 ms
-35.230.79.26:443#UnitedStatesTheDalles: 254.00 ms
-138.2.59.96:10129#JapanOsaka: 254.25 ms
-162.19.65.172:2053#FranceGravelines: 254.35 ms
-51.38.48.190:2053#FranceRoubaix: 254.39 ms
-31.133.0.55:2053#PolandPoznan: 254.43 ms
-150.230.5.34:45681#JapanOsaka: 254.55 ms
-45.82.80.96:443#SwedenStockholm: 254.99 ms
-47.90.140.40:44203#UnitedStatesCharlottesville: 255.03 ms
-109.120.185.29:443#FinlandHelsinki: 255.08 ms
-145.239.85.117:8443#PolandWroclaw: 255.13 ms
-185.188.181.14:443#FinlandHelsinki: 255.28 ms
-104.239.87.213:8443#TürkiyeIstanbul: 255.52 ms
-51.38.51.190:8443#FranceRoubaix: 255.69 ms
-45.95.232.18:2053#SwitzerlandZurich: 255.69 ms
-51.178.37.179:2053#FranceRoubaix: 255.69 ms
-138.68.141.220:2053#UnitedKingdomSlough: 255.77 ms
-95.217.184.234:2053#FinlandHelsinki: 255.86 ms
-45.89.52.247:443#TurkeyIzmir: 255.91 ms
-185.103.255.245:443#TheNetherlandsAmsterdam: 255.99 ms
-77.223.215.167:443#GermanyFrankfurtamMain: 256.01 ms
-188.165.54.172:8443#FranceRoubaix: 256.03 ms
-45.88.67.65:443#NetherlandsDronten: 256.13 ms
-91.108.241.5:2053#FinlandHelsinki: 256.48 ms
-89.110.120.197:443#TheNetherlandsAmsterdam: 256.49 ms
-50.228.203.26:443#UnitedStatesDavie: 256.51 ms
-91.218.212.223:443#UkraineKyiv: 256.59 ms
-45.82.14.221:443#KazakhstanAlmaty: 256.99 ms
-65.109.210.191:2053#FinlandHelsinki: 257.02 ms
-23.108.217.103:443#TheNetherlandsAmsterdam: 257.13 ms
-109.120.135.91:2053#SwedenStockholm: 257.34 ms
-5.187.4.157:443#GermanyFrankfurtamMain: 257.39 ms
-145.239.88.255:8443#PolandWroclaw: 257.48 ms
-212.34.146.6:8443#TheNetherlandsAmsterdam: 257.56 ms
-116.203.99.143:40000#GermanyNuremberg: 257.75 ms
-51.20.99.157:443#SwedenStockholm: 257.82 ms
-192.3.44.158:38613#UnitedStatesBuffalo: 257.83 ms
-5.39.219.35:443#TheNetherlandsAmsterdam: 257.95 ms
-65.109.201.6:2053#FinlandHelsinki: 257.99 ms
-79.137.248.111:443#FinlandHelsinki: 258.26 ms
-77.238.247.93:443#TheNetherlandsAmsterdam: 258.44 ms
-65.109.211.85:3030#FinlandHelsinki: 258.45 ms
-91.197.0.63:443#LatviaRiga: 258.74 ms
-188.227.86.12:30718#TheNetherlandsAmsterdam: 258.77 ms
-109.107.167.104:443#TheNetherlandsAmsterdam: 258.78 ms
-152.69.192.40:57005#JapanOsaka: 258.86 ms
-77.91.70.242:2053#FinlandHelsinki: 259.29 ms
-91.239.148.53:443#PolandGdansk: 259.42 ms
-5.35.69.209:443#TheNetherlandsAmsterdam: 259.74 ms
-194.164.32.32:443#TheNetherlandsAmsterdam: 259.78 ms
-135.181.210.228:443#FinlandHelsinki: 259.79 ms
-104.207.159.165:8088#UnitedStatesKent: 259.80 ms
-94.241.174.229:443#TheNetherlandsAmsterdam: 259.88 ms
-31.133.0.135:2053#PolandPoznan: 260.05 ms
-194.127.193.240:50791#SingaporeSingapore: 260.13 ms
-176.124.206.60:8443#FinlandHelsinki: 260.16 ms
-65.109.186.249:2053#FinlandHelsinki: 260.28 ms
-89.110.100.110:443#TheNetherlandsAmsterdam: 260.41 ms
-212.34.152.234:8443#TheNetherlandsAmsterdam: 260.53 ms
-212.34.151.174:443#TheNetherlandsAmsterdam: 260.59 ms
-147.45.72.32:8443#SwedenStockholm: 260.65 ms
-45.85.93.96:443#SwitzerlandGeneva: 260.65 ms
-45.138.73.83:443#FinlandHelsinki: 260.67 ms
-31.172.74.123:443#TheNetherlandsRotterdam: 260.75 ms
-89.110.69.27:443#TheNetherlandsAmsterdam: 260.78 ms
-185.252.144.185:8443#FinlandHelsinki: 260.81 ms
-212.34.153.65:443#TheNetherlandsAmsterdam: 260.83 ms
-185.225.17.233:8443#RomaniaIași: 260.87 ms
-194.35.119.49:8443#GermanyFrankfurtamMain: 261.19 ms
-96.126.112.12:38298#UnitedStatesRichardson: 261.24 ms
-37.128.204.4:8443#LatviaRiga: 261.27 ms
-45.159.249.141:2053#FinlandHelsinki: 261.32 ms
-77.238.228.3:443#TheNetherlandsAmsterdam: 261.52 ms
-77.238.248.80:443#TheNetherlandsAmsterdam: 261.73 ms
-79.142.51.162:65000#KazakhstanAlmaty: 261.80 ms
-45.129.199.232:443#EstoniaTallinn: 261.84 ms
-207.174.30.74:443#TheNetherlandsAmsterdam: 261.88 ms
-195.200.16.44:443#TheNetherlandsAmsterdam: 261.94 ms
-213.255.209.207:443#CanadaToronto: 262.27 ms
-51.178.83.50:2053#FranceStrasbourg: 262.38 ms
-185.242.107.80:443#LatviaRiga: 262.53 ms
-95.217.195.186:8443#FinlandHelsinki: 262.70 ms
-91.184.242.155:443#TheNetherlandsAmsterdam: 262.80 ms
-152.70.76.104:46000#IndiaHyderabad: 262.89 ms
-78.40.117.186:2053#SwedenTällberg: 262.92 ms
-195.58.50.134:443#NetherlandsDronten: 262.96 ms
-78.40.117.49:2053#SwedenTällberg: 263.02 ms
-140.83.57.20:13118#JapanOsaka: 263.09 ms
-94.131.100.225:2053#FinlandHelsinki: 263.14 ms
-217.142.236.93:443#JapanOsaka: 263.14 ms
-103.106.3.238:443#KazakhstanAlmaty: 263.38 ms
-176.109.106.61:8443#RussiaMoscow: 263.45 ms
-207.154.235.176:2053#GermanyFrankfurtamMain: 263.97 ms
-80.211.249.68:8443#PolandWarsaw: 264.07 ms
-91.149.238.88:443#UnitedKingdomLondon: 264.21 ms
-45.95.232.18:8443#SwitzerlandZurich: 264.31 ms
-147.45.72.36:8443#SwedenStockholm: 264.42 ms
-198.46.143.134:8443#UnitedStatesBuffalo: 264.48 ms
-45.138.73.136:2053#FinlandHelsinki: 264.62 ms
-217.151.229.156:2053#GermanyFrankfurtamMain: 264.67 ms
-185.188.181.214:443#FinlandHelsinki: 264.76 ms
-47.252.4.59:15023#UnitedStatesCharlottesville: 264.79 ms
-147.45.173.149:443#TheNetherlandsAmsterdam: 265.06 ms
-89.169.54.138:443#GermanyFrankfurtAmMain: 265.21 ms
-51.38.48.91:8443#FranceRoubaix: 265.37 ms
-45.86.229.28:443#SpainMadrid: 265.42 ms
-46.17.107.183:443#UnitedStatesNewYork: 265.50 ms
-85.192.60.129:443#TheNetherlandsAmsterdam: 265.51 ms
-85.193.95.220:2053#GermanyFrankfurtamMain: 265.58 ms
-95.85.89.70:81#SpainMadrid: 265.79 ms
-141.94.204.167:2053#FranceGravelines: 265.87 ms
-51.38.48.228:2053#FranceRoubaix: 266.08 ms
-37.128.207.179:443#LatviaRiga: 266.28 ms
-65.108.209.46:443#FinlandHelsinki: 266.42 ms
-5.187.7.200:21821#GermanyFrankfurtamMain: 266.65 ms
-95.217.184.234:8443#FinlandHelsinki: 267.13 ms
-51.38.51.236:2053#FranceRoubaix: 267.20 ms
-195.133.75.35:443#NetherlandsDronten: 267.57 ms
-107.172.102.212:20700#UnitedStatesSantaClara: 267.58 ms
-45.144.48.33:8443#PolandWarsaw: 267.59 ms
-5.180.182.128:443#NetherlandsAmsterdam: 267.70 ms
-141.94.205.248:8443#FranceGravelines: 267.74 ms
-77.220.214.135:443#TheNetherlandsAmsterdam: 267.87 ms
-91.208.162.68:443#MoldovaChisinau: 268.09 ms
-152.70.75.80:15805#IndiaHyderabad: 268.27 ms
-89.110.79.248:443#TheNetherlandsAmsterdam: 268.37 ms
-164.90.194.71:2053#TheNetherlandsAmsterdam: 268.42 ms
-194.35.119.135:8443#GermanyFrankfurtamMain: 268.43 ms
-91.208.206.103:443#MoldovaChisinau: 268.70 ms
-194.156.67.85:2053#MoldovaChisinau: 269.10 ms
-172.235.49.135:17973#UnitedStatesLosAngeles: 269.13 ms
-162.19.253.47:2053#GermanyLimburganderLahn: 269.15 ms
-162.19.242.215:2053#GermanyLimburganderLahn: 269.19 ms
-51.195.45.34:8443#GermanyLimburganderLahn: 269.23 ms
-89.110.80.121:443#TheNetherlandsAmsterdam: 269.24 ms
-78.40.116.136:2053#SwedenTällberg: 269.25 ms
-185.231.204.186:443#SpainMadrid: 269.48 ms
-95.217.186.94:2053#FinlandHelsinki: 269.57 ms
-150.230.27.23:16504#CanadaToronto: 269.80 ms
-159.65.162.90:4431#UnitedStatesClifton: 269.91 ms
-77.221.143.39:443#SwedenStockholm: 270.02 ms
-35.247.124.181:443#UnitedStatesTheDalles: 270.59 ms
-194.87.62.139:443#NetherlandsDronten: 270.60 ms
-139.60.162.153:443#UnitedStatesNewYork: 270.77 ms
-194.164.34.104:433#TheNetherlandsAmsterdam: 270.79 ms
-45.95.232.115:2053#SwitzerlandZurich: 270.98 ms
-89.208.107.154:2053#TheNetherlandsAmsterdam: 271.02 ms
-185.103.255.196:443#TheNetherlandsAmsterdam: 271.20 ms
-194.127.193.124:24467#SingaporeSingapore: 271.37 ms
-185.18.54.61:1080#TheNetherlandsRotterdam: 271.44 ms
-194.147.115.132:443#TheNetherlandsDronten: 271.45 ms
-185.242.106.215:443#LatviaRiga: 271.70 ms
-35.185.54.229:27205#UnitedStatesNorthCharleston: 271.71 ms
-198.46.143.134:443#UnitedStatesBuffalo: 271.84 ms
-185.112.82.28:443#FinlandHelsinki: 271.90 ms
-51.195.46.211:2053#GermanyLimburganderLahn: 271.94 ms
-57.129.5.108:2053#GermanyFrankfurtamMain: 271.96 ms
-142.132.140.130:452#GermanyFalkenstein: 271.97 ms
-193.124.22.168:8443#LatviaRiga: 272.02 ms
-193.3.168.163:443#TheNetherlandsOudeMeer: 272.07 ms
-91.149.242.110:443#SpainMadrid: 272.10 ms
-74.48.50.18:54696#UnitedStatesLosAngeles: 272.16 ms
-192.210.196.158:36414#UnitedStatesSantaClara: 272.23 ms
-162.19.243.52:8443#GermanyLimburganderLahn: 272.37 ms
-162.19.158.37:2053#RussiaMoscow: 272.52 ms
-51.75.74.138:2053#GermanyLimburganderLahn: 272.58 ms
-138.2.48.109:26412#JapanOsaka: 272.60 ms
-95.140.154.101:8443#GermanyFrankfurtamMain: 272.64 ms
-80.85.246.195:2053#TheNetherlandsAmsterdam: 272.70 ms
-95.140.154.101:2053#GermanyFrankfurtamMain: 272.96 ms
-185.220.204.87:443#NetherlandsAmsterdam: 273.02 ms
-135.125.191.180:2053#GermanyLimburganderLahn: 273.11 ms
-87.98.237.23:2053#PolandWroclaw: 273.27 ms
-185.114.72.31:2053#SpainMadrid: 273.83 ms
-91.107.166.111:8888#GermanyFrankfurtAmMain: 273.87 ms
-162.19.254.49:2053#GermanyLimburganderLahn: 273.88 ms
-162.19.252.123:8443#GermanyLimburganderLahn: 273.96 ms
-51.195.44.192:2053#GermanyLimburganderLahn: 274.00 ms
-51.75.74.138:8443#GermanyLimburganderLahn: 274.23 ms
-207.154.235.176:8443#GermanyFrankfurtamMain: 274.44 ms
-135.125.191.180:8443#GermanyLimburganderLahn: 274.47 ms
-162.19.246.187:2053#GermanyLimburganderLahn: 274.50 ms
-162.19.247.5:2053#GermanyLimburganderLahn: 274.56 ms
-51.178.81.223:8443#FranceStrasbourg: 274.74 ms
-46.226.161.37:443#SwedenStockholm: 274.75 ms
-34.168.95.100:12388#UnitedStatesTheDalles: 274.81 ms
-185.94.165.167:443#TheNetherlandsAmsterdam: 274.84 ms
-57.129.16.72:8443#GermanyFrankfurtamMain: 274.94 ms
-81.200.154.2:2053#GermanyFrankfurtamMain: 275.08 ms
-193.188.21.181:443#SwedenStockholm: 275.10 ms
-77.221.143.81:2053#SwedenStockholm: 275.13 ms
-51.75.70.31:2053#GermanyLimburganderLahn: 275.22 ms
-47.252.4.59:38181#UnitedStatesCharlottesville: 275.23 ms
-51.75.70.31:8443#GermanyLimburganderLahn: 275.56 ms
-51.195.43.174:2053#GermanyFrankfurtamMain: 275.74 ms
-2.56.206.64:443#ArmeniaArinj: 276.44 ms
-51.75.73.20:2053#GermanyLimburganderLahn: 276.48 ms
-162.19.253.192:8443#GermanyLimburganderLahn: 276.50 ms
-195.133.38.227:443#TheNetherlandsAmsterdam: 276.54 ms
-54.38.159.25:443#GermanyLimburganderLahn: 276.60 ms
-37.187.54.16:2053#FranceRoubaix: 276.87 ms
-91.149.202.142:443#UnitedKingdomLondon: 276.88 ms
-162.19.246.187:8443#GermanyLimburganderLahn: 276.89 ms
-213.148.1.150:2053#KazakhstanAlmaty: 276.98 ms
-144.24.195.115:23010#FranceMarseille: 276.98 ms
-185.94.164.107:443#TheNetherlandsAmsterdam: 277.11 ms
-54.37.64.148:2053#FranceStrasbourg: 277.18 ms
-94.131.122.145:2053#UnitedKingdomCoventry: 277.26 ms
-51.75.65.24:8443#GermanyLimburganderLahn: 277.43 ms
-147.45.145.101:443#TheNetherlandsAmsterdam: 277.46 ms
-51.178.80.153:8443#FranceStrasbourg: 277.46 ms
-188.165.54.172:2053#FranceRoubaix: 277.48 ms
-89.110.108.46:443#TheNetherlandsAmsterdam: 277.53 ms
-45.144.51.79:8443#PolandWarsaw: 277.61 ms
-167.235.242.114:443#GermanyFalkenstein: 277.67 ms
-193.70.0.78:2053#FranceStrasbourg: 277.75 ms
-45.144.48.182:8443#PolandWarsaw: 277.77 ms
-45.43.90.169:443#TheNetherlandsAmsterdam: 277.92 ms
-217.25.91.145:8443#GermanyFrankfurtamMain: 277.94 ms
-141.94.222.73:2053#FranceGravelines: 277.98 ms
-37.187.225.21:8443#FranceRoubaix: 278.26 ms
-141.94.223.93:8443#FranceGravelines: 278.61 ms
-54.36.100.7:8443#FranceGravelines: 278.86 ms
-91.197.1.93:8443#LatviaRiga: 278.87 ms
-89.22.236.161:2053#SwedenStockholm: 278.90 ms
-79.137.204.189:443#TheNetherlandsAmsterdam: 278.91 ms
-51.83.40.171:8443#FranceRoubaix: 278.94 ms
-147.45.167.197:443#TheNetherlandsAmsterdam: 279.06 ms
-142.132.178.99:443#GermanyFalkenstein: 279.12 ms
-141.95.193.15:8443#FranceGravelines: 279.16 ms
-94.228.164.233:8443#SwedenStockholm: 279.18 ms
-80.211.249.68:2053#PolandWarsaw: 279.37 ms
-141.94.221.2:2053#FranceGravelines: 279.38 ms
-188.165.2.84:8443#IrelandDublin: 279.46 ms
-141.94.222.105:8443#FranceGravelines: 279.73 ms
-64.227.75.160:443#TheNetherlandsAmsterdam: 279.76 ms
-188.132.129.199:2053#TurkeyOsmangazi: 279.82 ms
-54.36.98.241:2053#FranceRoubaix: 279.82 ms
-141.94.204.68:8443#FranceGravelines: 279.88 ms
-116.202.1.107:14444#GermanyFalkenstein: 280.19 ms
-89.110.126.196:443#TheNetherlandsAmsterdam: 280.25 ms
-5.34.212.179:8443#LatviaRiga: 280.26 ms
-107.172.132.165:43333#UnitedStatesBuffalo: 280.27 ms
-212.192.215.7:443#PolandWarsaw: 280.36 ms
-77.91.78.15:8443#FinlandHelsinki: 280.48 ms
-45.144.232.86:443#NetherlandsDronten: 280.61 ms
-193.32.177.79:443#UnitedStatesSecaucus: 280.89 ms
-46.32.184.137:2053#LatviaRiga: 280.90 ms
-107.173.250.62:444#UnitedStatesBuffalo: 281.09 ms
-5.101.180.145:443#EstoniaJõhvi: 281.24 ms
-31.128.36.148:2053#RussiaStPetersburg: 281.45 ms
-162.55.168.133:2086#GermanyFalkenstein: 281.70 ms
-80.211.249.240:8443#PolandWarsaw: 281.78 ms
-94.142.137.72:443#TheNetherlandsAmsterdam: 281.84 ms
-147.45.135.207:443#TheNetherlandsAmsterdam: 281.97 ms
-142.132.140.130:454#GermanyFalkenstein: 282.13 ms
-51.38.48.18:8443#FranceRoubaix: 282.19 ms
-195.135.253.47:2053#LatviaRiga: 282.26 ms
-212.113.101.250:2053#SwedenStockholm: 282.27 ms
-192.144.39.33:443#LatviaLiepāja: 282.53 ms
-193.122.195.166:52557#UnitedStatesAshburn: 282.73 ms
-94.23.168.201:2053#FranceStrasbourg: 282.97 ms
-51.38.48.91:2053#FranceRoubaix: 283.12 ms
-178.33.161.196:8443#SpainMadrid: 283.15 ms
-46.32.185.253:2053#LatviaRiga: 283.22 ms
-192.236.249.106:443#TheNetherlandsAmsterdam: 283.35 ms
-194.87.45.19:8443#SpainMadrid: 283.38 ms
-162.19.252.222:2053#GermanyLimburganderLahn: 283.46 ms
-192.236.249.105:443#TheNetherlandsAmsterdam: 283.50 ms
-141.94.223.24:8443#FranceGravelines: 283.62 ms
-94.23.169.3:2053#FranceParis: 283.65 ms
-89.110.107.69:443#TheNetherlandsAmsterdam: 283.70 ms
-185.82.218.224:443#BulgariaSofia: 283.73 ms
-57.129.16.168:8443#GermanyFrankfurtamMain: 283.77 ms
-146.190.30.138:443#TheNetherlandsAmsterdam: 283.89 ms
-51.38.51.14:8443#FranceRoubaix: 283.99 ms
-195.200.19.246:2053#TheNetherlandsAmsterdam: 284.02 ms
-162.19.243.52:2053#GermanyLimburganderLahn: 284.03 ms
-141.94.206.137:8443#FranceGravelines: 284.03 ms
-46.17.43.237:54596#RussiaMoscow: 284.08 ms
-87.239.251.30:8443#TheNetherlandsAmsterdam: 284.09 ms
-178.33.161.186:2053#SpainMadrid: 284.13 ms
-141.94.70.24:2053#FranceGravelines: 284.21 ms
-141.94.222.33:2053#FranceGravelines: 284.28 ms
-5.34.209.105:2053#LatviaRiga: 284.32 ms
-162.19.64.105:2053#FranceGravelines: 284.32 ms
-57.129.14.105:2053#GermanyFrankfurtamMain: 284.45 ms
-194.164.59.222:443#GermanyBerlin: 284.71 ms
-109.120.134.133:443#SwedenStockholm: 284.78 ms
-45.85.93.49:443#SwitzerlandGeneva: 284.82 ms
-103.13.208.242:443#UnitedKingdomLondon: 284.84 ms
-141.94.221.163:2053#FranceGravelines: 284.85 ms
-92.42.102.73:8443#FinlandHelsinki: 284.90 ms
-94.131.114.50:81#IsraelPetahTikva: 285.03 ms
-51.195.41.72:8443#GermanyLimburganderLahn: 285.08 ms
-141.94.221.240:2053#FranceGravelines: 285.09 ms
-51.210.96.119:8443#FranceGravelines: 285.18 ms
-77.238.226.178:443#TheNetherlandsAmsterdam: 285.19 ms
-94.23.147.217:8443#FranceRoubaix: 285.26 ms
-141.94.207.7:2053#FranceGravelines: 285.28 ms
-51.38.226.4:2053#FranceGravelines: 285.33 ms
-147.45.170.176:2053#TheNetherlandsAmsterdam: 285.36 ms
-141.94.221.240:8443#FranceGravelines: 285.41 ms
-51.195.102.49:2053#GermanyLimburganderLahn: 285.63 ms
-51.178.83.65:8443#FranceStrasbourg: 285.69 ms
-217.25.91.145:2053#GermanyFrankfurtamMain: 285.73 ms
-193.70.0.150:2053#FranceStrasbourg: 285.74 ms
-94.23.144.99:8443#FranceRoubaix: 285.80 ms
-54.37.64.120:8443#FranceStrasbourg: 285.88 ms
-141.94.207.7:8443#FranceGravelines: 285.91 ms
-164.92.219.230:2053#TheNetherlandsAmsterdam: 285.96 ms
-82.118.22.141:8443#PolandGdansk: 285.96 ms
-77.221.143.56:2053#SwedenStockholm: 286.01 ms
-188.165.26.180:2053#PolandWarsaw: 286.02 ms
-91.227.40.125:8443#GermanyFrankfurtamMain: 286.04 ms
-192.236.249.110:443#TheNetherlandsAmsterdam: 286.20 ms
-151.80.57.196:2053#FranceRoubaix: 286.21 ms
-193.70.0.150:8443#FranceStrasbourg: 286.25 ms
-5.34.208.44:2053#LatviaRiga: 286.28 ms
-31.128.37.116:8443#RussiaStPetersburg: 286.30 ms
-198.244.235.173:179#UnitedKingdomLondon: 286.40 ms
-141.94.206.218:8443#FranceGravelines: 286.49 ms
-94.23.171.114:8443#CzechiaPrague: 286.55 ms
-94.23.164.46:2053#GermanyLimburganderLahn: 286.65 ms
-141.94.220.64:8443#FranceGravelines: 286.66 ms
-37.128.207.111:443#LatviaRiga: 286.85 ms
-31.128.37.116:2053#RussiaStPetersburg: 286.91 ms
-54.37.64.97:2053#FranceStrasbourg: 286.91 ms
-51.91.100.173:2053#FranceRoubaix: 286.93 ms
-89.110.125.45:443#TheNetherlandsAmsterdam: 286.93 ms
-212.227.144.37:8443#SpainMadrid: 286.96 ms
-185.94.164.160:443#TheNetherlandsAmsterdam: 286.99 ms
-85.193.92.242:8443#GermanyFrankfurtamMain: 287.01 ms
-35.185.54.229:27271#UnitedStatesNorthCharleston: 287.03 ms
-146.59.153.77:8443#FranceGravelines: 287.03 ms
-54.36.100.7:2053#FranceGravelines: 287.17 ms
-51.195.102.180:8443#GermanyLimburganderLahn: 287.17 ms
-91.107.157.253:33894#GermanyFrankfurtAmMain: 287.19 ms
-65.109.181.192:4475#FinlandHelsinki: 287.20 ms
-51.38.224.25:8443#FranceGravelines: 287.22 ms
-35.185.54.229:27251#UnitedStatesNorthCharleston: 287.27 ms
-2.56.204.156:8080#ArmeniaArinj: 287.34 ms
-141.94.206.137:2053#FranceGravelines: 287.38 ms
-188.165.137.201:2053#FranceParis: 287.43 ms
-185.230.143.122:2053#SwedenStockholm: 287.52 ms
-162.19.243.46:8443#GermanyLimburganderLahn: 287.54 ms
-91.184.240.243:443#SwedenStockholm: 287.54 ms
-185.242.106.162:2053#LatviaRiga: 287.59 ms
-162.19.254.52:8443#GermanyLimburganderLahn: 287.86 ms
-162.19.254.98:2053#GermanyLimburganderLahn: 287.87 ms
-146.59.225.232:8443#FranceGravelines: 287.89 ms
-146.56.48.138:23010#IndiaMumbai: 287.89 ms
-91.184.242.46:443#TheNetherlandsAmsterdam: 287.90 ms
-135.125.234.160:8443#GermanyLimburganderLahn: 287.94 ms
-212.111.89.16:443#TheNetherlandsAmsterdam: 287.98 ms
-51.195.40.4:8443#GermanyLimburganderLahn: 288.00 ms
-45.144.48.42:8443#PolandWarsaw: 288.07 ms
-57.129.15.103:2053#GermanyFrankfurtamMain: 288.14 ms
-142.132.140.130:448#GermanyFalkenstein: 288.27 ms
-162.19.65.2:2053#FranceGravelines: 288.39 ms
-185.104.181.228:443#RomaniaBucharest: 288.42 ms
-37.187.54.16:8443#FranceRoubaix: 288.55 ms
-192.3.30.175:2053#UnitedStatesBuffalo: 288.56 ms
-162.19.242.215:8443#GermanyLimburganderLahn: 288.60 ms
-158.101.199.249:8443#NetherlandsAmsterdam: 288.64 ms
-212.227.90.142:443#SpainMadrid: 288.67 ms
-77.91.69.141:8443#IsraelTelAviv: 288.69 ms
-216.173.71.171:443#LatviaRiga: 288.82 ms
-79.137.194.255:443#TheNetherlandsAmsterdam: 288.96 ms
-162.19.253.192:2053#GermanyLimburganderLahn: 289.02 ms
-57.129.5.128:2053#GermanyFrankfurtamMain: 289.05 ms
-46.32.187.228:443#LatviaRiga: 289.11 ms
-5.34.211.29:8443#LatviaRiga: 289.18 ms
-95.140.157.183:2053#GermanyFrankfurtamMain: 289.39 ms
-51.195.40.4:2053#GermanyLimburganderLahn: 289.49 ms
-45.140.146.80:2053#MoldovaChisinau: 289.56 ms
-166.1.201.179:443#TheNetherlandsAmsterdam: 289.67 ms
-159.69.92.30:443#GermanyNuremberg: 289.72 ms
-212.113.101.250:8443#SwedenStockholm: 289.83 ms
-31.172.72.83:443#GermanyFrankfurtamMain: 289.87 ms
-5.35.70.49:443#TheNetherlandsAmsterdam: 290.07 ms
-162.19.226.175:2053#GermanyLimburganderLahn: 290.20 ms
-79.137.205.248:443#TheNetherlandsAmsterdam: 290.24 ms
-51.195.119.175:2053#GermanyLimburganderLahn: 290.26 ms
-51.195.119.78:2053#GermanyLimburganderLahn: 290.27 ms
-54.37.73.185:8443#GermanySaarbrücken: 290.28 ms
-57.129.5.105:2053#GermanyFrankfurtamMain: 290.41 ms
-109.61.95.21:8080#UnitedKingdomLondon: 290.44 ms
-51.195.100.92:8443#GermanyLimburganderLahn: 290.79 ms
-192.236.249.103:443#TheNetherlandsAmsterdam: 290.83 ms
-147.45.50.181:8080#TheNetherlandsAmsterdam: 290.98 ms
-5.34.209.139:2053#LatviaRiga: 290.99 ms
-51.195.119.195:8443#GermanyLimburganderLahn: 291.00 ms
-80.211.249.240:2053#PolandWarsaw: 291.00 ms
-77.232.143.39:2053#RussiaMoscow: 291.05 ms
-141.95.127.112:8443#GermanyLimburganderLahn: 291.14 ms
-89.110.108.189:8443#TheNetherlandsAmsterdam: 291.19 ms
-51.195.119.195:2053#GermanyLimburganderLahn: 291.22 ms
-51.75.70.204:8443#GermanyLimburganderLahn: 291.26 ms
-107.175.254.239:39128#UnitedStatesSantaClara: 291.29 ms
-5.196.13.49:2053#FranceRoubaix: 291.32 ms
-57.129.5.70:8443#GermanyFrankfurtamMain: 291.33 ms
-162.19.254.52:2053#GermanyLimburganderLahn: 291.44 ms
-51.75.65.24:2053#GermanyLimburganderLahn: 291.56 ms
-141.95.127.227:8443#GermanyLimburganderLahn: 291.62 ms
-151.80.57.36:2053#FranceRoubaix: 291.62 ms
-135.125.234.160:2053#GermanyLimburganderLahn: 291.64 ms
-109.120.132.113:2053#SwedenStockholm: 291.72 ms
-57.129.47.3:2053#GermanyFrankfurtamMain: 291.82 ms
-188.132.129.84:8443#TurkeyOsmangazi: 291.86 ms
-195.200.17.21:8443#TheNetherlandsAmsterdam: 291.87 ms
-139.59.152.149:2053#GermanyFrankfurtamMain: 291.94 ms
-91.107.134.254:49222#GermanyFrankfurtAmMain: 292.07 ms
-151.80.57.36:8443#FranceRoubaix: 292.07 ms
-23.88.112.241:8443#GermanyFalkenstein: 292.10 ms
-51.195.45.34:2053#GermanyLimburganderLahn: 292.32 ms
-5.34.211.94:443#LatviaRiga: 292.45 ms
-62.3.12.185:443#TurkeyIstanbul: 292.48 ms
-212.111.88.212:443#TheNetherlandsAmsterdam: 292.50 ms
-89.110.66.154:443#TheNetherlandsAmsterdam: 292.50 ms
-91.107.145.203:37561#GermanyFrankfurtAmMain: 292.86 ms
-91.121.54.50:700#FranceRoubaix: 292.87 ms
-51.195.43.174:8443#GermanyFrankfurtamMain: 292.93 ms
-45.61.138.147:443#UnitedKingdomLondon: 293.04 ms
-194.147.115.149:443#TheNetherlandsDronten: 293.21 ms
-95.216.215.126:2053#FinlandHelsinki: 293.25 ms
-109.107.187.20:443#TheNetherlandsAmsterdam: 293.27 ms
-193.70.0.78:8443#FranceStrasbourg: 293.31 ms
-195.26.230.99:2053#FinlandHelsinki: 293.33 ms
-109.120.135.91:8443#SwedenStockholm: 293.39 ms
-5.34.209.105:8443#LatviaRiga: 293.43 ms
-141.94.205.129:2053#FranceGravelines: 293.57 ms
-51.178.82.214:2053#FranceStrasbourg: 293.58 ms
-142.132.140.130:444#GermanyFalkenstein: 293.62 ms
-193.33.153.151:443#NetherlandsAmsterdam: 293.63 ms
-51.83.40.171:2053#FranceRoubaix: 293.64 ms
-51.38.226.4:8443#FranceGravelines: 293.80 ms
-51.178.80.153:2053#FranceStrasbourg: 293.83 ms
-51.38.48.27:8443#FranceRoubaix: 293.96 ms
-141.94.207.218:8443#FranceGravelines: 293.97 ms
-91.149.254.138:443#FinlandHelsinki: 293.99 ms
-141.94.222.73:8443#FranceGravelines: 294.02 ms
-141.94.223.237:8443#FranceGravelines: 294.06 ms
-94.23.164.46:8443#GermanyLimburganderLahn: 294.11 ms
-140.84.178.238:23010#MexicoLaCañada: 294.18 ms
-45.144.48.158:8443#PolandWarsaw: 294.18 ms
-194.58.44.69:443#TheNetherlandsAmsterdam: 294.22 ms
-213.159.76.175:443#ArmeniaYerevan: 294.24 ms
-51.38.48.190:8443#FranceRoubaix: 294.30 ms
-34.175.202.195:443#SpainMadrid: 294.31 ms
-141.94.206.222:8443#FranceGravelines: 294.34 ms
-178.32.137.165:8443#FranceStrasbourg: 294.36 ms
-162.19.66.30:8443#FranceGravelines: 294.52 ms
-94.23.74.37:2053#PortugalLisbon: 294.57 ms
-141.94.220.168:8443#FranceGravelines: 294.73 ms
-91.107.157.253:26484#GermanyFrankfurtAmMain: 294.87 ms
-54.37.64.148:8443#FranceStrasbourg: 294.88 ms
-162.19.65.2:8443#FranceGravelines: 294.89 ms
-135.181.30.234:2053#FinlandHelsinki: 294.95 ms
-91.149.253.249:443#PolandWarsaw: 295.02 ms
-51.195.119.77:2053#GermanyLimburganderLahn: 295.07 ms
-162.19.24.169:8443#FranceGravelines: 295.07 ms
-5.196.13.217:2053#FranceRoubaix: 295.26 ms
-88.99.252.146:443#GermanyFalkenstein: 295.30 ms
-95.140.157.183:8443#GermanyFrankfurtamMain: 295.34 ms
-195.200.17.63:443#TheNetherlandsAmsterdam: 295.49 ms
-89.110.68.158:443#TheNetherlandsAmsterdam: 295.49 ms
-142.132.140.130:443#GermanyFalkenstein: 295.57 ms
-89.110.120.140:2053#TheNetherlandsAmsterdam: 295.66 ms
-141.94.70.243:8443#FranceGravelines: 295.73 ms
-62.84.102.169:8443#TheNetherlandsAmsterdam: 295.74 ms
-91.107.134.254:36521#GermanyFrankfurtAmMain: 295.74 ms
-141.94.220.21:2053#FranceGravelines: 295.74 ms
-142.132.140.130:446#GermanyFalkenstein: 295.80 ms
-145.239.85.117:2053#PolandWroclaw: 295.82 ms
-142.132.140.130:449#GermanyFalkenstein: 295.82 ms
-77.246.108.130:443#TheNetherlandsAmsterdam: 295.83 ms
-141.94.205.22:2053#FranceGravelines: 295.88 ms
-188.132.129.84:2053#TurkeyOsmangazi: 296.31 ms
-77.73.71.196:443#LatviaRiga: 296.32 ms
-213.159.76.202:2053#ArmeniaYerevan: 296.37 ms
-194.58.39.80:443#TheNetherlandsAmsterdam: 296.56 ms
-104.128.190.209:443#UnitedKingdomCoventry: 296.82 ms
-109.120.132.113:8443#SwedenStockholm: 296.84 ms
-212.118.40.20:8443#TheNetherlandsAmsterdam: 296.95 ms
-146.59.225.232:2053#FranceGravelines: 297.09 ms
-65.109.161.254:8443#FinlandHelsinki: 297.16 ms
-91.107.143.27:4090#GermanyFrankfurtAmMain: 297.19 ms
-212.192.215.163:443#PolandWarsaw: 297.31 ms
-185.103.255.142:443#TheNetherlandsAmsterdam: 297.69 ms
-141.94.206.222:2053#FranceGravelines: 297.80 ms
-185.233.203.134:443#TheNetherlandsAmsterdam: 297.86 ms
-162.19.66.26:8443#FranceGravelines: 298.01 ms
-51.210.96.119:2053#FranceGravelines: 298.19 ms
-141.94.221.241:2053#FranceGravelines: 298.26 ms
-81.200.154.2:8443#GermanyFrankfurtamMain: 298.30 ms
-141.94.206.26:2053#FranceGravelines: 298.32 ms
-135.181.34.150:443#FinlandHelsinki: 298.33 ms
-88.210.11.164:22284#TheNetherlandsAmsterdam: 298.41 ms
-178.253.23.199:8443#TheNetherlandsAmsterdam: 298.41 ms
-141.11.91.67:8080#HongKongHongKong: 298.42 ms
-89.19.216.153:443#TheNetherlandsAmsterdam: 298.43 ms
-45.11.1.118:44004#JapanTokyo: 298.43 ms
-51.210.96.182:2053#FranceGravelines: 298.52 ms
-5.196.13.49:8443#FranceRoubaix: 298.90 ms
-185.94.164.72:443#TheNetherlandsAmsterdam: 298.94 ms
-91.107.142.237:8080#GermanyFrankfurtAmMain: 298.94 ms
-51.195.42.9:8443#GermanyLimburganderLahn: 299.15 ms
-91.149.253.213:2053#PolandWarsaw: 299.29 ms
-88.210.11.164:22285#TheNetherlandsAmsterdam: 299.30 ms
-54.36.103.135:8443#FranceGravelines: 299.32 ms
-38.180.22.20:1001#ItalyMilan: 299.40 ms
-185.114.72.119:24780#SpainMadrid: 299.41 ms
-141.94.70.243:2053#FranceGravelines: 299.51 ms
-146.59.153.201:8443#FranceGravelines: 299.55 ms
-141.94.221.79:2053#FranceGravelines: 299.61 ms
-194.35.119.49:2053#GermanyFrankfurtamMain: 299.64 ms
-146.59.153.77:2053#FranceGravelines: 299.65 ms
-162.19.24.253:8443#FranceGravelines: 299.71 ms
-212.193.1.208:443#TheNetherlandsAmsterdam: 299.73 ms
-51.210.96.182:8443#FranceGravelines: 299.89 ms
-37.128.206.80:8443#LatviaRiga: 299.97 ms
-85.193.95.220:8443#GermanyFrankfurtamMain: 299.99 ms
-87.98.235.174:8443#PolandWroclaw: 300.04 ms
-216.173.68.7:433#LatviaRiga: 300.05 ms
-195.135.252.139:443#LatviaRiga: 300.08 ms
-51.38.51.236:8443#FranceRoubaix: 300.32 ms
-51.38.227.155:8443#FranceGravelines: 300.34 ms
-5.34.209.231:8443#LatviaRiga: 300.34 ms
-213.159.76.202:8443#ArmeniaYerevan: 300.45 ms
-217.144.188.147:2053#FinlandHelsinki: 300.49 ms
-141.94.220.21:8443#FranceGravelines: 300.55 ms
-94.23.144.99:2053#FranceRoubaix: 300.65 ms
-159.100.199.200:443#TheNetherlandsAmsterdam: 300.65 ms
-93.183.94.78:6379#RussiaMoscow: 300.67 ms
-51.38.49.23:8443#FranceRoubaix: 300.70 ms
-141.95.159.211:8443#FranceGravelines: 300.75 ms
-188.165.26.178:2053#PolandWarsaw: 300.81 ms
-162.19.66.26:2053#FranceGravelines: 300.85 ms
-57.129.5.105:8443#GermanyFrankfurtamMain: 300.96 ms
-51.38.227.72:2053#FranceGravelines: 300.98 ms
-141.94.222.46:8443#FranceGravelines: 301.03 ms
-37.128.204.4:2053#LatviaRiga: 301.08 ms
-159.100.9.253:2053#GermanyFrankfurtamMain: 301.14 ms
-89.110.106.199:2053#TheNetherlandsAmsterdam: 301.35 ms
-51.195.118.15:2053#GermanyLimburganderLahn: 301.40 ms
-216.173.71.220:8443#LatviaRiga: 301.44 ms
-188.165.1.138:8443#IrelandDublin: 301.55 ms
-94.23.169.3:8443#FranceParis: 301.57 ms
-92.51.36.219:2053#GermanyFrankfurtamMain: 301.65 ms
-141.94.204.167:8443#FranceGravelines: 301.69 ms
-216.173.69.115:2053#LatviaRiga: 301.74 ms
-51.195.47.42:2053#GermanyLimburganderLahn: 301.74 ms
-95.216.148.189:2053#FinlandHelsinki: 301.84 ms
-141.94.70.24:8443#FranceGravelines: 301.88 ms
-141.95.161.241:8443#FranceGravelines: 302.04 ms
-141.94.220.57:2053#FranceGravelines: 302.07 ms
-80.76.34.190:443#TheNetherlandsAmsterdam: 302.20 ms
-141.94.221.78:8443#FranceGravelines: 302.37 ms
-192.18.159.164:36545#CanadaToronto: 302.54 ms
-91.103.140.198:2053#FinlandHelsinki: 302.55 ms
-85.234.107.140:2053#TheNetherlandsAmsterdam: 302.63 ms
-185.243.112.197:443#TheNetherlandsDronten: 302.65 ms
-193.160.96.234:443#TheNetherlandsAmsterdam: 302.68 ms
-51.75.75.132:2053#GermanyLimburganderLahn: 303.15 ms
-192.236.249.95:443#TheNetherlandsAmsterdam: 303.17 ms
-51.178.37.179:8443#FranceRoubaix: 303.25 ms
-51.38.224.25:2053#FranceGravelines: 303.40 ms
-157.90.119.128:2096#GermanyNuremberg: 303.52 ms
-147.45.136.240:443#TheNetherlandsAmsterdam: 303.65 ms
-77.238.231.179:443#TheNetherlandsAmsterdam: 303.68 ms
-66.151.34.227:8443#FinlandHelsinki: 303.72 ms
-192.236.249.107:443#TheNetherlandsAmsterdam: 303.80 ms
-57.129.16.33:8443#GermanyFrankfurtamMain: 303.95 ms
-80.211.249.79:2053#PolandWarsaw: 303.95 ms
-51.195.116.16:8443#GermanyLimburganderLahn: 304.09 ms
-94.23.147.223:8443#FranceRoubaix: 304.11 ms
-93.113.171.31:443#TheNetherlandsAmsterdam: 304.20 ms
-91.90.193.24:443#SwitzerlandGeneva: 304.40 ms
-142.132.140.130:453#GermanyFalkenstein: 304.48 ms
-192.236.249.93:443#TheNetherlandsAmsterdam: 304.55 ms
-138.124.30.8:443#NetherlandsDronten: 304.55 ms
-89.110.78.173:443#TheNetherlandsAmsterdam: 304.69 ms
-54.37.64.126:8443#FranceStrasbourg: 304.77 ms
-31.172.71.51:444#GermanyFrankfurtamMain: 304.83 ms
-92.222.24.127:8443#FranceParis: 304.87 ms
-185.47.172.172:8443#ItalyMilano: 304.95 ms
-45.85.93.21:443#SwitzerlandGeneva: 304.98 ms
-77.91.69.141:2053#IsraelTelAviv: 304.98 ms
-192.236.249.91:443#TheNetherlandsAmsterdam: 304.99 ms
-94.23.147.223:2053#FranceRoubaix: 305.15 ms
-77.91.78.18:2053#FinlandHelsinki: 305.28 ms
-212.34.149.185:443#TheNetherlandsAmsterdam: 305.41 ms
-92.51.36.219:8443#GermanyFrankfurtamMain: 305.45 ms
-92.222.22.40:8443#FranceParis: 305.61 ms
-89.110.104.192:443#TheNetherlandsAmsterdam: 305.70 ms
-5.34.209.18:2053#LatviaRiga: 305.70 ms
-185.125.102.167:8443#GermanyFrankfurtAmMain: 305.84 ms
-54.37.64.126:2053#FranceStrasbourg: 305.87 ms
-194.147.33.188:443#NetherlandsDronten: 305.90 ms
-51.75.75.109:2053#GermanyLimburganderLahn: 306.25 ms
-5.39.249.146:443#GermanyFrankfurtAmMain: 306.76 ms
-194.87.26.250:443#TheNetherlandsAmsterdam: 306.97 ms
-89.22.232.119:443#SwedenStockholm: 307.20 ms
-81.31.245.122:443#TheNetherlandsAmsterdam: 307.51 ms
-185.66.164.51:443#UnitedKingdomLoudwater: 307.53 ms
-217.151.229.156:8443#GermanyFrankfurtamMain: 307.61 ms
-93.183.124.129:443#TheNetherlandsAmsterdam: 307.64 ms
-185.219.134.25:31564#TürkiyeIstanbul: 307.94 ms
-77.238.242.88:443#TheNetherlandsAmsterdam: 308.01 ms
-172.105.26.112:2443#CanadaToronto: 308.82 ms
-193.160.96.232:443#TheNetherlandsAmsterdam: 308.95 ms
-185.94.165.207:443#TheNetherlandsAmsterdam: 309.11 ms
-188.165.2.84:2053#IrelandDublin: 309.34 ms
-141.95.161.241:2053#FranceGravelines: 309.51 ms
-88.210.11.67:443#TheNetherlandsAmsterdam: 309.55 ms
-82.118.22.141:2053#PolandGdansk: 309.70 ms
-91.197.3.157:443#LatviaRiga: 309.71 ms
-85.193.92.242:2053#GermanyFrankfurtamMain: 310.13 ms
-46.32.184.64:443#LatviaRiga: 310.27 ms
-46.32.184.75:443#LatviaRiga: 310.39 ms
-5.196.13.217:8443#FranceRoubaix: 310.96 ms
-194.0.194.222:443#TheNetherlandsAmsterdam: 311.10 ms
-185.94.165.218:443#TheNetherlandsAmsterdam: 311.38 ms
-185.233.203.134:43735#TheNetherlandsAmsterdam: 311.48 ms
-135.181.250.100:8443#FinlandHelsinki: 311.50 ms
-141.94.206.218:2053#FranceGravelines: 311.73 ms
-43.130.105.166:65001#UnitedStatesAshburn: 311.75 ms
-51.38.49.187:8443#FranceRoubaix: 312.06 ms
-147.45.76.247:443#SwedenStockholm: 312.37 ms
-141.94.222.33:8443#FranceGravelines: 313.00 ms
-95.216.148.189:8443#FinlandHelsinki: 313.09 ms
-65.109.209.55:2053#FinlandHelsinki: 313.37 ms
-51.83.45.59:2053#FranceRoubaix: 313.57 ms
-162.19.24.253:2053#FranceGravelines: 313.59 ms
-65.109.201.6:8443#FinlandHelsinki: 313.61 ms
-141.94.222.188:2053#FranceGravelines: 313.71 ms
-185.82.218.224:9443#BulgariaSofia: 313.79 ms
-93.113.171.95:443#TheNetherlandsAmsterdam: 313.92 ms
-46.32.185.253:8443#LatviaRiga: 314.03 ms
-192.236.249.100:443#TheNetherlandsAmsterdam: 314.11 ms
-80.76.35.73:443#TheNetherlandsAmsterdam: 314.20 ms
-135.181.250.100:2053#FinlandHelsinki: 314.22 ms
-192.236.249.88:443#TheNetherlandsAmsterdam: 314.28 ms
-77.91.78.18:8443#FinlandHelsinki: 314.42 ms
-65.109.211.85:2053#FinlandHelsinki: 314.60 ms
-135.181.151.136:2053#FinlandHelsinki: 314.72 ms
-91.215.153.85:443#BulgariaSofia: 314.79 ms
-192.236.249.98:443#TheNetherlandsAmsterdam: 315.08 ms
-65.109.161.254:2053#FinlandHelsinki: 315.14 ms
-207.174.30.58:443#TheNetherlandsAmsterdam: 315.37 ms
-95.217.186.94:9443#FinlandHelsinki: 315.48 ms
-94.103.95.115:443#TheNetherlandsAmsterdam: 315.59 ms
-109.169.76.23:443#UnitedKingdomMaidenhead: 315.63 ms
-216.173.69.115:8443#LatviaRiga: 315.65 ms
-188.253.18.111:443#LatviaRiga: 315.69 ms
-194.58.68.74:443#TheNetherlandsAmsterdam: 315.73 ms
-91.201.112.15:443#TheNetherlandsAmsterdam: 316.10 ms
-185.114.72.31:8443#SpainMadrid: 316.38 ms
-94.158.219.198:443#LatviaRiga: 316.45 ms
-91.108.241.188:443#FinlandHelsinki: 316.48 ms
-195.135.253.29:443#LatviaRiga: 316.80 ms
-192.236.249.92:443#TheNetherlandsAmsterdam: 316.89 ms
-65.108.149.250:8443#FinlandHelsinki: 316.90 ms
-192.236.249.109:443#TheNetherlandsAmsterdam: 317.03 ms
-216.173.70.192:443#LatviaRiga: 317.08 ms
-65.109.12.58:8443#FinlandHelsinki: 317.08 ms
-95.216.140.177:443#FinlandHelsinki: 317.60 ms
-65.108.149.250:2053#FinlandHelsinki: 317.79 ms
-65.109.210.191:8443#FinlandHelsinki: 317.83 ms
-192.236.193.108:443#UnitedKingdomLondon: 318.04 ms
-135.181.197.230:2053#FinlandHelsinki: 318.17 ms
-65.109.191.244:2053#FinlandHelsinki: 318.19 ms
-5.34.211.194:8443#LatviaRiga: 318.38 ms
-185.40.7.224:443#FinlandHelsinki: 318.39 ms
-192.236.249.111:443#TheNetherlandsAmsterdam: 318.47 ms
-213.35.108.135:12596#SingaporeSingapore: 318.49 ms
-5.34.211.194:2053#LatviaRiga: 318.55 ms
-95.217.195.186:2053#FinlandHelsinki: 318.59 ms
-193.32.178.156:50025#NetherlandsDronten: 318.63 ms
-188.132.192.195:2053#TurkeyIstanbul: 318.96 ms
-51.195.42.173:2053#GermanyLimburganderLahn: 319.01 ms
-65.109.192.28:12216#FinlandHelsinki: 319.25 ms
-195.135.255.199:443#LatviaRiga: 319.29 ms
-185.231.204.173:81#SpainMadrid: 319.33 ms
-104.239.87.213:2053#TürkiyeIstanbul: 319.49 ms
-168.138.171.70:23280#SingaporeSingapore: 319.60 ms
-51.195.117.115:2053#GermanyLimburganderLahn: 319.85 ms
-176.97.67.38:443#UnitedArabEmiratesDubai: 320.22 ms
-195.135.252.148:2053#LatviaRiga: 320.44 ms
-5.34.209.231:2053#LatviaRiga: 320.67 ms
-194.28.224.99:443#GermanyFrankfurtamMain: 320.77 ms
-138.2.95.61:1111#SingaporeSingapore: 320.79 ms
-104.234.50.12:8443#UnitedStatesWarrenton: 320.80 ms
-43.133.10.236:33405#JapanTokyo: 321.01 ms
-89.207.12.80:8443#TürkiyeIstanbul: 321.09 ms
-172.82.16.38:27053#UnitedStatesSantaClara: 321.10 ms
-194.156.67.85:8443#MoldovaChisinau: 321.14 ms
-104.234.50.12:2053#UnitedStatesWarrenton: 321.36 ms
-23.254.226.110:443#UnitedStatesSeattle: 321.39 ms
-51.195.100.92:2053#GermanyLimburganderLahn: 321.62 ms
-92.222.22.40:2053#FranceParis: 321.82 ms
-91.107.157.253:43801#GermanyFrankfurtAmMain: 321.84 ms
-66.151.34.227:2053#FinlandHelsinki: 321.85 ms
-91.197.0.117:8443#LatviaRiga: 321.99 ms
-135.181.151.136:9443#FinlandHelsinki: 322.16 ms
-95.46.1.22:8443#RussiaMoscow: 322.31 ms
-91.239.148.53:42053#PolandGdansk: 322.37 ms
-195.135.252.244:443#LatviaRiga: 322.57 ms
-77.238.249.50:2053#TheNetherlandsAmsterdam: 322.72 ms
-138.2.89.238:43254#SingaporeSingapore: 322.92 ms
-91.223.208.217:443#CyprusGermasogeia: 323.99 ms
-65.108.245.196:443#FinlandHelsinki: 324.02 ms
-104.248.145.216:443#SingaporeSingapore: 324.40 ms
-192.236.249.97:443#TheNetherlandsAmsterdam: 324.56 ms
-46.151.26.63:8443#TheNetherlandsAmsterdam: 324.56 ms
-195.135.253.47:8443#LatviaRiga: 325.54 ms
-212.80.205.244:2053#IsraelTelAviv: 325.54 ms
-194.87.45.19:2053#SpainMadrid: 326.08 ms
-129.150.58.86:57621#SingaporeSingapore: 326.82 ms
-65.109.15.37:8443#FinlandHelsinki: 328.25 ms
-193.124.41.165:2053#PolandWarsaw: 328.26 ms
-141.94.222.105:2053#FranceGravelines: 328.72 ms
-192.236.249.89:443#TheNetherlandsAmsterdam: 328.79 ms
-51.38.50.52:8443#FranceRoubaix: 328.90 ms
-141.95.149.52:8443#FranceGravelines: 328.91 ms
-193.17.183.157:2053#SpainMadrid: 329.07 ms
-141.94.68.162:2053#FranceGravelines: 329.46 ms
-152.32.255.24:587#VietnamHoChiMinhCity: 329.47 ms
-65.109.190.54:2021#FinlandHelsinki: 329.53 ms
-141.94.205.63:8443#FranceGravelines: 329.60 ms
-51.178.39.34:2053#FranceRoubaix: 330.09 ms
-193.124.41.165:8443#PolandWarsaw: 330.15 ms
-103.45.245.208:2053#SpainMadrid: 330.47 ms
-216.10.243.159:443#IndiaMumbai: 330.69 ms
-94.23.147.217:2053#FranceRoubaix: 330.74 ms
-91.149.253.213:8443#PolandWarsaw: 331.27 ms
-45.149.186.112:8080#HongKongHongKong: 332.57 ms
-43.130.105.166:65002#UnitedStatesAshburn: 332.68 ms
-51.79.158.58:8443#SingaporeSingapore: 332.93 ms
-5.34.209.18:8443#LatviaRiga: 332.99 ms
-162.19.65.172:8443#FranceGravelines: 333.06 ms
-185.209.161.104:443#TheNetherlandsAmsterdam: 334.47 ms
-162.19.253.47:8443#GermanyLimburganderLahn: 335.00 ms
-57.129.16.33:2053#GermanyFrankfurtamMain: 335.36 ms
-192.236.249.90:443#TheNetherlandsAmsterdam: 335.48 ms
-192.236.249.104:443#TheNetherlandsAmsterdam: 335.72 ms
-45.156.22.114:443#FinlandHelsinki: 336.57 ms
-91.239.148.34:443#PolandGdansk: 336.71 ms
-77.91.69.51:8443#IsraelTelAviv: 336.79 ms
-45.138.72.141:443#GermanyFrankfurtamMain: 337.34 ms
-95.46.1.22:2053#RussiaMoscow: 337.90 ms
-51.79.158.58:2053#SingaporeSingapore: 337.96 ms
-77.91.69.51:2053#IsraelTelAviv: 338.02 ms
-103.45.245.208:8443#SpainMadrid: 338.21 ms
-129.150.36.188:53435#SingaporeSingapore: 338.55 ms
-185.94.166.203:2053#GermanyFrankfurtamMain: 338.91 ms
-77.221.144.210:443#FinlandHelsinki: 339.40 ms
-142.132.140.130:456#GermanyFalkenstein: 339.50 ms
-142.132.140.130:447#GermanyFalkenstein: 340.35 ms
-95.164.114.50:8443#KazakhstanAlmaty: 341.09 ms
-146.235.18.248:45137#SingaporeSingapore: 341.24 ms
-85.198.109.79:8443#RussiaMoscow: 342.90 ms
-178.128.80.43:443#SingaporeSingapore: 343.05 ms
-125.7.24.251:443#AustraliaSydney: 343.20 ms
-37.48.90.120:443#TheNetherlandsAmsterdam: 343.43 ms
-141.95.193.15:2053#FranceGravelines: 343.45 ms
-141.94.220.168:2053#FranceGravelines: 343.63 ms
-141.94.221.25:8443#FranceGravelines: 343.92 ms
-51.38.227.72:8443#FranceGravelines: 344.25 ms
-91.245.225.79:8443#SwitzerlandBern: 344.25 ms
-141.94.220.57:8443#FranceGravelines: 344.53 ms
-141.94.223.93:2053#FranceGravelines: 344.55 ms
-51.38.51.14:2053#FranceRoubaix: 344.74 ms
-37.27.6.95:2053#FinlandHelsinki: 344.80 ms
-51.38.51.190:2053#FranceRoubaix: 344.84 ms
-51.38.227.155:2053#FranceGravelines: 344.90 ms
-195.133.64.185:443#GermanyFrankfurtamMain: 344.92 ms
-195.26.230.99:8443#FinlandHelsinki: 345.01 ms
-141.94.223.220:443#FranceGravelines: 345.08 ms
-141.94.204.212:2053#FranceGravelines: 345.13 ms
-141.94.205.63:2053#FranceGravelines: 345.19 ms
-141.94.204.212:8443#FranceGravelines: 345.23 ms
-185.39.204.55:2053#TürkiyeIstanbul: 345.49 ms
-192.236.249.94:443#TheNetherlandsAmsterdam: 345.56 ms
-94.23.167.32:2053#GermanySaarbrücken: 345.83 ms
-194.58.33.103:443#GermanyFrankfurtamMain: 345.91 ms
-141.94.223.220:2053#FranceGravelines: 345.93 ms
-141.94.222.188:8443#FranceGravelines: 345.99 ms
-195.123.211.204:81#LatviaRiga: 346.02 ms
-188.132.192.194:8443#TurkeyIstanbul: 346.22 ms
-65.109.227.138:2053#FinlandHelsinki: 346.68 ms
-188.165.137.201:8443#FranceParis: 346.72 ms
-192.236.249.108:443#TheNetherlandsAmsterdam: 346.95 ms
-185.223.93.86:443#TheNetherlandsAmsterdam: 347.22 ms
-188.132.129.199:8443#TurkeyOsmangazi: 347.38 ms
-82.64.152.55:20304#FranceParis: 348.20 ms
-209.200.246.130:443#CanadaToronto: 348.76 ms
-144.22.204.102:50317#BrazilSãoPaulo: 349.39 ms
-162.19.252.123:2053#GermanyLimburganderLahn: 349.40 ms
-51.38.98.202:443#GermanyLimburganderLahn: 350.47 ms
-212.80.205.244:8443#IsraelTelAviv: 350.88 ms
-45.133.118.153:443#NetherlandsAmsterdam: 351.01 ms
-172.82.16.38:31005#UnitedStatesSantaClara: 351.65 ms
-138.2.69.236:23334#SingaporeSingapore: 352.27 ms
-51.178.81.223:2053#FranceStrasbourg: 352.55 ms
-95.182.99.23:8443#FinlandHelsinki: 352.82 ms
-88.218.248.195:443#TheNetherlandsAmsterdam: 352.97 ms
-86.104.73.185:443#KazakhstanAlmaty: 353.14 ms
-78.46.234.136:2087#GermanyNuremberg: 353.16 ms
-62.133.63.149:2083#TürkiyeIstanbul: 353.98 ms
-142.132.165.86:2053#GermanyNuremberg: 354.03 ms
-145.239.88.255:2053#PolandWroclaw: 355.12 ms
-194.87.199.135:443#GermanyFrankfurtamMain: 355.82 ms
-64.110.70.205:23022#SouthKoreaSeoul: 356.63 ms
-172.82.16.38:27043#UnitedStatesSantaClara: 356.77 ms
-89.169.13.12:443#TheNetherlandsAmsterdam: 357.21 ms
-144.22.144.168:4242#BrazilSãoPaulo: 357.51 ms
-31.128.34.61:8443#LatviaRiga: 358.18 ms
-172.82.16.38:25122#UnitedStatesSantaClara: 358.63 ms
-141.94.220.157:2053#FranceGravelines: 359.86 ms
-188.132.192.190:2053#TurkeyIstanbul: 359.95 ms
-193.37.70.98:2053#GermanyFrankfurtamMain: 360.03 ms
-141.94.221.230:8443#FranceGravelines: 360.34 ms
-141.94.221.119:8443#FranceGravelines: 360.49 ms
-37.27.6.95:8443#FinlandHelsinki: 360.51 ms
-178.32.42.230:2053#BelgiumZaventem: 360.55 ms
-185.237.218.134:2053#LatviaRiga: 360.76 ms
-87.98.235.174:2053#PolandWroclaw: 360.83 ms
-51.178.39.34:8443#FranceRoubaix: 361.04 ms
-193.17.183.157:8443#SpainMadrid: 361.11 ms
-141.94.68.157:2053#FranceGravelines: 362.06 ms
-35.217.24.30:8443#FinlandLappeenranta: 362.43 ms
-89.169.13.214:443#TheNetherlandsAmsterdam: 362.64 ms
-35.217.24.30:2053#FinlandLappeenranta: 363.85 ms
-146.235.59.153:8443#BrazilSãoPaulo: 363.91 ms
-62.192.174.170:8443#LatviaRiga: 364.07 ms
-152.69.174.99:25248#AustraliaSydney: 364.18 ms
-91.245.225.79:2053#SwitzerlandBern: 364.24 ms
-147.45.116.50:24443#BrazilSãoPaulo: 364.45 ms
-172.82.16.38:30387#UnitedStatesSantaClara: 364.60 ms
-91.149.223.242:443#GermanyFrankfurtamMain: 365.10 ms
-146.235.59.153:2053#BrazilSãoPaulo: 365.77 ms
-195.123.212.222:2053#LatviaRiga: 365.82 ms
-89.110.89.229:2053#RussiaMoscow: 366.18 ms
-80.76.32.12:443#GermanyFrankfurtamMain: 366.24 ms
-172.82.16.38:27033#UnitedStatesSantaClara: 366.66 ms
-188.130.206.93:2053#FinlandHelsinki: 366.94 ms
-193.124.92.170:443#GermanyFrankfurtamMain: 367.40 ms
-91.239.148.133:443#PolandGdansk: 368.71 ms
-185.8.129.187:2053#TürkiyeIzmir: 369.58 ms
-192.99.252.243:2053#CanadaBeauharnois: 369.92 ms
-192.9.190.80:23862#AustraliaSydney: 370.02 ms
-103.6.207.108:8080#IndonesiaBogor: 371.01 ms
-85.198.109.79:2053#RussiaMoscow: 371.74 ms
-176.97.66.175:443#UnitedArabEmiratesDubai: 372.22 ms
-80.76.32.165:443#GermanyFrankfurtamMain: 372.98 ms
-5.61.39.183:443#GermanyFrankfurtamMain: 374.02 ms
-193.233.112.252:8443#FinlandHelsinki: 374.37 ms
-194.0.194.237:14181#TheNetherlandsAmsterdam: 375.01 ms
-37.27.17.144:22222#FinlandHelsinki: 375.24 ms
-65.109.12.58:2053#FinlandHelsinki: 375.53 ms
-37.252.10.91:443#PolandGdansk: 375.67 ms
-95.217.134.104:443#FinlandHelsinki: 376.02 ms
-62.192.174.170:2053#LatviaRiga: 376.51 ms
-194.87.97.6:2053#SwitzerlandZurich: 376.75 ms
-130.162.193.183:15401#AustraliaMelbourne: 377.05 ms
-87.251.87.111:443#GermanyFrankfurtamMain: 377.62 ms
-194.135.22.181:443#SwitzerlandZurich: 377.89 ms
-37.27.38.42:443#FinlandHelsinki: 378.38 ms
-152.67.101.72:23010#AustraliaSydney: 378.78 ms
-193.37.70.98:8443#GermanyFrankfurtamMain: 379.66 ms
-185.8.129.187:2096#TürkiyeIzmir: 380.23 ms
-185.8.129.187:2083#TürkiyeIzmir: 380.72 ms
-83.217.9.110:24443#TürkiyeIstanbul: 381.10 ms
-37.1.195.124:443#GermanyFrankfurtamMain: 381.10 ms
-185.233.80.60:2053#GermanyFrankfurtamMain: 383.60 ms
-2.56.91.89:2053#HongKongHongKong: 383.70 ms
-172.105.62.71:2443#IndiaMumbai: 385.09 ms
-194.87.97.6:8443#SwitzerlandZurich: 385.94 ms
-178.208.79.242:1443#TheNetherlandsAmsterdam: 386.19 ms
-5.61.32.232:433#GermanyFrankfurtamMain: 386.38 ms
-185.103.252.54:2053#GermanyFrankfurtamMain: 386.61 ms
-2.56.91.89:8443#HongKongHongKong: 386.62 ms
-185.237.218.134:8443#LatviaRiga: 386.87 ms
-38.180.79.9:443#BrazilSãoPaulo: 387.98 ms
-188.132.192.194:2053#TurkeyIstanbul: 388.53 ms
-15.204.10.80:53089#UnitedStatesHillsboro: 391.07 ms
-103.106.228.126:2053#JapanTokyo: 391.19 ms
-172.82.16.38:27061#UnitedStatesSantaClara: 393.10 ms
-31.128.34.61:2053#LatviaRiga: 393.61 ms
-195.54.33.164:443#GermanyFrankfurtamMain: 394.50 ms
-46.8.228.182:2053#FinlandHelsinki: 394.83 ms
-43.153.61.80:40874#UnitedStatesSantaClara: 395.28 ms
-195.20.208.151:2053#LatviaRiga: 396.27 ms
-95.182.99.23:2053#FinlandHelsinki: 396.58 ms
-62.192.174.228:2053#LatviaRiga: 396.71 ms
-131.186.24.124:587#SouthKoreaSeoul: 397.82 ms
-62.192.174.175:8443#LatviaRiga: 399.91 ms
-132.145.88.82:38066#SouthKoreaSeoul: 400.79 ms
-15.204.10.80:49404#UnitedStatesHillsboro: 401.20 ms
-45.135.165.245:443#GermanyFrankfurtamMain: 401.91 ms
-82.115.5.199:443#NetherlandsAmsterdam: 402.07 ms
-91.245.225.69:443#SwitzerlandBern: 402.39 ms
-193.164.155.27:2053#FinlandHelsinki: 402.72 ms
-185.8.129.187:443#TürkiyeIzmir: 402.93 ms
-66.85.139.204:443#UnitedStatesPhoenix: 402.93 ms
-185.18.222.208:2053#JapanTokyo: 403.81 ms
-37.1.194.237:2053#GermanyFrankfurtamMain: 404.18 ms
-109.120.154.233:9995#TheNetherlandsAmsterdam: 406.64 ms
-193.164.155.27:8443#FinlandHelsinki: 407.80 ms
-221.125.10.8:57537#HongKongWongTaiSin: 408.84 ms
-45.86.228.104:443#UnitedArabEmiratesFujairah: 409.08 ms
-159.100.194.42:443#JapanTokyo: 409.42 ms
-89.110.89.229:8443#RussiaMoscow: 418.82 ms
-38.180.78.255:443#BrazilSãoPaulo: 419.11 ms
-118.141.64.192:36619#HongKongTsingYi: 419.74 ms
-31.128.34.77:2053#LatviaRiga: 420.89 ms
-46.232.122.240:8000#HongKongHongKong: 422.10 ms
-103.75.118.144:2053#JapanTokyo: 424.09 ms
-43.128.95.84:38091#SingaporeSingapore: 429.09 ms
-131.186.18.212:28887#SouthKoreaSeoul: 430.54 ms
-192.9.183.128:45673#AustraliaSydney: 433.27 ms
-147.75.236.96:443#UnitedKingdomLondon: 435.60 ms
-91.149.239.70:443#UnitedStatesLosAngeles: 436.91 ms
-15.204.10.80:36683#UnitedStatesHillsboro: 438.67 ms
-185.66.165.51:443#GermanyNeu-Isenburg: 442.05 ms
-51.81.209.21:8443#UnitedStatesHillsboro: 443.06 ms
-51.81.209.21:2053#UnitedStatesHillsboro: 444.24 ms
-199.59.231.120:443#HongKongHongKong: 449.28 ms
-217.142.138.61:37914#SouthKoreaSeoul: 451.22 ms
-91.149.239.62:443#UnitedStatesLosAngeles: 455.44 ms
-5.34.176.119:81#SingaporeSingapore: 456.52 ms
-199.59.229.178:443#GermanyFrankfurtamMain: 460.42 ms
-129.154.223.89:15800#SouthKoreaSeoul: 462.52 ms
-192.158.242.133:443#IsraelTelAviv: 465.86 ms
-185.114.78.230:443#SingaporeSingapore: 469.40 ms
-15.204.10.80:24906#UnitedStatesHillsboro: 472.31 ms
-115.242.180.202:19000#IndiaKolkata: 477.12 ms
-31.192.238.71:8443#SingaporeSingapore: 484.68 ms
-172.232.112.240:587#IndiaChennai: 497.11 ms
-15.204.10.80:39268#UnitedStatesHillsboro: 507.68 ms
-31.192.238.71:2053#SingaporeSingapore: 512.88 ms
-206.201.196.122:443#AustraliaSydney: 514.64 ms
-84.235.245.18:34501#UnitedArabEmiratesDubai: 516.36 ms
-194.36.179.17:8443#SingaporeSingapore: 538.29 ms
-194.36.179.17:2053#SingaporeSingapore: 545.07 ms
-171.103.164.62:30921#ThailandBangkok: 550.70 ms
-147.75.228.22:443#IndiaMumbai: 558.61 ms
-103.29.32.103:443#IndiaChennai: 577.73 ms
-91.192.81.154:2053#SingaporeSingapore: 587.58 ms
-139.185.50.5:14594#UnitedArabEmiratesDubai: 593.67 ms
-194.36.179.5:2053#SingaporeSingapore: 595.31 ms
-147.75.230.33:443#IndiaBengaluru: 615.45 ms
-134.195.137.107:22473#IndiaHyderabad: 664.21 ms
-147.75.230.160:443#IndiaBengaluru: 671.00 ms
-159.100.198.106:443#UnitedArabEmiratesDubai: 692.53 ms
-45.156.22.237:8443#FinlandHelsinki: 1040.32 ms
-156.154.245.83:443#UnitedStatesHerndon: 1068.00 ms
-158.101.146.3:44872#JapanTokyo: 1077.38 ms
-140.238.37.103:14782#JapanTokyo: 1091.18 ms
-152.69.229.175:22558#SouthKoreaChuncheon: 1097.66 ms
-129.154.48.176:36355#SouthKoreaChuncheon: 1115.16 ms
-144.24.87.69:50001#SouthKoreaChuncheon: 1119.38 ms
-192.131.142.161:46639#HongKongTsuenWan: 1129.76 ms
-45.156.22.237:2053#FinlandHelsinki: 1146.17 ms
-45.144.29.77:443#TheNetherlandsMeppel: 1192.78 ms
-155.248.214.92:52580#UnitedStatesSanJose: 1192.94 ms
-36.50.90.241:35951#HongKongWanChai: 1202.02 ms
-46.8.237.3:443#FinlandHelsinki: 1209.95 ms
-91.149.239.64:443#UnitedStatesLosAngeles: 1225.29 ms
-103.45.247.67:443#NetherlandsAmsterdam: 1231.07 ms
-107.173.30.154:27149#UnitedStatesBuffalo: 1233.42 ms
-193.123.90.82:12648#UnitedArabEmiratesDubai: 1233.45 ms
-45.91.200.130:8443#TheNetherlandsOudeMeer: 1233.67 ms
-78.46.234.136:2053#GermanyNuremberg: 1234.39 ms
-51.178.83.212:8443#FranceStrasbourg: 1234.56 ms
-51.195.41.72:2053#GermanyLimburganderLahn: 1238.32 ms
-80.66.85.115:8443#GermanyFrankfurtAmMain: 1242.84 ms
-51.195.119.76:2053#GermanyLimburganderLahn: 1243.25 ms
-178.33.161.196:2053#SpainMadrid: 1244.40 ms
-188.165.26.178:8443#PolandWarsaw: 1245.01 ms
-178.32.137.165:2053#FranceStrasbourg: 1245.10 ms
-178.33.161.186:8443#SpainMadrid: 1245.27 ms
-141.94.221.79:8443#FranceGravelines: 1245.45 ms
-141.94.204.68:2053#FranceGravelines: 1246.24 ms
-162.19.243.46:2053#GermanyLimburganderLahn: 1248.10 ms
-51.38.50.211:2053#FranceRoubaix: 1248.44 ms
-31.44.2.57:443#TheNetherlandsAmsterdam: 1248.47 ms
-94.23.167.32:8443#GermanySaarbrücken: 1250.33 ms
-152.228.191.232:443#FrancePoitiers: 1251.04 ms
-91.107.157.253:20531#GermanyFrankfurtAmMain: 1251.13 ms
-51.195.119.65:8443#GermanyLimburganderLahn: 1252.34 ms
-80.66.85.115:2053#GermanyFrankfurtAmMain: 1252.41 ms
-193.124.22.168:2053#LatviaRiga: 1253.47 ms
-54.36.103.135:2053#FranceGravelines: 1256.96 ms
-141.94.222.3:8443#FranceGravelines: 1257.28 ms
-51.38.48.18:2053#FranceRoubaix: 1258.58 ms
-151.80.57.196:8443#FranceRoubaix: 1259.99 ms
-58.176.95.46:443#HongKongKwaiChung: 1260.49 ms
-91.107.145.203:20400#GermanyFrankfurtAmMain: 1261.38 ms
-51.178.81.163:8443#FranceStrasbourg: 1266.34 ms
-45.138.73.136:8443#FinlandHelsinki: 1268.21 ms
-141.94.68.157:8443#FranceGravelines: 1268.90 ms
-65.109.192.28:57286#FinlandHelsinki: 1269.08 ms
-54.37.73.185:2053#GermanySaarbrücken: 1270.38 ms
-88.198.18.246:8443#GermanyFalkenstein: 1273.49 ms
-51.178.83.50:8443#FranceStrasbourg: 1275.13 ms
-95.216.215.126:8443#FinlandHelsinki: 1276.93 ms
-51.195.42.9:2053#GermanyLimburganderLahn: 1278.09 ms
-51.178.83.65:2053#FranceStrasbourg: 1278.14 ms
-51.75.77.148:8443#GermanyLimburganderLahn: 1280.14 ms
-91.149.239.206:443#UnitedStatesLosAngeles: 1280.52 ms
-185.102.136.128:443#FinlandHelsinki: 1281.18 ms
-65.109.15.37:2053#FinlandHelsinki: 1287.66 ms
-77.221.143.56:8443#SwedenStockholm: 1289.98 ms
-139.162.102.152:7002#JapanTokyo: 1292.82 ms
-51.178.81.163:2053#FranceStrasbourg: 1293.33 ms
-141.95.149.52:2053#FranceGravelines: 1293.43 ms
-57.129.5.70:2053#GermanyFrankfurtamMain: 1305.52 ms
-141.94.205.248:2053#FranceGravelines: 1309.38 ms
-87.98.235.90:2053#PolandWroclaw: 1312.04 ms
-162.19.158.37:8443#RussiaMoscow: 1314.94 ms
-94.23.167.24:2053#GermanySaarbrücken: 1316.99 ms
-192.236.249.101:443#TheNetherlandsAmsterdam: 1326.56 ms
-188.116.40.37:443#PolandGdansk: 1328.87 ms
-217.144.186.102:2053#FinlandHelsinki: 1329.96 ms
-77.91.70.171:2053#FinlandHelsinki: 1332.34 ms
-46.8.228.182:8443#FinlandHelsinki: 1336.52 ms
-213.1.145.50:443#UnitedKingdomLondon: 1340.12 ms
-185.36.143.166:443#TheNetherlandsMeppel: 1342.03 ms
-37.1.194.138:443#GermanyFrankfurtamMain: 1342.06 ms
-123.143.9.5:14041#SouthKoreaSongpa-gu: 1343.89 ms
-46.8.228.185:443#FinlandHelsinki: 1344.77 ms
-141.94.68.162:8443#FranceGravelines: 1354.83 ms
-195.123.212.222:8443#LatviaRiga: 1356.82 ms
-38.180.100.80:443#SerbiaBelgrade: 1369.34 ms
-62.192.174.175:2053#LatviaRiga: 1371.71 ms
-45.156.22.52:2053#FinlandHelsinki: 1372.94 ms
-193.123.81.105:443#UnitedArabEmiratesDubai: 1383.80 ms
-103.15.90.134:49678#VietnamCầuDiễn: 1389.71 ms
-91.149.239.198:443#UnitedStatesLosAngeles: 1391.94 ms
-193.122.126.64:53777#SouthKoreaSeoul: 1392.36 ms
-146.56.182.217:54266#SouthKoreaSeoul: 1406.21 ms
-37.252.6.119:443#PolandGdansk: 1407.42 ms
-185.81.28.95:30503#SingaporeSingapore: 1409.79 ms
-171.103.232.58:20475#ThailandBangkok: 1422.94 ms
-172.82.16.38:27050#UnitedStatesSantaClara: 1440.53 ms
-140.238.5.75:13644#SouthKoreaSeoul: 1453.42 ms
-132.145.84.148:39567#SouthKoreaSeoul: 1459.37 ms
-172.82.16.38:25950#UnitedStatesSantaClara: 1471.29 ms
-13.230.34.30:443#JapanTokyo: 2122.55 ms
-77.221.157.32:443#GermanyFrankfurtamMain: 2251.36 ms
-51.38.49.23:2053#FranceRoubaix: 2264.39 ms
-37.187.225.21:2053#FranceRoubaix: 2276.72 ms
-45.144.48.192:8443#PolandWarsaw: 2303.24 ms
-51.83.45.59:8443#FranceRoubaix: 2307.38 ms
-141.94.204.206:2053#FranceGravelines: 2313.42 ms
-82.115.7.15:6000#NetherlandsAmsterdam: 2344.59 ms
-91.149.239.122:443#UnitedStatesLosAngeles: 2447.08 ms
-36.95.152.58:12137#IndonesiaSouthTangerang: 2451.45 ms
-104.248.17.101:443#GermanyFrankfurtamMain: 3291.66 ms
-85.208.104.34:8080#HongKongHongKong: 3509.69 ms
-51.38.49.187:2053#FranceRoubaix: 4314.27 ms
-77.221.137.133:443#SwedenStockholm: 4374.28 ms
-170.64.152.77:7443#AustraliaSydney: Failed
-213.255.209.189:443#CanadaToronto: Failed
-148.113.204.36:2053#CanadaBeauharnois: Failed
-148.113.204.36:8443#CanadaBeauharnois: Failed
-185.195.69.209:2053#SwitzerlandBern: Failed
-94.247.42.207:443#SwitzerlandHünenberg: Failed
-95.183.51.10:2053#SwitzerlandWeinfelden: Failed
-95.183.51.10:8443#SwitzerlandWeinfelden: Failed
-46.101.243.68:443#GermanyFrankfurtamMain: Failed
-185.254.97.221:3106#GermanyFrankfurtamMain: Failed
-142.132.140.130:445#GermanyFalkenstein: Failed
-185.78.76.253:443#GermanyFrankfurtamMain: Failed
-139.162.145.35:2053#GermanyFrankfurtamMain: Failed
-193.226.77.245:443#GermanyFrankfurtamMain: Failed
-135.125.232.253:2053#GermanyLimburganderLahn: Failed
-135.125.232.253:8443#GermanyLimburganderLahn: Failed
-185.247.118.7:443#GermanyFrankfurt: Failed
-49.12.243.75:8443#GermanyFalkenstein: Failed
-49.13.230.198:8080#GermanyNuremberg: Failed
-87.251.88.104:2053#GermanyFrankfurtamMain: Failed
-95.179.164.162:8443#GermanyFrankfurtamMain: Failed
-85.193.95.23:8443#GermanyFrankfurtamMain: Failed
-85.193.95.23:2053#GermanyFrankfurtamMain: Failed
-77.91.85.46:8443#SwedenStockholm: Failed
-147.45.73.233:2053#SwedenStockholm: Failed
-89.28.236.243:443#DenmarkNørreÅby: Failed
-93.93.119.91:443#SpainMadrid: Failed
-95.217.25.18:2095#FinlandHelsinki: Failed
-65.109.209.200:2095#FinlandHelsinki: Failed
-139.28.221.213:48004#FinlandHelsinki: Failed
-185.104.250.207:8443#FinlandHelsinki: Failed
-185.104.250.207:2053#FinlandHelsinki: Failed
-185.188.181.187:443#FinlandHelsinki: Failed
-185.94.167.181:8443#FinlandHelsinki: Failed
-185.94.167.181:2053#FinlandHelsinki: Failed
-87.239.250.229:8443#TheNetherlandsAmsterdam: Failed
-87.239.250.229:2053#TheNetherlandsAmsterdam: Failed
-163.172.89.158:81#FranceParis: Failed
-88.218.78.34:443#FranceStrasbourg: Failed
-88.218.76.250:8443#FranceStrasbourg: Failed
-88.218.76.250:2053#FranceStrasbourg: Failed
-141.94.68.216:8443#FranceGravelines: Failed
-141.94.68.216:2053#FranceGravelines: Failed
-5.196.27.246:8443#FranceRoubaix: Failed
-5.196.27.246:2053#FranceRoubaix: Failed
-88.218.78.162:8443#FranceStrasbourg: Failed
-94.23.153.168:8443#UnitedKingdomLondon: Failed
-88.218.77.42:2053#FranceStrasbourg: Failed
-94.23.153.168:2053#UnitedKingdomLondon: Failed
-88.218.77.42:8443#FranceStrasbourg: Failed
-141.145.216.142:2087#FranceParis: Failed
-178.32.58.147:443#FranceParis: Failed
-94.23.153.167:8443#UnitedKingdomLondon: Failed
-94.23.153.167:2053#UnitedKingdomLondon: Failed
-95.179.236.51:443#UnitedKingdomPoplar: Failed
-18.170.77.148:443#UnitedKingdomLondon: Failed
-172.236.30.225:443#UnitedKingdomLondon: Failed
-94.131.122.72:443#UnitedKingdomCoventry: Failed
-156.255.90.175:2053#HongKongHaKwaiChung: Failed
-156.255.90.175:8443#HongKongHaKwaiChung: Failed
-192.252.182.52:7602#UnitedStatesLosAngeles: Failed
-63.32.194.15:8443#IrelandDublin: Failed
-54.229.164.147:2053#IrelandDublin: Failed
-188.213.168.52:443#ItalyArezzo: Failed
-140.83.57.114:25965#JapanOsaka: Failed
-138.2.10.217:27446#JapanTokyo: Failed
-158.101.152.6:2919#JapanTokyo: Failed
-138.2.10.149:45638#JapanTokyo: Failed
-149.28.21.106:443#JapanMinamishinagawa: Failed
-152.70.82.101:18650#JapanOsaka: Failed
-138.2.49.197:587#JapanOsaka: Failed
-141.98.197.101:11665#JapanTokyo: Failed
-217.142.250.195:587#JapanOsaka: Failed
-150.230.204.21:10243#JapanTokyo: Failed
-3.112.21.102:443#JapanTokyo: Failed
-45.77.25.6:27854#JapanMinamishinagawa: Failed
-45.77.25.6:48828#JapanMinamishinagawa: Failed
-8.209.220.50:21273#JapanTokyo: Failed
-131.186.63.89:11655#JapanTokyo: Failed
-138.3.222.124:46209#JapanTokyo: Failed
-140.83.57.183:22735#JapanOsaka: Failed
-141.147.147.180:443#JapanOsaka: Failed
-168.138.192.16:54584#JapanTokyo: Failed
-140.83.59.158:15805#JapanOsaka: Failed
-38.180.28.163:8443#JapanShibuyaCity: Failed
-38.180.28.163:2053#JapanShibuyaCity: Failed
-129.154.54.67:19567#SouthKoreaChuncheon: Failed
-158.247.250.157:81#SouthKoreaSeoul: Failed
-138.2.122.197:39863#SouthKoreaChuncheon: Failed
-144.24.84.212:49888#SouthKoreaChuncheon: Failed
-132.226.21.116:6056#SouthKoreaSeoul: Failed
-38.180.37.102:8443#KazakhstanAlmaty: Failed
-31.128.35.216:8443#LatviaRiga: Failed
-31.128.35.216:2053#LatviaRiga: Failed
-37.128.207.235:443#LatviaRiga: Failed
-5.34.209.219:2053#LatviaRiga: Failed
-5.34.209.219:8443#LatviaRiga: Failed
-174.138.8.21:443#TheNetherlandsAmsterdam: Failed
-195.123.219.254:1445#TheNetherlandsAmsterdam: Failed
-46.17.97.246:433#TheNetherlandsAmsterdam: Failed
-194.26.232.203:443#TheNetherlandsOudeMeer: Failed
-176.222.55.22:443#TheNetherlandsAmsterdam: Failed
-185.229.225.229:443#NetherlandsAmsterdam: Failed
-2.59.183.219:443#TheNetherlandsMeppel: Failed
-81.22.132.245:443#TheNetherlandsMeppel: Failed
-109.107.166.23:443#TheNetherlandsAmsterdam: Failed
-185.244.49.38:443#TheNetherlandsAmsterdam: Failed
-109.120.158.198:443#TheNetherlandsDronten: Failed
-89.35.131.5:443#TheNetherlandsAmsterdam: Failed
-103.90.75.141:2053#TheNetherlandsAmsterdam: Failed
-146.190.236.144:443#TheNetherlandsAmsterdam: Failed
-146.0.79.28:8443#TheNetherlandsAmsterdam: Failed
-152.70.59.90:8443#NetherlandsAmsterdam: Failed
-195.200.26.225:443#TheNetherlandsAmsterdam: Failed
-45.120.178.143:8443#TheNetherlandsMeppel: Failed
-45.133.117.185:443#NetherlandsAmsterdam: Failed
-77.91.123.143:2053#TheNetherlandsMeppel: Failed
-77.238.247.183:2053#TheNetherlandsAmsterdam: Failed
-37.252.7.161:2053#PolandGdansk: Failed
-37.252.7.161:8443#PolandGdansk: Failed
-45.67.34.89:8443#RomaniaBucharest: Failed
-194.68.44.27:81#RomaniaBucharest: Failed
-185.39.30.67:2053#RomaniaBucharest: Failed
-176.57.211.166:2053#RussiaStPetersburg: Failed
-176.57.211.166:8443#RussiaStPetersburg: Failed
-185.105.89.125:16092#RussiaMoscow: Failed
-193.160.209.226:2053#RussiaStPetersburg: Failed
-193.3.23.128:37424#RussiaZelenograd: Failed
-213.159.208.88:2053#RussiaMoscow: Failed
-31.129.49.103:443#RussiaMoscow: Failed
-81.200.158.206:8443#RussiaMoscow: Failed
-95.163.240.24:8443#RussiaMoscow: Failed
-94.242.53.158:2053#RussiaStPetersburg: Failed
-94.242.53.158:8443#RussiaStPetersburg: Failed
-172.234.96.64:8443#SwedenStockholm: Failed
-13.48.175.183:2053#SwedenStockholm: Failed
-45.32.100.46:13802#SingaporeSingapore: Failed
-194.36.178.36:8443#SingaporeSingapore: Failed
-146.235.19.79:28983#SingaporeSingapore: Failed
-194.36.178.36:2053#SingaporeSingapore: Failed
-213.35.100.31:47112#SingaporeSingapore: Failed
-94.131.123.74:443#TürkiyeIstanbul: Failed
-195.16.74.240:81#TurkeyIstanbul: Failed
-104.234.36.27:33388#UnitedStatesLosAngeles: Failed
-34.83.245.149:443#UnitedStatesTheDalles: Failed
-129.153.91.86:3701#UnitedStatesPhoenix: Failed
-23.95.113.61:443#UnitedStatesAshburn: Failed
-23.94.213.132:27149#UnitedStatesLosAngeles: Failed
-23.94.94.192:42539#UnitedStatesMarietta: Failed
-23.105.199.91:21626#UnitedStatesLosAngeles: Failed
-65.49.192.225:58564#UnitedStatesLosAngeles: Failed
-65.49.195.163:14828#UnitedStatesLosAngeles: Failed
-144.34.163.149:58431#UnitedStatesLosAngeles: Failed
-74.48.4.29:37731#UnitedStatesLosAngeles: Failed
-74.48.140.177:443#UnitedStatesLosAngeles: Failed
-142.171.156.141:21182#UnitedStatesLosAngeles: Failed
-74.48.179.37:36460#UnitedStatesLosAngeles: Failed
-74.48.179.37:32380#UnitedStatesLosAngeles: Failed
-74.48.179.37:36358#UnitedStatesLosAngeles: Failed
-74.48.179.37:58184#UnitedStatesLosAngeles: Failed
-72.18.81.113:15320#UnitedStatesLosAngeles: Failed
-74.48.179.37:10725#UnitedStatesLosAngeles: Failed
-148.135.110.150:48503#UnitedStatesLosAngeles: Failed
-195.123.241.122:50008#UnitedStatesLosAngeles: Failed
-141.11.95.10:18443#UnitedStatesLosAngeles: Failed
-129.146.6.2:929#UnitedStatesPhoenix: Failed
-129.159.37.19:30488#UnitedStatesSanJose: Failed
-132.226.119.111:24361#UnitedStatesPhoenix: Failed
-138.2.231.58:45638#UnitedStatesSanJose: Failed
-141.148.164.46:57239#UnitedStatesPhoenix: Failed
-141.148.181.105:38945#UnitedStatesPhoenix: Failed
-141.148.1.34:38589#UnitedStatesAshburn: Failed
-142.171.94.100:9960#UnitedStatesLosAngeles: Failed
-146.235.209.40:58869#UnitedStatesSanJose: Failed
-148.135.52.250:48993#UnitedStatesLosAngeles: Failed
-152.70.113.150:52125#UnitedStatesSanJose: Failed
-152.70.143.175:29187#UnitedStatesPhoenix: Failed
-192.9.138.69:21009#UnitedStatesSanJose: Failed
-192.9.137.193:8443#UnitedStatesSanJose: Failed
-23.94.5.177:443#UnitedStatesBuffalo: Failed
-5.8.63.23:443#UnitedStatesAshburn: Failed
-64.64.227.230:7788#UnitedStatesLosAngeles: Failed
-47.251.70.15:28648#UnitedStatesMinkler: Failed
-64.176.210.187:443#UnitedStatesPiscataway: Failed
-47.88.15.127:443#UnitedStatesMinkler: Failed
-74.121.150.129:8443#UnitedStatesEdison: Failed
-74.48.89.211:443#UnitedStatesLosAngeles: Failed
-74.48.221.141:26255#UnitedStatesLosAngeles: Failed
+43.132.244.52:21415#HK 6 COLLYER QUAY 43.40 ms
+8.218.245.116:41528#HK Alibaba Cloud (Singapore) Private Limited 43.94 ms
+43.154.124.136:26666#HK 6 COLLYER QUAY 44.84 ms
+43.252.41.204:2443#HK CommuniLink Internet Ltd. 46.39 ms
+192.252.182.52:7602#HK Integen  Inc 47.79 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 49.62 ms
+8.218.245.116:49701#HK Alibaba Cloud (Singapore) Private Limited 50.53 ms
+59.3.83.3:30012#KR KT 66.37 ms
+141.147.183.49:29876#JP Oracle Corporation 66.88 ms
+156.154.245.83:443#US Vercara  LLC 66.90 ms
+138.2.18.82:8880#JP Oracle Corporation 67.36 ms
+140.238.37.103:14782#JP Oracle Public Cloud 67.88 ms
+158.101.154.245:47001#JP Oracle Public Cloud 68.65 ms
+141.147.161.249:51037#JP Oracle Corporation 68.68 ms
+158.101.146.3:54516#JP Oracle Public Cloud 69.49 ms
+168.138.197.147:12345#JP Oracle Public Cloud 75.61 ms
+123.143.9.5:14041#KR LG Uplus 75.90 ms
+152.69.229.175:22558#KR Oracle Corporation 93.25 ms
+146.56.99.255:56789#KR Oracle Corporation   Global software solutions   California   USA 93.25 ms
+129.154.48.176:36355#KR Oracle Corporation 93.73 ms
+152.67.211.114:58337#KR Oracle Public Cloud 93.85 ms
+144.24.87.69:50001#KR Oracle Corporation 94.68 ms
+147.45.147.212:2053#RU JSC TIMEWEB 100.88 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 102.92 ms
+103.238.129.215:42734#JP ByteVirt LLC 103.26 ms
+147.45.147.212:8443#RU JSC TIMEWEB 104.41 ms
+8.222.220.81:25435#SG Alibaba Cloud (Singapore) Private Limited 106.94 ms
+8.219.58.164:57373#SG Alibaba Cloud (Singapore) Private Limited 108.06 ms
+150.230.214.172:16957#JP Oracle Corporation 124.06 ms
+156.230.12.71:443#HK 263 Shanghai Communications Ltd. 130.88 ms
+37.120.186.205:2083#DE netcup GmbH 135.21 ms
+94.159.98.23:2053#DE H2.NEXUS Frankfurt Network 135.74 ms
+185.120.59.207:8443#FR Baykov Ilya Sergeevich 144.46 ms
+193.178.172.225:2053#NL SERVERS TECH FZCO 147.72 ms
+103.90.75.41:8443#NL CLODO CLOUD SERVICE CO. L.L.C 148.88 ms
+38.60.193.247:13300#MY Kaopu Cloud HK Limited 149.47 ms
+77.223.96.232:443#RU Selectel Network 150.74 ms
+46.17.102.249:2053#NL HOSTKEY B.V. 151.45 ms
+38.180.99.178:8443#NL 3NT SOLUTIONS LLP 152.42 ms
+43.218.77.16:1443#ID Amazon.com  Inc. 153.21 ms
+46.151.26.63:8443#NL Amsterdam  Netherlands 153.82 ms
+88.210.11.164:22285#NL Amsterdam  Netherlands 154.03 ms
+185.254.190.70:8443#RU LLC Vpsville 154.23 ms
+5.255.118.176:443#NL The Infrastructure Group B.V. 155.24 ms
+88.210.9.239:443#NL Amsterdam  Netherlands 157.01 ms
+173.242.123.189:51042#US Cluster Logic Inc 158.04 ms
+163.5.207.31:443#NL SERVA ONE LTD 158.35 ms
+89.150.35.129:443#NL CLODO CLOUD SERVICE CO. L.L.C 158.35 ms
+37.221.125.147:2053#DE WorkTitans B.V. 158.87 ms
+94.142.139.93:443#RU PSERVERS Enterprise Network 158.97 ms
+43.218.77.16:443#ID Amazon.com  Inc. 159.02 ms
+194.87.252.135:2053#RU Baykov Ilya Sergeevich 159.23 ms
+176.109.106.61:8443#RU Cloud Technologies LLC trading as Cloud.ru 160.29 ms
+3.69.0.8:443#DE Amazon Data Services Ireland Ltd 160.78 ms
+13.250.131.37:443#SG Amazon Data Services Singapore 161.58 ms
+176.222.55.17:443#NL HOSTKEY B.V. 162.24 ms
+181.41.194.176:15565#NL RACK400.com - Netherlands Infrastructure 162.79 ms
+45.139.184.183:2053#RU LLC Vpsville 165.38 ms
+192.131.142.161:46639#HK 365 Group LLC 165.57 ms
+45.67.229.128:81#MD WorkTitans B.V. 169.43 ms
+38.180.99.253:8443#NL 3NT SOLUTIONS LLP 170.44 ms
+95.169.26.188:38557#US Cluster Logic Inc 171.48 ms
+46.17.102.93:443#NL HOSTKEY B.V. 171.89 ms
+20.235.105.146:443#IN Microsoft Corporation 172.03 ms
+167.234.216.84:65501#US Oracle Corporation 172.35 ms
+45.140.146.80:8443#MD WorkTitans B.V. 172.77 ms
+194.67.204.158:8443#RU PSERVERS Enterprise Network 173.94 ms
+67.226.221.104:443#US Securly  Inc 174.59 ms
+163.5.207.235:443#NL SERVA ONE LTD 175.21 ms
+23.94.56.111:20338#US RackNerd LLC 177.15 ms
+172.82.16.38:31005#US OLink Cloud LLC 178.14 ms
+51.250.15.177:2053#RU Yandex.Cloud LLC 179.75 ms
+172.82.16.38:25122#US OLink Cloud LLC 179.89 ms
+172.82.16.38:27033#US OLink Cloud LLC 179.91 ms
+192.9.135.182:7800#US Oracle Corporation 180.59 ms
+194.180.188.253:2053#DE HOSTKEY B.V. 180.59 ms
+172.82.16.38:27043#US OLink Cloud LLC 180.73 ms
+172.82.16.38:25956#US OLink Cloud LLC 180.94 ms
+172.82.16.38:30387#US OLink Cloud LLC 180.99 ms
+185.106.96.203:11338#US Sriyaan technology 181.09 ms
+184.169.181.217:443#US Amazon.com  Inc. 181.91 ms
+172.82.16.38:25953#US OLink Cloud LLC 181.94 ms
+213.183.59.144:2053#NL Melbicom infrastructure 182.23 ms
+172.82.16.38:25950#US OLink Cloud LLC 182.44 ms
+172.82.16.38:27053#US OLink Cloud LLC 182.52 ms
+188.116.23.181:2053#NL IROKO Networks Corporation 182.79 ms
+173.249.201.109:54443#US tzulo  inc. 183.54 ms
+92.241.18.106:443#RU JSC Svyazinform 183.63 ms
+92.38.152.30:8443#RU EdgeCenter LLC 183.68 ms
+18.144.44.213:80#US Amazon.com  Inc. 183.86 ms
+18.197.218.69:443#DE A100 ROW GmbH 183.97 ms
+67.226.221.104:80#US Securly  Inc 184.02 ms
+144.168.56.119:40864#US IT7 Networks Inc 184.97 ms
+3.67.25.193:443#DE A100 ROW GmbH 185.04 ms
+3.68.62.122:443#DE Amazon Data Services Ireland Ltd 185.20 ms
+185.246.155.198:443#NL Melbikomas UAB 185.76 ms
+67.226.221.102:80#US Securly  Inc 186.17 ms
+95.164.89.124:2053#DE WorkTitans B.V. 186.25 ms
+172.82.16.38:27061#US OLink Cloud LLC 186.25 ms
+3.67.232.136:443#DE A100 ROW GmbH 186.37 ms
+45.32.131.28:31001#US The Constant Company  LLC 186.69 ms
+138.2.235.230:22731#US Oracle Corporation 186.80 ms
+18.156.209.101:443#DE A100 ROW GmbH 186.81 ms
+188.225.34.155:443#RU TimeWeb Ltd. 186.83 ms
+185.130.225.218:443#NL HOSTKEY B.V. 186.88 ms
+138.2.232.156:28163#US Oracle Corporation 186.92 ms
+77.246.108.130:443#NL Amsterdam  Netherlands 187.53 ms
+52.10.78.7:443#US Amazon.com  Inc. 187.82 ms
+155.248.198.56:34488#US Oracle Public Cloud 187.93 ms
+194.116.217.98:8443#FR as56971 network 187.94 ms
+188.130.207.158:8443#FR CGI GLOBAL LIMITED 188.17 ms
+150.230.33.247:19131#US Oracle Corporation 188.37 ms
+172.82.16.38:27050#US OLink Cloud LLC 188.63 ms
+192.9.228.70:14123#US Oracle Corporation 189.12 ms
+129.152.2.127:1488#IT Oracle Corporation 189.69 ms
+18.159.105.97:443#DE A100 ROW GmbH 189.79 ms
+152.67.235.3:88#US Oracle Public Cloud 190.34 ms
+192.9.250.241:443#US Oracle Corporation 190.65 ms
+146.103.33.57:443#NL Brander Group Inc 190.79 ms
+44.228.63.60:443#US Amazon.com  Inc. 191.49 ms
+192.9.145.87:13611#US Oracle Corporation 191.68 ms
+193.109.84.39:443#FI PSERVERS Enterprise Network 192.69 ms
+185.130.225.218:14006#NL HOSTKEY B.V. 193.19 ms
+185.246.152.79:443#NL Melbicom infrastructure 193.45 ms
+70.34.244.250:27000#PL The Constant Company  LLC 193.79 ms
+81.22.132.44:443#NL Internet Utilities Europe and Asia Limited 193.92 ms
+88.210.11.67:443#NL Amsterdam  Netherlands 193.95 ms
+152.67.248.2:53300#US Oracle Public Cloud 194.01 ms
+86.107.197.161:443#NL MVPS LTD 194.56 ms
+142.171.140.152:443#US MULTACOM CORPORATION 194.66 ms
+45.84.196.33:65513#DE 24fire GmbH 194.73 ms
+74.48.145.83:31556#US MULTACOM CORPORATION 194.80 ms
+95.182.97.147:8443#FR CGI GLOBAL LIMITED 194.88 ms
+104.168.167.197:27213#US Hostwinds Seattle 195.28 ms
+82.97.249.34:2053#RU Timeweb  LLP 195.66 ms
+3.73.6.186:2053#DE A100 ROW GmbH 195.82 ms
+23.95.18.12:18443#US RackNerd LLC 196.06 ms
+54.202.115.66:80#US Amazon.com  Inc. 196.37 ms
+95.182.97.147:2053#FR CGI GLOBAL LIMITED 196.56 ms
+18.192.93.64:443#DE A100 ROW GmbH 196.61 ms
+36.50.90.241:47790#HK IoT Innovation Technologies Company Limited 196.86 ms
+185.8.60.113:443#LV CloudHosting Data Center 197.40 ms
+18.198.227.161:443#DE Amazon Data Services Ireland Ltd 197.91 ms
+54.176.205.20:80#US Amazon.com  Inc. 198.54 ms
+129.146.114.239:44039#US Oracle Corporation 198.62 ms
+188.116.21.18:8443#NL IROKO Networks Corporation 198.74 ms
+195.226.194.222:2053#NL Snowd Security OU 198.81 ms
+52.41.218.4:80#US Amazon Technologies Inc. 199.02 ms
+89.111.172.106:2053#RU Domain names registrar REG.RU  Ltd 199.06 ms
+52.32.90.142:80#US Amazon.com  Inc. 199.93 ms
+141.148.153.223:36818#US Oracle Corporation 199.96 ms
+194.87.252.135:8443#RU Baykov Ilya Sergeevich 200.02 ms
+89.248.207.37:443#RU Selectel Network 200.07 ms
+81.22.132.183:443#NL Internet Utilities Europe and Asia Limited 200.09 ms
+82.97.249.34:8443#RU Timeweb  LLP 200.12 ms
+95.179.236.51:443#GB 11 Hanbury St 200.21 ms
+67.226.223.75:80#GB Securly  Inc 200.40 ms
+86.107.197.239:443#NL MVPS LTD 201.21 ms
+5.45.66.11:443#NL IROKO Networks Corporation 201.56 ms
+92.38.152.30:2053#RU EdgeCenter LLC 201.60 ms
+35.167.93.200:443#US Amazon.com  Inc. 201.89 ms
+94.103.183.229:2053#RU FOP Hornostay Mykhaylo Ivanovych 202.05 ms
+66.85.139.204:443#US SECURED SERVERS LLC 202.07 ms
+195.54.174.216:2053#NL IROKO Networks Corporation 202.22 ms
+91.149.239.206:443#US BG-NETWORK 202.30 ms
+45.139.184.183:8443#RU LLC Vpsville 202.31 ms
+31.129.48.139:443#RU Selectel Network 202.33 ms
+82.148.30.224:443#RU Selectel Network 202.37 ms
+103.90.75.41:2053#NL CLODO CLOUD SERVICE CO. L.L.C 202.39 ms
+36.50.90.241:35951#HK IoT Innovation Technologies Company Limited 202.48 ms
+31.133.0.124:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 202.48 ms
+163.5.207.124:443#NL SERVA ONE LTD 202.59 ms
+2.59.183.198:443#NL SERVA ONE LTD 202.64 ms
+5.230.44.233:443#DE Cloudflare London  LLC 202.82 ms
+3.9.223.59:80#GB Securly  Inc 202.83 ms
+95.163.203.38:2052#US Cluster Logic Inc 203.00 ms
+46.8.224.219:2053#FR CGI GLOBAL LIMITED 203.50 ms
+2.59.183.181:443#NL SERVA ONE LTD 203.71 ms
+213.170.157.1:443#US RedShield Security Ltd 203.80 ms
+185.198.166.182:443#NL Friendhosting LTD 203.90 ms
+2.56.204.183:443#AM Proitlab LLC 203.91 ms
+47.251.95.178:443#US Alibaba Cloud - US 204.08 ms
+129.153.112.108:3966#US Oracle Corporation 204.24 ms
+158.101.39.0:42979#US Oracle Public Cloud 204.28 ms
+188.130.207.158:2053#FR CGI GLOBAL LIMITED 204.34 ms
+2.59.183.210:443#NL SERVA ONE LTD 204.70 ms
+185.211.170.101:2053#RU JSC TIMEWEB 204.72 ms
+2.59.183.77:443#NL SERVA ONE LTD 204.77 ms
+38.180.85.203:443#CH 3NT SOLUTIONS LLP 204.80 ms
+213.156.138.192:40778#FR G-Core Labs Customer assignment 205.28 ms
+31.25.29.199:443#NL Amsterdam  Netherlands 205.39 ms
+2.59.183.114:443#NL SERVA ONE LTD 205.40 ms
+46.8.224.219:8443#FR CGI GLOBAL LIMITED 205.95 ms
+45.151.132.228:19034#US Spartan Host Ltd 206.18 ms
+98.142.140.86:587#US Cluster Logic Inc 206.23 ms
+91.201.112.15:443#NL Amsterdam  Netherlands 206.32 ms
+87.239.251.30:8443#FI FIRST SERVER LIMITED 206.37 ms
+107.175.254.239:39128#US RackNerd LLC 206.49 ms
+146.0.73.202:443#NL HOSTKEY B.V. 206.63 ms
+94.177.199.119:2053#IT Aruba S.p.A. - Cloud Services Farm2 206.77 ms
+109.107.174.65:8443#NL Amsterdam  Netherlands 206.82 ms
+168.100.9.81:443#NL BL Networks 206.87 ms
+85.193.91.193:2053#RU JSC TIMEWEB 206.95 ms
+35.167.93.200:80#US Amazon.com  Inc. 207.15 ms
+67.226.221.100:80#US Securly  Inc 207.43 ms
+204.110.223.100:80#US Securly  Inc 207.54 ms
+2.59.183.233:444#NL SERVA ONE LTD 207.56 ms
+46.17.102.9:443#NL HOSTKEY B.V. 207.65 ms
+45.144.48.33:8443#PL Newserverlife LLC 208.04 ms
+77.83.246.133:24443#PL GLOBAL CONNECTIVITY SOLUTIONS LLP 208.07 ms
+158.101.24.17:443#US Oracle Public Cloud 208.13 ms
+46.17.97.207:2053#NL HOSTKEY B.V. 208.15 ms
+185.8.60.108:443#LV CloudHosting Data Center 208.19 ms
+94.131.119.50:2053#RO WorkTitans B.V. 208.25 ms
+176.222.55.163:443#NL HOSTKEY B.V. 208.32 ms
+154.29.150.2:8080#US NetLab 208.32 ms
+2.59.183.140:443#NL SERVA ONE LTD 209.03 ms
+146.103.33.38:443#NL Brander Group Inc 209.16 ms
+188.215.229.74:8443#NL 365 Group LLC 209.28 ms
+94.131.100.225:2053#FI WorkTitans B.V. 209.62 ms
+176.105.253.102:8443#PL BREEZLE LLC 210.30 ms
+3.127.55.133:443#DE Amazon Data Services Ireland Ltd 210.35 ms
+104.168.176.241:24264#US Hostwinds LLC. 210.36 ms
+194.67.204.158:2053#RU PSERVERS Enterprise Network 210.39 ms
+138.124.182.204:443#LV Baykov Ilya Sergeevich 210.59 ms
+35.176.229.223:80#GB Securly  Inc 210.69 ms
+5.230.44.117:16771#DE GHOSTnet Network used for VPS Hosting Services 210.93 ms
+51.250.15.177:8443#RU Yandex.Cloud LLC 211.06 ms
+51.159.6.227:2053#FR Scaleway 211.12 ms
+64.44.86.201:44759#US Nexeon Technologies  Inc. 211.18 ms
+89.111.172.106:8443#RU Domain names registrar REG.RU  Ltd 211.23 ms
+45.67.34.74:2053#RO WorkTitans B.V. 211.34 ms
+129.153.127.204:20756#US Oracle Corporation 211.48 ms
+82.97.254.184:2053#RU Timeweb  LLP 212.52 ms
+45.80.208.126:8081#KZ G-Core Labs Customer assignment 212.92 ms
+80.211.231.169:443#IT Aruba S.p.A. - Cloud Services Farm2 213.10 ms
+172.96.194.124:34555#US Cluster Logic Inc 213.20 ms
+52.41.218.4:443#US Amazon Technologies Inc. 213.21 ms
+2.59.183.26:443#NL SERVA ONE LTD 213.26 ms
+185.195.69.200:2053#CH Datasource AG 213.35 ms
+107.173.147.41:27170#US RackNerd LLC 213.96 ms
+89.110.120.140:2053#NL Amsterdam  Netherlands 214.04 ms
+85.30.217.230:25146#RU NCNET Broadband customers 214.39 ms
+147.45.245.15:443#RU JSC TIMEWEB 214.78 ms
+70.34.244.250:12531#PL The Constant Company  LLC. 214.79 ms
+2.59.183.197:443#NL SERVA ONE LTD 214.90 ms
+67.226.222.2:80#US Securly  Inc 214.91 ms
+90.156.211.232:8443#RU JSC TIMEWEB 215.01 ms
+62.84.102.169:8443#NL Amsterdam  Netherlands 215.16 ms
+195.133.75.35:443#NL Baykov Ilya Sergeevich 215.60 ms
+94.131.119.136:81#RO WorkTitans B.V. 215.72 ms
+213.226.126.183:2053#RU JSC TIMEWEB 215.80 ms
+85.193.91.193:8443#RU JSC TIMEWEB 216.10 ms
+192.210.143.111:28425#US RackNerd LLC 216.26 ms
+147.45.173.149:443#NL Timeweb  LLP 216.35 ms
+195.58.50.134:443#NL Baykov Ilya Sergeevich 216.64 ms
+18.216.55.100:443#US Amazon Technologies Inc. 216.80 ms
+88.210.11.164:22284#NL Amsterdam  Netherlands 216.92 ms
+45.95.203.214:2053#RU FIRST SERVER LIMITED 217.28 ms
+63.205.203.251:443#US AT&T Enterprises  LLC 217.58 ms
+94.103.95.115:443#NL Amsterdam  Netherlands 217.61 ms
+45.155.249.66:443#NL servinga GmbH 217.94 ms
+212.118.40.20:8443#NL Amsterdam  Netherlands 218.17 ms
+85.234.107.140:2053#NL Timeweb  LLP 218.30 ms
+103.102.228.113:443#NL Individual Entrepreneur Anton Levin 218.32 ms
+89.42.142.79:443#NL SERVA ONE LTD 218.44 ms
+185.128.106.14:51820#RU FIRST SERVER LIMITED 218.63 ms
+46.229.212.218:2053#RU JSC TIMEWEB 218.76 ms
+172.232.157.252:8443#SE Linode 218.98 ms
+45.153.187.209:2053#SE MVPS LTD 219.06 ms
+185.211.170.101:8443#RU JSC TIMEWEB 219.14 ms
+185.195.69.119:2053#CH Datasource AG 219.17 ms
+206.166.251.92:443#NL BL Networks 219.43 ms
+45.95.203.214:8443#RU FIRST SERVER LIMITED 219.45 ms
+23.108.217.103:443#NL Servers.com B.V. 219.58 ms
+129.146.46.164:443#US Oracle Corporation 220.06 ms
+213.226.126.183:8443#RU JSC TIMEWEB 220.08 ms
+46.8.158.69:2053#CH Datacamp Limited 220.16 ms
+31.133.0.150:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 221.03 ms
+172.245.129.72:27486#US RackNerd LLC 221.71 ms
+185.105.117.222:443#RU PSERVERS Enterprise Network 221.71 ms
+194.156.67.85:8443#MD FOXCLOUD COMMUNICATIONS SRL 221.81 ms
+45.85.146.60:443#FR Contabo GmbH 221.98 ms
+193.42.62.215:2053#FR Mo's Operations GmbH 222.04 ms
+103.231.73.153:443#LV WorkTitans B.V. 222.28 ms
+185.195.69.200:8443#CH Datasource AG 222.39 ms
+185.17.2.103:2053#FI PSERVERS Enterprise Network 222.42 ms
+51.159.6.227:8443#FR Scaleway 222.68 ms
+103.106.1.2:443#NL WorkTitans B.V. 222.84 ms
+18.236.13.188:80#US Amazon Technologies Inc. 223.00 ms
+213.148.1.150:2053#KZ Modern Server Solutions LLP 223.15 ms
+37.120.186.205:2087#DE netcup GmbH 223.25 ms
+172.98.207.58:443#CA CENTRILOGICCANADA 223.29 ms
+89.110.125.45:443#NL Amsterdam  Netherlands 223.40 ms
+94.131.105.101:2053#NL WorkTitans B.V. 223.67 ms
+109.107.167.104:443#NL Amsterdam  Netherlands 223.70 ms
+91.192.102.170:2053#CH Datasource AG 223.84 ms
+45.82.80.96:443#SE Internetport Sweden AB 223.98 ms
+62.112.221.177:6633#GB G-Core Labs Customer assignment 224.09 ms
+35.185.54.229:27271#US Google LLC 224.26 ms
+129.151.198.3:2053#SE Oracle Corporation 224.44 ms
+185.105.118.126:2053#FI PSERVERS Enterprise Network 224.87 ms
+46.229.212.218:8443#RU JSC TIMEWEB 224.96 ms
+43.133.10.236:33405#JP 6 COLLYER QUAY 225.03 ms
+130.185.249.22:8080#GB DA International Group Ltd. 225.47 ms
+45.85.93.49:443#CH Internet Utilities Europe and Asia Limited 225.54 ms
+54.203.85.46:80#US Amazon.com  Inc. 225.59 ms
+91.200.151.172:443#KZ Dmitry Vorozhtsov 225.75 ms
+91.192.102.55:443#CH Datasource AG 225.97 ms
+198.46.218.63:27149#US RackNerd LLC 226.11 ms
+54.203.85.46:443#US Amazon.com  Inc. 226.13 ms
+92.118.169.4:56149#NL Baykov Ilya Sergeevich 226.39 ms
+3.66.115.225:443#DE Amazon Data Services Ireland Ltd 226.53 ms
+51.178.80.153:8443#FR OVH SAS 226.73 ms
+107.173.147.41:35398#US RackNerd LLC 226.89 ms
+94.131.122.145:2053#GB WorkTitans B.V. 226.92 ms
+31.133.1.8:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 227.10 ms
+159.65.162.90:4431#US DigitalOcean  LLC 227.11 ms
+87.239.251.30:2053#FI FIRST SERVER LIMITED 227.17 ms
+141.145.199.188:443#FR Oracle Corporation 227.56 ms
+77.83.246.153:8443#PL GLOBAL CONNECTIVITY SOLUTIONS LLP 227.67 ms
+91.149.239.62:443#US BG-NETWORK 228.33 ms
+77.83.246.153:2053#PL GLOBAL CONNECTIVITY SOLUTIONS LLP 228.80 ms
+216.128.140.253:26376#US The Constant Company  LLC 228.98 ms
+54.37.64.120:2053#FR OVH SAS 229.05 ms
+18.236.13.188:443#US Amazon Technologies Inc. 230.23 ms
+146.0.73.211:443#NL HOSTKEY B.V. 230.55 ms
+103.106.3.238:443#KZ WorkTitans B.V. 230.57 ms
+5.181.20.165:81#FI WorkTitans B.V. 230.85 ms
+194.54.157.81:443#NL WorkTitans B.V. 231.07 ms
+46.17.43.237:54596#RU LLC BAXET 231.08 ms
+86.104.73.185:443#KZ WorkTitans B.V. 231.48 ms
+89.110.106.199:2053#NL Amsterdam  Netherlands 232.07 ms
+31.207.47.231:443#NL HOSTKEY B.V. 232.10 ms
+31.214.175.108:8443#NL Turunc smart bilgisayar Teknoloji ve dis ticaret limited 232.16 ms
+213.255.209.189:443#CA Cloud Web Manage 232.16 ms
+207.211.176.65:13425#US Oracle Corporation 232.26 ms
+94.131.12.56:443#CH WorkTitans B.V. 232.26 ms
+80.90.183.75:8443#KZ lease for Timeweb 232.59 ms
+89.110.66.154:443#NL Amsterdam  Netherlands 232.68 ms
+54.149.11.131:80#US Amazon Technologies Inc. 232.69 ms
+67.226.223.157:80#GB Securly  Inc 232.97 ms
+35.183.163.195:443#CA Securly  Inc 233.05 ms
+45.144.48.42:8443#PL Newserverlife LLC 233.14 ms
+193.42.62.215:8443#FR Mo's Operations GmbH 233.15 ms
+45.146.82.107:35292#US Aiyun (HK) Network Technology Limited 233.38 ms
+51.38.98.202:443#DE OVH GmbH 233.43 ms
+213.183.51.219:443#NL Melbicom infrastructure 233.53 ms
+2.56.206.64:443#AM Proitlab LLC 233.64 ms
+176.10.125.114:443#CH Datasource AG 233.70 ms
+31.133.0.143:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 233.79 ms
+45.88.76.184:443#NL Podaon SIA 234.00 ms
+45.159.251.8:81#PT WorkTitans B.V. 234.07 ms
+93.183.91.227:443#NL Amsterdam  Netherlands 234.19 ms
+91.107.134.254:49222#DE Hetzner Online GmbH 234.29 ms
+67.226.222.2:443#US Securly  Inc 234.31 ms
+212.34.146.6:8443#NL Amsterdam  Netherlands 234.41 ms
+94.177.199.119:8443#IT Aruba S.p.A. - Cloud Services Farm2 234.55 ms
+45.11.1.118:44004#JP CEGRGO-DigitalVM LLC - Tokyo 234.56 ms
+141.147.10.210:8881#DE Oracle Corporation 234.57 ms
+185.245.83.41:31687#GB CLOUVIDER Virtual Machines 234.64 ms
+89.110.108.189:8443#NL Amsterdam  Netherlands 234.74 ms
+70.34.244.250:53062#PL The Constant Company  LLC 235.07 ms
+138.2.32.76:15821#JP Oracle Corporation 235.43 ms
+2.59.38.46:443#NL DataWeb Global Group B.V. 235.60 ms
+51.195.100.92:2053#DE OVH GmbH 235.60 ms
+31.172.71.51:444#DE www.fornex.com  Fornex Hosting S.L. 236.06 ms
+5.39.219.35:443#NL HOSTKEY B.V. 236.20 ms
+43.153.61.80:40874#US 6 COLLYER QUAY 236.32 ms
+194.180.188.253:8443#DE HOSTKEY B.V. 236.56 ms
+88.218.76.170:443#FR RackNerd  LLC 236.64 ms
+80.85.246.195:2053#NL Amsterdam  Netherlands 236.79 ms
+138.68.141.220:2053#GB DigitalOcean  LLC 236.90 ms
+198.46.143.134:443#US RackNerd LLC 236.94 ms
+107.175.245.68:50242#US RackNerd LLC 237.18 ms
+18.184.55.249:443#DE A100 ROW GmbH 237.29 ms
+130.61.107.238:8443#DE Oracle Public Cloud 237.40 ms
+129.159.241.172:443#DE Oracle Corporation 237.46 ms
+178.73.220.132:443#SE Swedish Infra 237.56 ms
+213.255.209.207:443#CA Cloud Web Manage 237.59 ms
+157.90.119.128:2096#DE Hetzner Online GmbH 237.95 ms
+192.3.44.158:38613#US RackNerd LLC 238.08 ms
+141.94.204.206:2053#FR OVH SAS 238.16 ms
+89.110.89.229:2053#RU Hosting technology LTD 238.31 ms
+94.131.100.136:2053#FI WorkTitans B.V. 238.75 ms
+109.107.164.231:443#NL Amsterdam  Netherlands 238.76 ms
+173.44.141.156:8443#US Winnebell Network Services 239.00 ms
+18.184.27.249:443#DE A100 ROW GmbH 239.05 ms
+193.70.0.78:8443#FR OVH SAS 239.07 ms
+89.110.67.172:443#NL Amsterdam  Netherlands 239.11 ms
+35.157.240.237:443#DE Amazon Data Services Ireland Ltd 239.12 ms
+57.129.16.33:8443#DE OVH GmbH 239.17 ms
+204.110.222.104:443#US Securly  Inc 239.49 ms
+107.173.87.103:443#US RackNerd LLC 239.50 ms
+45.88.67.65:443#NL Baykov Ilya Sergeevich 239.50 ms
+185.195.69.119:8443#CH Datasource AG 239.57 ms
+176.105.253.102:2053#PL BREEZLE LLC 239.67 ms
+140.238.158.238:8080#CA Oracle Public Cloud 239.71 ms
+45.144.48.182:8443#PL Newserverlife LLC 240.11 ms
+185.213.211.29:443#NL Podaon SIA 240.26 ms
+51.75.65.24:8443#DE OVH GmbH 240.28 ms
+91.192.102.170:8443#CH Datasource AG 240.57 ms
+89.110.126.196:443#NL Amsterdam  Netherlands 240.71 ms
+18.193.131.26:443#DE A100 ROW GmbH 240.95 ms
+206.189.99.40:433#NL DigitalOcean  LLC 240.99 ms
+5.255.120.214:8443#NL The Infrastructure Group B.V. 241.09 ms
+47.90.140.40:44203#US Alibaba Cloud - US 241.41 ms
+77.220.214.135:443#NL Podaon SIA 241.60 ms
+194.24.161.146:4090#FR Layer7 Networks GmbH 241.69 ms
+51.38.51.190:8443#FR OVH SAS 241.69 ms
+94.23.164.46:8443#FR OVH SAS 241.80 ms
+158.101.199.249:8443#NL Oracle Public Cloud 241.89 ms
+51.38.48.27:2053#FR OVH SAS 242.43 ms
+45.140.146.80:2053#MD WorkTitans B.V. 242.51 ms
+185.220.204.87:443#NL O.M.C. COMPUTERS & COMMUNICATIONS LTD 242.58 ms
+67.226.220.10:80#US Securly  Inc 242.58 ms
+193.124.22.168:2053#LV Baxet Group Inc. 242.60 ms
+89.168.43.31:8443#FR Oracle Svenska AB 242.61 ms
+162.19.226.175:8443#DE OVH GmbH 242.82 ms
+140.238.158.238:443#CA Oracle Public Cloud 242.87 ms
+185.114.72.31:8443#ES FIRST SERVER LIMITED 242.89 ms
+85.198.109.79:8443#RU Hosting technology LTD 242.90 ms
+212.111.89.16:443#NL Amsterdam  Netherlands 242.96 ms
+141.94.220.64:8443#FR OVH SAS 242.96 ms
+193.84.2.58:8443#FI HOSTKEY B.V. 243.14 ms
+213.183.61.100:8443#NL Melbicom infrastructure 243.14 ms
+162.19.242.215:2053#DE OVH GmbH 243.17 ms
+158.178.193.78:82#FR Cloudflare  Inc. 243.25 ms
+51.20.99.157:443#SE A100 ROW Inc 243.29 ms
+204.110.222.106:80#US Securly  Inc 243.34 ms
+109.107.187.20:443#NL Amsterdam  Netherlands 243.36 ms
+162.19.65.172:2053#FR OVH SAS 243.44 ms
+77.238.247.93:443#NL SERVERS TECH FZCO 243.60 ms
+185.17.2.103:8443#FI PSERVERS Enterprise Network 243.79 ms
+213.183.59.144:8443#NL Melbicom infrastructure 243.79 ms
+51.38.49.23:2053#FR OVH SAS 243.81 ms
+85.198.109.79:2053#RU Hosting technology LTD 243.87 ms
+31.44.2.57:443#NL ITGLOBAL.COM NL B.V. 243.98 ms
+5.2.67.113:443#NL The Infrastructure Group B.V. 244.06 ms
+45.144.48.186:8443#PL Newserverlife LLC 244.06 ms
+31.133.0.159:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 244.35 ms
+141.94.222.46:8443#FR OVH SAS 244.58 ms
+141.94.221.79:8443#FR OVH SAS 244.61 ms
+158.178.206.197:2053#FR Oracle Corporation 244.63 ms
+51.15.47.222:3443#NL Scaleway 244.64 ms
+148.113.43.228:2053#IN OVHTECH R&D (INDIA) PRIVATE LIMITED 244.65 ms
+141.94.221.26:2053#FR OVH SAS 244.68 ms
+141.94.223.220:2053#FR OVH SAS 244.69 ms
+141.95.193.15:2053#FR OVH SAS 244.71 ms
+46.8.229.48:443#NL as56971 network 244.91 ms
+87.120.237.36:81#IT G-Core Labs S.A. 244.98 ms
+51.195.44.192:8443#DE OVH GmbH 244.99 ms
+195.58.50.233:443#NL Baykov Ilya Sergeevich 245.13 ms
+77.238.248.80:443#NL SERVERS TECH FZCO 245.23 ms
+141.95.159.211:8443#FR OVH SAS 245.28 ms
+185.120.59.207:2053#FR Baykov Ilya Sergeevich 245.28 ms
+51.195.42.173:2053#DE OVH GmbH 245.34 ms
+141.94.223.24:8443#FR OVH SAS 245.51 ms
+35.176.229.223:443#GB Securly  Inc 245.59 ms
+213.183.51.71:443#NL Melbicom infrastructure 245.64 ms
+193.70.0.78:2053#FR OVH SAS 245.74 ms
+107.173.147.41:36082#US RackNerd LLC 246.00 ms
+51.195.118.15:2053#DE OVH GmbH 246.03 ms
+89.110.104.192:443#NL Amsterdam  Netherlands 246.11 ms
+77.238.233.156:9443#NL SERVERS TECH FZCO 246.27 ms
+3.68.31.54:443#DE A100 ROW GmbH 246.40 ms
+162.19.64.105:2053#FR OVH SAS 246.41 ms
+141.94.221.240:2053#FR OVH SAS 246.42 ms
+91.107.166.111:2053#DE Hetzner Online GmbH 246.46 ms
+51.210.96.182:2053#FR OVH SAS 246.56 ms
+185.18.54.61:1080#NL www.fornex.com  Fornex Hosting S.L. 246.81 ms
+45.144.29.77:443#NL WorkTitans B.V. 246.92 ms
+147.45.170.176:2053#NL Timeweb  LLP 246.96 ms
+51.75.70.204:2053#DE OVH GmbH 247.07 ms
+89.168.43.31:2053#FR Oracle Svenska AB 247.25 ms
+103.90.73.117:443#NL CLODO CLOUD SERVICE CO. L.L.C 247.45 ms
+64.227.75.160:443#NL DigitalOcean  LLC 247.78 ms
+104.207.159.165:8088#US Vultr Holdings  LLC 247.79 ms
+77.238.249.50:2053#NL SERVERS TECH FZCO 247.79 ms
+64.110.104.30:443#JP Oracle Corporation 247.88 ms
+74.121.150.129:8443#US IT7 Networks Inc 247.97 ms
+45.154.207.101:443#DE oneprovider.com - Frankfurt Infrastructure 248.04 ms
+45.85.93.83:443#CH Internet Utilities Europe and Asia Limited 248.08 ms
+47.89.136.31:36301#US Alibaba Cloud - US 248.12 ms
+116.203.99.143:40000#DE Hetzner Online GmbH 248.28 ms
+3.9.223.59:443#GB Securly  Inc 248.52 ms
+47.253.87.21:52315#US Alibaba Cloud - US 248.65 ms
+185.66.164.51:443#GB Perfecto Mobile UK LTD 248.72 ms
+194.147.33.188:443#NL FORTIS 248.73 ms
+35.183.163.195:80#CA Securly  Inc 248.75 ms
+213.183.51.75:2053#NL Melbicom infrastructure 248.79 ms
+185.252.144.185:8443#FI FIRST SERVER LIMITED 248.83 ms
+91.194.11.78:81#CA DGTL TECH UK LLP 248.94 ms
+89.110.123.23:443#NL Cloudflare London  LLC 249.01 ms
+89.110.89.229:8443#RU Hosting technology LTD 249.05 ms
+141.94.220.157:8443#FR OVH SAS 249.10 ms
+159.69.92.30:443#DE Hetzner Online GmbH 249.19 ms
+213.159.76.202:2053#AM WorkTitans B.V. 249.24 ms
+158.178.206.197:8443#FR Oracle Corporation 249.31 ms
+151.80.57.36:8443#FR OVH SAS 249.40 ms
+204.110.222.104:80#US Securly  Inc 249.47 ms
+141.94.207.7:8443#FR OVH SAS 249.68 ms
+195.200.17.63:443#NL Amsterdam  Netherlands 249.96 ms
+37.252.5.75:443#EE IROKO Networks Corporation 249.99 ms
+45.82.176.46:443#NL Podaon SIA 250.02 ms
+77.238.228.3:443#NL SERVERS TECH FZCO 250.26 ms
+193.24.209.103:8443#DE Layer7 Networks GmbH 250.46 ms
+91.107.134.254:36521#DE Hetzner Online GmbH 250.72 ms
+80.66.85.115:2053#DE Germany  Frankfurt 250.78 ms
+168.138.46.67:443#JP Oracle Public Cloud 250.92 ms
+141.95.193.15:8443#FR OVH SAS 251.05 ms
+185.114.73.166:2053#ES FIRST SERVER LIMITED 251.08 ms
+158.179.206.143:443#SE oracle 251.16 ms
+151.115.61.151:2053#PL Scaleway - Warsaw  Poland 251.39 ms
+66.151.42.239:443#NL undefined 251.70 ms
+89.169.8.105:443#NL Medvedev Vladislav Olegovich 251.81 ms
+45.76.192.129:24434#JP Vultr Holdings  LLC 251.84 ms
+51.38.51.14:8443#FR OVH SAS 252.00 ms
+141.147.152.229:23333#JP Oracle Corporation 252.18 ms
+212.34.152.224:443#NL Amsterdam  Netherlands 252.26 ms
+141.94.220.21:8443#FR OVH SAS 252.31 ms
+194.127.193.240:50791#SG Greencloud LLC 252.35 ms
+47.90.140.40:15624#US Alibaba Cloud - US 252.36 ms
+18.185.254.189:443#DE Amazon Data Services Ireland Ltd 252.67 ms
+185.112.82.28:443#FI Creanova 252.74 ms
+193.37.68.164:443#NL Individual Entrepreneur Anton Levin 252.77 ms
+185.188.181.14:443#FI PSERVERS Enterprise Network 252.80 ms
+213.165.88.177:443#GB IONOS SE 252.82 ms
+67.226.220.10:443#US Securly  Inc 252.84 ms
+104.128.190.209:443#GB SAB001 253.10 ms
+104.168.87.41:16443#US RackNerd LLC 253.15 ms
+94.23.169.3:8443#FR OVH SAS 253.19 ms
+162.19.254.49:8443#DE OVH GmbH 253.50 ms
+45.89.52.247:443#TR WorkTitans B.V. 253.71 ms
+31.133.0.135:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 253.86 ms
+103.13.208.242:443#GB O.M.C. COMPUTERS & COMMUNICATIONS LTD 253.90 ms
+94.23.153.168:2053#FR OVH SAS 254.36 ms
+51.83.40.171:8443#FR OVH SAS 254.47 ms
+47.252.4.59:38181#US Alibaba Cloud - US 254.65 ms
+185.252.144.185:2053#FI FIRST SERVER LIMITED 254.90 ms
+31.133.0.133:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 255.14 ms
+87.98.237.23:2053#FR OVH SAS 255.22 ms
+140.83.57.20:13118#JP imported inetnum object for OCPL-1 255.24 ms
+37.187.98.185:443#FR OVH SAS 255.38 ms
+194.39.204.118:65535#DE Webhosting24 GmbH 255.61 ms
+45.144.48.158:8443#PL Newserverlife LLC 255.64 ms
+31.133.0.55:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 255.77 ms
+45.147.228.249:443#DE aurologic GmbH 255.93 ms
+89.22.232.119:443#SE Aeza International LTD 256.11 ms
+194.76.173.6:2053#DE IPXO 256.15 ms
+45.144.51.79:8443#PL Newserverlife LLC 256.32 ms
+185.114.72.119:24780#ES FIRST SERVER LIMITED 256.34 ms
+45.138.73.83:443#FI FIRST SERVER LIMITED 256.44 ms
+178.32.137.165:2053#FR OVH SAS 256.65 ms
+193.3.168.163:443#NL Podaon SIA 256.67 ms
+185.40.7.224:443#FI FIRST SERVER LIMITED 257.23 ms
+89.169.54.138:443#DE Aeza International LTD 257.24 ms
+152.69.199.70:8443#JP Oracle Corporation 257.27 ms
+217.142.236.93:443#JP Oracle Svenska AB 257.29 ms
+185.242.106.215:443#LV Veesp datacenter clients 257.38 ms
+65.109.192.28:57286#FI Hetzner Online GmbH 257.42 ms
+91.197.0.117:8443#LV SIA VEESP 257.42 ms
+146.185.153.221:8443#NL Digital Ocean  Inc. 257.43 ms
+85.192.60.129:443#NL Aeza International LTD 257.52 ms
+91.149.239.70:443#US BG-NETWORK 257.79 ms
+91.149.202.142:443#GB BG-NETWORK 258.07 ms
+213.159.76.175:443#AM WorkTitans B.V. 258.10 ms
+141.94.206.26:2053#FR OVH SAS 258.14 ms
+193.124.190.40:2053#FI FIRST SERVER LIMITED 258.22 ms
+138.2.59.96:10129#JP Oracle Corporation 258.31 ms
+150.230.27.23:16504#CA Oracle Corporation 258.34 ms
+45.82.14.221:443#KZ Dmitry Vorozhtsov 258.40 ms
+79.132.139.52:443#NL www.fornex.com  Fornex Hosting S.L. 258.44 ms
+193.37.70.98:8443#DE Cloud Hosting Solutions  Limited. 258.48 ms
+194.156.67.85:2053#MD FOXCLOUD COMMUNICATIONS SRL 258.85 ms
+80.90.183.75:2053#KZ lease for Timeweb 258.92 ms
+138.197.9.141:6000#US DigitalOcean  LLC 258.95 ms
+95.182.96.30:8443#FR CGI GLOBAL LIMITED 258.97 ms
+2.59.183.219:443#NL Internet Utilities Europe and Asia Limited 259.06 ms
+94.23.147.223:8443#FR OVH SAS 259.09 ms
+192.3.30.175:2053#US RackNerd LLC 259.21 ms
+204.110.223.105:80#US Securly  Inc 259.22 ms
+207.154.235.176:2053#DE DigitalOcean  LLC 259.24 ms
+194.0.194.237:14181#NL Serverio technologijos MB 259.28 ms
+89.110.107.69:443#NL Amsterdam  Netherlands 259.70 ms
+91.108.241.5:2053#DE Aeza International LTD 259.76 ms
+65.109.211.85:2053#FI Hetzner Online GmbH 259.93 ms
+89.117.57.4:2053#FR IPXO 260.11 ms
+176.124.206.60:8443#FI Aeza International LTD 260.28 ms
+89.110.80.121:443#NL Amsterdam  Netherlands 260.50 ms
+2.56.206.114:2053#AM Proitlab LLC 260.55 ms
+45.133.117.185:443#NL Hizakura B.V. 260.58 ms
+38.180.133.83:443#NL 3NT SOLUTIONS LLP 260.58 ms
+2.56.206.114:8443#AM Proitlab LLC 260.64 ms
+78.40.117.65:2053#SE ALEXHOST SRL 260.66 ms
+23.95.61.179:15160#US RackNerd LLC 260.71 ms
+95.182.96.30:2053#FR CGI GLOBAL LIMITED 260.81 ms
+45.153.187.209:8443#SE MVPS LTD 261.37 ms
+35.182.7.190:443#CA Securly  Inc 261.42 ms
+193.32.177.79:443#US Baykov Ilya Sergeevich 261.44 ms
+65.109.15.37:2053#FI Hetzner Online GmbH 261.73 ms
+139.60.162.153:443#US HOSTKEY 261.80 ms
+45.95.232.115:2053#CH GLOBAL CONNECTIVITY SOLUTIONS LLP 261.80 ms
+31.128.37.116:8443#RU Beget LLC 261.88 ms
+95.179.140.212:443#NL JW Lucasweg 35 261.97 ms
+194.53.54.30:443#FI Cloudflare London  LLC 262.43 ms
+69.28.82.253:443#CA Atlantic.Net - Toronto  LLC. 262.96 ms
+162.19.247.245:443#DE OVH GmbH 263.01 ms
+46.32.184.64:443#LV SIA VEESP 263.10 ms
+185.225.17.233:8443#RO MivoCloud 263.32 ms
+93.113.171.31:443#NL Baxet Group Inc. 263.36 ms
+5.101.180.145:443#EE Network for hosting services 263.39 ms
+35.185.54.229:27207#US Google LLC 263.93 ms
+152.69.192.40:57005#JP Oracle Corporation 264.31 ms
+185.94.165.218:443#NL FIRST SERVER LIMITED 264.81 ms
+207.174.30.74:443#NL IPFB LLC 264.82 ms
+217.142.230.253:587#JP Oracle Corporation 264.84 ms
+47.89.150.45:21575#US Alibaba Cloud - US 264.89 ms
+50.228.203.26:443#US Comcast Cable Communications  LLC 264.89 ms
+216.173.68.7:433#LV SIA VEESP 265.04 ms
+162.19.253.192:2053#DE OVH GmbH 265.05 ms
+45.42.214.153:443#US RoyaleHosting BV 265.26 ms
+195.226.194.222:8443#NL Snowd Security OU 265.34 ms
+185.23.238.76:443#NL Individual Entrepreneur Anton Levin 265.55 ms
+212.193.1.208:443#NL Baxet Group Inc. 265.65 ms
+103.45.245.208:2053#ES O.M.C. COMPUTERS & COMMUNICATIONS LTD 266.08 ms
+172.232.157.252:2053#SE Linode 266.23 ms
+51.38.226.4:8443#FR OVH SAS 266.27 ms
+5.34.209.18:8443#LV SIA VEESP 266.35 ms
+45.86.86.53:443#MD ALEXHOST SRL 266.42 ms
+78.40.116.136:2053#SE ALEXHOST SRL 266.56 ms
+213.1.145.50:443#GB BT-R101-TEST 266.59 ms
+51.178.80.153:2053#FR OVH SAS 266.62 ms
+51.195.116.16:2053#DE OVH GmbH 266.70 ms
+147.45.167.197:443#NL Timeweb  LLP 266.75 ms
+94.23.167.24:2053#FR OVH SAS 266.76 ms
+89.110.100.110:443#NL Amsterdam  Netherlands 266.98 ms
+194.53.54.84:2053#FI PSERVERS Enterprise Network 266.99 ms
+176.222.52.253:2053#NL HOSTKEY B.V. 267.01 ms
+5.34.211.194:2053#LV SIA VEESP 267.07 ms
+23.88.112.241:8443#DE Hetzner Online GmbH 267.36 ms
+94.241.174.229:443#NL Timeweb  LLP 267.40 ms
+172.235.49.135:17973#US Linode 267.46 ms
+35.185.54.229:27205#US Google LLC 267.47 ms
+185.103.255.245:443#NL FIRST SERVER LIMITED 267.77 ms
+185.130.225.64:443#NL Cloudflare London  LLC 267.78 ms
+185.225.17.233:2053#RO MivoCloud 267.82 ms
+45.90.58.58:81#CH Green Floid LLC 268.09 ms
+174.138.8.21:443#NL DigitalOcean  LLC 268.13 ms
+2.56.221.72:81#ES G-Core Labs Customer assignment 268.18 ms
+91.149.239.64:443#US BG-NETWORK 268.28 ms
+150.230.5.34:45681#JP Oracle Corporation 268.34 ms
+107.172.132.165:43333#US HostPapa 269.01 ms
+91.218.212.223:443#UA TOV 'Dream Line Holding' 269.01 ms
+107.172.102.212:20700#US RackNerd LLC 269.95 ms
+45.138.25.67:2053#NL ITGLOBAL.COM NL B.V. 270.00 ms
+141.94.221.119:8443#FR OVH SAS 270.28 ms
+212.34.152.234:8443#NL Amsterdam  Netherlands 270.35 ms
+91.208.206.103:443#MD ALEXHOST SRL 270.36 ms
+198.46.143.134:8443#US RackNerd LLC 270.50 ms
+47.252.4.59:15023#US Alibaba Cloud - US 270.66 ms
+95.217.186.94:9443#FI Hetzner Online GmbH 270.69 ms
+93.183.88.193:443#NL Amsterdam  Netherlands 270.77 ms
+3.97.173.206:80#CA Securly  Inc 270.88 ms
+162.19.254.98:2053#DE OVH GmbH 270.93 ms
+35.197.23.75:443#US Google LLC 270.94 ms
+135.125.191.180:8443#DE OVH GmbH 270.99 ms
+212.192.215.7:443#NL Baxet Group Inc. 271.18 ms
+147.45.50.181:8080#NL GLOBAL CONNECTIVITY SOLUTIONS LLP 271.27 ms
+192.236.249.101:443#NL Hostwinds Seattle 271.29 ms
+91.208.162.68:443#MD ALEXHOST SRL 271.60 ms
+45.85.93.59:443#CH Internet Utilities Europe and Asia Limited 271.62 ms
+188.132.129.199:2053#TR ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. 271.63 ms
+193.124.180.241:443#FI PSERVERS Enterprise Network 271.66 ms
+5.180.182.128:443#NL O.M.C. COMPUTERS & COMMUNICATIONS LTD 271.82 ms
+94.131.114.50:81#IL WorkTitans B.V. 271.90 ms
+193.70.0.150:2053#FR OVH SAS 271.92 ms
+54.37.64.126:8443#FR OVH SAS 272.15 ms
+31.172.74.123:443#NL www.fornex.com  Fornex Hosting S.L. 272.23 ms
+77.238.242.88:443#NL SERVERS TECH FZCO 272.48 ms
+5.187.7.200:21821#DE www.fornex.com  Fornex Hosting S.L. 272.51 ms
+96.126.112.12:38298#US Linode 272.60 ms
+159.65.94.176:8080#GB DigitalOcean  LLC 272.69 ms
+194.147.33.13:443#NL FORTIS 272.75 ms
+135.181.151.136:9443#FI Hetzner Online GmbH 272.86 ms
+128.140.11.25:25690#DE Hetzner Online GmbH 272.92 ms
+147.45.135.207:443#NL Timeweb  LLP 272.94 ms
+47.90.220.146:59170#US Alibaba Cloud - US 272.96 ms
+77.238.241.143:443#NL SERVERS TECH FZCO 273.01 ms
+194.164.35.86:443#NL Amsterdam  Netherlands 273.07 ms
+141.11.91.67:8080#HK HYTRON NETWORK HK 273.22 ms
+92.222.24.127:8443#FR OVH SAS 273.24 ms
+92.222.22.40:8443#FR OVH SAS 273.27 ms
+185.114.72.31:2053#ES FIRST SERVER LIMITED 273.32 ms
+31.133.0.167:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 273.34 ms
+95.217.134.104:443#FI Hetzner Online GmbH 273.48 ms
+34.168.95.100:12388#US Google LLC 273.50 ms
+66.151.42.104:443#NL undefined 273.69 ms
+89.19.216.153:443#NL Timeweb  LLP 273.72 ms
+194.87.26.250:443#NL JSC TIMEWEB 273.73 ms
+162.19.243.52:2053#DE OVH GmbH 273.89 ms
+194.147.115.149:443#NL IT-DELUX ltd. 274.16 ms
+77.238.231.179:443#NL SERVERS TECH FZCO 274.20 ms
+31.133.0.122:2053#PL BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI 274.48 ms
+154.16.10.34:8080#HK Digital Energy Technologies Limited 274.49 ms
+185.105.118.126:8443#FI PSERVERS Enterprise Network 274.79 ms
+46.32.184.137:2053#LV SIA VEESP 274.79 ms
+194.58.39.80:443#NL Baxet Group Inc. 274.85 ms
+31.172.72.83:443#DE www.fornex.com  Fornex Hosting S.L. 274.90 ms
+5.35.70.49:443#NL Amsterdam  Netherlands 275.19 ms
+45.61.138.147:443#GB BL Networks GB 275.40 ms
+141.94.221.240:8443#FR OVH SAS 275.50 ms
+194.164.32.32:443#NL Amsterdam  Netherlands 275.72 ms
+195.133.64.185:443#DE Cloud Hosting Solutions  Limited. 275.73 ms
+46.17.107.183:443#US FIRST SERVER LIMITED 275.93 ms
+141.94.205.129:2053#FR OVH SAS 275.95 ms
+5.181.158.96:443#MD MivoCloud SRL 275.98 ms
+212.111.88.212:443#NL Amsterdam  Netherlands 276.41 ms
+58.176.95.46:443#HK Hong Kong Broadband Network Ltd 276.58 ms
+51.195.102.134:2053#DE OVH GmbH 276.74 ms
+80.76.35.73:443#NL FIRST SERVER LIMITED 276.94 ms
+194.164.59.222:443#DE IONOS SE 277.15 ms
+195.200.19.246:2053#NL Amsterdam  Netherlands 277.20 ms
+5.34.209.139:2053#LV SIA VEESP 277.21 ms
+135.181.151.136:2053#FI Hetzner Online GmbH 277.31 ms
+51.195.100.92:8443#DE OVH GmbH 277.42 ms
+167.71.243.238:21857#US DigitalOcean  LLC 277.58 ms
+51.75.75.109:2053#DE OVH GmbH 277.64 ms
+178.250.159.120:2053#RU JSC IOT 277.75 ms
+89.110.78.173:443#NL SERVERS TECH FZCO 277.81 ms
+20.121.115.188:443#US Microsoft Corporation 278.08 ms
+5.34.209.231:8443#LV SIA VEESP 278.17 ms
+151.80.57.196:8443#FR OVH SAS 278.30 ms
+5.39.249.146:443#DE ahbr company limited 278.52 ms
+213.148.10.177:443#KZ Modern Server Solutions LLP 278.74 ms
+54.37.64.148:2053#FR OVH SAS 278.85 ms
+45.85.93.21:443#CH Internet Utilities Europe and Asia Limited 279.01 ms
+51.75.74.138:2053#DE OVH GmbH 279.01 ms
+172.105.26.112:2443#CA Linode 279.22 ms
+185.188.181.214:443#FI PSERVERS Enterprise Network 279.28 ms
+35.185.54.229:27251#US Google LLC 279.29 ms
+51.75.73.20:2053#DE OVH GmbH 279.37 ms
+109.107.165.225:443#NL Amsterdam  Netherlands 279.38 ms
+5.196.13.49:2053#FR OVH SAS 279.67 ms
+51.178.82.214:8443#FR OVH SAS 279.82 ms
+151.80.57.36:2053#FR OVH SAS 279.88 ms
+51.91.100.173:2053#FR OVH SAS 279.89 ms
+194.28.224.99:443#DE Cloud Hosting Solutions  Limited. 279.95 ms
+185.94.164.160:443#NL FIRST SERVER LIMITED 279.95 ms
+51.195.44.3:2053#DE OVH GmbH 280.00 ms
+91.149.239.198:443#US BG-NETWORK 280.04 ms
+194.164.33.236:443#NL Amsterdam  Netherlands 280.20 ms
+103.137.249.117:443#NL CLODO CLOUD SERVICE CO. L.L.C 280.37 ms
+185.102.136.128:443#FI FIRST SERVER LIMITED 280.50 ms
+216.173.71.220:8443#LV SIA VEESP 280.52 ms
+80.76.32.165:443#DE FIRST SERVER LIMITED 280.64 ms
+217.144.188.147:8443#FI Aeza International LTD 280.67 ms
+45.147.199.13:443#NL Podaon SIA 280.67 ms
+141.94.70.24:2053#FR OVH SAS 280.72 ms
+45.85.93.96:443#CH Internet Utilities Europe and Asia Limited 280.78 ms
+159.100.9.253:2053#DE UltaHost Inc 280.79 ms
+81.31.245.122:443#NL Timeweb  LLP 280.90 ms
+51.178.37.179:8443#FR OVH SAS 280.96 ms
+95.164.114.50:8443#KZ WorkTitans B.V. 281.07 ms
+47.89.150.45:28626#US Alibaba Cloud - US 281.14 ms
+51.38.227.72:2053#FR OVH SAS 281.29 ms
+91.90.193.24:443#CH Friendhosting LTD 281.38 ms
+78.40.117.49:2053#SE ALEXHOST SRL 282.21 ms
+195.133.39.185:443#NL Individual Entrepreneur Anton Levin 282.30 ms
+116.203.58.165:443#DE Hetzner Online GmbH 282.32 ms
+188.132.129.199:8443#TR ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. 282.83 ms
+193.37.70.98:2053#DE Cloud Hosting Solutions  Limited. 282.98 ms
+62.3.12.185:443#TR WorkTitans B.V. 283.07 ms
+162.19.246.187:8443#DE OVH GmbH 283.09 ms
+194.164.34.104:433#NL Amsterdam  Netherlands 283.21 ms
+185.47.172.172:8443#IT O.M.C. COMPUTERS & COMMUNICATIONS LTD 283.23 ms
+116.202.1.107:14444#DE Hetzner Online GmbH 283.45 ms
+80.76.32.12:443#DE FIRST SERVER LIMITED 283.62 ms
+51.75.70.31:2053#DE OVH GmbH 283.68 ms
+193.122.195.166:52557#US Oracle Public Cloud 283.93 ms
+37.128.204.4:8443#LV SIA VEESP 284.08 ms
+31.128.36.148:2053#RU Beget LLC 284.13 ms
+94.228.164.233:8443#DE Pronet LLC 284.18 ms
+164.92.219.230:2053#NL DigitalOcean  LLC 284.26 ms
+192.236.249.107:443#NL Hostwinds Seattle 284.38 ms
+150.230.168.70:50479#US Oracle Corporation 284.41 ms
+192.210.196.158:36414#US RackNerd LLC 284.55 ms
+91.184.242.46:443#NL Aeza International LTD 284.63 ms
+138.68.141.220:8443#GB DigitalOcean  LLC 284.68 ms
+185.82.218.224:8443#BG ITLDC EU2.SOF Datacenter Network 284.68 ms
+51.195.41.72:2053#DE OVH GmbH 284.70 ms
+51.195.119.76:8443#DE OVH GmbH 284.73 ms
+193.124.190.40:8443#FI FIRST SERVER LIMITED 284.85 ms
+178.33.161.186:8443#FR OVH SAS 284.87 ms
+45.144.49.146:443#PL Newserverlife LLC 284.93 ms
+80.211.249.68:8443#PL Aruba S.p.A. - Cloud Services PL1 285.35 ms
+141.94.204.68:2053#FR OVH SAS 285.47 ms
+107.173.30.154:27149#US ColoCrossing 285.59 ms
+194.87.199.135:443#DE Cloud Hosting Solutions  Limited. 285.61 ms
+141.95.161.241:8443#FR OVH SAS 285.65 ms
+162.19.242.215:8443#DE OVH GmbH 285.69 ms
+5.34.209.231:2053#LV SIA VEESP 285.77 ms
+192.236.249.100:443#NL Hostwinds Seattle 285.86 ms
+144.24.195.115:23010#FR Oracle Corp UK Ltd 285.93 ms
+162.19.65.2:2053#FR OVH SAS 286.05 ms
+141.94.222.3:8443#FR OVH SAS 286.26 ms
+51.38.227.155:8443#FR OVH SAS 286.32 ms
+146.59.225.232:2053#FR OVH SAS 286.41 ms
+78.40.117.186:2053#SE ALEXHOST SRL 286.48 ms
+141.94.222.188:8443#FR OVH SAS 286.60 ms
+51.195.40.4:2053#DE OVH GmbH 286.67 ms
+37.128.204.4:2053#LV SIA VEESP 286.73 ms
+31.207.45.106:58221#NL HOSTKEY B.V. 286.75 ms
+51.178.83.65:8443#FR OVH SAS 286.81 ms
+216.173.69.115:2053#LV SIA VEESP 286.83 ms
+31.128.37.116:2053#RU Beget LLC 286.86 ms
+35.182.7.190:80#CA Securly  Inc 286.86 ms
+54.38.159.25:443#DE OVH GmbH 287.03 ms
+194.53.54.84:8443#FI PSERVERS Enterprise Network 287.05 ms
+51.83.45.59:8443#FR OVH SAS 287.07 ms
+141.95.149.52:2053#FR OVH SAS 287.07 ms
+91.149.239.122:443#US BG-NETWORK 287.18 ms
+185.103.255.142:443#NL FIRST SERVER LIMITED 287.20 ms
+91.107.145.203:37607#DE Hetzner Online GmbH 287.40 ms
+91.149.223.242:443#DE Baxet Group Inc. 287.41 ms
+141.94.204.68:8443#FR OVH SAS 287.56 ms
+94.23.153.168:8443#FR OVH SAS 287.63 ms
+89.207.12.80:8443#TR Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S. 287.76 ms
+87.98.235.174:2053#FR OVH SAS 287.91 ms
+167.235.242.114:443#DE Hetzner Online GmbH 287.99 ms
+141.94.204.206:8443#FR OVH SAS 287.99 ms
+188.132.192.194:2053#TR TradeZone LLC 288.03 ms
+185.114.73.166:8443#ES FIRST SERVER LIMITED 288.32 ms
+51.195.119.65:8443#DE OVH GmbH 288.43 ms
+51.75.70.31:8443#DE OVH GmbH 288.45 ms
+51.195.46.211:2053#DE OVH GmbH 288.47 ms
+51.195.100.247:2053#DE OVH GmbH 288.63 ms
+192.236.249.88:443#NL Hostwinds Seattle 288.64 ms
+141.94.220.57:2053#FR OVH SAS 288.79 ms
+141.94.68.157:8443#FR OVH SAS 288.90 ms
+51.195.102.49:2053#DE OVH GmbH 289.13 ms
+195.135.252.244:443#LV SIA VEESP 289.20 ms
+141.94.204.167:2053#FR OVH SAS 289.34 ms
+185.103.255.196:443#NL FIRST SERVER LIMITED 289.38 ms
+216.173.71.171:443#LV SIA VEESP 289.40 ms
+92.222.22.40:2053#FR OVH SAS 289.48 ms
+51.195.119.78:2053#DE OVH GmbH 289.49 ms
+192.144.39.33:443#LV SIA Serverum 289.51 ms
+146.190.236.144:443#NL DigitalOcean  LLC 289.54 ms
+77.238.226.178:443#NL SERVERS TECH FZCO 289.63 ms
+51.75.74.138:8443#DE OVH GmbH 289.63 ms
+54.37.64.148:8443#FR OVH SAS 289.63 ms
+51.195.40.4:8443#DE OVH GmbH 289.70 ms
+188.165.54.172:8443#FR OVH SAS 289.76 ms
+35.230.79.26:443#US Google LLC 289.77 ms
+51.195.119.195:2053#DE OVH GmbH 289.84 ms
+35.247.124.181:443#US Google LLC 289.92 ms
+107.173.250.62:444#US RackNerd LLC 289.95 ms
+51.178.81.223:8443#FR OVH SAS 289.95 ms
+193.32.178.156:50025#NL Baykov Ilya Sergeevich 289.99 ms
+192.236.249.104:443#NL Hostwinds Seattle 290.01 ms
+46.101.243.68:443#DE DigitalOcean  LLC 290.02 ms
+54.37.73.185:8443#DE OVH GmbH 290.07 ms
+207.154.235.176:8443#DE DigitalOcean  LLC 290.07 ms
+185.243.112.197:443#NL CrownCloud 290.10 ms
+51.75.75.109:8443#DE OVH GmbH 290.12 ms
+192.236.249.108:443#NL Hostwinds Seattle 290.16 ms
+162.19.254.49:2053#DE OVH GmbH 290.32 ms
+80.211.249.240:8443#PL Aruba S.p.A. - Cloud Services PL1 290.43 ms
+93.183.126.123:8443#NL Amsterdam  Netherlands 290.53 ms
+51.195.43.174:8443#DE OVH GmbH 290.61 ms
+135.125.191.180:2053#DE OVH GmbH 290.62 ms
+138.124.30.8:443#NL Baykov Ilya Sergeevich 290.87 ms
+51.195.119.195:8443#DE OVH GmbH 291.05 ms
+193.70.0.150:8443#FR OVH SAS 291.10 ms
+5.34.208.44:2053#LV SIA VEESP 291.11 ms
+188.132.129.84:8443#TR ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. 291.18 ms
+147.45.72.32:8443#DE Aeza International LTD 291.19 ms
+162.19.253.47:8443#DE OVH GmbH 291.29 ms
+77.238.237.179:443#NL SERVERS TECH FZCO 291.38 ms
+135.125.234.160:2053#DE OVH GmbH 291.40 ms
+51.195.102.180:8443#DE OVH GmbH 291.41 ms
+185.8.129.187:2053#TR Alastyr Telekomunikasyon A.S. 291.42 ms
+46.226.161.37:443#SE Aeza International LTD 291.45 ms
+51.178.83.50:8443#FR OVH SAS 291.49 ms
+185.94.165.167:443#NL FIRST SERVER LIMITED 291.51 ms
+54.37.64.97:2053#FR OVH SAS 291.56 ms
+77.91.78.18:8443#DE HyperCore LTD 291.62 ms
+51.178.39.34:8443#FR OVH SAS 291.64 ms
+45.138.73.136:2053#FI FIRST SERVER LIMITED 291.67 ms
+51.195.45.34:2053#DE OVH GmbH 291.71 ms
+51.178.39.34:2053#FR OVH SAS 291.83 ms
+192.3.155.217:443#US RackNerd LLC 291.83 ms
+192.236.249.98:443#NL Hostwinds Seattle 291.87 ms
+185.94.164.72:443#NL FIRST SERVER LIMITED 291.89 ms
+51.195.45.34:8443#DE OVH GmbH 291.92 ms
+195.200.17.21:8443#NL Amsterdam  Netherlands 291.99 ms
+194.147.115.132:443#NL IT-DELUX ltd. 291.99 ms
+34.82.76.253:443#US Google LLC 292.00 ms
+80.211.249.240:2053#PL Aruba S.p.A. - Cloud Services PL1 292.09 ms
+207.174.30.58:443#NL IPFB LLC 292.10 ms
+51.195.119.65:2053#DE OVH GmbH 292.25 ms
+146.190.30.138:443#NL DigitalOcean  LLC 292.27 ms
+91.107.134.186:2083#DE Hetzner Online GmbH 292.34 ms
+91.107.166.111:8888#DE Hetzner Online GmbH 292.35 ms
+94.142.137.72:443#NL FIRST SERVER LIMITED 292.45 ms
+192.236.249.95:443#NL Hostwinds Seattle 292.46 ms
+51.75.75.132:8443#DE OVH GmbH 292.84 ms
+51.195.116.16:8443#DE OVH GmbH 292.90 ms
+37.187.225.21:8443#FR OVH SAS 292.99 ms
+51.195.102.180:2053#DE OVH GmbH 293.00 ms
+162.19.243.46:8443#DE OVH GmbH 293.02 ms
+95.85.89.70:81#ES G-Core Labs Customer assignment 293.03 ms
+51.178.82.214:2053#FR OVH SAS 293.05 ms
+49.13.234.155:443#DE Hetzner Online GmbH 293.10 ms
+45.144.232.86:443#NL Baykov Ilya Sergeevich 293.10 ms
+104.248.17.101:443#DE DigitalOcean  LLC 293.15 ms
+141.94.206.222:2053#FR OVH SAS 293.18 ms
+212.34.149.185:443#NL Amsterdam  Netherlands 293.21 ms
+147.45.145.101:443#NL Timeweb  LLP 293.24 ms
+80.211.249.68:2053#PL Aruba S.p.A. - Cloud Services PL1 293.48 ms
+195.201.231.143:443#DE Hetzner Online GmbH 293.52 ms
+185.8.129.187:443#TR Alastyr Telekomunikasyon A.S. 293.54 ms
+129.159.84.71:443#US Oracle Corporation 293.59 ms
+51.178.81.223:2053#FR OVH SAS 293.61 ms
+141.94.221.25:2053#FR OVH SAS 293.63 ms
+91.108.241.188:443#FI Aeza International LTD 293.72 ms
+79.137.205.248:443#NL Aeza International LTD 293.73 ms
+51.75.65.24:2053#DE OVH GmbH 293.74 ms
+91.107.134.254:45603#DE Hetzner Online GmbH 293.87 ms
+77.238.242.168:443#NL SERVERS TECH FZCO 293.90 ms
+54.37.73.185:2053#DE OVH GmbH 293.92 ms
+87.98.235.174:8443#FR OVH SAS 293.94 ms
+51.75.70.204:8443#DE OVH GmbH 294.51 ms
+195.200.16.44:443#NL Amsterdam  Netherlands 294.61 ms
+57.129.14.105:2053#DE OVH GmbH 294.64 ms
+109.61.95.21:8080#GB Datacamp Limited 294.72 ms
+51.195.42.9:8443#DE OVH GmbH 294.74 ms
+141.94.207.218:8443#FR OVH SAS 294.81 ms
+109.120.185.29:443#FI Aeza International LTD 294.82 ms
+80.76.34.190:443#NL FIRST SERVER LIMITED 294.83 ms
+91.199.32.191:2053#GB HR SYSHEAD 294.97 ms
+51.195.44.192:2053#DE OVH GmbH 295.05 ms
+212.227.144.37:8443#ES IONOS SE 295.06 ms
+151.80.57.196:2053#FR OVH SAS 295.09 ms
+141.94.222.46:2053#FR OVH SAS 295.09 ms
+54.37.64.126:2053#FR OVH SAS 295.14 ms
+91.107.145.203:20400#DE Hetzner Online GmbH 295.20 ms
+78.46.234.136:2087#DE Hetzner Online GmbH 295.24 ms
+37.187.54.16:2053#FR OVH SAS 295.50 ms
+141.94.204.212:8443#FR OVH SAS 295.56 ms
+192.236.249.97:443#NL Hostwinds Seattle 295.59 ms
+88.99.252.146:443#DE Hetzner Online GmbH 295.62 ms
+37.187.225.21:2053#FR OVH SAS 295.68 ms
+94.23.167.32:8443#FR OVH SAS 295.72 ms
+51.178.83.50:2053#FR OVH SAS 295.73 ms
+109.185.236.240:443#MD JSC Moldtelecom S.A. 295.87 ms
+185.230.143.122:2053#DE Aeza International LTD 296.04 ms
+94.23.171.114:8443#FR OVH SAS 296.06 ms
+88.198.18.246:8443#DE HOS-512604 296.13 ms
+46.32.185.253:8443#LV SIA VEESP 296.31 ms
+92.222.24.127:2053#FR OVH SAS 296.44 ms
+185.94.165.207:443#NL FIRST SERVER LIMITED 296.52 ms
+91.107.166.26:8888#DE Hetzner Online GmbH 296.56 ms
+167.99.140.246:2053#DE DigitalOcean  LLC 296.69 ms
+162.19.65.172:8443#FR OVH SAS 296.77 ms
+78.46.234.136:2053#DE Hetzner Online GmbH 296.87 ms
+141.94.223.237:8443#FR OVH SAS 297.00 ms
+141.94.206.218:2053#FR OVH SAS 297.05 ms
+51.38.50.52:8443#FR OVH SAS 297.05 ms
+94.23.168.201:2053#FR OVH SAS 297.12 ms
+51.195.43.174:2053#DE OVH GmbH 297.13 ms
+5.34.209.105:2053#LV SIA VEESP 297.24 ms
+212.192.215.163:443#NL Baxet Group Inc. 297.39 ms
+212.237.219.99:443#FI HOSTKEY B.V. 297.51 ms
+188.227.86.12:30718#NL ITGLOBAL.COM NL B.V. 297.61 ms
+178.253.23.199:8443#NL TimeWeb 297.68 ms
+157.245.27.205:443#DE DigitalOcean  LLC 297.72 ms
+188.165.26.178:2053#FR OVH SAS 297.79 ms
+141.94.220.57:8443#FR OVH SAS 297.84 ms
+65.109.186.249:2053#FI Hetzner Online GmbH 297.86 ms
+94.23.168.201:8443#FR OVH SAS 298.00 ms
+146.59.19.208:2053#PL OVH Sp. z o. o. 298.13 ms
+185.18.222.208:2053#JP Jurgita Jurgaitiene trading as LOCOTORPI 298.13 ms
+54.36.100.7:8443#FR OVH SAS 298.25 ms
+195.135.253.47:8443#LV SIA VEESP 298.26 ms
+195.135.253.29:443#LV SIA VEESP 298.37 ms
+193.33.153.151:443#NL Aeza International LTD 298.46 ms
+172.235.40.214:36768#US Linode 298.63 ms
+145.239.85.117:2053#PL OVH VPS WAW 298.66 ms
+51.38.226.4:2053#FR OVH SAS 298.69 ms
+217.144.189.127:443#NL Aeza International LTD 298.79 ms
+51.38.48.91:8443#FR OVH SAS 298.94 ms
+164.90.194.71:2053#NL DigitalOcean  LLC 298.94 ms
+51.38.227.72:8443#FR OVH SAS 299.05 ms
+141.94.207.218:2053#FR OVH SAS 299.10 ms
+194.87.18.92:443#CH Baxet Group Inc. 299.30 ms
+5.34.209.105:8443#LV SIA VEESP 299.32 ms
+91.184.240.243:443#DE Aeza International LTD 299.38 ms
+148.113.43.228:8443#IN OVHTECH R&D (INDIA) PRIVATE LIMITED 299.40 ms
+51.195.119.76:2053#DE OVH GmbH 299.40 ms
+94.156.35.144:18836#BG Belcloud LTD 299.41 ms
+95.164.62.196:443#BE WorkTitans B.V. 299.48 ms
+141.94.205.63:8443#FR OVH SAS 299.58 ms
+91.197.0.63:443#LV SIA VEESP 299.69 ms
+141.94.221.79:2053#FR OVH SAS 299.80 ms
+141.94.222.105:2053#FR OVH SAS 299.84 ms
+94.23.167.32:2053#FR OVH SAS 299.90 ms
+141.147.85.167:8443#GB Oracle Corporation 299.99 ms
+51.210.96.182:8443#FR OVH SAS 299.99 ms
+94.23.169.3:2053#FR OVH SAS 300.00 ms
+172.236.30.225:443#GB Linode 300.05 ms
+141.94.68.162:2053#FR OVH SAS 300.06 ms
+51.38.51.73:2053#FR OVH SAS 300.07 ms
+87.98.237.23:8443#FR OVH SAS 300.10 ms
+77.221.143.56:8443#DE Aeza International LTD 300.15 ms
+188.165.137.201:2053#FR OVH SAS 300.20 ms
+94.23.74.37:2053#FR OVH SAS 300.21 ms
+141.94.70.243:2053#FR OVH SAS 300.25 ms
+141.94.220.157:2053#FR OVH SAS 300.25 ms
+188.165.2.84:8443#FR OVH SAS 300.27 ms
+91.121.54.50:700#FR OVH SAS 300.30 ms
+185.233.203.134:443#NL FIRST SERVER LIMITED 300.33 ms
+141.94.222.33:2053#FR OVH SAS 300.39 ms
+141.94.221.25:8443#FR OVH SAS 300.42 ms
+162.19.24.169:8443#FR OVH SAS 300.52 ms
+141.94.205.248:8443#FR OVH SAS 300.62 ms
+185.233.203.134:43735#NL FIRST SERVER LIMITED 300.76 ms
+141.94.221.230:8443#FR OVH SAS 300.94 ms
+146.59.153.77:2053#FR OVH SAS 301.04 ms
+188.132.192.190:2053#TR TradeZone LLC 301.12 ms
+188.165.1.138:8443#FR OVH SAS 301.13 ms
+195.135.252.139:443#LV SIA VEESP 301.15 ms
+178.33.161.196:8443#FR OVH SAS 301.23 ms
+54.36.98.241:2053#FR OVH SAS 301.25 ms
+141.94.206.137:8443#FR OVH SAS 301.31 ms
+91.149.238.88:443#GB Baxet Group Inc. 301.32 ms
+51.38.224.25:8443#FR OVH SAS 301.33 ms
+162.19.247.5:2053#DE OVH GmbH 301.34 ms
+141.94.222.105:8443#FR OVH SAS 301.35 ms
+65.109.209.85:2053#FI Hetzner Online GmbH 301.42 ms
+188.165.26.178:8443#FR OVH SAS 301.62 ms
+141.94.220.168:8443#FR OVH SAS 301.64 ms
+194.58.44.69:443#NL Baxet Group Inc. 301.65 ms
+91.107.166.26:2053#DE Hetzner Online GmbH 301.72 ms
+141.94.221.241:2053#FR OVH SAS 301.76 ms
+141.94.221.241:8443#FR OVH SAS 301.78 ms
+141.94.222.73:2053#FR OVH SAS 301.84 ms
+94.23.72.40:2053#FR OVH SAS 302.00 ms
+146.59.153.201:2053#FR OVH SAS 302.00 ms
+95.216.215.126:8443#FI Hetzner Online GmbH 302.01 ms
+51.83.45.59:2053#FR OVH SAS 302.04 ms
+94.23.171.114:2053#FR OVH SAS 302.06 ms
+141.94.205.248:2053#FR OVH SAS 302.08 ms
+51.38.51.190:2053#FR OVH SAS 302.11 ms
+95.217.195.186:8443#FI Hetzner Online GmbH 302.13 ms
+51.38.49.23:8443#FR OVH SAS 302.13 ms
+89.110.108.46:443#NL Amsterdam  Netherlands 302.17 ms
+51.38.48.18:2053#FR OVH SAS 302.21 ms
+54.36.103.135:8443#FR OVH SAS 302.23 ms
+141.94.206.26:8443#FR OVH SAS 302.25 ms
+94.23.147.217:2053#FR OVH SAS 302.36 ms
+77.91.69.141:2053#IL Webhost LLC 302.41 ms
+141.94.223.93:2053#FR OVH SAS 302.44 ms
+141.94.221.119:2053#FR OVH SAS 302.51 ms
+178.32.42.230:2053#FR OVH SAS 302.57 ms
+54.36.103.135:2053#FR OVH SAS 302.67 ms
+162.19.66.30:2053#FR OVH SAS 302.67 ms
+198.244.235.173:179#GB OVH Ltd 302.69 ms
+141.94.221.230:2053#FR OVH SAS 302.75 ms
+141.94.221.2:8443#FR OVH SAS 302.87 ms
+141.94.205.63:2053#FR OVH SAS 302.89 ms
+185.82.218.224:443#BG ITLDC EU2.SOF Datacenter Network 302.91 ms
+94.23.72.40:8443#FR OVH SAS 302.94 ms
+141.95.149.52:8443#FR OVH SAS 302.94 ms
+95.217.186.94:2053#FI Hetzner Online GmbH 302.96 ms
+141.94.223.237:2053#FR OVH SAS 303.00 ms
+141.94.221.78:8443#FR OVH SAS 303.04 ms
+135.125.123.246:5432#FR OVH SAS 303.15 ms
+51.83.40.171:2053#FR OVH SAS 303.19 ms
+141.94.220.168:2053#FR OVH SAS 303.20 ms
+89.22.234.0:2053#DE Aeza International LTD 303.22 ms
+94.23.144.99:8443#FR OVH SAS 303.24 ms
+213.159.76.202:8443#AM WorkTitans B.V. 303.41 ms
+45.86.229.28:443#ES BlueVPS OU 303.47 ms
+141.94.205.22:2053#FR OVH SAS 303.69 ms
+87.98.235.90:8443#FR OVH SAS 303.83 ms
+51.38.48.228:2053#FR OVH SAS 303.88 ms
+65.109.12.58:8443#FI Hetzner Online GmbH 303.95 ms
+146.59.153.77:8443#FR OVH SAS 303.98 ms
+51.210.96.119:8443#FR OVH SAS 304.18 ms
+162.19.254.52:2053#DE OVH GmbH 304.22 ms
+141.94.222.188:2053#FR OVH SAS 304.24 ms
+194.246.82.213:443#NL Amsterdam  Netherlands 304.25 ms
+141.94.204.167:8443#FR OVH SAS 304.35 ms
+77.221.143.56:2053#DE Aeza International LTD 304.44 ms
+51.178.83.212:8443#FR OVH SAS 304.60 ms
+141.95.161.241:2053#FR OVH SAS 304.62 ms
+51.38.50.211:2053#FR OVH SAS 304.69 ms
+185.242.106.162:2053#LV Veesp datacenter clients 304.86 ms
+34.22.190.30:443#BE Google LLC 304.87 ms
+212.22.74.89:443#NL Baykov Ilya Sergeevich 304.90 ms
+34.105.49.234:443#US Google LLC 304.90 ms
+77.223.215.167:443#DE Ethernet Servers 305.11 ms
+146.59.225.232:8443#FR OVH SAS 305.12 ms
+103.45.247.67:443#NL O.M.C. COMPUTERS & COMMUNICATIONS LTD 305.13 ms
+91.149.253.249:443#PL Baxet Group Inc. 305.17 ms
+5.187.4.157:443#DE Fornex Hosting S.L. 305.42 ms
+5.35.69.209:443#NL Amsterdam  Netherlands 305.49 ms
+193.188.21.181:443#SE Aeza International LTD 305.53 ms
+93.113.171.95:443#NL Baxet Group Inc. 305.63 ms
+77.238.253.245:443#NL SERVERS TECH FZCO 305.73 ms
+141.95.159.211:2053#FR OVH SAS 305.76 ms
+89.110.68.158:443#NL Amsterdam  Netherlands 305.78 ms
+195.135.255.199:443#LV SIA VEESP 305.80 ms
+139.162.102.152:7002#JP Akamai Connected Cloud / Linode 305.84 ms
+91.149.253.213:2053#PL BG-NETWORK 305.85 ms
+212.34.153.65:443#NL Amsterdam  Netherlands 305.86 ms
+93.183.88.35:443#NL Amsterdam  Netherlands 306.01 ms
+192.236.249.109:443#NL Hostwinds Seattle 306.18 ms
+37.128.207.111:443#LV SIA VEESP 306.21 ms
+65.109.209.55:2053#FI Hetzner Online GmbH 306.42 ms
+91.184.242.155:443#NL Aeza International LTD 306.57 ms
+89.110.120.197:443#NL Amsterdam  Netherlands 306.65 ms
+45.138.73.136:8443#FI FIRST SERVER LIMITED 306.75 ms
+185.104.181.228:443#RO DATA NODE SRL 307.00 ms
+45.133.118.153:443#NL Hizakura B.V. 307.30 ms
+91.107.177.114:14444#DE Hetzner Online GmbH 307.32 ms
+95.46.1.22:2053#RU Stolica Telecom Ltd. 307.34 ms
+65.108.209.46:443#FI Hetzner Online GmbH 307.35 ms
+66.151.34.227:2053#FI HOSTKEY B.V. 307.42 ms
+80.66.85.115:8443#DE Germany  Frankfurt 307.73 ms
+45.43.90.169:443#NL FIRST SERVER LIMITED 307.90 ms
+212.34.151.174:443#NL Amsterdam  Netherlands 307.98 ms
+141.94.70.24:8443#FR OVH SAS 308.01 ms
+194.87.62.139:443#NL Baykov Ilya Sergeevich 308.04 ms
+147.45.111.106:8443#NL Timeweb  LLP 308.06 ms
+37.187.54.16:8443#FR OVH SAS 308.12 ms
+65.109.227.138:2053#FI Hetzner Online GmbH 308.13 ms
+145.239.85.117:8443#PL OVH VPS WAW 308.43 ms
+81.91.214.162:443#CZ OvaNet  a.s. 308.50 ms
+54.37.235.201:443#PL OVH Sp. z o. o. 308.54 ms
+37.27.17.144:22222#FI Hetzner Online GmbH 308.69 ms
+152.228.191.232:443#FR SEVIN Jacques 309.20 ms
+216.173.70.192:443#LV SIA VEESP 309.21 ms
+212.227.90.142:443#ES IONOS SE 309.41 ms
+77.73.71.196:443#LV SIA VEESP 309.47 ms
+192.236.249.99:443#NL Hostwinds Seattle 309.61 ms
+188.116.40.37:443#PL Artnet Sp. z o.o. 309.80 ms
+194.180.189.36:443#FI HOSTKEY B.V. 309.81 ms
+89.22.236.161:2053#DE Aeza International LTD 309.81 ms
+138.2.48.109:26412#JP Oracle Corporation 309.89 ms
+91.239.148.53:42053#PL SERVA ONE LTD 309.90 ms
+46.32.184.75:443#LV SIA VEESP 310.02 ms
+217.12.206.160:81#PL GREEN FLOID LLC 310.09 ms
+103.75.118.144:2053#JP Oneprovider.com - Japan Infrastructure 310.18 ms
+79.137.248.111:443#FI Aeza International LTD 310.27 ms
+89.110.79.248:443#NL Amsterdam  Netherlands 310.46 ms
+94.23.164.46:2053#FR OVH SAS 310.57 ms
+216.173.69.115:8443#LV SIA VEESP 310.63 ms
+91.107.145.203:37561#DE Hetzner Online GmbH 310.90 ms
+91.103.140.198:2053#DE Aeza International LTD 311.58 ms
+91.197.3.157:443#LV SIA VEESP 312.02 ms
+212.113.101.250:2053#DE Aeza International LTD 312.22 ms
+51.38.48.18:8443#FR OVH SAS 312.38 ms
+51.195.117.115:2053#DE OVH GmbH 312.40 ms
+51.38.225.63:2053#FR OVH SAS 312.64 ms
+162.19.24.253:2053#FR OVH SAS 312.65 ms
+195.135.253.47:2053#LV SIA VEESP 313.05 ms
+51.38.48.27:8443#FR OVH SAS 313.06 ms
+45.91.200.130:8443#NL Podaon SIA 313.26 ms
+162.19.24.253:8443#FR OVH SAS 313.37 ms
+166.1.201.179:443#NL Baxet Group Inc. 313.46 ms
+141.94.222.73:8443#FR OVH SAS 313.87 ms
+51.38.44.17:443#FR OVH SAS 313.93 ms
+77.232.143.39:2053#DE Aeza International LTD 314.00 ms
+162.19.252.123:8443#DE OVH GmbH 314.11 ms
+141.94.223.93:8443#FR OVH SAS 314.27 ms
+65.109.211.85:3030#FI Hetzner Online GmbH 314.28 ms
+57.129.16.33:2053#DE OVH GmbH 314.31 ms
+185.223.93.86:443#NL This range is used for dynamic customer pools. 314.33 ms
+77.91.69.51:2053#IL Webhost LLC 314.58 ms
+195.133.38.227:443#NL NKtelecom INC 314.59 ms
+91.239.148.34:443#PL SERVA ONE LTD 314.65 ms
+178.33.161.196:2053#FR OVH SAS 314.78 ms
+141.94.220.21:2053#FR OVH SAS 314.82 ms
+46.32.185.253:2053#LV SIA VEESP 315.05 ms
+194.87.45.19:2053#ES GLOBAL CONNECTIVITY SOLUTIONS LLP 315.10 ms
+65.109.201.6:8443#FI Hetzner Online GmbH 315.15 ms
+194.76.173.245:2053#DE IPXO 315.33 ms
+141.94.221.2:2053#FR OVH SAS 315.37 ms
+192.236.249.89:443#NL Hostwinds Seattle 315.48 ms
+94.23.74.37:8443#FR OVH SAS 315.58 ms
+65.109.210.191:2053#FI Hetzner Online GmbH 315.69 ms
+37.27.38.42:443#FI Hetzner Online GmbH 316.08 ms
+54.36.100.7:2053#FR OVH SAS 316.19 ms
+65.109.201.6:2053#FI Hetzner Online GmbH 316.21 ms
+135.181.250.100:2053#FI Hetzner Online GmbH 316.65 ms
+95.216.215.126:2053#FI Hetzner Online GmbH 316.89 ms
+95.216.140.177:443#FI Hetzner Online GmbH 316.91 ms
+192.236.249.105:443#NL Hostwinds Seattle 316.93 ms
+91.149.254.138:443#FI Baxet Group Inc. 317.00 ms
+135.181.197.230:2053#FI Hetzner Online GmbH 317.09 ms
+46.183.186.57:443#HU EDIS Infrastructure in Hungary 317.20 ms
+135.181.250.100:8443#FI Hetzner Online GmbH 317.26 ms
+147.45.72.36:8443#DE Aeza International LTD 317.34 ms
+37.27.6.95:2053#FI Hetzner Online GmbH 317.69 ms
+77.91.78.18:2053#DE HyperCore LTD 317.70 ms
+95.217.184.234:2053#FI Hetzner Online GmbH 317.79 ms
+140.84.178.238:23010#MX Oracle Corporation 317.82 ms
+65.109.181.192:4475#FI Hetzner Online GmbH 317.90 ms
+192.236.249.96:443#NL Hostwinds Seattle 318.10 ms
+37.128.206.80:8443#LV SIA VEESP 318.48 ms
+192.236.249.91:443#NL Hostwinds Seattle 318.78 ms
+5.34.209.18:2053#LV SIA VEESP 319.12 ms
+65.108.149.250:8443#FI Hetzner Online GmbH 319.17 ms
+5.34.211.94:443#LV SIA VEESP 319.17 ms
+38.180.100.80:443#RS 3NT SOLUTIONS LLP 319.21 ms
+216.10.243.159:443#IN P.D.R Solutions FZC 319.26 ms
+178.33.161.186:2053#FR OVH SAS 319.37 ms
+95.217.195.186:2053#FI Hetzner Online GmbH 319.69 ms
+37.128.207.179:443#LV SIA VEESP 320.04 ms
+34.175.202.195:443#ES Google LLC 320.43 ms
+79.142.51.162:65000#KZ SMARTNET TOO 320.56 ms
+194.26.232.141:443#NL Podaon SIA 320.66 ms
+109.169.76.23:443#GB IOMART MANAGED SERVICES LIMITED 320.80 ms
+192.236.193.108:443#NL Hostwinds Seattle 320.88 ms
+5.34.211.29:8443#LV SIA VEESP 320.98 ms
+192.236.249.106:443#NL Hostwinds Seattle 321.46 ms
+192.236.249.102:443#NL Hostwinds Seattle 321.50 ms
+95.46.1.22:8443#RU Stolica Telecom Ltd. 321.60 ms
+145.239.88.255:2053#PL OVH VPS WAW 321.68 ms
+77.221.143.39:443#SE Aeza International LTD 321.69 ms
+66.151.34.227:8443#FI HOSTKEY B.V. 321.73 ms
+65.109.15.37:8443#FI Hetzner Online GmbH 321.74 ms
+46.32.187.228:443#LV SIA VEESP 321.82 ms
+91.239.148.53:443#PL SERVA ONE LTD 321.85 ms
+193.17.183.157:8443#ES JaJoJoo Madrid Region 322.16 ms
+77.221.143.81:2053#DE Aeza International LTD 322.29 ms
+185.219.134.25:31564#TR hostigger_datacenter_TR 322.32 ms
+135.181.34.150:443#FI Hetzner Online GmbH 322.41 ms
+5.34.211.194:8443#LV SIA VEESP 322.63 ms
+80.211.249.79:2053#PL Aruba S.p.A. - Cloud Services PL1 322.76 ms
+185.242.107.80:443#LV SIA VEESP 322.93 ms
+164.52.2.99:443#SG UCUL-SG 323.06 ms
+193.124.22.168:8443#LV Baxet Group Inc. 323.10 ms
+5.34.212.179:8443#LV SIA VEESP 323.18 ms
+192.236.249.94:443#NL Hostwinds Seattle 323.47 ms
+135.181.30.234:2053#FI Hetzner Online GmbH 323.52 ms
+192.236.249.92:443#NL Hostwinds Seattle 323.53 ms
+91.197.1.93:8443#LV SIA VEESP 323.53 ms
+193.17.183.157:2053#ES JaJoJoo Madrid Region 323.57 ms
+74.48.50.18:54696#US MULTACOM CORPORATION 324.37 ms
+195.135.252.148:2053#LV SIA VEESP 324.49 ms
+185.82.218.224:9443#BG ITLDC EU2.SOF Datacenter Network 324.99 ms
+194.0.194.222:443#NL Serverio technologijos MB 325.54 ms
+51.38.48.91:2053#FR OVH SAS 325.97 ms
+82.115.5.199:443#NL SIA VEESP 326.32 ms
+132.145.88.82:38066#KR Oracle Public Cloud 326.53 ms
+217.142.138.61:37914#KR Oracle Svenska AB 326.53 ms
+188.253.18.111:443#LV SIA VEESP 326.58 ms
+185.231.204.173:81#ES WorkTitans B.V. 326.67 ms
+64.110.70.205:23022#KR Oracle Corporation 326.91 ms
+131.186.24.124:587#KR Oracle Public Cloud 327.15 ms
+146.56.182.217:54266#KR Oracle Corporation   Global software solutions   California   USA 327.23 ms
+89.22.231.170:2053#SE Aeza International LTD 327.33 ms
+188.165.26.180:2053#FR OVH SAS 327.36 ms
+77.91.69.141:8443#IL Webhost LLC 327.62 ms
+185.8.129.187:2083#TR Alastyr Telekomunikasyon A.S. 327.87 ms
+37.27.6.95:8443#FI Hetzner Online GmbH 327.99 ms
+212.80.205.244:2053#IL O.M.C. COMPUTERS & COMMUNICATIONS LTD 328.04 ms
+193.233.112.252:8443#FI Partner Hosting LTD 328.43 ms
+18.196.70.197:443#DE A100 ROW GmbH 328.80 ms
+176.97.67.38:443#AE 3nt solutions LLP 328.97 ms
+188.132.129.84:2053#TR ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. 329.17 ms
+91.149.253.213:8443#PL BG-NETWORK 329.17 ms
+147.45.76.247:443#SE Aeza International LTD 329.39 ms
+93.183.124.129:443#NL Amsterdam  Netherlands 329.60 ms
+192.236.249.93:443#NL Hostwinds Seattle 329.67 ms
+37.1.195.124:443#DE IROKO Networks Corporation 329.71 ms
+103.106.228.126:2053#JP oneprovider.com - Tokyo Infrastructure 330.07 ms
+91.215.153.85:443#BG Friendhosting LTD 330.39 ms
+94.158.219.198:443#LV SIA VEESP 330.45 ms
+65.109.192.28:12216#FI Hetzner Online GmbH 330.46 ms
+94.230.165.18:5581#DE Fornex Hosting S.L. 330.73 ms
+141.94.205.129:8443#FR OVH SAS 330.85 ms
+129.154.223.89:15800#KR Oracle Corporation 330.99 ms
+193.124.41.165:2053#PL Baxet Group Inc. 331.32 ms
+217.144.186.102:2053#DE Aeza International LTD 331.37 ms
+185.231.204.186:443#ES WorkTitans B.V. 331.54 ms
+162.19.253.192:8443#DE OVH GmbH 331.63 ms
+176.97.66.175:443#AE 3nt solutions LLP 331.77 ms
+94.23.147.223:2053#FR OVH SAS 332.22 ms
+141.94.68.157:2053#FR OVH SAS 332.43 ms
+84.235.245.18:34501#AE Oracle Svenska AB 332.96 ms
+65.109.190.54:2021#FI Hetzner Online GmbH 334.07 ms
+193.123.81.105:443#AE Oracle Corporation 334.83 ms
+57.129.15.103:2053#DE OVH GmbH 334.93 ms
+37.48.90.120:443#NL LeaseWeb Netherlands B.V. 335.03 ms
+51.195.42.9:2053#DE OVH GmbH 335.49 ms
+192.236.249.90:443#NL Hostwinds Seattle 335.59 ms
+185.103.252.54:2053#DE FIRST SERVER LIMITED 335.81 ms
+45.95.232.18:8443#CH GLOBAL CONNECTIVITY SOLUTIONS LLP 335.92 ms
+192.236.249.110:443#NL Hostwinds Seattle 336.10 ms
+81.91.214.85:443#CZ OvaNet  a.s. 336.12 ms
+91.107.157.253:33894#DE Hetzner Online GmbH 336.26 ms
+5.196.13.217:2053#FR OVH SAS 336.56 ms
+91.245.225.69:443#CH GLB Bulut Teknolojisi Limited Sirketi 336.62 ms
+51.178.81.163:2053#FR OVH SAS 336.98 ms
+209.200.246.130:443#CA REGXA LLC 337.14 ms
+91.107.157.253:26484#DE Hetzner Online GmbH 337.23 ms
+51.178.81.163:8443#FR OVH SAS 337.62 ms
+51.195.119.77:2053#DE OVH GmbH 337.74 ms
+51.178.83.65:2053#FR OVH SAS 337.89 ms
+43.130.105.166:65001#US 6 COLLYER QUAY 338.08 ms
+91.223.208.217:443#CY CLOUDLAYER8 LIMITED 338.15 ms
+192.236.249.111:443#NL Hostwinds Seattle 338.21 ms
+37.1.194.138:443#DE IROKO Networks Corporation 338.29 ms
+2.56.91.89:8443#HK ihc.hk vps in Hong Kong 339.04 ms
+5.61.39.183:443#DE IROKO Networks Corporation 339.46 ms
+194.58.33.103:443#DE nuxtcloud 339.65 ms
+146.56.48.138:23010#IN Oracle Corporation   Global software solutions   California   USA 339.85 ms
+125.7.24.251:443#AU Macquarie Telecom 339.90 ms
+213.35.108.135:12596#SG Oracle Svenska AB 340.13 ms
+192.236.249.103:443#NL Hostwinds Seattle 340.31 ms
+185.36.143.166:443#NL Brainoza OU 340.41 ms
+185.233.80.60:2053#DE FIRST SERVER LIMITED 340.44 ms
+156.255.90.175:8443#HK StepGo Limited 340.56 ms
+129.150.58.86:57621#SG Oracle Corporation 340.64 ms
+193.160.96.232:443#NL FiberXpress BV 341.30 ms
+217.144.188.147:2053#DE Aeza International LTD 342.44 ms
+129.150.36.188:53435#SG Oracle Corporation 343.43 ms
+195.20.208.151:2053#LV Friendhosting LTD 343.53 ms
+188.165.26.180:8443#FR OVH SAS 343.95 ms
+141.94.205.22:8443#FR OVH SAS 344.01 ms
+168.138.171.70:23280#SG Oracle Public Cloud 344.43 ms
+94.23.144.99:2053#FR OVH SAS 344.60 ms
+51.38.49.187:2053#FR OVH SAS 344.67 ms
+104.239.87.213:8443#TR Baxet Group Inc. 344.69 ms
+104.234.50.12:8443#US Private Customer 344.83 ms
+51.38.50.52:2053#FR OVH SAS 344.94 ms
+188.165.54.172:2053#FR OVH SAS 345.06 ms
+95.171.21.193:443#RU Universum bit Ltd. 345.07 ms
+138.2.95.61:1111#SG Oracle Corporation 345.47 ms
+152.32.181.246:44070#AE UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED 345.67 ms
+188.165.2.84:2053#FR OVH SAS 345.90 ms
+95.142.41.132:443#NL Cloudflare London  LLC 346.36 ms
+51.38.48.190:8443#FR OVH SAS 346.39 ms
+2.56.91.89:2053#HK ihc.hk vps in Hong Kong 346.39 ms
+141.94.206.222:8443#FR OVH SAS 346.46 ms
+5.196.13.49:8443#FR OVH SAS 346.89 ms
+141.94.221.163:2053#FR OVH SAS 346.91 ms
+43.130.105.166:65002#US 6 COLLYER QUAY 347.18 ms
+141.94.222.3:2053#FR OVH SAS 347.22 ms
+141.94.206.218:8443#FR OVH SAS 347.52 ms
+5.196.13.217:8443#FR OVH SAS 347.59 ms
+87.98.235.90:2053#FR OVH SAS 347.68 ms
+57.129.47.3:2053#DE OVH GmbH 347.76 ms
+158.180.49.11:8443#DE oracle 348.08 ms
+51.210.96.119:2053#FR OVH SAS 348.12 ms
+51.38.51.14:2053#FR OVH SAS 348.15 ms
+212.80.205.244:8443#IL O.M.C. COMPUTERS & COMMUNICATIONS LTD 348.21 ms
+185.209.161.104:443#NL It Hosting Group 348.36 ms
+135.125.234.160:8443#DE OVH GmbH 348.48 ms
+82.64.152.55:20304#FR Free SAS 348.48 ms
+131.186.18.212:28887#KR Oracle Corporation 348.51 ms
+178.128.80.43:443#SG DigitalOcean  LLC 349.30 ms
+132.145.84.148:39567#KR Oracle Public Cloud 349.56 ms
+162.19.253.47:2053#DE OVH GmbH 349.95 ms
+162.19.243.52:8443#DE OVH GmbH 350.29 ms
+138.2.89.238:43254#SG Oracle Corporation 350.31 ms
+51.195.45.137:2053#DE OVH GmbH 350.35 ms
+51.195.47.42:2053#DE OVH GmbH 350.41 ms
+45.129.199.232:443#EE BlueVPS OU 350.67 ms
+51.195.119.175:2053#DE OVH GmbH 351.07 ms
+194.87.45.19:8443#ES GLOBAL CONNECTIVITY SOLUTIONS LLP 351.24 ms
+168.138.165.174:443#SG Oracle Public Cloud 351.89 ms
+162.19.252.222:2053#DE OVH GmbH 352.12 ms
+43.156.116.194:443#SG 6 COLLYER QUAY 352.25 ms
+185.8.129.187:2096#TR Alastyr Telekomunikasyon A.S. 353.97 ms
+144.22.204.102:50317#BR Oracle Corporation 354.04 ms
+57.129.16.168:8443#DE OVH GmbH 355.49 ms
+94.23.147.217:8443#FR OVH SAS 355.80 ms
+138.2.69.236:23334#SG Oracle Corporation 356.04 ms
+178.208.79.242:1443#NL Iron Hosting Centre Ltd.  London  UK 356.49 ms
+188.165.137.201:8443#FR OVH SAS 356.62 ms
+51.38.51.236:8443#FR OVH SAS 356.63 ms
+195.123.212.222:2053#LV Green Floid LLC 356.88 ms
+104.248.145.216:443#SG DigitalOcean  LLC 357.03 ms
+178.32.42.230:8443#FR OVH SAS 357.26 ms
+145.239.88.255:8443#PL OVH VPS WAW 357.34 ms
+93.183.94.78:6379#DE OVH GmbH 357.46 ms
+51.38.227.155:2053#FR OVH SAS 357.61 ms
+141.94.222.33:8443#FR OVH SAS 358.12 ms
+146.235.59.153:2053#BR Oracle Corporation 358.36 ms
+141.94.68.162:8443#FR OVH SAS 358.75 ms
+146.235.59.153:8443#BR Oracle Corporation 358.82 ms
+162.19.65.2:8443#FR OVH SAS 358.84 ms
+141.94.220.64:2053#FR OVH SAS 359.39 ms
+141.94.206.137:2053#FR OVH SAS 359.44 ms
+65.108.245.196:443#FI Hetzner Online GmbH 359.77 ms
+162.19.66.30:8443#FR OVH SAS 359.82 ms
+51.178.37.179:2053#FR OVH SAS 360.06 ms
+168.75.92.141:28053#BR Oracle Corporation 360.26 ms
+141.94.223.24:2053#FR OVH SAS 360.27 ms
+193.123.90.82:12648#AE Oracle Corporation 360.32 ms
+51.38.51.236:2053#FR OVH SAS 360.47 ms
+141.94.204.212:2053#FR OVH SAS 360.63 ms
+103.45.245.208:8443#ES O.M.C. COMPUTERS & COMMUNICATIONS LTD 361.14 ms
+162.19.66.26:2053#FR OVH SAS 361.36 ms
+62.133.63.149:2083#TR GLOBAL CONNECTIVITY SOLUTIONS LLP 361.59 ms
+194.58.68.74:443#NL Baxet Group Inc. 361.64 ms
+65.109.210.191:8443#FI Hetzner Online GmbH 361.81 ms
+57.129.5.108:2053#DE OVH GmbH 361.91 ms
+146.56.140.79:22561#KR Cloudflare London  LLC 361.95 ms
+65.109.12.58:2053#FI Hetzner Online GmbH 362.01 ms
+43.128.95.84:38091#SG 6 COLLYER QUAY 362.20 ms
+143.42.66.91:443#SG M1 LIMITED 362.37 ms
+57.129.5.105:8443#DE OVH GmbH 362.66 ms
+141.94.221.163:8443#FR OVH SAS 362.73 ms
+37.252.10.91:443#PL IROKO Networks Corporation 362.76 ms
+194.87.97.6:2053#CH GLB Bulut Teknolojisi Limited Sirketi 362.81 ms
+141.94.223.220:443#FR OVH SAS 363.04 ms
+144.22.144.168:4242#BR Oracle Corporation 363.40 ms
+164.52.2.100:443#SG UCUL-SG 364.55 ms
+164.52.2.98:443#SG UCUL-SG 364.59 ms
+146.235.18.248:45137#SG Oracle Corporation 364.64 ms
+146.56.140.79:20309#KR Cloudflare  Inc. 364.87 ms
+152.70.76.104:46000#IN Oracle Corporation 365.82 ms
+88.218.248.195:443#NL GLB Bulut Teknolojisi Limited Sirketi 365.97 ms
+31.128.33.253:443#LV Cloudflare London  LLC 366.46 ms
+193.122.126.64:53777#KR Oracle Public Cloud 366.66 ms
+139.28.220.16:2053#FI PSERVERS Enterprise Network 366.77 ms
+95.182.99.23:8443#FI CGI GLOBAL LIMITED 367.23 ms
+15.204.205.208:449#US OVH US LLC 367.88 ms
+141.94.207.7:2053#FR OVH SAS 368.45 ms
+38.180.22.20:1001#IT 3NT SOLUTIONS LLP 369.07 ms
+146.56.140.79:44699#KR Cloudflare London  LLC 369.28 ms
+188.132.192.195:2053#TR TradeZone LLC 370.18 ms
+95.216.148.189:8443#FI Hetzner Online GmbH 372.18 ms
+152.69.174.99:25248#AU Oracle Corporation 372.65 ms
+130.162.193.183:15401#AU Oracle Public Cloud 373.02 ms
+31.128.34.77:2053#LV Beget LLC 374.14 ms
+65.109.161.254:8443#FI Hetzner Online GmbH 374.66 ms
+65.109.191.244:2053#FI Hetzner Online GmbH 374.96 ms
+95.217.184.234:8443#FI Hetzner Online GmbH 375.07 ms
+45.86.228.104:443#AE BlueVPS OU 375.57 ms
+91.245.225.79:8443#CH GLB Bulut Teknolojisi Limited Sirketi 375.64 ms
+5.61.32.232:433#DE IROKO Networks Corporation 376.07 ms
+104.239.87.213:2053#TR Baxet Group Inc. 376.74 ms
+185.94.164.107:443#NL FIRST SERVER LIMITED 377.24 ms
+150.230.146.170:2053#DE Oracle Corporation 377.83 ms
+82.115.7.15:6000#NL SIA VEESP 378.07 ms
+103.6.207.108:8080#ID PT Pusat Media Indonesia 378.29 ms
+185.39.204.55:2053#TR GLOBAL CONNECTIVITY SOLUTIONS LLP 378.83 ms
+45.138.72.141:443#DE GTELCOM LLC 379.11 ms
+45.135.165.245:443#DE GLB Bulut Teknolojisi Limited Sirketi 379.41 ms
+140.238.5.75:13644#KR Oracle Public Cloud 381.40 ms
+194.135.22.181:443#CH GLB Bulut Teknolojisi Limited Sirketi 381.87 ms
+195.123.211.204:81#LV Green Floid LLC 384.15 ms
+199.59.229.178:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 384.35 ms
+91.245.225.79:2053#CH GLB Bulut Teknolojisi Limited Sirketi 384.93 ms
+139.185.50.5:14594#AE Oracle Corporation 384.93 ms
+185.66.165.51:443#DE Perfecto Mobile UK Ltd (/24 used in Germany) 385.54 ms
+57.129.16.72:2053#DE OVH GmbH 387.31 ms
+37.252.6.119:443#PL IROKO Networks Corporation 387.51 ms
+132.226.163.224:2053#BR Oracle Public Cloud 389.28 ms
+83.217.9.110:24443#TR GLOBAL CONNECTIVITY SOLUTIONS LLP 390.58 ms
+103.15.90.134:49678#VN TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED 390.77 ms
+159.100.199.200:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 390.79 ms
+109.120.154.233:9995#NL Iron Hosting Centre LTD 390.88 ms
+195.26.230.99:8443#FI undefined 391.73 ms
+62.192.174.228:2053#LV SERVA ONE LTD 391.86 ms
+185.237.218.134:2053#LV Friendhosting LTD 395.42 ms
+132.226.163.224:8443#BR Oracle Public Cloud 396.99 ms
+31.128.34.61:2053#LV Beget LLC 397.45 ms
+185.94.166.203:2053#DE GTELCOM LLC 398.99 ms
+45.95.232.18:2053#CH GLOBAL CONNECTIVITY SOLUTIONS LLP 399.05 ms
+195.123.212.222:8443#LV Green Floid LLC 399.52 ms
+95.182.99.23:2053#FI CGI GLOBAL LIMITED 400.49 ms
+35.228.168.221:443#FI Google LLC 401.05 ms
+159.100.194.42:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 402.03 ms
+62.192.174.175:2053#LV SERVA ONE LTD 402.17 ms
+62.192.174.175:8443#LV SERVA ONE LTD 402.20 ms
+118.141.64.192:36619#HK HGC Global Communications Limited 403.27 ms
+31.128.34.61:8443#LV Beget LLC 403.44 ms
+62.192.174.170:8443#LV SERVA ONE LTD 405.18 ms
+162.19.254.52:8443#DE OVH GmbH 405.24 ms
+188.130.206.93:2053#FI CGI GLOBAL LIMITED 407.71 ms
+193.164.155.27:8443#FI as56971 network 410.62 ms
+92.246.139.197:2053#DE Aeza International LTD 410.63 ms
+37.1.194.237:2053#DE IROKO Networks Corporation 411.63 ms
+91.149.242.110:443#ES BG-NETWORK 413.23 ms
+162.19.158.37:8443#DE HostiMan Hosting 415.25 ms
+38.180.78.255:443#BR 3NT SOLUTIONS LLP 417.02 ms
+38.180.79.9:443#BR 3NT SOLUTIONS LLP 417.35 ms
+85.208.104.34:8080#HK Internet Utilities Europe and Asia Limited 418.16 ms
+221.125.10.8:57537#HK HGC Global Communications Limited 418.99 ms
+62.192.174.170:2053#LV SERVA ONE LTD 419.57 ms
+192.9.183.128:45673#AU Oracle Corporation 420.03 ms
+147.45.116.50:24443#BR GLOBAL CONNECTIVITY SOLUTIONS LLP 423.61 ms
+152.67.101.72:23010#AU Oracle Public Cloud 425.55 ms
+172.232.112.240:587#IN Linode 425.74 ms
+195.54.33.164:443#DE TK Rustelekom LLC 426.02 ms
+192.9.190.80:23862#AU Oracle Corporation 426.98 ms
+109.120.135.91:2053#DE Aeza International LTD 427.19 ms
+15.204.10.80:49404#US OVH US LLC 427.98 ms
+185.237.218.134:8443#LV Friendhosting LTD 429.46 ms
+46.232.122.240:8000#HK undefined 430.60 ms
+57.129.5.105:2053#DE OVH GmbH 432.10 ms
+35.217.24.30:8443#FI Google LLC 435.33 ms
+195.245.239.128:2053#DE Snowd Security OU 436.12 ms
+104.234.50.12:2053#US Private Customer 437.53 ms
+194.36.179.17:8443#SG FIRST SERVER LIMITED 438.57 ms
+15.204.10.80:39268#US OVH US LLC 439.44 ms
+57.129.16.72:8443#DE OVH GmbH 440.87 ms
+5.34.176.119:81#SG Green Floid LLC 442.00 ms
+31.192.238.71:2053#SG PDK LLC 443.58 ms
+51.81.209.21:8443#US OVH US LLC 446.69 ms
+51.81.209.21:2053#US OVH US LLC 447.09 ms
+147.75.236.96:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 447.23 ms
+15.204.10.80:53089#US OVH US LLC 447.29 ms
+77.221.157.32:443#DE Aeza International LTD 447.79 ms
+15.204.10.80:24906#US OVH US LLC 448.38 ms
+57.129.5.128:2053#DE OVH GmbH 448.88 ms
+194.36.179.5:2053#SG FIRST SERVER LIMITED 454.19 ms
+57.129.5.70:2053#DE OVH GmbH 454.41 ms
+79.137.204.189:443#DE AEZA GROUP Ltd 454.72 ms
+15.204.57.47:7267#US Cloudflare London  LLC 455.09 ms
+45.156.22.52:2053#FI as56971 network 456.50 ms
+65.108.149.250:2053#FI Hetzner Online GmbH 458.12 ms
+91.228.154.170:8443#DE www.fornex.com  Fornex Hosting S.L. 458.43 ms
+172.105.62.71:2443#IN Linode 460.64 ms
+162.19.252.123:2053#DE OVH GmbH 464.15 ms
+194.36.179.17:2053#SG FIRST SERVER LIMITED 468.66 ms
+158.180.49.11:2053#DE oracle 468.95 ms
+91.192.81.154:2053#SG Melbikomas UAB 472.31 ms
+31.192.238.71:8443#SG PDK LLC 478.07 ms
+81.200.154.2:2053#DE Timeweb  LLP 483.57 ms
+35.217.24.30:2053#FI Google LLC 488.41 ms
+36.95.152.58:12137#ID PT Telekomunikasi Indonesia 489.05 ms
+192.158.242.133:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 493.68 ms
+199.59.231.120:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 495.54 ms
+115.242.180.202:19000#IN Reliance Jio Infocomm Limited 502.36 ms
+91.192.81.154:8443#SG Melbikomas UAB 502.40 ms
+85.193.95.23:2053#DE Timeweb  LLP 504.28 ms
+185.114.78.230:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 511.25 ms
+57.129.5.70:8443#DE OVH GmbH 513.67 ms
+85.193.95.220:2053#DE Timeweb  LLP 515.28 ms
+139.59.152.149:2053#DE DigitalOcean  LLC 519.58 ms
+109.120.135.91:8443#DE Aeza International LTD 523.99 ms
+206.201.196.122:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 524.13 ms
+85.193.95.220:8443#DE Timeweb  LLP 533.14 ms
+85.193.95.23:8443#DE Timeweb  LLP 533.73 ms
+77.221.137.133:443#DE Aeza International LTD 534.60 ms
+85.193.92.242:2053#DE Timeweb  LLP 536.16 ms
+89.169.13.12:443#DE SERV.HOST GROUP LTD 536.20 ms
+85.193.92.242:8443#DE Timeweb  LLP 536.39 ms
+89.169.13.214:443#DE SERV.HOST GROUP LTD 538.66 ms
+85.198.11.18:8899#DE Hetzner Online GmbH 539.55 ms
+142.132.165.86:2053#DE Hetzner Online GmbH 540.61 ms
+195.26.230.99:2053#FI undefined 541.94 ms
+147.75.228.22:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 552.60 ms
+46.8.238.49:8443#FI CGI GLOBAL LIMITED 559.36 ms
+45.159.249.141:8443#FI WorkTitans B.V. 561.79 ms
+152.70.75.80:15805#IN Oracle Corporation 567.03 ms
+45.159.249.141:2053#FI WorkTitans B.V. 578.93 ms
+141.95.127.112:8443#DE OVH GmbH 597.50 ms
+46.8.238.49:2053#FI CGI GLOBAL LIMITED 613.08 ms
+142.132.178.99:443#DE Hetzner Online GmbH 614.42 ms
+46.8.228.185:443#FI CGI GLOBAL LIMITED 627.18 ms
+147.75.230.160:443#US Aryaka Networks  Inc. 651.25 ms
+147.75.230.33:443#US Aryaka Networks  Inc. 658.22 ms
+92.51.36.219:8443#DE Timeweb  LLP 673.45 ms
+194.35.119.49:2053#DE Timeweb  LLP 674.40 ms
+95.140.154.101:2053#DE lease for Timeweb 674.52 ms
+92.51.36.219:2053#DE Timeweb  LLP 674.98 ms
+95.140.154.101:8443#DE lease for Timeweb 675.17 ms
+194.35.119.135:2053#DE Timeweb  LLP 675.20 ms
+141.95.127.227:8443#DE OVH GmbH 675.24 ms
+217.25.91.145:8443#DE Timeweb  LLP 675.53 ms
+95.140.157.183:8443#DE lease for Timeweb 675.99 ms
+217.25.91.145:2053#DE Timeweb  LLP 676.57 ms
+46.226.165.169:443#DE Cloudflare London  LLC 677.97 ms
+46.8.237.3:443#FI CGI GLOBAL LIMITED 687.56 ms
+141.95.127.227:2053#DE OVH GmbH 712.70 ms
+45.156.22.114:443#FI as56971 network 719.64 ms
+159.100.198.106:443#US Aryaka Networks Inc  c/o Equinix SV4 255 Caspian Drive Sunnyvale  CA 94089  United States 721.47 ms
+139.59.152.149:8443#DE DigitalOcean  LLC 726.10 ms
+109.120.132.113:8443#DE Aeza International LTD 763.83 ms
+217.151.229.156:8443#DE Timeweb  LLP 768.26 ms
+217.151.229.156:2053#DE Timeweb  LLP 776.94 ms
+45.156.22.237:8443#FI as56971 network 830.02 ms
+193.233.115.79:8443#DE Aeza International LTD 842.89 ms
+95.140.157.183:2053#DE lease for Timeweb 844.23 ms
+194.35.119.49:8443#DE Timeweb  LLP 844.56 ms
+109.120.134.133:443#DE Aeza International LTD 865.63 ms
+109.120.132.113:2053#DE Aeza International LTD 867.77 ms
+193.233.115.79:2053#DE Aeza International LTD 869.66 ms
+194.35.119.135:8443#DE Timeweb  LLP 871.13 ms
+91.107.157.253:43801#DE Hetzner Online GmbH 909.26 ms
+91.227.40.125:8443#DE MVPS LTD 919.74 ms
+89.168.68.57:8443#DE Oracle Svenska AB 947.82 ms
+89.208.107.154:2053#DE AEZA GROUP Ltd 954.21 ms
+91.107.157.253:20531#DE Hetzner Online GmbH 956.33 ms
+91.107.142.237:8080#DE Hetzner Online GmbH 972.14 ms
+91.107.142.138:8080#DE Hetzner Online GmbH 981.93 ms
+162.19.243.46:2053#DE OVH GmbH 1026.77 ms
+89.168.68.57:2053#DE Oracle Svenska AB 1029.07 ms
+162.19.242.212:2053#DE OVH GmbH 1030.33 ms
+81.200.154.2:8443#DE Timeweb  LLP 1035.14 ms
+85.209.195.61:2053#DE WorkTitans B.V. 1048.66 ms
+85.209.195.61:8443#DE WorkTitans B.V. 1052.47 ms
+45.156.22.237:2053#FI as56971 network 1068.11 ms
+158.101.146.3:44872#JP Oracle Public Cloud 1077.01 ms
+168.138.198.7:27560#JP Oracle Public Cloud 1083.61 ms
+150.230.204.21:10243#JP Oracle Corporation 1094.22 ms
+162.19.226.175:2053#DE OVH GmbH 1097.88 ms
+81.95.4.189:443#DE F3 Netze e.V. 1128.18 ms
+87.251.87.111:443#DE nuxtcloud 1138.11 ms
+51.79.158.58:2053#SG OVH Singapore PTE. LTD 1183.12 ms
+134.195.137.107:22473#IN ReadyDedis  LLC 1205.27 ms
+95.216.148.189:2053#FI Hetzner Online GmbH 1223.49 ms
+91.107.143.27:4090#DE Hetzner Online GmbH 1232.64 ms
+51.75.77.148:8443#DE OVH GmbH 1241.59 ms
+156.255.90.175:2053#HK StepGo Limited 1243.22 ms
+193.124.41.165:8443#PL Baxet Group Inc. 1246.35 ms
+188.165.1.138:2053#FR OVH SAS 1246.41 ms
+51.38.50.211:8443#FR OVH SAS 1251.79 ms
+51.75.75.132:2053#DE OVH GmbH 1253.08 ms
+57.129.5.108:8443#DE OVH GmbH 1254.13 ms
+152.32.255.24:587#VN UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED 1257.24 ms
+91.239.148.133:443#PL SERVA ONE LTD 1258.21 ms
+162.19.24.169:2053#FR OVH SAS 1264.81 ms
+135.181.210.228:443#FI Hetzner Online GmbH 1270.33 ms
+171.103.164.62:30921#TH True Internet Co.  Ltd. 1276.42 ms
+51.195.41.72:8443#DE OVH GmbH 1280.71 ms
+45.149.186.112:8080#HK HYTRON NETWORK HK 1286.04 ms
+51.38.224.25:2053#FR OVH SAS 1286.82 ms
+194.127.193.124:24467#SG Greencloud LLC 1287.57 ms
+141.94.70.243:8443#FR OVH SAS 1290.90 ms
+144.24.200.164:443#FR Oracle Corp UK Ltd 1295.04 ms
+54.37.64.97:8443#FR OVH SAS 1297.17 ms
+162.19.66.26:8443#FR OVH SAS 1314.18 ms
+23.254.226.110:443#NL Hostwinds Seattle 1317.09 ms
+162.19.246.187:2053#DE OVH GmbH 1317.52 ms
+65.109.161.254:2053#FI Hetzner Online GmbH 1318.37 ms
+45.76.198.248:443#JP Vultr Holdings  LLC 1319.60 ms
+192.99.252.243:2053#CA OVH SAS 1323.72 ms
+178.32.137.165:8443#FR OVH SAS 1323.97 ms
+193.160.96.234:443#NL FiberXpress BV 1325.91 ms
+51.38.48.190:2053#FR OVH SAS 1332.88 ms
+146.59.153.201:8443#FR OVH SAS 1332.99 ms
+162.19.25.13:2053#FR OVH SAS 1335.07 ms
+193.124.92.170:443#DE GLB Bulut Teknolojisi Limited Sirketi 1345.44 ms
+54.37.64.120:8443#FR OVH SAS 1353.08 ms
+194.87.97.6:8443#CH GLB Bulut Teknolojisi Limited Sirketi 1355.15 ms
+77.91.69.51:8443#IL Webhost LLC 1364.90 ms
+193.164.155.27:2053#FI as56971 network 1370.46 ms
+15.204.10.80:36683#US OVH US LLC 1404.25 ms
+162.19.158.37:2053#DE HostiMan Hosting 1436.05 ms
+147.135.10.209:443#US OVH US LLC 1446.72 ms
+185.81.28.95:30503#SG AKILE LTD 1460.87 ms
+45.144.167.46:19816#TH ReadyIDC Co.  Ltd. 1514.25 ms
+41.76.42.116:443#MU Mauritius Telecom Ltd 1761.28 ms
+41.76.42.118:443#MU Mauritius Telecom Ltd 1817.57 ms
+103.247.28.240:37211#HK VMISS Inc. 2176.28 ms
+51.38.49.187:8443#FR OVH SAS 2295.63 ms
+43.156.181.203:443#SG 16 COLLYER QUAY 2340.88 ms
+45.156.22.150:587#FI as56971 network 2367.08 ms
+138.2.12.103:14453#JP Cloudflare London  LLC 3124.72 ms
+139.185.34.131:443#AE Oracle Corporation Failed
+170.64.152.77:7443#AU DigitalOcean  LLC Failed
+45.77.236.204:443#AU Vultr Holdings  LLC Failed
+192.18.150.121:27620#CA Oracle Corporation Failed
+148.113.204.36:8443#CA OVH Hosting  Inc. Failed
+148.113.204.36:2053#CA OVH Hosting  Inc. Failed
+69.28.83.244:443#CA Atlantic.Net - Toronto  LLC. Failed
+185.195.69.209:2053#CH Datasource AG Failed
+94.247.42.207:443#CH servinga GmbH Failed
+95.183.51.10:2053#CH Solar Communications GmbH Failed
+95.183.51.10:8443#CH Solar Communications GmbH Failed
+104.244.78.95:2083#CH BuyVM Failed
+212.113.106.40:2053#DE Aeza International LTD Failed
+212.113.106.40:8443#DE Aeza International LTD Failed
+139.162.145.35:2053#DE 139.162.0.0/16 Failed
+135.125.232.253:2053#DE OVH GmbH Failed
+135.125.232.253:8443#DE OVH GmbH Failed
+139.162.133.162:15458#DE 139.162.0.0/16 Failed
+139.162.133.162:20091#DE 139.162.0.0/16 Failed
+139.162.133.162:15675#DE 139.162.0.0/16 Failed
+139.162.133.162:11285#DE 139.162.0.0/16 Failed
+139.162.133.162:17001#DE 139.162.0.0/16 Failed
+139.162.133.162:11511#DE 139.162.0.0/16 Failed
+139.162.133.162:24461#DE 139.162.0.0/16 Failed
+139.162.133.162:27936#DE 139.162.0.0/16 Failed
+139.162.133.162:25657#DE 139.162.0.0/16 Failed
+139.162.133.162:31804#DE 139.162.0.0/16 Failed
+139.162.133.162:26896#DE 139.162.0.0/16 Failed
+139.162.133.162:25351#DE 139.162.0.0/16 Failed
+139.162.133.162:34956#DE 139.162.0.0/16 Failed
+139.162.133.162:32856#DE 139.162.0.0/16 Failed
+139.162.133.162:42779#DE 139.162.0.0/16 Failed
+139.162.133.162:36075#DE 139.162.0.0/16 Failed
+139.162.133.162:31956#DE 139.162.0.0/16 Failed
+139.162.133.162:36355#DE 139.162.0.0/16 Failed
+139.162.133.162:48805#DE 139.162.0.0/16 Failed
+139.162.133.162:52982#DE 139.162.0.0/16 Failed
+139.162.133.162:58990#DE 139.162.0.0/16 Failed
+139.162.133.162:56661#DE 139.162.0.0/16 Failed
+139.162.133.162:42865#DE 139.162.0.0/16 Failed
+139.162.133.162:51241#DE 139.162.0.0/16 Failed
+139.162.133.162:41419#DE 139.162.0.0/16 Failed
+139.162.133.162:34842#DE 139.162.0.0/16 Failed
+139.162.133.162:46785#DE 139.162.0.0/16 Failed
+139.162.145.35:8443#DE 139.162.0.0/16 Failed
+139.162.133.162:58148#DE 139.162.0.0/16 Failed
+139.162.133.162:54591#DE 139.162.0.0/16 Failed
+147.45.197.119:443#DE nuxtcloud Failed
+147.45.196.240:8443#DE nuxtcloud Failed
+147.45.196.240:2053#DE nuxtcloud Failed
+185.247.118.7:443#DE O.M.C. COMPUTERS & COMMUNICATIONS LTD Failed
+185.78.76.63:2053#DE nuxtcloud Failed
+217.110.20.141:443#DE Colt DC Failed
+49.12.243.75:2053#DE Hetzner Online GmbH Failed
+49.12.243.75:8443#DE Hetzner Online GmbH Failed
+49.13.230.198:8080#DE Hetzner Online GmbH Failed
+77.221.148.189:443#DE Aeza International LTD Failed
+87.251.88.104:2053#DE Cloud Hosting Solutions  Limited. Failed
+95.179.164.162:8443#DE Vultr Holdings  LLC Failed
+89.19.211.109:8443#DE Timeweb  LLP Failed
+89.28.236.243:443#DK Seven Digital Network Services LLC Failed
+93.93.119.91:443#ES ARSYS INTERNET S.L.U. Failed
+95.217.25.18:2095#FI Hetzner Online GmbH Failed
+65.109.209.200:2095#FI Hetzner Online GmbH Failed
+77.221.144.210:443#FI New Hosting Technologies LLC Failed
+139.28.221.213:48004#FI PSERVERS Enterprise Network Failed
+185.188.181.187:443#FI PSERVERS Enterprise Network Failed
+185.94.167.181:8443#FI PSERVERS Enterprise Network Failed
+185.94.167.181:2053#FI PSERVERS Enterprise Network Failed
+46.8.228.182:8443#FI CGI GLOBAL LIMITED Failed
+46.8.228.182:2053#FI CGI GLOBAL LIMITED Failed
+87.239.250.229:8443#FI FIRST SERVER LIMITED Failed
+87.239.250.229:2053#FI FIRST SERVER LIMITED Failed
+163.172.89.158:81#FR Scaleway Dedibox - Paris  France Failed
+88.218.78.34:443#FR RACKNERD-FR Failed
+88.218.76.250:8443#FR RACKNERD-FR Failed
+88.218.76.250:2053#FR RACKNERD-FR Failed
+141.94.68.216:8443#FR OVH SAS Failed
+141.94.68.216:2053#FR OVH SAS Failed
+5.196.27.246:2053#FR OVH SAS Failed
+5.196.27.246:8443#FR OVH SAS Failed
+88.218.77.42:2053#FR RACKNERD-FR Failed
+88.218.77.42:8443#FR RACKNERD-FR Failed
+141.145.216.142:2087#FR Oracle Corporation Failed
+178.32.58.147:443#FR OVH Ltd Failed
+45.63.114.83:443#FR Vultr Holdings  LLC Failed
+94.23.153.167:2053#FR OVH SAS Failed
+94.23.153.167:8443#FR OVH SAS Failed
+18.170.77.148:443#GB Amazon Data Services UK Failed
+94.131.122.72:443#GB WorkTitans B.V. Failed
+54.229.164.147:2053#IE Amazon.com  Inc. Failed
+63.32.194.15:8443#IE Amazon Data Services Ireland Limited Failed
+188.213.168.52:443#IT Aruba S.p.A. - Cloud Services Farm2 Failed
+138.2.10.217:27446#JP Oracle Corporation Failed
+140.83.57.114:25965#JP imported inetnum object for OCPL-1 Failed
+138.2.10.149:45638#JP Oracle Corporation Failed
+158.101.152.6:2919#JP Oracle Public Cloud Failed
+149.28.21.106:443#JP Vultr Holdings  LLC Failed
+152.70.82.101:18650#JP Oracle Corporation Failed
+13.230.34.30:443#JP Amazon Data Services Japan Failed
+138.2.49.197:587#JP Oracle Corporation Failed
+18.183.158.211:443#JP Amazon Data Services Japan Failed
+141.98.197.101:11665#JP xTom Japan Corporation Failed
+217.142.250.195:587#JP Oracle Corporation Failed
+3.112.21.102:443#JP Amazon Data Services Japan Failed
+45.77.25.6:27854#JP Vultr Holdings  LLC Failed
+45.77.25.6:48828#JP Vultr Holdings  LLC Failed
+8.209.220.50:21273#JP Shiodome Sumitomo Blog 1-9-2 TOKYO Failed
+131.186.63.89:11655#JP Oracle Public Cloud Failed
+138.3.222.124:46209#JP Oracle Network Information Services Failed
+140.83.57.183:22735#JP imported inetnum object for OCPL-1 Failed
+140.83.59.158:15805#JP imported inetnum object for OCPL-1 Failed
+141.147.147.180:443#JP Oracle Corporation Failed
+168.138.192.16:54584#JP Oracle Public Cloud Failed
+38.180.28.163:8443#JP 3NT SOLUTIONS LLP Failed
+38.180.28.163:2053#JP 3NT SOLUTIONS LLP Failed
+129.154.54.67:19567#KR Oracle Corporation Failed
+158.247.250.157:81#KR The Constant Company  LLC Failed
+144.24.84.212:49888#KR Oracle Corp UK Ltd Failed
+132.226.21.116:6056#KR Oracle Public Cloud Failed
+138.2.122.197:39863#KR Oracle Corporation Failed
+52.141.25.42:443#KR Microsoft Corporation Failed
+38.180.37.102:8443#KZ 3NT SOLUTIONS LLP Failed
+31.128.35.216:8443#LV Beget LLC Failed
+31.128.35.216:2053#LV Beget LLC Failed
+37.128.207.235:443#LV SIA VEESP Failed
+5.34.209.219:2053#LV SIA VEESP Failed
+5.34.209.219:8443#LV SIA VEESP Failed
+109.237.98.57:443#NL Aeza International LTD Failed
+85.192.29.136:443#NL Aeza International LTD Failed
+195.123.219.254:1445#NL Green Floid LLC Failed
+46.17.97.246:433#NL HOSTKEY B.V. Failed
+194.26.232.203:443#NL Podaon SIA Failed
+176.222.55.22:443#NL HOSTKEY B.V. Failed
+81.22.132.245:443#NL Internet Utilities Europe and Asia Limited Failed
+185.229.225.229:443#NL Kamatera Inc Failed
+109.107.166.23:443#NL Amsterdam  Netherlands Failed
+185.244.49.38:443#NL AdminVPS OOO Failed
+89.35.131.5:443#NL RCS Technologies FZE LLC Failed
+103.90.75.141:2053#NL CLODO CLOUD SERVICE CO. L.L.C Failed
+146.0.79.28:8443#NL HOSTKEY B.V. Failed
+152.70.59.90:8443#NL Oracle Corporation Failed
+195.200.26.225:443#NL Amsterdam  Netherlands Failed
+45.120.178.143:8443#NL WorkTitans B.V. Failed
+77.238.247.183:2053#NL SERVERS TECH FZCO Failed
+37.252.7.161:8443#PL IROKO Networks Corporation Failed
+37.252.7.161:2053#PL IROKO Networks Corporation Failed
+45.67.34.89:8443#RO WorkTitans B.V. Failed
+194.68.44.27:81#RO EDIS IPv6 Infrastructure in Romania Failed
+185.39.30.67:2053#RO Friendhosting LTD Failed
+176.57.211.166:2053#RU JSC TIMEWEB Failed
+176.57.211.166:8443#RU JSC TIMEWEB Failed
+185.105.89.125:16092#RU FIRST SERVER LIMITED Failed
+193.3.23.128:37424#RU FOP Hornostay Mykhaylo Ivanovych Failed
+193.160.209.226:2053#RU Timeweb.Cloud LLC Failed
+213.159.208.88:2053#RU JSC Datacenter Failed
+31.129.49.103:443#RU Selectel Network Failed
+81.200.158.206:8443#RU JSC TIMEWEB Failed
+94.242.53.158:8443#RU SIA VEESP Failed
+94.242.53.158:2053#RU SIA VEESP Failed
+95.163.240.24:8443#RU Reg.Ru Hosting Failed
+172.234.96.64:8443#SE Linode Failed
+13.48.175.183:2053#SE Amazon Data Services Sweden Failed
+45.76.183.217:49292#SG Vultr Holdings  LLC Failed
+45.32.100.46:13802#SG Vultr Holdings  LLC Failed
+194.36.178.36:8443#SG FIRST SERVER LIMITED Failed
+146.235.19.79:28983#SG Oracle Corporation Failed
+194.36.178.36:2053#SG FIRST SERVER LIMITED Failed
+213.35.100.31:47112#SG Oracle Svenska AB Failed
+171.103.232.58:20475#TH True Internet Co.  Ltd. Failed
+94.131.123.74:443#TR WorkTitans B.V. Failed
+195.16.74.240:81#TR WorkTitans B.V. Failed
+82.118.22.141:2053#UA GREEN FLOID LLC Failed
+82.118.22.141:8443#UA GREEN FLOID LLC Failed
+34.83.245.149:443#US Google LLC Failed
+129.153.91.86:3701#US Oracle Corporation Failed
+23.94.213.132:27149#US HostPapa Failed
+23.95.113.61:443#US RackNerd LLC Failed
+23.94.94.192:42539#US RackNerd LLC Failed
+23.105.199.91:21626#US IT7 Networks Inc Failed
+65.49.195.163:14828#US IT7 Networks Inc Failed
+65.49.192.225:58564#US IT7 Networks Inc Failed
+144.34.163.149:58431#US Cluster Logic Inc Failed
+74.48.140.177:443#US MULTACOM CORPORATION Failed
+74.48.4.29:37731#US MULTACOM CORPORATION Failed
+142.171.156.141:21182#US MULTACOM CORPORATION Failed
+74.48.179.37:36460#US MULTACOM CORPORATION Failed
+148.135.110.150:48503#US MULTACOM CORPORATION Failed
+74.48.179.37:32380#US MULTACOM CORPORATION Failed
+74.48.179.37:10725#US MULTACOM CORPORATION Failed
+74.48.179.37:36358#US MULTACOM CORPORATION Failed
+74.48.179.37:58184#US MULTACOM CORPORATION Failed
+195.123.241.122:50008#US Total server solutions LLC Failed
+141.11.95.10:18443#US Virtual Machine Solutions LLC Failed
+129.146.6.2:929#US Oracle Corporation Failed
+129.159.37.19:30488#US Oracle Corporation Failed
+132.226.119.111:24361#US Oracle Public Cloud Failed
+138.2.231.58:45638#US Oracle Corporation Failed
+141.148.164.46:57239#US Oracle Corporation Failed
+141.148.1.34:38589#US Oracle Corporation Failed
+141.148.181.105:38945#US Oracle Corporation Failed
+141.148.164.136:34532#US Oracle Corporation Failed
+146.235.209.40:58869#US Oracle Corporation Failed
+148.135.52.250:48993#US Brander Group Inc. Failed
+152.70.113.150:52125#US Oracle Corporation Failed
+152.70.143.175:29187#US Oracle Corporation Failed
+155.248.214.92:52580#US Oracle Corporation Failed
+158.101.11.204:15805#US Oracle Public Cloud Failed
+192.9.138.69:21009#US Oracle Corporation Failed
+192.9.137.193:8443#US Oracle Corporation Failed
+34.69.150.180:443#US Google LLC Failed
+47.88.15.127:443#US Alibaba Cloud - US Failed
+64.176.210.187:443#US The Constant Company  LLC Failed
+64.64.227.230:7788#US Cluster Logic Inc Failed
+74.48.89.211:443#US MULTACOM CORPORATION Failed

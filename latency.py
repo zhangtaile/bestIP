@@ -14,19 +14,23 @@ os.environ.pop('ALL_PROXY', None)
 
 def measure_latency(address: str) -> Tuple[str, float]:
     """
-    Measures the TCP connection latency to a given address (ip:port).
+    Measures the TCP connection latency to a given address (IP,Port,Region,DataCenter).
 
     Args:
-        address: The address in "ip:port" format.
+        address: The address line from proxy.txt.
 
     Returns:
         A tuple containing the address and the latency in milliseconds.
         Returns float('inf') for latency if the connection fails.
     """
     try:
-        address_part = address.strip().split('#')[0]
-        ip, port_str = address_part.split(':')
-        port = int(port_str)
+        # Parse IP and Port from the comma-separated line
+        parts = address.strip().split(',')
+        if len(parts) < 2:
+            return address, float('inf')
+            
+        ip = parts[0]
+        port = int(parts[1])
         
         start_time = time.perf_counter()
         
@@ -54,7 +58,7 @@ def main():
     """
     Main function to run the latency tests and write the results.
     """
-    input_filename = 'geoIP.txt'
+    input_filename = 'proxy.txt'
     output_filename = 'latencyresult.txt'
     num_loops = 3
     max_concurrency = 20
@@ -107,10 +111,21 @@ def main():
     # Write the sorted results to the output file
     with open(output_filename, 'w') as f:
         for address, max_latency in sorted_results:
-            if max_latency == float('inf'):
-                f.write(f"{address}: Failed\n")
+            # Parse the CSV line: IP,Port,Region,DataCenter
+            parts = address.strip().split(',')
+            if len(parts) >= 2:
+                ip = parts[0]
+                port = parts[1]
+                # Join Region and DataCenter with space
+                info = " ".join(parts[2:])
+                display_str = f"{ip}:{port}#{info}"
             else:
-                f.write(f"{address}: {max_latency:.2f} ms\n")
+                display_str = address
+
+            if max_latency == float('inf'):
+                f.write(f"{display_str} Failed\n")
+            else:
+                f.write(f"{display_str} {max_latency:.2f} ms\n")
 
     print(f"\nResults sorted by highest latency and saved to '{output_filename}'.")
 
