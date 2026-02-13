@@ -95,7 +95,7 @@ def main():
     parser = argparse.ArgumentParser(description="Multi-threaded TCP Latency Tester")
     parser.add_argument("-i", "--input", default="proxy.txt", help="Input file containing proxies (IP,Port,...)")
     parser.add_argument("-o", "--output", default="latencyresult.txt", help="Output file for sorted results")
-    parser.add_argument("-t", "--threads", type=int, default=100, help="Number of concurrent threads (default: 100)")
+    parser.add_argument("-t", "--threads", type=int, default=5, help="Number of concurrent threads (default: 5)")
     parser.add_argument("-l", "--loops", type=int, default=3, help="Number of testing loops (default: 3)")
     parser.add_argument("--timeout", type=float, default=5.0, help="Connection timeout in seconds (default: 5.0)")
     
