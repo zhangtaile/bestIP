@@ -1,55 +1,150 @@
-192.252.182.52:7602#HK Integen  Inc 45.04 ms
-43.252.41.204:2443#HK CommuniLink Internet Ltd. 45.29 ms
-47.76.218.163:443#HK Alibaba Cloud - HK 49.20 ms
-59.15.182.92:30016#KR Sudogwonseobubonbu 55.03 ms
-18.183.158.211:443#JP Amazon Data Services Japan 63.70 ms
-138.3.222.124:46209#JP Oracle Network Information Services 67.26 ms
-150.230.204.21:10243#JP Oracle Corporation 67.66 ms
-175.207.201.231:30013#KR KT 68.00 ms
-138.2.10.149:45638#JP Oracle Corporation 68.74 ms
-168.138.197.147:12345#JP Oracle Public Cloud 70.83 ms
-161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 85.25 ms
-47.74.254.191:8900#SG Alibaba Cloud - SG 85.44 ms
-8.222.220.81:25435#SG Alibaba Cloud (Singapore) Private Limited 88.86 ms
-138.2.12.103:14453#JP Cloudflare  Inc. 89.37 ms
-144.24.87.69:50001#KR Oracle Corporation 92.87 ms
-144.24.84.212:49888#KR Oracle Corp UK Ltd 93.84 ms
-138.2.122.197:39863#KR Oracle Corporation 94.23 ms
-147.45.147.212:2053#RU JSC TIMEWEB 100.01 ms
-152.69.229.175:22558#KR Oracle Corporation 100.42 ms
-147.45.147.212:8443#RU JSC TIMEWEB 100.72 ms
-150.230.214.172:16957#JP Oracle Corporation 102.94 ms
-129.154.48.176:36355#KR Oracle Corporation 104.40 ms
-52.141.25.42:443#KR Microsoft Corporation 110.43 ms
-141.11.91.67:8080#HK HYTRON NETWORK HK 117.72 ms
-103.247.28.240:37211#HK VMISS Inc. 121.69 ms
-45.144.167.46:19816#TH ReadyIDC Co.  Ltd. 126.37 ms
-192.131.142.161:46639#HK 365 Group LLC 127.45 ms
-188.227.86.12:30718#NL ITGLOBAL.COM NL B.V. 132.92 ms
-146.0.79.28:8443#NL HOSTKEY B.V. 148.22 ms
-2.59.183.181:443#NL SERVA ONE LTD 149.85 ms
-77.246.108.130:443#NL Amsterdam  Netherlands 150.39 ms
-95.182.96.30:2053#FR CGI GLOBAL LIMITED 152.51 ms
-185.254.190.70:8443#RU LLC Vpsville 152.85 ms
-213.156.138.192:40778#FR G-Core Labs Customer assignment 153.08 ms
-5.39.219.35:443#NL HOSTKEY B.V. 155.49 ms
-67.226.221.102:443#US Securly  Inc 156.46 ms
-141.98.197.101:11665#JP xTom Japan Corporation 158.40 ms
-91.201.112.15:443#NL Amsterdam  Netherlands 161.01 ms
-194.67.204.158:8443#RU PSERVERS Enterprise Network 162.22 ms
-45.67.34.74:2053#RO WorkTitans B.V. 162.47 ms
-176.57.211.166:8443#RU JSC TIMEWEB 162.87 ms
-54.229.164.147:2053#IE Amazon.com  Inc. 162.89 ms
-195.123.219.254:1445#NL Green Floid LLC 163.18 ms
-45.67.34.89:8443#RO WorkTitans B.V. 163.47 ms
-185.130.225.218:443#NL HOSTKEY B.V. 163.75 ms
-94.230.165.18:5581#DE www.fornex.com  Fornex Hosting S.L. 164.80 ms
-88.210.9.239:443#NL Amsterdam  Netherlands 164.92 ms
-188.116.23.181:2053#NL IROKO Networks Corporation 165.55 ms
-87.120.237.36:81#IT G-Core Labs S.A. 166.90 ms
-176.57.211.166:2053#RU JSC TIMEWEB 168.66 ms
-45.153.187.209:8443#SE MVPS LTD 170.11 ms
-95.163.240.24:8443#RU Reg.Ru Hosting 170.15 ms
-146.0.73.202:443#NL HOSTKEY B.V. 170.48 ms
-67.226.221.104:80#US Securly  Inc 171.80 ms
-194.67.204.158:2053#RU PSERVERS Enterprise Network 171.94 ms
+120.92.212.16:8890#中国 Tianjin 21ViaNet(China) Inc. 8.04 ms
+101.43.255.96:80#中国 Beijing Tencent Cloud Computing (Beijing) Co.  Ltd 8.09 ms
+81.70.169.194:80#中国 Beijing Tencent Cloud Computing (Beijing) Co.  Ltd 9.62 ms
+82.156.64.75:60010#中国 Beijing Tencent Cloud Computing (Beijing) Co.  Ltd 11.56 ms
+120.92.212.16:7890#中国 Tianjin 21ViaNet(China) Inc. 11.76 ms
+101.34.21.55:90#中国 Shanghai Tencent cloud computing (Beijing) Co.  Ltd. 29.91 ms
+101.43.127.100:8877#中国 Shanghai Tencent Cloud Computing (Beijing) Co.  Ltd 31.40 ms
+124.220.226.214:7776#中国 Shanghai Tencent cloud computing (Beijing) Co.  Ltd. 31.66 ms
+101.133.161.76:15555#中国 Shanghai Aliyun Computing Co.  LTD 32.44 ms
+122.51.210.192:8899#中国 Shanghai Tencent cloud computing (Beijing) Co.  Ltd. 33.56 ms
+115.231.181.40:8128#中国 Jiaxing jin hua chuanyun LTD 34.55 ms
+43.143.108.2:9701#中国 Shanghai Tencent Cloud Computing (Beijing) Co.  Ltd 36.05 ms
+115.159.70.189:9701#中国 Shanghai Tencent Cloud Computing (Beijing) Co.  Ltd 37.43 ms
+49.234.19.78:8686#中国 Shanghai Tencent cloud computing (Beijing) Co.  Ltd. 37.46 ms
+8.134.167.224:19999#中国 Guangzhou Aliyun Computing Co.LTD 39.42 ms
+49.235.159.94:5051#中国 Shanghai Tencent cloud computing (Beijing) Co.  Ltd. 42.59 ms
+175.178.109.150:9253#中国 Guangzhou Tencent cloud computing (Beijing) Co.  Ltd. 42.74 ms
+106.75.133.10:7053#美国 Boston SkyQuantum Internet Service 42.96 ms
+8.137.144.100:8309#日本 Tokyo ACEVILLE PTE.LTD. 43.57 ms
+47.109.82.173:3010#中国 Chengdu Aliyun Computing Co.  LTD 43.62 ms
+106.75.133.10:7043#美国 Boston SkyQuantum Internet Service 43.69 ms
+47.239.235.155:1081#香港 Hong Kong ALIBABA CLOUD - HK 44.64 ms
+45.207.198.57:12345#香港 Hong Kong Vapeline Technology 45.89 ms
+103.119.1.9:40001#香港 Hong Kong Hurricane Electric LLC 46.09 ms
+118.145.69.252:6313#美国 Boston SkyQuantum Internet Service 46.23 ms
+106.75.133.10:7121#美国 Boston SkyQuantum Internet Service 47.66 ms
+106.75.133.10:7082#美国 Boston SkyQuantum Internet Service 47.90 ms
+121.187.175.106:9877#韩国 Wŏnju Korea Telecom 51.26 ms
+45.93.30.241:6005#韩国 Seoul XNNET LIMITED 52.13 ms
+38.207.165.200:6005#香港 Harmony Garden VMISS Inc. 53.24 ms
+45.93.28.159:6005#韩国 Seoul XNNET LIMITED 53.97 ms
+45.93.29.147:6005#韩国 Seoul XNNET LIMITED 54.13 ms
+38.207.164.82:6005#香港 Harmony Garden VMISS Inc. 54.14 ms
+45.93.31.93:6005#韩国 Seoul XNNET LIMITED 54.34 ms
+38.55.105.94:6005#香港 Tsuen Wan VMISS Inc. 54.70 ms
+38.55.107.254:6005#香港 Tsuen Wan VMISS Inc. 55.25 ms
+38.55.106.206:6005#香港 Tsuen Wan VMISS Inc. 55.63 ms
+211.230.49.122:3128#韩国 Seoul Korea Telecom 55.91 ms
+38.47.126.118:6005#日本 Tokyo NPO G-net 56.12 ms
+45.93.30.177:6005#韩国 Seoul XNNET LIMITED 56.53 ms
+38.47.126.225:6005#日本 Tokyo NPO G-net 58.27 ms
+43.250.9.46:10088#香港 Rhythm Garden FLAT B 1/F 58.29 ms
+54.248.42.85:2080#日本 Tokyo Amazon.com  Inc. 59.23 ms
+52.195.237.44:2080#日本 Tokyo Amazon.com  Inc. 59.81 ms
+3.112.36.241:2080#日本 Tokyo Amazon.com  Inc. 59.84 ms
+38.55.106.208:6005#香港 Tsuen Wan VMISS Inc. 60.82 ms
+38.55.106.245:6005#香港 Tsuen Wan VMISS Inc. 63.80 ms
+38.47.126.69:6005#日本 Tokyo NPO G-net 66.86 ms
+150.5.166.156:7091#美国 Boston SkyQuantum Internet Service 74.30 ms
+150.5.166.156:7210#美国 Boston SkyQuantum Internet Service 74.60 ms
+54.151.160.36:2080#新加坡 Singapore Amazon.com  Inc. 74.89 ms
+18.143.169.187:2080#新加坡 Singapore Amazon.com  Inc. 75.05 ms
+47.129.235.22:2080#新加坡 Singapore Amazon.com  Inc. 75.66 ms
+13.250.6.185:2080#新加坡 Singapore Amazon.com  Inc. 75.91 ms
+54.169.228.182:2080#新加坡 Singapore Amazon.com  Inc. 76.62 ms
+54.151.246.219:2080#新加坡 Singapore Amazon.com  Inc. 76.64 ms
+13.229.91.101:2080#新加坡 Singapore Amazon.com  Inc. 76.66 ms
+54.251.228.111:2080#新加坡 Singapore Amazon.com  Inc. 76.71 ms
+47.129.155.166:2080#新加坡 Singapore Amazon.com  Inc. 76.73 ms
+54.169.174.62:2080#新加坡 Singapore Amazon.com  Inc. 77.14 ms
+54.255.129.221:2080#新加坡 Singapore Amazon.com  Inc. 77.27 ms
+54.151.242.187:2080#新加坡 Singapore Amazon.com  Inc. 77.50 ms
+13.214.213.66:2080#新加坡 Singapore Amazon.com  Inc. 77.53 ms
+54.255.133.243:2080#新加坡 Singapore Amazon.com  Inc. 77.60 ms
+13.229.236.228:2080#新加坡 Singapore Amazon.com  Inc. 77.67 ms
+54.169.224.224:2080#新加坡 Singapore Amazon.com  Inc. 77.77 ms
+13.229.59.119:2080#新加坡 Singapore Amazon.com  Inc. 77.99 ms
+13.212.96.49:2080#新加坡 Singapore Amazon.com  Inc. 78.01 ms
+13.212.95.52:2080#新加坡 Singapore Amazon.com  Inc. 78.24 ms
+13.212.87.168:2080#新加坡 Singapore Amazon.com  Inc. 78.27 ms
+13.229.82.217:2080#新加坡 Singapore Amazon.com  Inc. 78.27 ms
+13.212.249.115:2080#新加坡 Singapore Amazon.com  Inc. 78.36 ms
+13.212.118.220:2080#新加坡 Singapore Amazon.com  Inc. 78.41 ms
+47.128.148.63:2080#新加坡 Singapore Amazon.com  Inc. 78.58 ms
+47.129.255.204:2080#新加坡 Singapore Amazon.com  Inc. 78.68 ms
+18.143.149.74:2080#新加坡 Singapore Amazon.com  Inc. 78.74 ms
+52.74.46.126:2080#新加坡 Singapore Amazon.com  Inc. 78.78 ms
+13.212.90.38:2080#新加坡 Singapore Amazon.com  Inc. 78.98 ms
+18.143.163.241:2080#新加坡 Singapore Amazon.com  Inc. 79.01 ms
+54.169.198.75:2080#新加坡 Singapore Amazon.com  Inc. 79.13 ms
+13.250.24.214:2080#新加坡 Singapore Amazon.com  Inc. 79.14 ms
+54.251.237.214:2080#新加坡 Singapore Amazon.com  Inc. 79.40 ms
+54.169.84.120:2080#新加坡 Singapore Amazon.com  Inc. 79.41 ms
+47.129.159.137:2080#新加坡 Singapore Amazon.com  Inc. 79.47 ms
+18.143.167.6:2080#新加坡 Singapore Amazon.com  Inc. 79.65 ms
+59.127.212.110:4431#台湾 Kaohsiung Chunghwa Telecom Co. Ltd. 79.70 ms
+13.250.53.203:2080#新加坡 Singapore Amazon.com  Inc. 79.72 ms
+47.128.216.221:2080#新加坡 Singapore Amazon.com  Inc. 79.78 ms
+52.221.234.145:2080#新加坡 Singapore Amazon.com  Inc. 79.86 ms
+13.212.190.30:2080#新加坡 Singapore Amazon.com  Inc. 79.99 ms
+54.151.156.21:2080#新加坡 Singapore Amazon.com  Inc. 80.12 ms
+13.229.89.107:2080#新加坡 Singapore Amazon.com  Inc. 80.15 ms
+13.212.212.210:2080#新加坡 Singapore Amazon.com  Inc. 80.36 ms
+54.251.149.207:2080#新加坡 Singapore Amazon.com  Inc. 80.38 ms
+13.250.21.56:2080#新加坡 Singapore Amazon.com  Inc. 80.65 ms
+54.254.170.180:2080#新加坡 Singapore Amazon.com  Inc. 80.76 ms
+13.212.55.110:2080#新加坡 Singapore Amazon.com  Inc. 80.79 ms
+18.143.144.220:2080#新加坡 Singapore Amazon.com  Inc. 80.80 ms
+52.221.233.141:2080#新加坡 Singapore Amazon.com  Inc. 80.87 ms
+13.212.235.123:2080#新加坡 Singapore Amazon.com  Inc. 80.96 ms
+13.212.207.226:2080#新加坡 Singapore Amazon.com  Inc. 81.10 ms
+47.128.223.25:2080#新加坡 Singapore Amazon.com  Inc. 81.18 ms
+13.212.76.116:2080#新加坡 Singapore Amazon.com  Inc. 81.23 ms
+13.212.186.198:2080#新加坡 Singapore Amazon.com  Inc. 81.29 ms
+13.212.195.89:2080#新加坡 Singapore Amazon.com  Inc. 81.30 ms
+54.255.222.157:2080#新加坡 Singapore Amazon.com  Inc. 81.32 ms
+54.254.197.64:2080#新加坡 Singapore Amazon.com  Inc. 81.35 ms
+13.213.12.171:2080#新加坡 Singapore Amazon.com  Inc. 81.45 ms
+13.229.57.163:2080#新加坡 Singapore Amazon.com  Inc. 81.46 ms
+13.250.6.249:2080#新加坡 Singapore Amazon.com  Inc. 81.51 ms
+13.250.114.105:2080#新加坡 Singapore Amazon.com  Inc. 81.58 ms
+47.128.71.222:2080#新加坡 Singapore Amazon.com  Inc. 81.63 ms
+52.77.237.40:2080#新加坡 Singapore Amazon.com  Inc. 81.67 ms
+13.212.14.88:2080#新加坡 Singapore Amazon.com  Inc. 81.78 ms
+47.128.14.9:2080#新加坡 Singapore Amazon.com  Inc. 82.15 ms
+47.129.174.248:2080#新加坡 Singapore Amazon.com  Inc. 82.32 ms
+18.143.176.211:2080#新加坡 Singapore Amazon.com  Inc. 82.36 ms
+54.254.38.161:2080#新加坡 Singapore Amazon.com  Inc. 82.76 ms
+13.212.144.250:2080#新加坡 Singapore Amazon.com  Inc. 83.18 ms
+13.250.8.222:2080#新加坡 Singapore Amazon.com  Inc. 83.89 ms
+13.229.54.109:2080#新加坡 Singapore Amazon.com  Inc. 84.17 ms
+13.250.6.200:2080#新加坡 Singapore Amazon.com  Inc. 84.79 ms
+150.249.255.91:3128#日本 Tokyo ESS Corp. 85.50 ms
+47.129.205.189:2080#新加坡 Singapore Amazon.com  Inc. 86.21 ms
+47.129.200.52:2080#新加坡 Singapore Amazon.com  Inc. 86.62 ms
+54.169.52.51:2080#新加坡 Singapore Amazon.com  Inc. 87.06 ms
+18.162.167.120:11002#美国 San Jose Amazon Technologies Inc. 108.64 ms
+18.162.167.120:11001#法国 Paris Amazon Data Services France 114.55 ms
+103.39.78.4:10000#香港 Tung Chung FLAT A5  9F 121.07 ms
+85.234.69.183:3128#德国 Eschborn G-Core Labs S.A. 160.51 ms
+89.208.85.78:18080#俄罗斯 Moscow VK Cloud Solutions 162.80 ms
+13.239.235.195:2080#澳大利亚 Sydney Amazon.com  Inc. 167.59 ms
+52.62.218.74:2080#澳大利亚 Sydney Amazon.com  Inc. 169.74 ms
+13.210.244.98:2080#澳大利亚 Sydney Amazon.com  Inc. 170.62 ms
+16.176.5.112:2080#澳大利亚 Sydney Amazon.com  Inc. 172.31 ms
+13.236.178.215:2080#澳大利亚 Sydney Amazon.com  Inc. 172.43 ms
+54.253.162.129:2080#澳大利亚 Sydney Amazon.com  Inc. 172.68 ms
+156.232.97.2:7931#美国 Boston SkyQuantum Internet Service 175.32 ms
+3.106.226.192:2080#澳大利亚 Sydney Amazon.com  Inc. 176.57 ms
+18.199.164.145:2080#德国 Frankfurt am Main Amazon Data Services Ireland Ltd 178.21 ms
+3.67.226.227:2080#德国 Frankfurt am Main Amazon Data Services Ireland Ltd 181.25 ms
+170.106.174.87:12345#美国 Santa Clara 6 COLLYER QUAY 182.40 ms
+170.64.176.197:1088#澳大利亚 Sydney DigitalOcean  LLC 183.65 ms
+3.79.103.111:2080#德国 Frankfurt am Main Amazon Data Services Ireland Ltd 184.90 ms
+63.177.248.228:2080#德国 Frankfurt am Main Amazon Data Services Ireland Ltd 184.94 ms
+18.196.64.94:2080#德国 Frankfurt am Main Amazon Data Services Ireland Ltd 185.17 ms
+43.130.59.248:12345#美国 Santa Clara 6 COLLYER QUAY 185.92 ms
+45.63.101.197:9006#英国 London Cloudflare London  LLC 189.42 ms
+3.71.195.250:2080#德国 Frankfurt am Main Amazon Data Services Ireland Ltd 189.69 ms
+205.198.70.167:22222#美国 San Jose Eons Data Communications Limited 189.88 ms
