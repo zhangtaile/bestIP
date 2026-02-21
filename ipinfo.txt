@@ -1,51 +1,55 @@
-43.218.77.16:1443#ID Amazon.com 91.60 ms
-156.59.91.176:443#US Zenlayer 44.35 ms
-156.251.180.181:21698#US Cnservers LLC 57.36 ms
-192.252.182.52:7602#US CTG Server 93.77 ms
-104.194.84.243:443#US IT7 Networks 156.83 ms
-67.226.221.104:443#US Amazon.com 159.75 ms
-67.226.221.100:80#US Amazon.com 160.32 ms
-142.171.243.209:2053#US Multacom Corporation 162.14 ms
-173.242.123.213:443#US IT7 Networks Inc 163.20 ms
-65.49.192.225:58564#US IT7 Networks 164.14 ms
-89.208.253.189:443#US IT7 Networks 167.61 ms
-107.182.27.151:443#US IT7 Networks Inc 167.74 ms
-173.249.201.109:54443#US tzulo 169.22 ms
-45.146.82.107:35292#US Zhejiang Aiyun Network Technology Co 173.40 ms
-142.171.30.214:443#US Cloudflare Warp 174.73 ms
-23.94.43.51:443#US ColoCrossing 175.95 ms
-24.144.83.222:23131#US Digital Ocean 176.35 ms
-142.171.140.152:443#US Cloudflare Warp 177.36 ms
-67.226.221.102:80#US Amazon.com 178.20 ms
-67.226.221.104:80#US Amazon.com 178.34 ms
-206.223.84.247:443#US Netlab-sdn 178.72 ms
-142.171.204.111:30843#US Multacom Corporation 180.15 ms
-154.91.84.10:8443#SG TERAEXCH 47.21 ms
-8.222.165.104:443#SG Alibaba 75.06 ms
-8.222.178.214:6666#SG Alibaba 75.15 ms
-8.219.14.21:23943#SG Alibaba 76.14 ms
-13.250.14.76:443#SG Amazon.com 81.87 ms
-47.245.95.160:1443#SG Alibaba 92.14 ms
-8.219.1.169:443#SG Alibaba 97.34 ms
-161.117.249.114:2025#SG Alibaba Cloud 100.71 ms
-49.12.2.21:8080#DE Hetzner Online 137.10 ms
-95.179.248.251:2052#DE Vultr 144.12 ms
-18.196.70.197:443#DE Amazon.com 174.43 ms
-3.127.55.133:443#DE Amazon.com 177.94 ms
-62.133.60.14:8443#DE Global Connectivity Solutions Llp 178.64 ms
-146.103.33.57:443#NL Serva One 144.70 ms
-194.5.97.149:443#NL Freemesh - non-commercial Networks 145.88 ms
-146.0.79.50:443#NL Hostkey 150.18 ms
-46.17.102.93:443#NL Hostkey 150.42 ms
-176.222.55.17:443#NL Hostkey 151.81 ms
-85.192.56.132:443#NL Aeza International 155.71 ms
-91.201.112.15:443#NL Servers Tech Fzco 156.70 ms
-5.255.99.242:443#NL The Infrastructure Group 157.50 ms
-77.246.108.130:443#NL Servers Tech Fzco 160.93 ms
-88.210.11.164:22284#NL Servers Tech Fzco 166.22 ms
-46.17.102.9:443#NL Hostkey 171.16 ms
-93.185.166.193:443#NL PQ HOSTING S.R.L 173.58 ms
-213.183.51.71:443#NL Melbikomas UAB 175.37 ms
-46.29.237.58:443#NL Ztv Corp 176.91 ms
-81.22.132.219:443#NL Serva One 178.01 ms
-192.210.160.163:1001#NL ColoCrossing 178.37 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 46.94 ms
+59.15.182.92:30016#KR Sudogwonseobubonbu 54.46 ms
+8.209.220.50:21273#JP Shiodome Sumitomo Blog 1-9-2 TOKYO 60.48 ms
+158.101.154.245:47001#JP Oracle Public Cloud 66.37 ms
+158.101.152.6:2919#JP Oracle Public Cloud 66.89 ms
+140.238.37.103:14782#JP Oracle Public Cloud 67.16 ms
+131.186.63.89:11655#JP Oracle Public Cloud 68.26 ms
+161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 74.87 ms
+192.252.182.52:7602#HK Integen  Inc 86.82 ms
+152.69.227.97:587#KR Oracle Corporation 89.42 ms
+43.218.77.16:1443#ID Amazon.com  Inc. 92.58 ms
+144.24.84.212:49888#KR Oracle Corp UK Ltd 92.71 ms
+43.218.77.16:443#ID Amazon.com  Inc. 95.03 ms
+152.69.229.175:22558#KR Oracle Corporation 96.76 ms
+147.45.147.212:8443#RU JSC TIMEWEB 97.67 ms
+147.45.147.212:2053#RU JSC TIMEWEB 101.41 ms
+52.141.25.42:443#KR Microsoft Corporation 115.49 ms
+192.131.142.161:46639#HK 365 Group LLC 122.96 ms
+150.230.214.172:16957#JP Oracle Corporation 129.42 ms
+35.176.229.223:443#GB Securly  Inc 142.21 ms
+81.22.132.136:443#NL Internet Utilities Europe and Asia Limited 144.77 ms
+185.244.49.38:443#NL Snowd Security OU 149.59 ms
+146.0.79.28:8443#NL HOSTKEY B.V. 152.12 ms
+66.151.42.239:443#NL undefined 152.48 ms
+88.210.9.239:443#NL Cloudflare London  LLC 153.23 ms
+45.139.184.183:2053#RU LLC Vpsville 155.15 ms
+194.180.188.253:8443#DE HOSTKEY B.V. 155.70 ms
+67.226.221.100:80#US Securly  Inc 156.61 ms
+37.221.125.147:2053#DE WorkTitans B.V. 158.43 ms
+193.178.172.225:2053#NL SERVERS TECH FZCO 158.60 ms
+146.0.73.211:443#NL HOSTKEY B.V. 160.33 ms
+46.8.158.69:2053#CH Datacamp Limited 160.41 ms
+45.144.167.46:19816#TH ReadyIDC Co.  Ltd. 160.51 ms
+194.67.204.158:2053#RU PSERVERS Enterprise Network 160.89 ms
+146.103.33.38:443#NL Brander Group Inc 161.43 ms
+194.67.204.158:8443#RU PSERVERS Enterprise Network 161.65 ms
+185.105.117.222:443#RU PSERVERS Enterprise Network 161.69 ms
+45.67.34.74:2053#RO WorkTitans B.V. 161.90 ms
+195.226.194.222:8443#NL Snowd Security OU 162.47 ms
+152.69.199.70:8443#JP Oracle Corporation 163.55 ms
+46.229.212.218:8443#RU JSC TIMEWEB 163.72 ms
+194.87.252.135:8443#RU Baykov Ilya Sergeevich 164.39 ms
+90.156.211.232:8443#RU JSC TIMEWEB 166.19 ms
+67.226.221.102:443#US Securly  Inc 166.82 ms
+95.163.240.24:8443#RU Reg.Ru Hosting 167.68 ms
+85.198.109.79:8443#RU Hosting technology LTD 169.44 ms
+89.111.172.106:2053#RU Domain names registrar REG.RU  Ltd 172.03 ms
+67.226.221.104:443#US Securly  Inc 172.40 ms
+173.249.201.109:54443#US tzulo  inc. 172.45 ms
+3.68.62.122:443#DE Amazon Data Services Ireland Ltd 174.53 ms
+185.130.225.218:443#NL HOSTKEY B.V. 176.48 ms
+91.149.239.122:443#US BG-NETWORK 176.70 ms
+51.250.15.177:2053#RU Yandex.Cloud LLC 176.98 ms
+18.198.227.161:443#DE A100 ROW GmbH 177.07 ms
+82.148.30.224:443#RU Selectel Network 177.10 ms
