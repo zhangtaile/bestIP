@@ -67,7 +67,7 @@ def parse_address(address: str) -> Tuple[str, int, List[str]]:
     if not validate_port(port):
         raise ValidationError(f"Port out of range (1-65535): {port}")
     
-    info = parts[2:] if len(parts) > 2 else []
+    info = [part.strip() for part in parts[2:]] if len(parts) > 2 else []
     return ip, port, info
 
 
