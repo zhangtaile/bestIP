@@ -1,55 +1,50 @@
-192.252.182.52:7602#HK Integen  Inc 49.35 ms
-59.15.182.92:30017#KR Sudogwonseobubonbu 51.97 ms
-8.209.220.50:21273#JP Shiodome Sumitomo Blog 1-9-2 TOKYO 61.19 ms
-47.76.218.163:443#HK Alibaba Cloud - HK 62.74 ms
-43.154.124.136:26666#HK 6 COLLYER QUAY 65.60 ms
-150.230.204.21:10243#JP Oracle Corporation 73.38 ms
-138.3.222.124:46209#JP Oracle Network Information Services 73.77 ms
-138.2.10.217:27446#JP Oracle Corporation 74.04 ms
-158.101.154.245:47001#JP Oracle Public Cloud 74.10 ms
-150.230.214.172:16957#JP Oracle Corporation 75.93 ms
-138.2.12.103:14453#JP Cloudflare London  LLC 76.29 ms
-161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 76.96 ms
-141.147.183.49:29876#JP Oracle Corporation 77.63 ms
-152.69.227.97:587#KR Oracle Corporation 93.98 ms
-152.67.211.114:58337#KR Oracle Public Cloud 96.50 ms
-152.69.229.175:22558#KR Oracle Corporation 103.66 ms
-147.45.147.212:2053#RU JSC TIMEWEB 106.00 ms
-147.45.147.212:8443#RU JSC TIMEWEB 113.56 ms
-52.141.25.42:443#KR Microsoft Corporation 118.65 ms
-146.0.73.211:443#NL HOSTKEY B.V. 140.26 ms
-81.22.132.183:443#NL Internet Utilities Europe and Asia Limited 143.94 ms
-94.159.98.23:2053#DE H2.NEXUS Frankfurt Network 145.19 ms
-45.149.186.112:8080#HK HYTRON NETWORK HK 146.56 ms
-2.59.183.233:444#NL SERVA ONE LTD 151.32 ms
-46.17.102.249:2053#NL HOSTKEY B.V. 151.70 ms
-46.17.97.207:2053#NL HOSTKEY B.V. 151.76 ms
-176.222.55.17:443#NL HOSTKEY B.V. 152.33 ms
-176.222.55.163:443#NL HOSTKEY B.V. 152.95 ms
-5.39.219.35:443#NL HOSTKEY B.V. 153.67 ms
-176.97.66.175:443#AE 3nt solutions LLP 155.62 ms
-3.9.223.59:443#GB Securly  Inc 156.69 ms
-46.17.102.93:443#NL HOSTKEY B.V. 157.85 ms
-156.230.12.71:443#CN 263 Shanghai Communications Ltd. 159.10 ms
-93.183.94.78:6379#DE OVH GmbH 161.02 ms
-35.176.229.223:443#GB Securly  Inc 162.06 ms
-88.210.11.164:22285#NL Amsterdam  Netherlands 163.87 ms
-193.178.172.225:2053#NL SERVERS TECH FZCO 165.46 ms
-81.22.132.44:443#NL Internet Utilities Europe and Asia Limited 166.73 ms
-85.198.109.79:8443#RU Hosting technology LTD 167.23 ms
-3.67.232.136:443#DE A100 ROW GmbH 169.02 ms
-2.59.183.140:443#NL SERVA ONE LTD 169.29 ms
-18.193.131.26:443#DE A100 ROW GmbH 170.69 ms
-51.250.15.177:8443#RU Yandex.Cloud LLC 171.11 ms
-94.103.95.115:443#NL Amsterdam  Netherlands 171.49 ms
-163.5.207.235:443#NL SERVA ONE LTD 176.58 ms
-85.209.195.61:2053#DE WorkTitans B.V. 177.65 ms
-3.69.0.8:443#DE A100 ROW GmbH 179.43 ms
-206.223.84.247:443#US Atlantic Cellular Management Company 181.17 ms
-167.234.216.84:65501#US Oracle Corporation 181.87 ms
-134.195.137.107:22473#IN ReadyDedis  LLC 182.05 ms
-192.9.250.241:443#US Oracle Corporation 182.52 ms
-18.185.254.189:443#DE A100 ROW GmbH 182.67 ms
-91.228.154.170:8443#DE www.fornex.com  Fornex Hosting S.L. 183.78 ms
-158.178.206.197:8443#FR Oracle Corporation 184.99 ms
-5.187.7.200:21821#DE www.fornex.com  Fornex Hosting S.L. 186.20 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 44.18 ms
+192.252.182.52:7602#HK Integen  Inc 46.97 ms
+13.230.34.30:443#JP Amazon Data Services Japan 60.80 ms
+18.183.158.211:443#JP Amazon Data Services Japan 62.75 ms
+158.101.146.3:54516#JP Oracle Public Cloud 66.49 ms
+140.238.37.103:14782#JP Oracle Public Cloud 66.89 ms
+138.2.18.82:8880#JP Oracle Corporation 67.69 ms
+158.101.154.245:47001#JP Oracle Public Cloud 68.68 ms
+168.138.192.16:54584#JP Oracle Public Cloud 69.83 ms
+158.101.146.3:44872#JP Oracle Public Cloud 71.61 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 84.68 ms
+161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 87.92 ms
+129.154.54.67:19567#KR Oracle Corporation 91.91 ms
+43.218.77.16:1443#ID Amazon.com  Inc. 92.19 ms
+152.69.227.97:587#KR Oracle Corporation 92.40 ms
+146.56.99.255:56789#KR Oracle Corporation   Global software solutions   California   USA 92.49 ms
+152.69.229.175:22558#KR Oracle Corporation 92.51 ms
+150.230.254.21:1443#KR Oracle Corporation 92.89 ms
+129.154.48.176:36355#KR Oracle Corporation 93.08 ms
+144.24.87.69:50001#KR Oracle Corporation 93.44 ms
+43.218.77.16:443#ID Amazon.com  Inc. 93.95 ms
+147.45.147.212:8443#RU JSC TIMEWEB 99.84 ms
+144.24.84.212:49888#KR Oracle Corp UK Ltd 101.02 ms
+141.98.197.101:11665#JP xTom Japan Corporation 111.21 ms
+147.45.147.212:2053#RU JSC TIMEWEB 112.83 ms
+52.141.25.42:443#KR Microsoft Corporation 115.08 ms
+192.131.142.161:46639#HK 365 Group LLC 123.95 ms
+45.144.167.46:19816#TH ReadyIDC Co.  Ltd. 127.60 ms
+87.120.237.36:81#IT G-Core Labs S.A. 144.64 ms
+5.255.118.176:443#NL The Infrastructure Group B.V. 146.69 ms
+35.176.229.223:80#GB Securly  Inc 147.28 ms
+195.226.194.222:8443#NL Snowd Security OU 150.27 ms
+88.210.9.239:443#NL Amsterdam  Netherlands 150.64 ms
+31.44.2.57:443#NL ITGLOBAL.COM NL B.V. 152.50 ms
+217.110.20.141:443#DE Colt DC 154.70 ms
+31.25.29.199:443#GB Aeza International LTD 155.12 ms
+94.103.95.115:443#NL Amsterdam  Netherlands 156.23 ms
+173.242.123.189:51042#US Cluster Logic Inc 156.50 ms
+194.87.252.135:2053#RU Baykov Ilya Sergeevich 157.72 ms
+176.97.66.175:443#AE 3nt solutions LLP 159.07 ms
+212.118.40.20:8443#NL Amsterdam  Netherlands 159.10 ms
+37.120.186.205:2083#DE netcup GmbH 160.34 ms
+67.226.221.100:80#US Securly  Inc 160.87 ms
+20.235.105.146:443#IN Microsoft Corporation 161.19 ms
+213.183.59.144:8443#NL Melbicom infrastructure 161.99 ms
+142.171.140.152:443#US MULTACOM CORPORATION 163.05 ms
+74.48.179.37:10725#US MULTACOM CORPORATION 164.44 ms
+194.67.204.158:2053#RU PSERVERS Enterprise Network 164.52 ms
+45.139.184.183:2053#RU LLC Vpsville 165.74 ms
+103.231.73.153:443#LV WorkTitans B.V. 166.19 ms
