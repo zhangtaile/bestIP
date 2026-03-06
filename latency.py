@@ -51,16 +51,16 @@ def parse_address(address: str) -> Tuple[str, int, List[str]]:
     Raises:
         ValidationError: If format is invalid or values are out of range.
     """
-    parts = address.strip().split(',')
+    parts = [p.strip() for p in address.strip().split(',')]
     if len(parts) < 2:
         raise ValidationError(f"Invalid format: {address}")
     
-    ip = parts[0].strip()
+    ip = parts[0]
     if not validate_ip(ip):
         raise ValidationError(f"Invalid IP address: {ip}")
     
     try:
-        port = int(parts[1].strip())
+        port = int(parts[1])
     except ValueError:
         raise ValidationError(f"Invalid port number: {parts[1]}")
     
