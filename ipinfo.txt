@@ -1,55 +1,55 @@
-43.154.124.136:26666#HK 6 COLLYER QUAY 44.13 ms
-43.132.244.52:21415#HK 6 COLLYER QUAY 46.07 ms
-47.76.218.163:443#HK Alibaba Cloud - HK 46.63 ms
-18.183.158.211:443#JP Amazon Data Services Japan 60.17 ms
-158.101.146.3:54516#JP Oracle Public Cloud 75.69 ms
-13.250.131.37:443#SG Amazon Data Services Singapore 76.09 ms
-138.2.10.217:27446#JP Oracle Corporation 78.20 ms
-161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 80.23 ms
-138.3.222.124:46209#JP Oracle Network Information Services 83.53 ms
-158.101.146.3:44872#JP Oracle Public Cloud 86.99 ms
-43.218.77.16:1443#ID Amazon.com  Inc. 96.00 ms
-43.218.77.16:443#ID Amazon.com  Inc. 96.83 ms
-147.45.147.212:2053#RU JSC TIMEWEB 98.58 ms
-129.154.54.67:19567#KR Oracle Corporation 99.51 ms
-150.230.254.21:1443#KR Oracle Corporation 99.70 ms
-147.45.147.212:8443#RU JSC TIMEWEB 100.57 ms
-1.177.81.20:10647#KR HVJungbusan 102.26 ms
-146.56.99.255:56789#KR Oracle Corporation   Global software solutions   California   USA 103.18 ms
-138.2.122.197:39863#KR Oracle Corporation 109.63 ms
-52.141.25.42:443#KR Microsoft Corporation 115.20 ms
-141.98.197.101:11665#JP xTom Japan Corporation 125.18 ms
-45.144.167.46:19816#TH ReadyIDC Co.  Ltd. 132.77 ms
-163.5.207.124:443#NL SERVA ONE LTD 142.74 ms
-81.22.132.136:443#NL Internet Utilities Europe and Asia Limited 146.10 ms
-20.235.105.146:443#IN Microsoft Corporation 149.56 ms
-193.109.69.48:443#NL HOSTKEY B.V. 149.78 ms
-176.222.55.163:443#NL HOSTKEY B.V. 150.17 ms
-2.59.183.140:443#NL SERVA ONE LTD 152.11 ms
-185.130.225.218:443#NL HOSTKEY B.V. 154.27 ms
-2.59.183.210:443#NL SERVA ONE LTD 157.45 ms
-2.59.183.181:443#NL SERVA ONE LTD 159.23 ms
-156.154.245.83:443#US Vercara  LLC 159.66 ms
-193.42.62.215:8443#FR Mo's Operations GmbH 161.45 ms
-63.32.194.15:8443#IE Amazon Data Services Ireland Limited 161.62 ms
-185.105.89.125:16092#RU FIRST SERVER LIMITED 162.16 ms
-35.157.240.237:443#DE Amazon Data Services Ireland Ltd 162.30 ms
-89.111.172.106:8443#RU Domain names registrar REG.RU  Ltd 167.58 ms
-184.169.181.217:443#US Amazon.com  Inc. 169.82 ms
-85.193.91.193:2053#RU JSC TIMEWEB 170.07 ms
-45.95.203.214:8443#RU FIRST SERVER LIMITED 170.16 ms
-142.171.140.152:443#US MULTACOM CORPORATION 172.09 ms
-67.226.221.102:80#US Securly  Inc 172.43 ms
-188.225.34.155:443#RU TimeWeb Ltd. 172.80 ms
-91.149.239.198:443#US BG-NETWORK 173.25 ms
-194.9.6.32:48484#DE dataforest GmbH 175.16 ms
-210.6.207.42:18622#HK Hong Kong Broadband Network Ltd 175.98 ms
-36.50.90.241:35951#HK IoT Innovation Technologies Company Limited 176.78 ms
-31.172.71.51:444#DE www.fornex.com  Fornex Hosting S.L. 176.86 ms
-67.226.221.104:443#US Securly  Inc 176.92 ms
-3.66.115.225:443#DE Amazon Data Services Ireland Ltd 178.59 ms
-43.153.61.80:40874#US 6 COLLYER QUAY 178.67 ms
-31.129.49.103:443#RU Selectel Network 179.98 ms
-91.149.239.122:443#US BG-NETWORK 179.99 ms
-85.209.195.61:2053#DE WorkTitans B.V. 180.76 ms
-91.149.239.206:443#US BG-NETWORK 180.86 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 61.64 ms
+43.132.244.52:21415#HK 6 COLLYER QUAY 61.98 ms
+8.209.220.50:21273#JP Shiodome Sumitomo Blog 1-9-2 TOKYO 65.52 ms
+18.183.158.211:443#JP Amazon Data Services Japan 66.96 ms
+43.154.124.136:26666#HK 6 COLLYER QUAY 67.35 ms
+150.230.204.21:10243#JP Oracle Corporation 78.97 ms
+45.77.25.6:48828#JP Vultr Holdings  LLC 83.45 ms
+138.2.10.149:45638#JP Oracle Corporation 84.48 ms
+168.138.197.147:12345#JP Oracle Public Cloud 86.47 ms
+45.76.192.129:24434#JP Vultr Holdings  LLC 88.66 ms
+45.11.1.118:44004#JP CEGRGO-DigitalVM LLC - Tokyo 90.37 ms
+161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 94.31 ms
+1.177.81.20:10647#KR HVJungbusan 100.99 ms
+43.218.77.16:1443#ID Amazon.com  Inc. 105.03 ms
+43.218.77.16:443#ID Amazon.com  Inc. 105.35 ms
+150.230.254.21:1443#KR Oracle Corporation 106.88 ms
+138.2.122.197:39863#KR Oracle Corporation 107.04 ms
+146.56.99.255:56789#KR Oracle Corporation   Global software solutions   California   USA 108.18 ms
+13.250.131.37:443#SG Amazon Data Services Singapore 113.83 ms
+52.141.25.42:443#KR Microsoft Corporation 120.89 ms
+147.45.147.212:8443#RU JSC TIMEWEB 124.96 ms
+23.95.61.179:15160#US RackNerd LLC 166.24 ms
+2.59.183.181:443#NL SERVA ONE LTD 167.58 ms
+20.235.105.146:443#IN Microsoft Corporation 172.08 ms
+63.32.194.15:8443#IE Amazon Data Services Ireland Limited 173.92 ms
+82.97.254.184:2053#RU Timeweb  LLP 177.59 ms
+88.218.76.250:2053#FR RACKNERD-FR 181.52 ms
+193.42.62.215:8443#FR Mo's Operations GmbH 182.49 ms
+140.83.57.20:13118#JP imported inetnum object for OCPL-1 183.12 ms
+142.171.140.152:443#US MULTACOM CORPORATION 184.19 ms
+95.169.26.188:38557#US Cluster Logic Inc 189.03 ms
+185.130.225.218:443#NL HOSTKEY B.V. 189.76 ms
+36.50.90.241:35951#HK IoT Innovation Technologies Company Limited 191.36 ms
+18.144.44.213:80#US Amazon.com  Inc. 191.60 ms
+67.226.221.135:80#US Securly  Inc 193.01 ms
+92.241.18.106:443#RU JSC Svyazinform 193.46 ms
+45.144.167.46:19816#TH ReadyIDC Co.  Ltd. 194.10 ms
+31.129.48.139:443#RU Selectel Network 194.39 ms
+192.9.228.70:14123#US Oracle Corporation 196.10 ms
+3.68.31.54:443#DE Amazon Data Services Ireland Ltd 197.16 ms
+129.159.37.19:30488#US Oracle Corporation 197.40 ms
+138.2.235.230:22731#US Oracle Corporation 197.90 ms
+89.169.8.105:443#NL Medvedev Vladislav Olegovich 200.16 ms
+213.170.157.1:443#US RedShield Security Ltd 200.17 ms
+67.226.221.100:80#US Securly  Inc 201.52 ms
+64.64.227.230:7788#US Cluster Logic Inc 201.65 ms
+192.9.135.182:7800#US Oracle Corporation 201.73 ms
+67.226.221.104:80#US Securly  Inc 202.80 ms
+142.171.156.141:21182#US MULTACOM CORPORATION 202.99 ms
+67.226.221.102:80#US Securly  Inc 203.35 ms
+67.226.221.104:443#US Securly  Inc 204.07 ms
+89.150.35.129:443#NL CLODO CLOUD SERVICE CO. L.L.C 204.66 ms
+2.59.183.210:443#NL SERVA ONE LTD 205.61 ms
+67.226.221.102:443#US Securly  Inc 206.88 ms
+184.169.181.217:443#US Amazon.com  Inc. 207.16 ms
