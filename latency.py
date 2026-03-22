@@ -7,6 +7,7 @@ import argparse
 import sys
 import re
 import logging
+import ssl
 
 logging.basicConfig(
     level=logging.INFO,
@@ -71,13 +72,16 @@ def parse_address(address: str) -> Tuple[str, int, List[str]]:
     return ip, port, info
 
 
-def measure_latency(parsed_addr: Tuple[str, int, str], timeout: float = 5.0) -> Tuple[str, float, Optional[str]]:
+def measure_latency(parsed_addr: Tuple[str, int, str], timeout: float = 5.0, worker_domain: str = None) -> Tuple[str, float, Optional[str]]:
     """
-    Measures the TCP connection latency to a given address.
+    Measures the connection latency to a given address.
+    If worker_domain is provided, performs an end-to-end HTTP(S) GET request via the IP.
+    Otherwise, performs a simple TCP connect.
 
     Args:
         parsed_addr: Tuple of (ip, port, original_address).
         timeout: Socket timeout in seconds.
+        worker_domain: The Cloudflare Worker domain to test end-to-end latency.
 
     Returns:
         A tuple containing the original address, latency in milliseconds, and error message.
@@ -87,7 +91,36 @@ def measure_latency(parsed_addr: Tuple[str, int, str], timeout: float = 5.0) -> 
     try:
         start_time = time.perf_counter()
         
-        with socket.create_connection((ip, port), timeout=timeout) as sock:
+        if not worker_domain:
+            # Standard TCP Connect Ping
+            with socket.create_connection((ip, port), timeout=timeout) as sock:
+                end_time = time.perf_counter()
+                latency_ms = (end_time - start_time) * 1000
+                return original_address, latency_ms, None
+        else:
+            # End-to-end HTTP(S) Ping
+            # Determine if TLS should be used based on typical Cloudflare HTTPS ports
+            use_ssl = port in [443, 8443, 2053, 2083, 2087, 2096]
+            
+            with socket.create_connection((ip, port), timeout=timeout) as sock:
+                if use_ssl:
+                    context = ssl.create_default_context()
+                    context.check_hostname = False
+                    context.verify_mode = ssl.CERT_NONE  # Connecting via IP, so standard validation fails
+                    with context.wrap_socket(sock, server_hostname=worker_domain) as ssock:
+                        request = f"GET /ping HTTP/1.1\r\nHost: {worker_domain}\r\nConnection: close\r\n\r\n"
+                        ssock.sendall(request.encode('utf-8'))
+                        # Read response until we get the headers
+                        response = ssock.recv(1024)
+                        if not response.startswith(b"HTTP/"):
+                            raise ValueError("Invalid HTTP response")
+                else:
+                    request = f"GET /ping HTTP/1.1\r\nHost: {worker_domain}\r\nConnection: close\r\n\r\n"
+                    sock.sendall(request.encode('utf-8'))
+                    response = sock.recv(1024)
+                    if not response.startswith(b"HTTP/"):
+                        raise ValueError("Invalid HTTP response")
+                        
             end_time = time.perf_counter()
             latency_ms = (end_time - start_time) * 1000
             return original_address, latency_ms, None
@@ -96,7 +129,7 @@ def measure_latency(parsed_addr: Tuple[str, int, str], timeout: float = 5.0) -> 
         return original_address, float('inf'), "Connection timeout"
     except ConnectionRefusedError:
         return original_address, float('inf'), "Connection refused"
-    except OSError as e:
+    except Exception as e:
         return original_address, float('inf'), f"Network error: {e}"
 
 def save_results(results: Dict[str, List[float]], output_filename: str) -> None:
@@ -143,12 +176,13 @@ def save_results(results: Dict[str, List[float]], output_filename: str) -> None:
         logger.error(f"Error saving results: {e}")
 
 def main():
-    parser = argparse.ArgumentParser(description="Multi-threaded TCP Latency Tester")
+    parser = argparse.ArgumentParser(description="Multi-threaded TCP/HTTP Latency Tester")
     parser.add_argument("-i", "--input", default="proxy.txt", help="Input file containing proxies (IP,Port,...)")
     parser.add_argument("-o", "--output", default="latencyresult.txt", help="Output file for sorted results")
     parser.add_argument("-t", "--threads", type=int, default=5, help="Number of concurrent threads (default: 5)")
     parser.add_argument("-l", "--loops", type=int, default=3, help="Number of testing loops (default: 3)")
     parser.add_argument("--timeout", type=float, default=5.0, help="Connection timeout in seconds (default: 5.0)")
+    parser.add_argument("--worker", type=str, default=None, help="Cloudflare Worker domain to test end-to-end latency (e.g. myworker.username.workers.dev)")
     
     args = parser.parse_args()
 
@@ -184,7 +218,13 @@ def main():
         logger.warning(f"Skipped {invalid_count} invalid addresses.")
 
     logger.info(f"Loaded {len(parsed_addresses)} proxies.")
-    logger.info(f"Starting latency test with {args.threads} threads, {args.loops} loops, timeout {args.timeout}s.")
+    
+    if args.worker:
+        logger.info(f"Testing end-to-end HTTP(S) latency through proxies to worker: {args.worker}")
+    else:
+        logger.info(f"Testing direct TCP connection latency to proxies.")
+        
+    logger.info(f"Threads: {args.threads}, Loops: {args.loops}, Timeout: {args.timeout}s.")
     logger.info("Press Ctrl+C to stop early and save current results.")
 
     # Dictionary to store latency results: { "original_address": [latency1, latency2, ...] }
@@ -199,7 +239,7 @@ def main():
             
             with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as executor:
                 # Submit all tasks for this loop
-                future_to_address = {executor.submit(measure_latency, addr, args.timeout): addr for addr in parsed_addresses}
+                future_to_address = {executor.submit(measure_latency, addr, args.timeout, args.worker): addr for addr in parsed_addresses}
                 
                 for future in concurrent.futures.as_completed(future_to_address):
                     address, latency, error = future.result()

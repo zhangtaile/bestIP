@@ -18,6 +18,8 @@ else
 fi
 
 echo "--- 正在运行延迟测试 (预计需要几分钟) ---"
+# 如果你想测试真实的端到端延迟，请在下方命令加上 --worker 参数
+# 例如: python3 ./latency.py -t 20 --worker myworker.yourdomain.workers.dev
 python3 ./latency.py -t 20
 
 echo "--- 正在提取前 55 行到 ipinfo.txt ---"
