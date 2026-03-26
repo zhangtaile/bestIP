@@ -1,55 +1,55 @@
-141.11.91.67:8080#HK HYTRON NETWORK HK 16.00 ms
-192.252.182.52:7602#HK Integen  Inc 18.92 ms
-47.76.218.163:443#HK Alibaba Cloud - HK 18.97 ms
-45.149.186.112:8080#HK AKILE LTD 19.20 ms
-43.154.124.136:26666#HK 6 COLLYER QUAY 20.88 ms
-221.125.10.8:57537#HK HGC Global Communications Limited 31.57 ms
-192.131.142.161:46639#HK 365 Group LLC 38.01 ms
-85.208.104.34:8080#HK Internet Utilities Europe and Asia Limited 48.74 ms
-45.32.100.46:13802#SG Vultr Holdings  LLC 51.53 ms
-143.42.66.91:443#SG Viewqwest Pte Ltd 51.91 ms
-161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 54.91 ms
-140.238.5.75:13644#KR Oracle Public Cloud 55.01 ms
-146.56.140.79:44699#KR Cloudflare London  LLC 55.52 ms
-146.56.140.79:20309#KR Cloudflare  Inc. 56.11 ms
-132.145.88.82:38066#KR Oracle Public Cloud 56.15 ms
-129.154.223.89:15800#KR Oracle Corporation 56.45 ms
-146.56.140.79:22561#KR Cloudflare London  LLC 56.61 ms
-132.226.21.116:6056#KR Oracle Public Cloud 56.78 ms
-217.142.138.61:37914#KR Oracle Svenska AB 56.83 ms
-131.186.24.124:587#KR Oracle Public Cloud 57.46 ms
-129.154.54.67:19567#KR Oracle Corporation 57.51 ms
-144.24.87.69:50001#KR Oracle Corporation 57.61 ms
-152.67.211.114:58337#KR Oracle Public Cloud 57.79 ms
-129.154.48.176:36355#KR Oracle Corporation 57.83 ms
-152.69.227.97:587#KR Oracle Corporation 58.23 ms
-152.69.229.175:22558#KR Oracle Corporation 58.39 ms
-52.141.25.42:443#KR Microsoft Corporation 59.82 ms
-38.60.193.247:13300#MY Kaopu Cloud HK Limited 63.01 ms
-45.11.1.118:44004#JP CEGRGO-DigitalVM LLC - Tokyo 65.31 ms
-168.138.165.174:443#SG Oracle Public Cloud 68.35 ms
-45.76.192.129:24434#JP Vultr Holdings  LLC 68.78 ms
-104.248.145.216:443#SG DigitalOcean  LLC 69.70 ms
-45.76.198.248:443#JP Vultr Holdings  LLC 70.47 ms
-185.81.28.95:30503#SG AKILE LTD 73.18 ms
-156.154.245.83:443#US Vercara  LLC 73.43 ms
-45.144.167.46:19816#TH ReadyIDC Co.  Ltd. 77.57 ms
-164.52.2.98:443#SG UCUL-SG 77.74 ms
-138.2.10.149:45638#JP Oracle Corporation 81.10 ms
-103.6.207.108:8080#ID PT Pusat Media Indonesia 81.52 ms
-150.230.5.34:45681#JP Oracle Corporation 83.46 ms
-168.138.197.147:12345#JP Oracle Public Cloud 83.57 ms
-138.2.32.76:15821#JP Oracle Corporation 85.15 ms
-138.3.222.124:46209#JP Oracle Network Information Services 85.16 ms
-138.2.48.109:26412#JP Oracle Corporation 85.27 ms
-138.2.10.217:27446#JP Oracle Corporation 85.98 ms
-168.138.198.7:27560#JP Oracle Public Cloud 86.75 ms
-140.238.37.103:14782#JP Oracle Public Cloud 86.92 ms
-217.142.250.195:587#JP Oracle Corporation 87.90 ms
-150.230.204.21:10243#JP Oracle Corporation 88.05 ms
-64.110.104.30:443#JP Oracle Corporation 88.07 ms
-140.83.57.183:22735#JP imported inetnum object for OCPL-1 88.98 ms
-138.2.59.96:10129#JP Oracle Corporation 89.27 ms
-152.69.192.40:57005#JP Oracle Corporation 89.87 ms
-45.76.183.217:49292#SG Vultr Holdings  LLC 90.16 ms
-138.2.49.197:587#JP Oracle Corporation 90.24 ms
+141.11.91.67:8080#HK HYTRON NETWORK HK 18.17 ms
+192.131.142.161:46639#HK 365 Group LLC 18.96 ms
+45.149.186.112:8080#HK HYTRON NETWORK HK 19.34 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 28.20 ms
+43.154.124.136:26666#HK 6 COLLYER QUAY 29.49 ms
+221.125.10.8:57537#HK HGC Global Communications Limited 32.53 ms
+85.208.104.34:8080#HK Internet Utilities Europe and Asia Limited 55.50 ms
+143.42.66.91:443#SG M1 LIMITED 55.78 ms
+5.34.176.119:81#SG Green Floid LLC 56.59 ms
+131.186.24.124:587#KR Oracle Public Cloud 57.51 ms
+185.81.28.95:30503#SG AKILE LTD 58.35 ms
+132.226.21.116:6056#KR Oracle Public Cloud 58.39 ms
+146.56.140.79:44699#KR Cloudflare London  LLC 58.49 ms
+146.56.140.79:20309#KR Cloudflare  Inc. 58.50 ms
+217.142.138.61:37914#KR Oracle Svenska AB 58.57 ms
+152.69.229.175:22558#KR Oracle Corporation 59.15 ms
+146.56.140.79:22561#KR Cloudflare London  LLC 59.25 ms
+152.67.211.114:58337#KR Oracle Public Cloud 59.35 ms
+91.192.81.154:8443#SG Melbikomas UAB 59.56 ms
+129.154.223.89:15800#KR Oracle Corporation 60.07 ms
+45.32.100.46:13802#SG Vultr Holdings  LLC 60.15 ms
+178.128.80.43:443#SG DigitalOcean  LLC 60.16 ms
+152.69.227.97:587#KR Oracle Corporation 61.22 ms
+129.154.54.67:19567#KR Oracle Corporation 62.34 ms
+38.60.193.247:13300#MY Kaopu Cloud HK Limited 62.35 ms
+164.52.2.98:443#SG UCUL-SG 62.86 ms
+164.52.2.99:443#SG UCUL-SG 64.18 ms
+161.117.249.114:2025#SG 1 Raffles Place  # 59-00 One Raffles Place 64.23 ms
+132.145.88.82:38066#KR Oracle Public Cloud 64.26 ms
+45.76.183.217:49292#SG Vultr Holdings  LLC 64.79 ms
+144.24.87.69:50001#KR Oracle Corporation 65.88 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 65.90 ms
+140.238.37.103:14782#JP Oracle Public Cloud 66.10 ms
+45.11.1.118:44004#JP CEGRGO-DigitalVM LLC - Tokyo 66.74 ms
+129.154.48.176:36355#KR Oracle Corporation 67.46 ms
+52.141.25.42:443#KR Microsoft Corporation 67.73 ms
+140.238.5.75:13644#KR Oracle Corporation 68.07 ms
+104.248.145.216:443#SG DigitalOcean  LLC 68.21 ms
+138.3.222.124:46209#JP Oracle Network Information Services 69.88 ms
+91.192.81.154:2053#SG Melbikomas UAB 69.98 ms
+168.138.197.147:12345#JP Oracle Public Cloud 70.45 ms
+168.138.198.7:27560#JP Oracle Public Cloud 70.80 ms
+141.147.152.229:23333#JP Oracle Corporation 71.16 ms
+140.83.57.183:22735#JP imported inetnum object for OCPL-1 71.20 ms
+152.69.192.40:57005#JP Oracle Corporation 71.75 ms
+168.138.46.67:443#JP Oracle Public Cloud 72.54 ms
+150.230.5.34:45681#JP Oracle Corporation 73.98 ms
+152.70.82.101:18650#JP Oracle Corporation 74.04 ms
+138.2.49.197:587#JP Oracle Corporation 74.54 ms
+150.230.204.21:10243#JP Oracle Corporation 74.68 ms
+158.101.152.6:2919#JP Oracle Public Cloud 74.73 ms
+138.2.59.96:10129#JP Oracle Corporation 74.79 ms
+138.2.32.76:15821#JP Oracle Corporation 75.84 ms
+45.76.198.248:443#JP Vultr Holdings  LLC 76.19 ms
+138.2.10.217:27446#JP Oracle Corporation 76.20 ms
