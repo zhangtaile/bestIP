@@ -17,8 +17,17 @@ else
     exit 1
 fi
 
-echo "--- 正在运行延迟测试 (预计需要几分钟) ---"
-python3 ./latency.py -t 20
+# 获取地区参数（可选）
+REGION=$1
+REGION_ARG=""
+if [ -n "$REGION" ]; then
+    REGION_ARG="-r $REGION"
+    echo "--- 正在运行延迟测试 (仅限地区: $REGION) ---"
+else
+    echo "--- 正在运行延迟测试 (所有地区) ---"
+fi
+
+python3 ./latency.py -t 20 $REGION_ARG
 
 echo "--- 正在提取前 55 行到 ipinfo.txt ---"
 head -n 55 latencyresult.txt > ipinfo.txt
