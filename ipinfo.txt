@@ -1,55 +1,55 @@
-47.92.245.88:443#CN true N/A - Aliyun Computing Co LTD - 9.85 ms
-39.98.224.123:443#CN true N/A - Aliyun Computing Co LTD - 10.08 ms
-58.247.200.18:443#CN true N/A - CHINA UNICOM Shanghai network - 26.84 ms
-47.102.212.166:443#US true N/A - Amazon Technologies Inc - 36.15 ms
-47.76.218.163:443#HK true N/A - Alibaba Cloud  HK - 50.77 ms
-47.57.181.17:443#US true N/A - Alibaba Cloud  US - 53.82 ms
-45.77.9.114:443#JP true N/A - Vultr Holdings LLC - 69.70 ms
-168.138.212.80:443#JP true N/A - Oracle Public Cloud - 75.28 ms
-104.43.91.69:443#SG true N/A - Microsoft Corporation - 89.87 ms
-43.218.77.16:443#ID true N/A - Amazoncom Inc - 99.34 ms
-153.121.45.101:443#JP true N/A - SAKURA Internet Inc - 103.69 ms
-158.178.229.178:443#SG true N/A - Oracle Corporation - 114.54 ms
-168.138.189.91:443#SG true N/A - Oracle Public Cloud - 125.30 ms
-64.188.104.12:443#DE true N/A - Senko Digital LLC - 130.14 ms
-64.188.68.11:443#DE true N/A - Senko Digital LLC - 131.63 ms
-103.81.172.34:443#BD true N/A - ADN Telecom Ltd - 135.59 ms
-94.159.110.149:443#DE true N/A - H2NEXUS Frankfurt Network - 136.36 ms
-94.159.109.242:443#DE true N/A - H2NEXUS LTD - 137.07 ms
-98.70.26.236:443#IN true N/A - Microsoft Corporation - 139.07 ms
-4.240.110.47:443#IN true N/A - Microsoft Corporation - 139.67 ms
-79.141.73.189:443#RU true N/A - Selectel Network - 140.54 ms
-43.205.45.56:443#IN true N/A - Amazoncom Inc - 142.34 ms
-94.159.105.148:443#DE true N/A - H2NEXUS LTD - 143.71 ms
-13.200.192.197:443#IN true N/A - Amazon Data Services India - 149.20 ms
-87.120.205.93:443#DE true N/A - WAIcore Ltd - 149.85 ms
-45.154.35.142:443#NL true N/A - Serverio technologijos MB - 152.63 ms
-185.130.224.202:443#NL true N/A - HOSTKEY BV - 153.01 ms
-81.22.132.183:443#NL true N/A - Internet Utilities Europe and Asia Limited - 153.02 ms
-185.70.184.38:443#NL true N/A - HOSTKEY BV - 153.26 ms
-109.120.155.246:443#GB true N/A - Aeza International LTD - 153.86 ms
-184.169.181.217:443#US true N/A - Amazoncom Inc - 156.57 ms
-137.184.122.138:443#US true N/A - DigitalOcean LLC - 158.41 ms
-77.221.136.180:443#GB true N/A - Aeza International LTD - 158.71 ms
-54.247.36.82:443#IE true N/A - Amazon Data Services Ireland Limited - 159.44 ms
-165.227.3.141:443#US true N/A - DigitalOcean LLC - 159.78 ms
-83.147.216.31:443#FI true N/A - Aeza International LTD - 160.02 ms
-84.21.172.81:443#LV true N/A - Baykov Ilya Sergeevich - 160.13 ms
-154.17.225.73:443#US true N/A - DMIT Cloud Services - 160.85 ms
-168.138.165.174:443#SG true N/A - Oracle Public Cloud - 161.46 ms
-45.67.34.89:443#RO true N/A - Cloudflare London LLC - 161.88 ms
-89.22.237.38:443#DE true N/A - AEZA GROUP LLC - 162.63 ms
-46.17.101.133:443#NL true N/A - HOSTKEY BV - 162.88 ms
-80.74.25.110:443#NL true N/A - CLODO CLOUD SERVICE CO LLC - 163.33 ms
-176.222.52.246:443#NL true N/A - HOSTKEY BV - 164.06 ms
-54.216.143.197:443#IE true N/A - Amazoncom Inc - 164.64 ms
-46.17.99.222:443#NL true N/A - HOSTKEY BV - 164.66 ms
-185.99.2.175:443#BA true N/A - Globalhost doo  Virtual Private Servers - 164.85 ms
-20.174.15.226:443#AE true N/A - Microsoft Corporation - 164.87 ms
-78.142.195.227:443#NL true N/A - xTom GmbH - 165.93 ms
-91.84.102.16:443#NL true N/A - SERVERS TECH FZCO - 166.25 ms
-20.235.220.189:443#IN true N/A - Microsoft Corporation - 166.61 ms
-77.110.97.230:443#SE true N/A - Aeza International LTD - 167.01 ms
-92.246.139.226:443#DE true N/A - Aeza International LTD - 168.30 ms
-165.232.136.226:443#US true N/A - DigitalOcean LLC - 170.21 ms
-185.183.84.233:443#US true N/A - Hostsymbol Pte Ltd - 170.39 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 51.42 ms
+43.154.124.136:26666#HK 6 COLLYER QUAY 52.46 ms
+129.154.48.176:36355#KR Oracle Corporation 72.81 ms
+158.101.146.3:54516#JP Oracle Public Cloud 77.03 ms
+152.69.229.175:22558#KR Oracle Corporation 77.03 ms
+3.1.116.161:8443#SG Amazon Data Services Singapore 83.32 ms
+3.1.116.161:2053#SG Amazon Data Services Singapore 88.60 ms
+43.218.77.16:443#ID Amazon.com  Inc. 98.72 ms
+147.45.147.212:2053#RU JSC TIMEWEB 102.65 ms
+213.35.108.135:12596#SG Oracle Svenska AB 115.77 ms
+138.2.74.219:28616#SG Cloudflare London  LLC 118.19 ms
+147.45.147.212:8443#RU JSC TIMEWEB 118.61 ms
+138.2.89.238:43254#SG Oracle Corporation 119.50 ms
+146.235.19.79:28983#SG Oracle Corporation 121.90 ms
+63.32.194.15:8443#IE Amazon Data Services Ireland Limited 151.87 ms
+77.232.143.39:2053#DE AEZA GROUP LLC 153.86 ms
+184.169.181.217:443#US Amazon.com  Inc. 155.78 ms
+146.0.73.202:443#NL HOSTKEY B.V. 161.11 ms
+194.0.194.237:14181#NL Serverio technologijos MB 161.45 ms
+31.207.47.231:443#NL HOSTKEY B.V. 163.98 ms
+194.67.204.158:8443#RU PSERVERS Enterprise Network 166.39 ms
+85.193.91.193:2053#RU JSC TIMEWEB 168.85 ms
+45.67.34.89:8443#RO WorkTitans B.V. 170.49 ms
+20.235.105.146:443#IN Microsoft Corporation 173.04 ms
+3.66.115.225:443#DE A100 ROW GmbH 177.77 ms
+156.154.245.83:443#US Vercara  LLC 177.84 ms
+142.171.156.141:21182#US MULTACOM CORPORATION 178.67 ms
+95.179.140.212:443#NL JW Lucasweg 35 181.16 ms
+2.56.206.114:2053#AM Proitlab LLC 181.87 ms
+170.64.152.77:7443#AU DigitalOcean  LLC 183.03 ms
+45.147.228.249:443#DE aurologic GmbH 184.28 ms
+31.172.74.123:443#NL www.fornex.com  Fornex Hosting S.L. 184.68 ms
+185.195.69.200:8443#CH Datasource AG 186.77 ms
+81.22.132.183:443#NL Internet Utilities Europe and Asia Limited 187.06 ms
+54.193.104.34:80#US Amazon.com  Inc. 187.48 ms
+185.198.166.182:443#NL Friendhosting LTD 187.51 ms
+18.193.131.26:443#DE A100 ROW GmbH 188.36 ms
+152.70.113.150:52125#US Oracle Corporation 188.60 ms
+213.170.157.1:443#US RedShield Security Ltd 189.75 ms
+2.56.206.64:443#AM Proitlab LLC 190.60 ms
+90.156.211.232:8443#RU JSC TIMEWEB 191.39 ms
+74.48.89.211:443#US MULTACOM CORPORATION 191.46 ms
+192.9.250.241:443#US Oracle Corporation 191.60 ms
+79.137.205.248:443#GB Aeza International LTD 191.83 ms
+138.2.231.58:45638#US Oracle Corporation 192.42 ms
+3.68.62.122:443#DE A100 ROW GmbH 193.28 ms
+82.97.249.34:2053#RU Timeweb  LLP 193.39 ms
+23.94.43.51:443#US RackNerd LLC 194.24 ms
+185.195.69.119:8443#CH Datasource AG 194.37 ms
+129.152.2.127:1488#IT Oracle Corporation 194.69 ms
+195.226.194.222:2053#NL Snowd Security OU 194.80 ms
+213.183.51.71:443#NL Melbicom infrastructure 194.88 ms
+3.101.133.120:80#US Amazon.com  Inc. 195.02 ms
+3.127.55.133:443#DE Amazon Data Services Ireland Ltd 195.19 ms
+66.151.42.239:443#NL undefined 195.56 ms
