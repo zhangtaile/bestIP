@@ -1,55 +1,55 @@
-156.154.245.83:443#US Vercara  LLC 9.07 ms
-192.9.135.182:7800#US Oracle Corporation 9.59 ms
-138.2.231.58:45638#US Oracle Corporation 9.62 ms
-129.159.37.19:30488#US Oracle Corporation 9.76 ms
-54.193.104.34:80#US Amazon.com  Inc. 10.31 ms
-192.9.228.70:14123#US Oracle Corporation 10.55 ms
-104.168.87.41:16443#US RackNerd LLC 10.58 ms
-146.235.209.40:58869#US Oracle Corporation 10.95 ms
-192.9.138.69:21009#US Oracle Corporation 10.98 ms
-152.67.248.2:53300#US Oracle Public Cloud 11.06 ms
-47.251.95.178:443#US Alibaba Cloud - US 11.59 ms
-23.95.61.179:15160#US RackNerd LLC 15.25 ms
-192.9.250.241:443#US Oracle Corporation 16.36 ms
-154.29.150.2:8080#US NetLab 22.29 ms
-35.230.79.26:443#US Google LLC 26.71 ms
-34.83.245.149:443#US Google LLC 26.78 ms
-104.168.167.197:27213#US Hostwinds Seattle 27.10 ms
-15.204.57.47:7267#US OVH US LLC 27.66 ms
-104.168.176.241:24264#US HostPapa 28.01 ms
-158.101.39.0:42979#US Oracle Public Cloud 28.47 ms
-141.148.187.195:443#US Oracle Corporation 28.75 ms
-34.105.49.234:443#US Google LLC 28.98 ms
-34.82.76.253:443#US Google LLC 29.26 ms
-35.247.124.181:443#US Google LLC 29.29 ms
-51.81.209.21:2053#US OVH US LLC 29.37 ms
-35.197.23.75:443#US Google LLC 29.37 ms
-141.148.181.105:38945#US Oracle Corporation 30.27 ms
-158.101.24.17:443#US Oracle Public Cloud 30.65 ms
-51.81.209.21:8443#US OVH US LLC 31.10 ms
-152.70.143.175:29187#US Oracle Corporation 31.29 ms
-34.168.95.100:12388#US Google LLC 31.45 ms
-213.170.157.1:443#US RedShield Security Ltd 32.87 ms
-132.226.119.111:24361#US Oracle Public Cloud 33.44 ms
-107.173.87.103:443#US RackNerd LLC 36.50 ms
-45.151.132.228:19034#US Spartan Host Ltd 36.91 ms
-129.153.127.204:20756#US Oracle Corporation 37.61 ms
-23.95.18.12:18443#US RackNerd LLC 38.02 ms
-141.148.164.46:57239#US Oracle Corporation 39.17 ms
-23.94.43.51:443#US RackNerd LLC 40.68 ms
-129.146.46.164:443#US Oracle Corporation 41.26 ms
-172.235.49.135:17973#US Linode 42.15 ms
-23.94.56.111:20338#US RackNerd LLC 42.55 ms
-129.146.114.239:44039#US Oracle Corporation 43.00 ms
-129.153.91.86:3701#US Oracle Corporation 43.97 ms
-192.210.196.158:36414#US RackNerd LLC 44.60 ms
-23.94.122.243:29500#US HostPapa 47.31 ms
-173.44.141.156:8443#US servinga GmbH 49.14 ms
-216.128.140.253:26376#US The Constant Company  LLC 52.38 ms
-23.105.199.91:21626#US IT7 Networks Inc 54.46 ms
-167.234.216.84:65501#US Oracle Corporation 55.07 ms
-172.96.192.114:44855#US IT7 Networks Inc 56.45 ms
-195.123.241.122:50008#US Total server solutions LLC 61.09 ms
-18.216.55.100:443#US Amazon Technologies Inc. 61.64 ms
-23.94.213.132:27149#US HostPapa 62.96 ms
-198.46.218.63:27149#US RackNerd LLC 65.17 ms
+43.132.244.52:21415#HK 6 COLLYER QUAY 55.72 ms
+43.252.41.204:2443#HK CommuniLink Internet Ltd. 58.39 ms
+43.154.124.136:26666#HK 6 COLLYER QUAY 59.57 ms
+138.2.10.149:45638#JP Oracle Corporation 70.38 ms
+168.138.198.7:27560#JP Oracle Public Cloud 72.05 ms
+150.230.214.172:16957#JP Oracle Corporation 72.09 ms
+140.238.37.103:14782#JP Oracle Public Cloud 72.29 ms
+141.147.183.49:29876#JP Oracle Corporation 72.29 ms
+168.138.197.147:12345#JP Oracle Public Cloud 72.31 ms
+158.101.146.3:44872#JP Oracle Public Cloud 72.53 ms
+146.56.99.255:56789#KR Oracle Corporation   Global software solutions   California   USA 73.51 ms
+138.2.18.82:8880#JP Oracle Corporation 73.80 ms
+152.67.211.114:58337#KR Oracle Public Cloud 74.22 ms
+158.101.154.245:47001#JP Oracle Public Cloud 75.38 ms
+152.69.229.175:22558#KR Oracle Corporation 76.31 ms
+45.76.198.248:443#JP Vultr Holdings  LLC 76.67 ms
+144.24.87.69:50001#KR Oracle Corporation 76.99 ms
+45.77.25.6:48828#JP Vultr Holdings  LLC 80.92 ms
+13.250.131.37:443#SG Amazon Data Services Singapore 85.23 ms
+47.76.218.163:443#HK Alibaba Cloud - HK 85.58 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 88.33 ms
+45.76.183.217:49292#SG Vultr Holdings  LLC 91.99 ms
+146.235.18.248:45137#SG Oracle Corporation 106.37 ms
+138.2.89.238:43254#SG Oracle Corporation 108.83 ms
+147.45.147.212:2053#RU JSC TIMEWEB 108.96 ms
+43.218.77.16:443#ID Amazon.com  Inc. 110.17 ms
+147.45.147.212:8443#RU JSC TIMEWEB 111.88 ms
+213.35.108.135:12596#SG Oracle Svenska AB 112.06 ms
+129.150.36.188:53435#SG Oracle Corporation 112.76 ms
+168.138.171.70:23280#SG Oracle Public Cloud 114.99 ms
+213.35.100.31:47112#SG Oracle Svenska AB 115.23 ms
+138.2.95.61:1111#SG Oracle Corporation 115.56 ms
+138.2.74.219:28616#SG Cloudflare London  LLC 116.97 ms
+141.11.91.67:8080#HK Tusker Technologies Pty Ltd 121.27 ms
+94.159.98.23:2053#DE H2.NEXUS Frankfurt Network 144.83 ms
+74.48.140.177:443#US MULTACOM CORPORATION 155.69 ms
+147.45.72.36:8443#SE AEZA GROUP LLC 163.38 ms
+77.221.136.148:443#GB Aeza International LTD 164.64 ms
+18.170.77.148:443#GB Amazon Data Services UK 165.81 ms
+46.17.102.93:443#NL HOSTKEY B.V. 166.18 ms
+46.17.97.246:433#NL HOSTKEY B.V. 166.40 ms
+54.229.164.147:2053#IE Amazon.com  Inc. 168.60 ms
+103.90.75.41:8443#NL CLODO CLOUD SERVICE CO. L.L.C 168.70 ms
+217.144.188.147:8443#GB Aeza International LTD 170.96 ms
+194.67.204.158:8443#RU PSERVERS Enterprise Network 171.44 ms
+152.70.76.104:46000#IN Oracle Corporation 172.87 ms
+138.2.231.58:45638#US Oracle Corporation 174.60 ms
+74.48.4.29:37731#US MULTACOM CORPORATION 175.45 ms
+20.235.105.146:443#IN Microsoft Corporation 176.73 ms
+91.192.102.170:2053#CH Datasource AG 179.85 ms
+192.9.250.241:443#US Oracle Corporation 181.05 ms
+45.147.228.249:443#DE aurologic GmbH 181.57 ms
+64.181.240.173:443#US Oracle Corporation 181.93 ms
+154.29.150.2:8080#US NetLab 182.77 ms
+167.234.216.84:65501#US Oracle Corporation 183.86 ms
