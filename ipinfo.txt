@@ -1,2 +1,1 @@
-63.32.194.15:8443#IE Amazon Data Services Ireland Limited 204.93 ms
-54.229.164.147:2053#IE Amazon.com  Inc. 207.88 ms
+36.95.152.58:12137#ID PT Telekomunikasi Indonesia 1483.82 ms
