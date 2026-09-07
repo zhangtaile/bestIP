@@ -1,55 +1,55 @@
-47.74.254.191:8900#SG Alibaba Cloud - SG 6.41 ms
-164.52.2.98:443#SG UCUL-SG 6.42 ms
-164.52.2.99:443#SG UCUL-SG 6.70 ms
-43.156.116.194:443#SG 6 COLLYER QUAY 6.70 ms
-164.52.2.100:443#SG UCUL-SG 6.86 ms
-138.2.74.219:28616#SG Cloudflare London  LLC 6.91 ms
-43.156.181.203:443#SG 16 COLLYER QUAY 6.94 ms
-146.235.18.248:45137#SG Oracle Corporation 7.88 ms
-143.42.66.91:443#SG M1 Ltd 8.03 ms
-213.35.100.31:47112#SG Oracle Svenska AB 8.08 ms
-129.150.36.188:53435#SG Oracle Corporation 8.86 ms
-5.34.176.119:81#SG Green Floid LLC 11.11 ms
-156.154.245.83:443#US Arbor Cloud 15.74 ms
-20.235.105.146:443#IN Microsoft Corporation 61.09 ms
-152.70.76.104:46000#IN Oracle Corporation 61.98 ms
-140.238.5.75:13644#KR Oracle Public Cloud 72.60 ms
-45.11.1.118:44004#JP CEGRGO-DigitalVM LLC - Tokyo 74.49 ms
-132.145.84.148:39567#KR Oracle Public Cloud 75.04 ms
-140.238.37.103:14782#JP Oracle Public Cloud 76.41 ms
-131.186.24.124:587#KR Oracle Public Cloud 79.74 ms
-158.101.154.245:47001#JP Oracle Public Cloud 79.81 ms
-138.2.18.82:8880#JP Oracle Corporation 80.88 ms
-131.186.63.89:11655#JP Oracle Public Cloud 81.08 ms
-132.226.21.116:6056#KR Oracle Public Cloud 81.15 ms
-118.27.12.40:38443#JP GMO Internet  Inc. 82.13 ms
-152.70.89.135:587#KR Oracle Corporation 82.29 ms
-150.230.214.172:16957#JP Oracle Corporation 82.71 ms
-103.106.228.126:2053#JP oneprovider.com - Tokyo Infrastructure 83.48 ms
-139.162.102.152:7002#JP Akamai Connected Cloud / Linode 84.99 ms
-103.75.118.144:2053#JP Oneprovider.com - Japan Infrastructure 86.10 ms
-45.76.198.248:443#JP Vultr Holdings  LLC 88.05 ms
-140.83.57.20:13118#JP imported inetnum object for OCPL-1 88.13 ms
-149.28.21.106:443#JP Vultr Holdings  LLC 89.16 ms
-138.2.32.76:15821#JP Oracle Corporation 89.48 ms
-141.147.152.229:23333#JP Oracle Corporation 90.48 ms
-217.142.230.253:587#JP Oracle Corporation 91.57 ms
-45.77.25.6:48828#JP Vultr Holdings  LLC 92.06 ms
-138.2.49.197:587#JP Oracle Corporation 92.89 ms
-158.247.250.157:81#KR The Constant Company  LLC 93.75 ms
-45.77.25.6:27854#JP Vultr Holdings  LLC 97.55 ms
-152.32.181.246:44070#AE UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED 97.74 ms
-217.142.250.195:587#JP Oracle Corporation 98.70 ms
-216.10.243.159:443#IN P.D.R Solutions FZC 100.68 ms
-152.67.211.114:58337#KR Oracle Public Cloud 111.23 ms
-152.69.229.175:22558#KR Oracle Corporation 113.52 ms
-144.24.87.69:50001#KR Oracle Corporation 116.52 ms
-138.2.48.109:26412#JP Oracle Corporation 123.32 ms
-91.245.225.79:8443#CH GLB Bulut Teknolojisi Limited Sirketi 151.48 ms
-91.245.225.79:2053#CH GLB Bulut Teknolojisi Limited Sirketi 151.66 ms
-91.245.225.69:443#CH GLB Bulut Teknolojisi Limited Sirketi 151.76 ms
-185.47.172.172:8443#IT O.M.C. COMPUTERS & COMMUNICATIONS LTD 153.02 ms
-87.120.237.36:81#IT G-Core Labs S.A. 154.59 ms
-45.95.232.18:2053#CH GLOBAL CONNECTIVITY SOLUTIONS LLP 155.73 ms
-82.64.152.55:20304#FR Free SAS 156.28 ms
-37.1.195.124:443#DE IROKO Networks Corporation 158.52 ms
+156.154.245.83:443#US Arbor Cloud 3.89 ms
+164.52.2.98:443#SG UCUL-SG 4.18 ms
+43.156.116.194:443#SG 6 COLLYER QUAY 4.79 ms
+164.52.2.99:443#SG UCUL-SG 4.93 ms
+146.235.18.248:45137#SG Oracle Corporation 5.20 ms
+138.2.74.219:28616#SG Cloudflare London  LLC 5.25 ms
+5.34.176.119:81#SG Green Floid LLC 5.43 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 5.50 ms
+213.35.100.31:47112#SG Oracle Svenska AB 5.57 ms
+143.42.66.91:443#SG M1 Ltd 5.65 ms
+43.156.181.203:443#SG 16 COLLYER QUAY 5.73 ms
+164.52.2.100:443#SG UCUL-SG 5.85 ms
+129.150.36.188:53435#SG Oracle Corporation 6.39 ms
+152.70.76.104:46000#IN Oracle Corporation 47.60 ms
+20.235.105.146:443#IN Microsoft Corporation 60.42 ms
+36.95.152.58:12137#ID PT Telekomunikasi Indonesia 61.16 ms
+132.145.84.148:39567#KR Oracle Public Cloud 72.43 ms
+140.238.5.75:13644#KR Oracle Public Cloud 73.26 ms
+103.106.228.126:2053#JP oneprovider.com - Tokyo Infrastructure 73.52 ms
+138.2.18.82:8880#JP Oracle Corporation 74.07 ms
+45.11.1.118:44004#JP CEGRGO-DigitalVM LLC - Tokyo 74.18 ms
+140.238.37.103:14782#JP Oracle Public Cloud 74.26 ms
+152.70.89.135:587#KR Oracle Corporation 74.32 ms
+131.186.63.89:11655#JP Oracle Public Cloud 74.77 ms
+158.101.154.245:47001#JP Oracle Public Cloud 74.98 ms
+138.2.49.197:587#JP Oracle Corporation 76.33 ms
+132.226.21.116:6056#KR Oracle Public Cloud 76.43 ms
+150.230.214.172:16957#JP Oracle Corporation 76.43 ms
+217.142.230.253:587#JP Oracle Corporation 76.63 ms
+150.230.5.34:45681#JP Oracle Corporation 76.88 ms
+103.75.118.144:2053#JP Oneprovider.com - Japan Infrastructure 77.76 ms
+139.162.102.152:7002#JP Akamai Connected Cloud / Linode 78.04 ms
+131.186.24.124:587#KR Oracle Public Cloud 80.67 ms
+138.2.10.149:45638#JP Oracle Corporation 81.90 ms
+45.86.228.104:443#AE BlueVPS OU 81.99 ms
+118.27.12.40:38443#JP GMO Internet  Inc. 82.20 ms
+45.76.198.248:443#JP Vultr Holdings  LLC 82.23 ms
+158.247.250.157:81#KR The Constant Company  LLC 82.95 ms
+45.77.25.6:48828#JP Vultr Holdings  LLC 83.82 ms
+152.32.181.246:44070#AE UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED 84.30 ms
+140.83.57.20:13118#JP imported inetnum object for OCPL-1 86.42 ms
+138.2.32.76:15821#JP Oracle Corporation 86.44 ms
+138.2.59.96:10129#JP Oracle Corporation 86.65 ms
+141.147.152.229:23333#JP Oracle Corporation 86.69 ms
+217.142.250.195:587#JP Oracle Corporation 88.25 ms
+149.28.21.106:443#JP Vultr Holdings  LLC 91.98 ms
+45.77.25.6:27854#JP Vultr Holdings  LLC 92.11 ms
+216.10.243.159:443#IN P.D.R Solutions FZC 93.00 ms
+138.2.48.109:26412#JP Oracle Corporation 99.14 ms
+152.67.211.114:58337#KR Oracle Public Cloud 104.09 ms
+152.69.229.175:22558#KR Oracle Corporation 107.01 ms
+144.24.87.69:50001#KR Oracle Corporation 118.47 ms
+91.245.225.79:8443#CH GLB Bulut Teknolojisi Limited Sirketi 146.21 ms
+91.245.225.69:443#CH GLB Bulut Teknolojisi Limited Sirketi 146.32 ms
+91.245.225.79:2053#CH GLB Bulut Teknolojisi Limited Sirketi 150.41 ms
