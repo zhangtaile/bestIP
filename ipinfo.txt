@@ -1,55 +1,55 @@
-156.154.245.83:443#US Arbor Cloud 3.89 ms
-164.52.2.98:443#SG UCUL-SG 4.18 ms
-43.156.116.194:443#SG 6 COLLYER QUAY 4.79 ms
-164.52.2.99:443#SG UCUL-SG 4.93 ms
-146.235.18.248:45137#SG Oracle Corporation 5.20 ms
-138.2.74.219:28616#SG Cloudflare London  LLC 5.25 ms
-5.34.176.119:81#SG Green Floid LLC 5.43 ms
-47.74.254.191:8900#SG Alibaba Cloud - SG 5.50 ms
-213.35.100.31:47112#SG Oracle Svenska AB 5.57 ms
-143.42.66.91:443#SG M1 Ltd 5.65 ms
-43.156.181.203:443#SG 16 COLLYER QUAY 5.73 ms
-164.52.2.100:443#SG UCUL-SG 5.85 ms
-129.150.36.188:53435#SG Oracle Corporation 6.39 ms
-152.70.76.104:46000#IN Oracle Corporation 47.60 ms
-20.235.105.146:443#IN Microsoft Corporation 60.42 ms
-36.95.152.58:12137#ID PT Telekomunikasi Indonesia 61.16 ms
-132.145.84.148:39567#KR Oracle Public Cloud 72.43 ms
-140.238.5.75:13644#KR Oracle Public Cloud 73.26 ms
-103.106.228.126:2053#JP oneprovider.com - Tokyo Infrastructure 73.52 ms
-138.2.18.82:8880#JP Oracle Corporation 74.07 ms
-45.11.1.118:44004#JP CEGRGO-DigitalVM LLC - Tokyo 74.18 ms
-140.238.37.103:14782#JP Oracle Public Cloud 74.26 ms
-152.70.89.135:587#KR Oracle Corporation 74.32 ms
-131.186.63.89:11655#JP Oracle Public Cloud 74.77 ms
-158.101.154.245:47001#JP Oracle Public Cloud 74.98 ms
-138.2.49.197:587#JP Oracle Corporation 76.33 ms
-132.226.21.116:6056#KR Oracle Public Cloud 76.43 ms
-150.230.214.172:16957#JP Oracle Corporation 76.43 ms
-217.142.230.253:587#JP Oracle Corporation 76.63 ms
-150.230.5.34:45681#JP Oracle Corporation 76.88 ms
-103.75.118.144:2053#JP Oneprovider.com - Japan Infrastructure 77.76 ms
-139.162.102.152:7002#JP Akamai Connected Cloud / Linode 78.04 ms
-131.186.24.124:587#KR Oracle Public Cloud 80.67 ms
-138.2.10.149:45638#JP Oracle Corporation 81.90 ms
-45.86.228.104:443#AE BlueVPS OU 81.99 ms
-118.27.12.40:38443#JP GMO Internet  Inc. 82.20 ms
-45.76.198.248:443#JP Vultr Holdings  LLC 82.23 ms
-158.247.250.157:81#KR The Constant Company  LLC 82.95 ms
-45.77.25.6:48828#JP Vultr Holdings  LLC 83.82 ms
-152.32.181.246:44070#AE UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED 84.30 ms
-140.83.57.20:13118#JP imported inetnum object for OCPL-1 86.42 ms
-138.2.32.76:15821#JP Oracle Corporation 86.44 ms
-138.2.59.96:10129#JP Oracle Corporation 86.65 ms
-141.147.152.229:23333#JP Oracle Corporation 86.69 ms
-217.142.250.195:587#JP Oracle Corporation 88.25 ms
-149.28.21.106:443#JP Vultr Holdings  LLC 91.98 ms
-45.77.25.6:27854#JP Vultr Holdings  LLC 92.11 ms
-216.10.243.159:443#IN P.D.R Solutions FZC 93.00 ms
-138.2.48.109:26412#JP Oracle Corporation 99.14 ms
-152.67.211.114:58337#KR Oracle Public Cloud 104.09 ms
-152.69.229.175:22558#KR Oracle Corporation 107.01 ms
-144.24.87.69:50001#KR Oracle Corporation 118.47 ms
-91.245.225.79:8443#CH GLB Bulut Teknolojisi Limited Sirketi 146.21 ms
-91.245.225.69:443#CH GLB Bulut Teknolojisi Limited Sirketi 146.32 ms
-91.245.225.79:2053#CH GLB Bulut Teknolojisi Limited Sirketi 150.41 ms
+144.24.87.69:50001#KR Oracle Corporation 74.98 ms
+152.67.211.114:58337#KR Oracle Public Cloud 75.50 ms
+45.77.25.6:27854#JP Vultr Holdings  LLC 90.01 ms
+158.101.154.245:47001#JP Oracle Public Cloud 92.17 ms
+150.230.214.172:16957#JP Oracle Corporation 95.97 ms
+138.2.10.149:45638#JP Oracle Corporation 97.54 ms
+45.76.198.248:443#JP Vultr Holdings  LLC 99.49 ms
+147.45.147.212:2053#RU JSC TIMEWEB 111.74 ms
+45.77.25.6:48828#JP Vultr Holdings  LLC 115.45 ms
+147.45.147.212:8443#RU JSC TIMEWEB 117.68 ms
+45.85.93.49:443#CH Internet Utilities Europe and Asia Limited 146.35 ms
+86.107.197.239:443#NL MVPS LTD 152.49 ms
+89.110.89.229:2053#RU Hosting technology LTD 154.01 ms
+80.85.246.195:2053#NL Amsterdam  Netherlands 160.24 ms
+45.139.184.183:8443#RU LLC Vpsville 161.06 ms
+193.178.172.225:2053#NL SERVERS TECH FZCO 163.47 ms
+89.110.115.110:8443#NL SERVERS TECH FZCO 164.22 ms
+176.10.125.114:443#CH Datasource AG 164.53 ms
+194.246.82.213:443#NL Amsterdam  Netherlands 164.55 ms
+85.198.109.79:2053#RU Hosting technology LTD 164.93 ms
+91.90.193.24:443#CH Friendhosting LTD 165.91 ms
+85.193.91.193:2053#RU JSC TIMEWEB 166.47 ms
+89.110.66.154:443#NL Amsterdam  Netherlands 173.26 ms
+45.154.35.160:443#NL SkyCore Technologies L.L.C-FZ 175.58 ms
+3.68.31.54:443#DE Amazon Data Services Ireland Ltd 176.92 ms
+20.235.105.146:443#IN Microsoft Corporation 177.20 ms
+213.1.145.50:443#GB BT-R101-TEST 179.55 ms
+103.90.75.41:8443#NL CLODO CLOUD SERVICE CO. L.L.C 180.80 ms
+23.94.213.132:27149#US HostPapa 180.88 ms
+89.150.35.129:443#NL CLODO CLOUD SERVICE CO. L.L.C 181.32 ms
+192.9.250.241:443#US Oracle Corporation 181.92 ms
+135.181.250.100:2053#FI Hetzner Online GmbH 183.67 ms
+192.9.228.70:14123#US Oracle Corporation 184.24 ms
+23.95.18.12:18443#US RackNerd LLC 185.20 ms
+85.193.91.193:8443#RU JSC TIMEWEB 186.24 ms
+152.67.235.3:88#US Oracle Public Cloud 188.73 ms
+212.113.116.93:443#GB AEZA GROUP LLC 188.80 ms
+156.154.245.83:443#US Arbor Cloud 188.85 ms
+142.132.178.99:443#DE Hetzner Online GmbH 189.12 ms
+194.53.54.84:2053#FI PSERVERS Enterprise Network 192.44 ms
+18.184.55.249:443#DE A100 ROW GmbH 193.35 ms
+70.34.244.250:12531#PL The Constant Company  LLC. 193.50 ms
+91.107.166.26:2053#DE Hetzner Online GmbH 193.93 ms
+94.242.53.158:2053#RU SIA VEESP 194.82 ms
+185.246.155.198:443#NL Melbikomas UAB 194.89 ms
+206.223.84.247:443#US Atlantic Cellular Management Company 195.79 ms
+104.168.176.241:24264#US HostPapa 196.21 ms
+45.155.249.66:443#NL servinga GmbH 196.35 ms
+18.197.218.69:443#DE A100 ROW GmbH 196.40 ms
+162.19.247.245:443#DE OVH GmbH 196.58 ms
+23.94.43.51:443#US RackNerd LLC 196.71 ms
+162.219.120.218:443#US Cluster Logic Inc 197.28 ms
+89.110.89.229:8443#RU Hosting technology LTD 197.29 ms
+18.185.254.189:443#DE Amazon Data Services Ireland Ltd 197.93 ms
+77.221.157.32:443#DE AEZA GROUP LLC 198.12 ms
