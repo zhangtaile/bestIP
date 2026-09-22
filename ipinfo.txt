@@ -1,55 +1,55 @@
-45.77.25.6:48828#JP Vultr Holdings  LLC 69.19 ms
-45.77.25.6:27854#JP Vultr Holdings  LLC 73.97 ms
-152.67.211.114:58337#KR Oracle Public Cloud 76.32 ms
-45.76.198.248:443#JP Vultr Holdings  LLC 79.77 ms
-158.101.154.245:47001#JP Oracle Public Cloud 81.19 ms
-144.24.87.69:50001#KR Oracle Corporation 85.74 ms
-47.74.254.191:8900#SG Alibaba Cloud - SG 96.18 ms
-147.45.147.212:2053#RU JSC TIMEWEB 104.51 ms
-147.45.147.212:8443#RU JSC TIMEWEB 108.48 ms
-91.107.166.26:2053#DE Hetzner Online GmbH 143.41 ms
-212.34.153.65:443#NL Amsterdam  Netherlands 159.23 ms
-146.59.19.208:8443#PL OVH Sp. z o. o. 159.75 ms
-66.151.42.239:443#NL undefined 160.49 ms
-85.198.109.79:8443#RU Hosting technology LTD 162.31 ms
-94.103.95.115:443#NL Amsterdam  Netherlands 163.10 ms
-86.107.197.161:443#NL MVPS LTD 163.18 ms
-85.193.91.193:8443#RU JSC TIMEWEB 163.21 ms
-82.97.249.34:2053#RU Timeweb  LLP 163.59 ms
-85.193.91.193:2053#RU JSC TIMEWEB 167.66 ms
-89.110.115.110:8443#NL SERVERS TECH FZCO 167.85 ms
-46.30.41.73:443#NL Iron Hosting Centre Ltd.  London  UK (Eurobyte VPS) 172.08 ms
-18.197.218.69:443#DE A100 ROW GmbH 174.47 ms
-65.109.12.58:2053#FI Hetzner Online GmbH 175.83 ms
-188.225.34.155:443#RU TimeWeb Ltd. 177.16 ms
-94.242.53.158:8443#RU SIA VEESP 177.44 ms
-89.110.68.158:443#NL Amsterdam  Netherlands 177.91 ms
-89.110.120.140:2053#NL Amsterdam  Netherlands 178.51 ms
-139.162.102.152:7002#JP Akamai Connected Cloud / Linode 180.54 ms
-156.154.245.83:443#US Arbor Cloud 182.49 ms
-193.109.69.78:8443#NL HOSTKEY B.V. 182.73 ms
-18.184.55.249:443#DE A100 ROW GmbH 182.76 ms
-88.198.18.246:8443#DE HOS-512604 184.04 ms
-65.109.190.54:2021#FI Hetzner Online GmbH 184.70 ms
-213.1.145.50:443#GB BT-R101-TEST 185.05 ms
-152.67.235.3:88#US Oracle Public Cloud 186.24 ms
-95.217.186.94:2053#FI Hetzner Online GmbH 186.35 ms
-91.90.193.24:443#CH Friendhosting LTD 186.71 ms
-18.193.131.26:443#DE A100 ROW GmbH 187.85 ms
-18.159.105.97:443#DE A100 ROW GmbH 188.62 ms
-45.155.249.66:443#NL servinga GmbH 189.89 ms
-91.107.166.26:8888#DE Hetzner Online GmbH 190.43 ms
-18.196.70.197:443#DE A100 ROW GmbH 190.70 ms
-23.94.213.132:27149#US HostPapa 190.93 ms
-51.195.119.195:8443#DE OVH GmbH 191.57 ms
-45.85.93.49:443#CH Internet Utilities Europe and Asia Limited 191.67 ms
-51.159.6.227:8443#FR Scaleway 193.56 ms
-217.110.20.141:443#DE Colt DC 194.26 ms
-142.132.178.99:443#DE Hetzner Online GmbH 194.80 ms
-18.156.209.101:443#DE Amazon Data Services Ireland Ltd 195.51 ms
-92.118.169.4:56149#NL Baykov Ilya Sergeevich 196.09 ms
-91.245.225.69:443#CH GLB Bulut Teknolojisi Limited Sirketi 196.18 ms
-45.90.58.58:81#CH Green Floid LLC 196.33 ms
-3.67.232.136:443#DE Amazon Data Services Ireland Ltd 196.83 ms
-193.124.92.170:443#DE GLB Bulut Teknolojisi Limited Sirketi 199.49 ms
-3.69.0.8:443#DE Amazon Data Services Ireland Ltd 200.09 ms
+45.77.25.6:27854#JP Vultr Holdings  LLC 69.60 ms
+45.76.198.248:443#JP Vultr Holdings  LLC 70.69 ms
+45.77.25.6:48828#JP Vultr Holdings  LLC 75.00 ms
+156.154.245.83:443#US Arbor Cloud 77.41 ms
+158.101.154.245:47001#JP Oracle Public Cloud 77.58 ms
+144.24.87.69:50001#KR Oracle Corporation 79.89 ms
+152.67.211.114:58337#KR Oracle Public Cloud 80.31 ms
+147.45.147.212:8443#RU JSC TIMEWEB 107.45 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 110.57 ms
+147.45.147.212:2053#RU JSC TIMEWEB 114.05 ms
+89.110.115.110:8443#NL SERVERS TECH FZCO 152.36 ms
+89.110.120.140:2053#NL Amsterdam  Netherlands 156.88 ms
+89.110.68.158:443#NL Amsterdam  Netherlands 158.83 ms
+212.111.89.16:443#NL Amsterdam  Netherlands 163.52 ms
+94.103.95.115:443#NL Amsterdam  Netherlands 166.73 ms
+103.90.75.41:2053#NL CLODO CLOUD SERVICE CO. L.L.C 169.40 ms
+51.195.119.195:2053#DE OVH GmbH 171.69 ms
+79.137.197.212:8443#NL AEZA GROUP LLC 173.12 ms
+34.175.202.195:443#ES Google LLC 178.71 ms
+94.242.53.158:8443#RU SIA VEESP 178.83 ms
+91.90.193.24:443#CH Friendhosting LTD 185.44 ms
+170.64.152.77:7443#AU DigitalOcean  LLC 189.85 ms
+220.84.186.17:12568#KR Korea Telecom 190.59 ms
+18.156.209.101:443#DE Amazon Data Services Ireland Ltd 192.47 ms
+142.132.178.99:443#DE Hetzner Online GmbH 192.62 ms
+46.30.41.73:443#NL Iron Hosting Centre Ltd.  London  UK (Eurobyte VPS) 192.71 ms
+91.107.166.26:8888#DE Hetzner Online GmbH 195.24 ms
+45.63.114.83:443#FR Vultr Holdings  LLC 195.36 ms
+45.85.93.49:443#CH Internet Utilities Europe and Asia Limited 196.12 ms
+193.124.92.170:443#DE GLB Bulut Teknolojisi Limited Sirketi 196.13 ms
+89.110.89.229:2053#RU Hosting technology LTD 197.89 ms
+18.185.254.189:443#DE Amazon Data Services Ireland Ltd 197.99 ms
+195.123.219.254:1445#NL Green Floid LLC 198.08 ms
+116.203.58.165:443#DE Hetzner Online GmbH 198.11 ms
+3.66.115.225:443#DE A100 ROW GmbH 198.63 ms
+212.34.146.6:8443#NL Amsterdam  Netherlands 199.12 ms
+88.198.18.246:8443#DE HOS-512604 199.16 ms
+85.198.109.79:2053#RU Hosting technology LTD 199.59 ms
+82.64.152.55:20304#FR Free SAS 199.85 ms
+66.151.42.239:443#NL undefined 199.95 ms
+91.107.166.26:2053#DE Hetzner Online GmbH 201.02 ms
+18.184.55.249:443#DE A100 ROW GmbH 201.32 ms
+45.90.58.58:81#CH Green Floid LLC 202.11 ms
+37.48.90.120:443#NL LeaseWeb Netherlands B.V. 202.35 ms
+85.198.109.79:8443#RU Hosting technology LTD 202.48 ms
+80.85.246.195:2053#NL Amsterdam  Netherlands 202.69 ms
+86.107.197.239:443#NL MVPS LTD 202.71 ms
+212.22.74.89:443#NL Baykov Ilya Sergeevich 203.04 ms
+45.155.249.66:443#NL servinga GmbH 203.15 ms
+176.10.125.114:443#CH Datasource AG 203.17 ms
+139.162.133.162:24461#DE 139.162.0.0/16 203.21 ms
+45.154.35.160:443#NL SkyCore Technologies L.L.C-FZ 203.49 ms
+185.195.69.200:8443#CH Datasource AG 203.98 ms
+38.180.100.80:443#RS 3NT SOLUTIONS LLP 204.24 ms
+217.110.20.141:443#DE Colt DC 204.42 ms
