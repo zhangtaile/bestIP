@@ -30,7 +30,7 @@ fi
 python3 ./latency.py -t 20 $REGION_ARG
 
 echo "--- 正在提取前 55 行到 ipinfo.txt ---"
-head -n 200 latencyresult.txt > ipinfo.txt
+head -n 55 latencyresult.txt > ipinfo.txt
 
 echo "--- 正在提交更改到 Git ---"
 git add .
