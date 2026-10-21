@@ -10,7 +10,8 @@ echo "--- 正在删除旧的 proxyList.txt ---"
 rm -f proxyList.txt
 
 echo "--- 正在从 GitHub 下载最新的 proxyList.txt ---"
-if wget https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt; then
+#if wget https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt; then
+if wget https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/rawProxyList.txt  -o proxyList.txt; then
     echo "下载成功。"
 else
     echo "下载失败，请检查网络连接。"
