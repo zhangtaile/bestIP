@@ -1,55 +1,55 @@
-152.67.211.114:58337#KR Oracle Public Cloud 71.80 ms
-144.24.87.69:50001#KR Oracle Corporation 75.60 ms
-47.74.254.191:8900#SG Alibaba Cloud - SG 94.75 ms
-147.45.147.212:8443#RU JSC TIMEWEB 101.00 ms
-147.45.147.212:2053#RU JSC TIMEWEB 105.75 ms
-45.77.25.6:27854#JP Vultr Holdings  LLC 114.04 ms
-156.154.245.83:443#US Arbor Cloud 115.22 ms
-45.76.198.248:443#JP Vultr Holdings  LLC 117.37 ms
-158.101.154.245:47001#JP Oracle Public Cloud 125.53 ms
-45.77.25.6:48828#JP Vultr Holdings  LLC 125.84 ms
-45.155.249.66:443#NL servinga GmbH 143.80 ms
-89.110.120.140:2053#NL Amsterdam  Netherlands 144.42 ms
-89.150.35.129:443#NL CLODO CLOUD SERVICE CO. L.L.C 145.51 ms
-85.198.109.79:2053#RU Hosting technology LTD 155.82 ms
-94.103.95.115:443#NL Amsterdam  Netherlands 158.53 ms
-45.139.184.183:2053#RU LLC Vpsville 160.90 ms
-38.180.100.80:443#RS 3NT SOLUTIONS LLP 161.86 ms
-18.184.55.249:443#DE A100 ROW GmbH 169.98 ms
-212.113.116.93:443#GB AEZA GROUP LLC 172.57 ms
-213.1.145.50:443#GB BT-R101-TEST 181.53 ms
-176.124.204.12:443#DE AEZA GROUP LLC 181.60 ms
-195.123.211.204:81#LV Green Floid LLC 182.10 ms
-91.192.102.55:443#CH Datasource AG 184.17 ms
-116.203.58.165:443#DE Hetzner Online GmbH 184.76 ms
-195.123.212.222:2053#LV Green Floid LLC 184.98 ms
-92.118.169.4:56149#NL Baykov Ilya Sergeevich 191.70 ms
-213.183.51.71:443#NL Melbicom infrastructure 193.73 ms
-185.246.155.198:443#NL Melbikomas UAB 193.75 ms
-45.147.199.13:443#NL Podaon SIA 193.98 ms
-23.95.18.12:18443#US RackNerd LLC 194.88 ms
-217.110.20.141:443#DE Colt DC 195.95 ms
-45.85.93.49:443#CH Internet Utilities Europe and Asia Limited 196.00 ms
-80.85.246.195:2053#NL Amsterdam  Netherlands 197.77 ms
-51.159.6.227:2053#FR Scaleway 199.00 ms
-195.123.219.254:1445#NL Green Floid LLC 199.82 ms
-146.0.73.202:443#NL HOSTKEY B.V. 200.02 ms
-145.239.85.117:8443#PL OVH VPS WAW 200.17 ms
-194.0.194.237:14181#NL SkyCore Technologies L.L.C-FZ 200.33 ms
-213.170.157.1:443#US RedShield Security Ltd 201.24 ms
-145.239.88.255:2053#PL OVH VPS WAW 203.36 ms
-54.229.164.147:2053#IE Amazon.com  Inc. 204.05 ms
-89.110.89.229:2053#RU Hosting technology LTD 204.83 ms
-66.151.42.239:443#NL undefined 205.50 ms
-193.124.92.170:443#DE GLB Bulut Teknolojisi Limited Sirketi 205.81 ms
-88.218.248.195:443#NL GLB Bulut Teknolojisi Limited Sirketi 206.90 ms
-37.187.98.185:443#FR OVH SAS 207.17 ms
-147.45.245.15:443#RU JSC TIMEWEB 207.60 ms
-89.110.115.110:8443#NL SERVERS TECH FZCO 207.85 ms
-193.109.69.78:8443#NL HOSTKEY B.V. 207.87 ms
-212.34.146.6:8443#NL Amsterdam  Netherlands 207.88 ms
-220.84.186.17:12568#KR Korea Telecom 208.96 ms
-212.34.153.65:443#NL Amsterdam  Netherlands 209.43 ms
-91.245.225.79:8443#CH GLB Bulut Teknolojisi Limited Sirketi 209.66 ms
-193.178.172.225:2053#NL SERVERS TECH FZCO 209.81 ms
-89.110.66.154:443#NL Amsterdam  Netherlands 210.08 ms
+66.203.144.241:7656#HK Dimension Network & Communication Limited 55.74 ms
+46.149.203.201:7656#HK Dimension Network & Communication Limited 55.94 ms
+122.10.17.144:63168#HK DXTL Tseung Kwan O Service 56.38 ms
+156.59.91.176:443#HK Zenlayer Inc 57.12 ms
+122.10.50.98:63168#HK DXTL Tseung Kwan O Service 57.24 ms
+66.203.150.211:7656#HK Dimension Network & Communication Limited 58.62 ms
+66.203.150.212:7656#HK Dimension Network & Communication Limited 59.57 ms
+46.149.203.202:7656#HK Dimension Network & Communication Limited 59.77 ms
+46.149.203.203:7656#HK Dimension Network & Communication Limited 60.19 ms
+47.238.226.62:58009#HK Alibaba (US) Technology Co Ltd 60.62 ms
+66.203.144.240:7656#HK Dimension Network & Communication Limited 60.83 ms
+66.203.150.210:7656#HK Dimension Network & Communication Limited 62.15 ms
+122.10.12.135:63168#HK DXTL Tseung Kwan O Service 62.61 ms
+66.203.144.242:7656#HK Dimension Network & Communication Limited 63.81 ms
+149.104.29.121:443#HK LUCIDACLOUD LIMITED 66.32 ms
+202.144.195.204:443#HK IPTELECOM Global 73.31 ms
+129.154.59.99:443#KR Oracle Corporation 73.78 ms
+146.56.107.41:27306#KR Oracle Corporation 74.06 ms
+158.180.65.145:443#KR Oracle Corporation 75.65 ms
+61.83.79.155:30002#KR KT 76.22 ms
+152.67.211.114:58337#KR Oracle Cloud 78.25 ms
+112.222.49.250:50000#KR LG DACOM Corporation 78.76 ms
+124.156.129.206:6666#HK Tencent Building Kejizhongyi Avenue 79.59 ms
+8.218.194.79:59882#HK Alibaba (US) Technology Co Ltd 80.42 ms
+150.230.254.21:1443#KR Oracle Cloud 82.80 ms
+3.1.116.161:2053#SG Amazon.com Inc 87.59 ms
+144.24.87.69:50001#KR Oracle Cloud 90.13 ms
+8.222.165.104:443#SG Alibaba (US) Technology Co Ltd 90.70 ms
+8.219.1.169:443#SG Alibaba 91.00 ms
+47.74.254.191:8900#SG Alibaba 92.67 ms
+8.219.14.21:23943#SG Alibaba 94.69 ms
+47.245.95.160:1443#SG Alibaba 95.84 ms
+3.1.116.161:8443#SG Amazon.com Inc 96.34 ms
+8.222.178.214:6666#SG Alibaba (US) Technology Co Ltd 99.84 ms
+43.154.34.74:1935#HK Tencent Building Kejizhongyi Avenue 101.87 ms
+49.167.62.11:24904#KR LG POWERCOMM 102.57 ms
+183.104.59.30:25466#KR Korea Telecom 102.83 ms
+45.77.25.6:48828#JP Vultr 107.97 ms
+119.193.89.227:11366#KR KT 108.01 ms
+132.145.120.167:37044#JP Oracle Cloud 108.41 ms
+138.2.12.103:14453#JP Cloudflare Warp 108.53 ms
+45.77.25.6:27854#JP Vultr 109.67 ms
+168.138.197.147:12345#JP Oracle Cloud 112.18 ms
+141.147.184.160:443#JP Oracle Cloud 113.69 ms
+158.101.154.245:47001#JP Oracle Cloud 115.33 ms
+132.145.115.199:10179#JP Oracle Cloud 116.20 ms
+156.154.245.81:443#US Securityservices 118.08 ms
+168.138.197.97:8443#JP Oracle Cloud 120.07 ms
+89.187.160.74:8443#JP Datacamp Limited 120.45 ms
+147.45.147.212:8443#RU Adman LLC 121.45 ms
+89.187.160.75:8443#JP Datacamp Limited 122.35 ms
+132.145.126.40:32498#JP Oracle Corporation 126.80 ms
+150.230.206.237:9710#JP Oracle Cloud 128.01 ms
+156.154.245.83:443#US Securityservices 129.95 ms
+15.165.121.25:443#KR Amazon.com Inc 132.98 ms

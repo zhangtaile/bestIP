@@ -10,8 +10,7 @@ echo "--- 正在删除旧的 proxyList.txt ---"
 rm -f proxyList.txt
 
 echo "--- 正在从 GitHub 下载最新的 proxyList.txt ---"
-#if wget https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt; then
-if wget https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/rawProxyList.txt  -o proxyList.txt; then
+if wget https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/rawProxyList.txt -O proxyList.txt; then
     echo "下载成功。"
 else
     echo "下载失败，请检查网络连接。"
@@ -36,7 +35,7 @@ head -n 55 latencyresult.txt > ipinfo.txt
 echo "--- 正在提交更改到 Git ---"
 git add .
 # 使用当前时间作为提交信息的一部分，更具可读性
-git commit -m "update: $(date '+%Y-%m-%d %H:%M:%S')"
+git commit -m "update: $(date '+%Y-%m-%d %H:%M:%S')" || echo "没有更改需要提交"
 
 echo "--- 正在推送至远程仓库 ---"
 git push
