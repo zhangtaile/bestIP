@@ -1,55 +1,55 @@
-39.98.224.123:443#CN true N/A - Aliyun Computing Co LTD - 17.72 ms
-43.131.242.223:443#KR true N/A - 6 COLLYER QUAY - 50.52 ms
-43.133.251.155:443#KR true N/A - ACEVILLE PTELTD - 52.45 ms
-149.104.5.247:443#HK true N/A - RM301K3FHONGKONG TRADE CENTRE - 57.44 ms
-165.154.20.213:443#HK true N/A -  - 58.84 ms
-47.57.181.17:443#US true N/A - Alibaba Cloud  US - 60.15 ms
-207.57.123.190:443#HK true N/A - MR 1605 HO KING COMM CTR 216 FA YUEN ST MONGKOK KL - 61.88 ms
-206.237.31.197:443#HK true N/A - Cloudie Limited - 63.89 ms
-8.217.117.88:443#US true N/A -  - 67.30 ms
-45.93.30.168:443#KR true N/A - XNNET LIMITED - 70.42 ms
-38.207.177.204:443#HK true N/A - MR 1605 HO KING COMM CTR 216 FA YUEN ST MONGKOK KL - 76.68 ms
-157.254.198.27:443#JP true N/A - Hurricane Electric LLC - 78.21 ms
-14.137.230.82:443#JP true N/A -  - 79.81 ms
-139.180.202.209:443#JP true N/A - The Constant Company LLC - 80.80 ms
-104.238.148.149:443#JP true N/A - Vultr Holdings LLC - 83.24 ms
-133.117.72.96:443#JP true N/A - GMO Internet Inc - 84.43 ms
-141.147.182.70:443#JP true N/A -  - 84.66 ms
-131.186.45.53:443#JP true N/A - Oracle Corporation - 85.53 ms
-104.156.239.15:443#JP true N/A - Vultr Holdings LLC - 85.91 ms
-155.117.155.115:443#JP true N/A - ByteVirt LLC - 86.46 ms
-108.160.132.132:443#JP true N/A - Vultr Holdings LLC - 87.24 ms
-167.179.90.164:443#JP true N/A - The Constant Company LLC - 88.31 ms
-156.154.245.84:443#AE true N/A - Arbor Cloud - 89.57 ms
-149.28.26.137:443#JP true N/A - The Constant Company LLC - 90.06 ms
-156.154.245.83:443#AE true N/A - Arbor Cloud - 90.25 ms
-161.33.215.154:443#JP true N/A - Oracle Corporation - 90.34 ms
-207.57.131.117:443#HK true N/A - MR 1605 HO KING COMM CTR 216 FA YUEN ST MONGKOK KL - 92.45 ms
-141.147.174.243:443#JP true N/A - Oracle Corporation - 92.95 ms
-203.69.23.30:443#TW true N/A -  - 93.04 ms
-161.34.33.205:443#JP true N/A -  - 93.05 ms
-167.179.119.229:443#JP true N/A - Vultr Holdings LLC - 93.14 ms
-68.64.183.37:443#HK true N/A - MR 1605 HO KING COMM CTR 216 FA YUEN ST MONGKOK KL - 94.07 ms
-141.11.138.102:443#JP true N/A - ByteVirt LLC - 96.27 ms
-167.179.106.168:443#JP true N/A - The Constant Company LLC - 97.65 ms
-58.247.200.18:443#CN true N/A - CHINA UNICOM Shanghai network - 98.15 ms
-167.179.99.0:443#JP true N/A - The Constant Company LLC - 98.15 ms
-167.179.103.224:443#JP true N/A - The Constant Company LLC - 100.07 ms
-207.56.137.174:443#TW true N/A - NTT America Inc - 102.14 ms
-13.115.139.162:443#JP true N/A - Amazoncom Inc - 106.65 ms
-45.135.119.123:443#HK true N/A - Hostker LLC - 112.13 ms
-13.231.221.179:443#JP true N/A - Amazoncom Inc - 113.45 ms
-16.79.55.124:443#ID true N/A - Amazon Data Services Jakarta - 114.91 ms
-156.244.57.227:443#SG true N/A - DigitalOcean LLC - 117.27 ms
-13.158.86.30:443#JP true N/A - Amazoncom Inc - 117.68 ms
-13.231.172.130:443#JP true N/A - Amazoncom Inc - 118.26 ms
-175.41.232.194:443#JP true N/A - Amazoncom Inc - 119.43 ms
-149.104.31.208:443#HK true N/A - MR 1605 HO KING COMM CTR 216 FA YUEN ST MONGKOK KL - 121.27 ms
-13.158.71.221:443#JP true N/A - Amazoncom Inc - 122.23 ms
-103.201.130.98:443#JP true N/A - xTom Japan Corporation - 123.51 ms
-193.233.49.7:443#RU true N/A -  - 123.63 ms
-156.226.168.252:443#HK true N/A - HYTRON NETWORK HK - 123.63 ms
-156.224.79.105:443#HK true N/A - HYTRON NETWORK HK - 124.19 ms
-96.9.228.216:443#HK true N/A -  - 125.06 ms
-156.226.168.252:443#HK true N/A -  - 127.24 ms
-96.9.228.207:443#HK true N/A -  - 129.14 ms
+152.67.211.114:58337#KR Oracle Public Cloud 74.24 ms
+144.24.87.69:50001#KR Oracle Corporation 74.67 ms
+47.74.254.191:8900#SG Alibaba Cloud - SG 95.74 ms
+147.45.147.212:8443#RU JSC TIMEWEB 122.97 ms
+45.77.25.6:48828#JP Vultr Holdings  LLC 123.87 ms
+45.76.198.248:443#JP Vultr Holdings  LLC 126.80 ms
+156.154.245.83:443#US Arbor Cloud 132.54 ms
+147.45.147.212:2053#RU JSC TIMEWEB 134.13 ms
+45.77.25.6:27854#JP Vultr Holdings  LLC 135.29 ms
+185.246.155.198:443#NL Melbikomas UAB 142.30 ms
+158.101.154.245:47001#JP Oracle Public Cloud 150.29 ms
+88.198.18.246:8443#DE HOS-512604 156.14 ms
+54.229.164.147:2053#IE Amazon.com  Inc. 160.53 ms
+91.245.225.79:2053#CH GLB Bulut Teknolojisi Limited Sirketi 164.02 ms
+176.10.125.114:443#CH Datasource AG 166.81 ms
+212.34.146.6:8443#NL Amsterdam  Netherlands 169.95 ms
+94.103.95.115:443#NL Amsterdam  Netherlands 171.17 ms
+37.187.98.185:443#FR OVH SAS 172.44 ms
+147.45.245.15:443#RU JSC TIMEWEB 174.79 ms
+85.193.91.193:2053#RU JSC TIMEWEB 177.36 ms
+193.178.172.225:2053#NL SERVERS TECH FZCO 179.29 ms
+89.110.66.154:443#NL Amsterdam  Netherlands 180.42 ms
+85.198.109.79:2053#RU Hosting technology LTD 187.78 ms
+23.95.18.12:18443#US RackNerd LLC 189.70 ms
+45.63.114.83:443#FR Vultr Holdings  LLC 190.77 ms
+213.170.157.1:443#US RedShield Security Ltd 192.06 ms
+18.184.55.249:443#DE A100 ROW GmbH 193.71 ms
+116.203.58.165:443#DE Hetzner Online GmbH 194.00 ms
+158.180.49.11:8443#DE oracle 195.62 ms
+18.184.27.249:443#DE A100 ROW GmbH 196.28 ms
+195.123.219.254:1445#NL Green Floid LLC 200.11 ms
+158.180.49.11:2053#DE oracle 200.82 ms
+193.124.92.170:443#DE GLB Bulut Teknolojisi Limited Sirketi 200.95 ms
+217.110.20.141:443#DE Colt DC 201.07 ms
+91.107.166.26:2053#DE Hetzner Online GmbH 201.15 ms
+91.192.102.55:443#CH Datasource AG 202.29 ms
+146.0.73.202:443#NL HOSTKEY B.V. 204.76 ms
+91.245.225.79:8443#CH GLB Bulut Teknolojisi Limited Sirketi 208.81 ms
+158.179.206.143:443#SE oracle 209.82 ms
+89.110.89.229:2053#RU Hosting technology LTD 209.92 ms
+194.0.194.237:14181#NL SkyCore Technologies L.L.C-FZ 211.75 ms
+45.139.184.183:8443#RU LLC Vpsville 212.62 ms
+193.109.69.78:8443#NL HOSTKEY B.V. 213.80 ms
+80.85.246.195:2053#NL Amsterdam  Netherlands 214.28 ms
+212.34.153.65:443#NL Amsterdam  Netherlands 214.33 ms
+88.218.248.195:443#NL GLB Bulut Teknolojisi Limited Sirketi 214.73 ms
+89.110.120.140:2053#NL Amsterdam  Netherlands 216.71 ms
+92.118.169.4:56149#NL Baykov Ilya Sergeevich 216.85 ms
+85.198.109.79:8443#RU Hosting technology LTD 217.99 ms
+89.110.115.110:8443#NL SERVERS TECH FZCO 218.02 ms
+146.59.19.208:2053#PL OVH Sp. z o. o. 218.53 ms
+139.162.133.162:24461#DE 139.162.0.0/16 218.67 ms
+185.82.218.224:9443#BG ITLDC EU2.SOF Datacenter Network 218.75 ms
+139.162.133.162:54591#DE 139.162.0.0/16 219.14 ms
+220.84.186.17:12568#KR Korea Telecom 220.80 ms
